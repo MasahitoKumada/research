@@ -26,7 +26,7 @@ XGB_FEATURE_FIG, XGB_FEATURE_FILENAME = "feature_importance_xgb.png", "feature_x
 LGBM_FEATURE_FIG, LGBM_FEATURE_FILENAME = "feature_importance_lgbm.png", "feature_lgbm.csv"
 
 FOLD_TYPE = 'k-stratified' # 'k-ford' or 'k-stratified'
-N_SPLITS = 2
+N_SPLITS = 4
 
 # 特徴重要度の観察から特徴量削除カラム
 XGB_COLUMNS_NAME = []
