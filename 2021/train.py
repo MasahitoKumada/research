@@ -15,15 +15,18 @@ from lib.chech_predict import chech_predict
 from sklearn.metrics import f1_score
 from sklearn.model_selection import KFold
 from sklearn.model_selection import StratifiedKFold
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
 
 
-INPUT_DIR = "./input"
+INPUT_DIR = "./input2"
 TRAIN_FILE, TEST_FILE = "train.csv", "test.csv"
-OUTPUT_DIR = "./output"
+OUTPUT_DIR = "./output2"
 OUTPUT_FILENAME = "predict.csv"
 
 XGB_FEATURE_FIG, XGB_FEATURE_FILENAME = "feature_importance_xgb.png", "feature_xgb.csv"
 LGBM_FEATURE_FIG, LGBM_FEATURE_FILENAME = "feature_importance_lgbm.png", "feature_lgbm.csv"
+CONFUSION_MATRIX_FILENAME = "confusion_matrix.png"
 
 FOLD_TYPE = 'k-stratified' # 'k-ford' or 'k-stratified'
 N_SPLITS = 4
@@ -134,18 +137,26 @@ def main():
     lgbm_pred = np.mean(pred, axis=0)
 
     # ansamble
-    pred = xgb_ratio * xgb_pred + lgbm_ratio * lgbm_pred
-    pred = np.where(pred < 0, 0, np.round(pred).astype(int))
+    y_pred = xgb_ratio * xgb_pred + lgbm_ratio * lgbm_pred
+    y_pred = np.where(y_pred < 0, 0, np.round(y_pred).astype(int))
 
-    score = f1_score(y_test, pred, average='macro') * 100
+    score = f1_score(y_test, y_pred) * 100
 
     pred_df = pd.DataFrame({
         "PDB Name": X_test_pdb_name,
         "cryptic pocket flag True": y_test,
-        "cryptic pocket flag predict": pred,
+        "cryptic pocket flag predict": y_pred,
         "score": score
         })
+    #テストデータに対する予測結果の保存    
     pred_df.to_csv(os.path.join(OUTPUT_DIR, OUTPUT_FILENAME), index=False)
+
+    #混合行列作成
+    cm = confusion_matrix(y_test, y_pred)
+    sns.heatmap(cm, annot=True, cmap='Blues')
+    plt.xlabel("pred")
+    plt.ylabel("True")
+    plt.savefig(os.path.join(OUTPUT_DIR, CONFUSION_MATRIX_FILENAME))
 
     # 予測がまともに動いているかどうかチェック
     chech_predict(xgb_pred, xgb_oof, os.path.join(OUTPUT_DIR, "chech_predict_xgb_.png"))

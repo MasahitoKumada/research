@@ -3,8 +3,9 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 
-IN_PATH = "./data"
-OUT_PATH = "./input"
+IN_PATH, IN_FILE = "./data", "cryptic_pocket2.csv"
+OUT_PATH = "./input2"
+
 
 
 def read_csv(filename):
@@ -22,13 +23,13 @@ def save_csv(df, filename):
 def main():
 
     # read
-    input_df = read_csv("cryptic_pocket1.csv")
+    input_df = read_csv(IN_FILE)
     cryptic_pocket_df = input_df[input_df["cryptic pocket flag"]==1]
     normal_pocket_df = input_df[input_df["cryptic pocket flag"]==0]
     
     # split
-    cryptic_pocket_train, cryptic_pocket_test = train_test_split(cryptic_pocket_df, train_size=0.8, test_size=0.2)
-    normal_pocket_train, normal_pocket_test = train_test_split(normal_pocket_df, train_size=0.8, test_size=0.2)
+    cryptic_pocket_train, cryptic_pocket_test = train_test_split(cryptic_pocket_df, train_size=0.9, test_size=0.1)
+    normal_pocket_train, normal_pocket_test = train_test_split(normal_pocket_df, train_size=0.9, test_size=0.1)
 
     # concat
     train_df = df_concat(cryptic_pocket_train, normal_pocket_train, axis=0)
