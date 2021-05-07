@@ -54,11 +54,11 @@ def vs_multi_plot(df1, df2, filename):
     for c, ax in zip(columns, axes.ravel()):
 
             if df1[c].dtypes=='object':
-                df1[c].value_counts().plot(ax=ax, kind='bar', label='cryptic site', color="C2")
-                df2[c].value_counts().plot(ax=ax, kind='bar', label='concave surface patches', color="C3")
+                df1[c].value_counts().plot(ax=ax, kind='bar', alpha=0.7, label='cryptic site', color="C2")
+                df2[c].value_counts().plot(ax=ax, kind='bar', alpha=0.7, label='concave surface patches', color="C3")
             else:
-                df1[c].plot(ax=ax, kind='hist', label='cryptic site', color="C2")
-                df2[c].plot(ax=ax, kind='hist',  label='concave surface patches', color="C3")
+                df1[c].plot(ax=ax, kind='hist', alpha=0.7, label='cryptic site', color="C2")
+                df2[c].plot(ax=ax, kind='hist', alpha=0.7, label='concave surface patches', color="C3")
 
             ax.set_title(c)
             ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left', borderaxespad=0)

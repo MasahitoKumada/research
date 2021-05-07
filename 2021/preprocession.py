@@ -3,7 +3,16 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 
+# 入力ファイルから学習データ、テストデータを分割する。
+DO_SPLIT_DATA_TRAIN_TEST = False
 IN_PATH, IN_FILE = "./data", "cryptic_pocket2.csv"
+
+# 学習データとテストデータ(別々に用意した)を読込む。
+DO_READ_DATA_TRAIN_TEST = True
+IN_PATH, IN_TRAIN_FILE = "./data", "cryptic_pocket2.csv"
+IN_PATH, IN_TEST_FILE = "./data", "cryptic_pocket2_test.csv"
+
+# 出力ディレクトリ
 OUT_PATH = "./input2"
 
 
@@ -22,18 +31,23 @@ def save_csv(df, filename):
 
 def main():
 
-    # read
-    input_df = read_csv(IN_FILE)
-    cryptic_pocket_df = input_df[input_df["cryptic pocket flag"]==1]
-    normal_pocket_df = input_df[input_df["cryptic pocket flag"]==0]
-    
-    # split
-    cryptic_pocket_train, cryptic_pocket_test = train_test_split(cryptic_pocket_df, train_size=0.9, test_size=0.1)
-    normal_pocket_train, normal_pocket_test = train_test_split(normal_pocket_df, train_size=0.9, test_size=0.1)
+    if DO_SPLIT_DATA_TRAIN_TEST:
+        # read
+        input_df = read_csv(IN_FILE)
+        cryptic_pocket_df = input_df[input_df["cryptic pocket flag"]==1]
+        normal_pocket_df = input_df[input_df["cryptic pocket flag"]==0]
+        
+        # split
+        cryptic_pocket_train, cryptic_pocket_test = train_test_split(cryptic_pocket_df, train_size=0.9, test_size=0.1)
+        normal_pocket_train, normal_pocket_test = train_test_split(normal_pocket_df, train_size=0.9, test_size=0.1)
 
-    # concat
-    train_df = df_concat(cryptic_pocket_train, normal_pocket_train, axis=0)
-    test_df = df_concat(cryptic_pocket_test, normal_pocket_test, axis=0)
+        # concat
+        train_df = df_concat(cryptic_pocket_train, normal_pocket_train, axis=0)
+        test_df = df_concat(cryptic_pocket_test, normal_pocket_test, axis=0)
+
+    if DO_READ_DATA_TRAIN_TEST:
+        train_df = read_csv(IN_TRAIN_FILE)
+        test_df = read_csv(IN_TEST_FILE)
 
     # save
     save_csv(train_df, "train.csv")

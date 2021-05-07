@@ -29,7 +29,7 @@ LGBM_FEATURE_FIG, LGBM_FEATURE_FILENAME = "feature_importance_lgbm.png", "featur
 CONFUSION_MATRIX_FILENAME = "confusion_matrix.png"
 
 FOLD_TYPE = 'k-stratified' # 'k-ford' or 'k-stratified'
-N_SPLITS = 4
+N_SPLITS = 12
 
 # 特徴重要度の観察から特徴量削除カラム
 XGB_COLUMNS_NAME = []
@@ -140,7 +140,7 @@ def main():
     y_pred = xgb_ratio * xgb_pred + lgbm_ratio * lgbm_pred
     y_pred = np.where(y_pred < 0, 0, np.round(y_pred).astype(int))
 
-    score = f1_score(y_test, y_pred) * 100
+    score = f1_score(y_test, y_pred, average='macro') * 100
 
     pred_df = pd.DataFrame({
         "PDB Name": X_test_pdb_name,
