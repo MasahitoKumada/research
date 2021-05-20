@@ -19,9 +19,9 @@ from sklearn.metrics import confusion_matrix
 import seaborn as sns
 
 
-INPUT_DIR = "./input2_bf"
+INPUT_DIR = "./input_apo"
 TRAIN_FILE, TEST_FILE = "train.csv", "test.csv"
-OUTPUT_DIR = "./output2_bf"
+OUTPUT_DIR = "./output_apo"
 OUTPUT_FILENAME = "predict.csv"
 
 XGB_FEATURE_FIG, XGB_FEATURE_FILENAME = "feature_importance_xgb.png", "feature_xgb.csv"
@@ -37,7 +37,6 @@ LGBM_COLUMNS_NAME = []
 
 
 np.random.seed(1)
-
 
 
 def read_csv(dir, filename):
