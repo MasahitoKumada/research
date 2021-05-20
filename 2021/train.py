@@ -19,9 +19,9 @@ from sklearn.metrics import confusion_matrix
 import seaborn as sns
 
 
-INPUT_DIR = "./input2"
+INPUT_DIR = "./input2_bf"
 TRAIN_FILE, TEST_FILE = "train.csv", "test.csv"
-OUTPUT_DIR = "./output2"
+OUTPUT_DIR = "./output2_bf"
 OUTPUT_FILENAME = "predict.csv"
 
 XGB_FEATURE_FIG, XGB_FEATURE_FILENAME = "feature_importance_xgb.png", "feature_xgb.csv"
@@ -29,7 +29,7 @@ LGBM_FEATURE_FIG, LGBM_FEATURE_FILENAME = "feature_importance_lgbm.png", "featur
 CONFUSION_MATRIX_FILENAME = "confusion_matrix.png"
 
 FOLD_TYPE = 'k-stratified' # 'k-ford' or 'k-stratified'
-N_SPLITS = 12
+N_SPLITS = 4
 
 # 特徴重要度の観察から特徴量削除カラム
 XGB_COLUMNS_NAME = []
@@ -152,10 +152,20 @@ def main():
     pred_df.to_csv(os.path.join(OUTPUT_DIR, OUTPUT_FILENAME), index=False)
 
     #混合行列作成
+    ax = plt.subplot()
     cm = confusion_matrix(y_test, y_pred)
-    sns.heatmap(cm, annot=True, cmap='Blues')
-    plt.xlabel("pred")
-    plt.ylabel("True")
+    sns.set(font_scale=2.5) # Adjust to fit
+    sns.heatmap(cm, annot=True, ax=ax, cmap='Blues')
+    # 軸名
+    label_font = {'size':'18'}  # Adjust to fit
+    ax.set_xlabel('pred', fontdict=label_font)
+    ax.set_ylabel('True', fontdict=label_font)
+    # title
+    title_font = {'size':'21'}  # Adjust to fit
+    ax.set_title('Confusion Matrix', fontdict=title_font)
+    # ticks
+    ax.tick_params(axis='both', which='major', labelsize=16)  # Adjust to fit
+    # save figure
     plt.savefig(os.path.join(OUTPUT_DIR, CONFUSION_MATRIX_FILENAME))
 
     # 予測がまともに動いているかどうかチェック
