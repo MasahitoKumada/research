@@ -49,8 +49,8 @@ def fit_xgb(X, y, cv, params: dict=None, verbose: int=10):
         oof_pred[idx_valid] = pred_i
         models.append(clf)
 
-        print(f"Fold {i} F1_MACRO: {f1_score(y_valid, pred_i) * 100}")
+        print(f"Fold {i} F1: {f1_score(y_valid, pred_i) * 100}")
 
     score = f1_score(y, oof_pred) * 100
-    print('FINISHED | Whole F1_MACRO: {:.4f}'.format(score))
+    print('FINISHED | Whole F1: {:.4f}'.format(score))
     return oof_pred, models

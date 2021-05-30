@@ -28,13 +28,12 @@ XGB_FEATURE_FIG, XGB_FEATURE_FILENAME = "feature_importance_xgb.png", "feature_x
 LGBM_FEATURE_FIG, LGBM_FEATURE_FILENAME = "feature_importance_lgbm.png", "feature_lgbm.csv"
 CONFUSION_MATRIX_FILENAME = "confusion_matrix.png"
 
-FOLD_TYPE = 'k-stratified' # 'k-ford' or 'k-stratified'
+FOLD_TYPE = "k-stratified" # 'k-ford' or 'k-stratified'
 N_SPLITS = 4
 
 # 特徴重要度の観察から特徴量削除カラム
 XGB_COLUMNS_NAME = []
 LGBM_COLUMNS_NAME = []
-
 
 np.random.seed(1)
 
@@ -57,17 +56,7 @@ def split_train_data_last(df):
 
 def main():
 
-    # read input file
-    # for train
-    train_df = read_csv(INPUT_DIR, TRAIN_FILE)
-    X, y = split_train_data_last(train_df)
-    _, X = split_train_data_first(X)
-
-    # for test
-    test_df = read_csv(INPUT_DIR, TEST_FILE)
-    X_test, y_test = split_train_data_last(test_df)
-    X_test_pdb_name, X_test = split_train_data_first(X_test)
-
+    # k-fold type
     fold = None
     if FOLD_TYPE=='k-fold':
         # k-fold setting
@@ -76,8 +65,23 @@ def main():
     elif FOLD_TYPE=='k-stratified':
       fold = StratifiedKFold(n_splits=N_SPLITS, shuffle=True, random_state=11)
 
-    cv = list(fold.split(X, y)) # もともとが generator なため明示的に list に変換する
 
+    # for test
+    test_df = read_csv(INPUT_DIR, TEST_FILE)
+    X_test, y_test = split_train_data_last(test_df)
+    X_test_pdb_name, X_test = split_train_data_first(X_test)
+    
+
+    # read input file
+    # for train
+    train_df = read_csv(INPUT_DIR, TRAIN_FILE)
+    X, y = split_train_data_last(train_df)
+    _, X = split_train_data_first(X)
+
+
+
+
+    cv = list(fold.split(X, y)) # もともとが generator なため明示的に list に変換する
 
     # train param setting
     xgb_params = {
@@ -121,7 +125,6 @@ def main():
     # 特徴重要度の確認
     fig, ax = visualize_importance(lgbm_models, lgbm_X_droped, os.path.join(OUTPUT_DIR, LGBM_FEATURE_FIG), os.path.join(OUTPUT_DIR, LGBM_FEATURE_FILENAME))
 
-
     (xgb_ratio, lgbm_ratio)=(0.5, 0.5)
     assert xgb_ratio+lgbm_ratio == 1.0
 
@@ -139,7 +142,7 @@ def main():
     y_pred = xgb_ratio * xgb_pred + lgbm_ratio * lgbm_pred
     y_pred = np.where(y_pred < 0, 0, np.round(y_pred).astype(int))
 
-    score = f1_score(y_test, y_pred, average='macro') * 100
+    score = f1_score(y_test, y_pred) * 100
 
     pred_df = pd.DataFrame({
         "PDB Name": X_test_pdb_name,

@@ -5,15 +5,15 @@ from sklearn.model_selection import train_test_split
 
 # 入力ファイルから学習データ、テストデータを分割する。
 DO_SPLIT_DATA_TRAIN_TEST = False
-IN_PATH, IN_FILE = "./data", "cryptic_pocket2.csv"
+IN_PATH, IN_FILE = "./data", "cryptic_pocket_apo.csv"
 
 # 学習データとテストデータ(別々に用意した)を読込む。
 DO_READ_DATA_TRAIN_TEST = True
-IN_PATH, IN_TRAIN_FILE = "./data", "cryptic_pocket2.csv"
-IN_PATH, IN_TEST_FILE = "./data", "cryptic_pocket2_test.csv"
+IN_PATH, IN_TRAIN_FILE = "./data", "cryptic_pocket_apo_increase_train.csv"
+IN_PATH, IN_TEST_FILE = "./data", "cryptic_pocket_apo_increase_test.csv"
 
 # 出力ディレクトリ
-OUT_PATH = "./input2"
+OUT_PATH = "./input_apo"
 
 
 

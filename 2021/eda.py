@@ -7,9 +7,9 @@ import seaborn as sns
 import numpy as np
 
 
-IN_DIR, IN_FILE = './data', 'cryptic_pocket2.csv'
-OUT_DIR = './eda'
-OUT_FILE = 'cryptic_site_vs_other_site_for_apo_eda.png'
+IN_DIR, IN_FILE = "./data", "cryptic_pocket_apo.csv"
+OUT_DIR = "./eda"
+OUT_FILE = "cryptic_site_vs_other_site_for_apo_eda.png"
 N_COLS = 5
 
 
