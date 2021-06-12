@@ -9,12 +9,12 @@ import japanize_matplotlib
 
 
 def visualize_importance(models, feat_train_df, filepath, feature_filepath):
-    """lightGBM の model 配列の feature importance を plot する
+    """ model 配列の feature importance を plot する
     CVごとのブレを boxen plot として表現します.
 
     args:
         models:
-            List of lightGBM models
+            List of models
         feat_train_df:
             学習時に使った DataFrame
     """
@@ -48,5 +48,6 @@ def visualize_importance(models, feat_train_df, filepath, feature_filepath):
     ax.grid()
     fig.tight_layout()
     fig.savefig(filepath)
+    plt.close()
 
     return fig, ax

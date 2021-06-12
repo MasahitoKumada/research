@@ -12,7 +12,7 @@ from scipy.sparse.csgraph import connected_components
 
 INPUT_DIR = './input_apo'
 TRAIN_FILE, TEST_FILE = 'train.csv', 'test.csv'
-OUT_DIR = './output_apo'
+OUT_DIR = './output_apo/clustering'
 
 SELECT_CLMS = ['Score', 'Druggability Score', 'Number of Alpha Spheres',
        'Total SASA', 'Polar SASA', 'Apolar SASA', 'Volume',
@@ -43,10 +43,10 @@ def main():
     whole_df[SELECT_CLMS] = whole_df[SELECT_CLMS].apply(lambda x: (x-x.mean())/x.std(), axis=0)
 
 
-    # features_df = dimensional_compression(whole_df, 'pca', is_annotate=False)
+    features_df = dimensional_compression(whole_df, 'pca', is_annotate=False)
     # features_df = dimensional_compression(whole_df, 'tsne', is_annotate=False)
     # features_df = dimensional_compression(whole_df, 'svd', is_annotate=False)
-    features_df = dimensional_compression(whole_df, 'umap', is_annotate=True)
+    # features_df = dimensional_compression(whole_df, 'umap', is_annotate=True)
 
 
 def dimensional_compression(input_df, select_method, is_annotate=False):
@@ -65,6 +65,9 @@ def dimensional_compression(input_df, select_method, is_annotate=False):
 
         # 寄与率
         pca_result_sending_rate_plot(pca, os.path.join(OUT_DIR, 'pca_result_sending_rate.png'))
+
+        # 観測変数の寄与度をプロットする
+        contribution_of_observed_variables_plot(input_df[SELECT_CLMS], pca, os.path.join(OUT_DIR, 'pca_result_contribution_of_observed_variables.png'))
 
         return features_df
   
@@ -135,6 +138,19 @@ def pca_result_sending_rate_plot(pca, out_path):
     plt.plot([0] + list(np.cumsum(pca.explained_variance_ratio_)), "-o")
     plt.xlabel("Number of principal components")
     plt.ylabel("Cumulative contribution rate")
+    plt.grid()
+    plt.savefig(out_path)
+    plt.close()
+
+
+def contribution_of_observed_variables_plot(df, pca, out_path):
+    plt.figure(figsize=(16, 10))
+    # 第一主成分と第二主成分における観測変数の寄与度をプロットする
+    for x, y, name in zip(pca.components_[0], pca.components_[1], df.columns):
+        plt.text(x, y, name)
+    plt.scatter(pca.components_[0], pca.components_[1], alpha=0.8)
+    plt.xlabel("PC1")
+    plt.ylabel("PC2")
     plt.grid()
     plt.savefig(out_path)
     plt.close()
