@@ -1,0 +1,27 @@
+{
+    "xgb" :{
+        "objective": "binary:logistic", 
+        "eval_metric": "logloss", 
+        "max_depth": 12,
+        "learning_rate": 0.01,
+        "subsample": 0.7,
+        "gamma":0.7,
+        "n_estimators": 10000,
+        "importance_type": "gain" 
+        },
+    "lgbm":{
+        "objective": "binary", 
+        "metrics": "binary_logloss",
+        "learning_rate": 0.07, 
+        "max_depth": 6, 
+        "num_leaves":31,
+        "n_estimators": 10000, 
+        "colsample_bytree": 0.5, 
+        "importance_type": "gain"
+    }, 
+    "svm":{
+        "C": 1,
+        "gamma": 0.1,
+        "kernel":"rbf"
+    }
+}

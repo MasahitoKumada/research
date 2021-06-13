@@ -100,9 +100,10 @@ class Shap:
         plt.close()
 
     
-    def decision_high_prob_data_plot(self, y_pred, out_path, show=False):
+    def decision_high_prob_data_plot(self, y_pred, prob_threshold, out_path, show=False):
         # high probability data plot
-        ok_high_prob_idxs = y_pred >= 0.90
+        ok_high_prob_idxs = y_pred >= prob_threshold
+        # print(y_pred)
 
         shap.decision_plot(base_value=self.base_value, 
                         shap_values=self.shap_values[ok_high_prob_idxs],

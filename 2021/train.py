@@ -16,6 +16,7 @@ from sklearn.model_selection import KFold
 from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import confusion_matrix
 import seaborn as sns
+import json
 
 
 INPUT_DIR = "./input_apo"
@@ -88,27 +89,32 @@ def main():
     cv = list(fold.split(X, y)) # もともとが generator なため明示的に list に変換する
 
     # train param setting
-    xgb_params = {
-        'objective': 'binary:logistic', # 最小化させるべき損失関数を指定する.
-        'eval_metric': 'logloss', # 検証を行うためのデータの評価指標.
-        'max_depth': 12, # 木の深さの最大値過学習を制御するために用いられる.高いと過学習しやすくなる.
-        'learning_rate': 0.01,
-        'subsample': 0.7, # 各木においてランダムに抽出される標本の割合小さくすることで, 過学習を避けることができるが保守的なモデルとなる.
-        'gamma':0.7, # 分割が、損失関数の減少に繋がる場合にのみノードの分割を行う. モデルをより保守的にする.
-        'n_estimators': 10000,
-        'importance_type': 'gain'  # 特徴重要度計算のロジック(後述)
-        }
+    hyper_params = json.load(open('./lib/hyper_param.json', 'r'))
 
-    lgbm_params = {
-        'objective': 'binary', # 目的関数. これの意味で最小となるようなパラメータを探します. 
-        'metrics': 'binary_logloss', # multi_logloss(softmax関数)とmulti_error(正答率)の2つ．
-        'learning_rate': 0.07, # 学習率. 小さいほどなめらかな決定境界が作られて性能向上に繋がる場合が多いです、がそれだけ木を作るため学習に時間がかかります
-        'max_depth': 6, # 木の深さ. 深い木を許容するほどより複雑な交互作用を考慮するようになります.
-        'num_leaves':31, # 木モデルの複雑さを制御するための主要なパラメータ. 2^(max_depth)よりも小さくする必要があります.
-        'n_estimators': 10000, # 木の最大数. early_stopping という枠組みで木の数は制御されるようにしていますのでとても大きい値を指定しておきます.
-        'colsample_bytree': 0.5, # 木を作る際に考慮する特徴量の割合. 1以下を指定すると特徴をランダムに欠落させます。小さくすることで, まんべんなく特徴を使うという効果があります.
-        'importance_type': 'gain' # 特徴重要度計算のロジック(後述)
-        }
+    xgb_params = hyper_params['xgb']
+    lgbm_params = hyper_params['lgbm']
+
+    # xgb_params = {
+    #     'objective': 'binary:logistic', # 最小化させるべき損失関数を指定する.
+    #     'eval_metric': 'logloss', # 検証を行うためのデータの評価指標.
+    #     'max_depth': 12, # 木の深さの最大値過学習を制御するために用いられる.高いと過学習しやすくなる.
+    #     'learning_rate': 0.01,
+    #     'subsample': 0.7, # 各木においてランダムに抽出される標本の割合小さくすることで, 過学習を避けることができるが保守的なモデルとなる.
+    #     'gamma':0.7, # 分割が、損失関数の減少に繋がる場合にのみノードの分割を行う. モデルをより保守的にする.
+    #     'n_estimators': 10000,
+    #     'importance_type': 'gain'  # 特徴重要度計算のロジック(後述)
+    #     }
+
+    # lgbm_params = {
+    #     'objective': 'binary', # 目的関数. これの意味で最小となるようなパラメータを探します. 
+    #     'metrics': 'binary_logloss', # multi_logloss(softmax関数)とmulti_error(正答率)の2つ．
+    #     'learning_rate': 0.07, # 学習率. 小さいほどなめらかな決定境界が作られて性能向上に繋がる場合が多いです、がそれだけ木を作るため学習に時間がかかります
+    #     'max_depth': 6, # 木の深さ. 深い木を許容するほどより複雑な交互作用を考慮するようになります.
+    #     'num_leaves':31, # 木モデルの複雑さを制御するための主要なパラメータ. 2^(max_depth)よりも小さくする必要があります.
+    #     'n_estimators': 10000, # 木の最大数. early_stopping という枠組みで木の数は制御されるようにしていますのでとても大きい値を指定しておきます.
+    #     'colsample_bytree': 0.5, # 木を作る際に考慮する特徴量の割合. 1以下を指定すると特徴をランダムに欠落させます。小さくすることで, まんべんなく特徴を使うという効果があります.
+    #     'importance_type': 'gain' # 特徴重要度計算のロジック(後述)
+    #     }
 
     ## for train
     # xgboost
@@ -146,7 +152,7 @@ def main():
     shap.decision_plot(os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_xgb.png'))
     shap.decision_ok_vs_miss_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_ok_vs_miss_xgb.png'))
     shap.decision_miss_data_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_miss_xgb.png'))
-    shap.decision_high_prob_data_plot(xgb_pred, os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_ok_high_prob_xgb.png'))
+    shap.decision_high_prob_data_plot(xgb_pred, 0.90, os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_ok_high_prob_xgb.png'))
     shap.dependence_plot(ind='Mean alp. sph. solvent access', interaction_index='Polarity score', out_path=os.path.join(OUTPUT_DIR, './shap/xgb/shap_dependence_xgb.png'))
     shap.force_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, './shap/xgb/shap_force_miss_xgb.png'))
 
@@ -165,7 +171,7 @@ def main():
     shap.decision_plot(os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_lgbm.png'))
     shap.decision_ok_vs_miss_plot(lgbm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_ok_vs_miss_lgbm.png'))
     shap.decision_miss_data_plot(lgbm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_miss_lgbm.png'))
-    shap.decision_high_prob_data_plot(lgbm_pred, os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_ok_high_prob_lgbm.png'))
+    shap.decision_high_prob_data_plot(lgbm_pred, 0.80, os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_ok_high_prob_lgbm.png'))
     shap.dependence_plot(ind='Mean alp. sph. solvent access', interaction_index='Polarity score', out_path=os.path.join(OUTPUT_DIR, './shap/lgbm/shap_dependence_lgbm.png'))
     shap.force_plot(lgbm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/lgbm/shap_force_miss_lgbm.png'))
 
@@ -214,6 +220,12 @@ def main():
     check_predict(xgb_pred, xgb_oof, os.path.join(OUTPUT_DIR, "check_predict_xgb_.png"))
     check_predict(lgbm_pred, lgbm_oof, os.path.join(OUTPUT_DIR, "check_predict_lgbm.png"))
 
+
+def main2():
+    json_open = open('./lib/hyper_param.json', 'r')
+    json_load = json.load(json_open)
+    print(json_load)
+    print(json_load['xgb'])
 
 
 if __name__ == "__main__":
