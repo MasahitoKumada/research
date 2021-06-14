@@ -4,15 +4,20 @@ import numpy as np
 import shap
 
 
+def legend_labels(labels, shap_values):
+    return ['{}({:.3f})'.format(label, shap_value) for label, shap_value in zip(labels, shap_values)]
+
+
 class Shap:
 
-    def __init__(self, input_df, models, model_type):
+    def __init__(self, input_df, models, pdb_names, model_type):
         # monkey patch
         self.shap_values = np.zeros((len(input_df), len(input_df.columns)), np.float)
         self.input_df = input_df
         self.shap_return_value = None
         self.model_type = model_type
         self.base_value = 0.
+        self.pdb_names = pdb_names
 
         for model in models:
             if model_type=='xgboost':
@@ -31,6 +36,14 @@ class Shap:
                 # for class1
                 self.shap_values += self.explainer.shap_values(X=input_df)[1]/len(models) # for class1
                 self.base_value += self.explainer.expected_value[1]/len(models)
+            
+            elif model_type=='svm':
+                booster = model
+                # shap expaliner
+                self.explainer = shap.KernelExplainer(model.predict, input_df)
+                self.shap_values += self.explainer.shap_values(input_df)/len(models)
+                self.base_value += self.explainer.expected_value/len(models)
+
 
 
     def summary_plot(self, out_path, plot_type='violin', show=False):
@@ -81,18 +94,21 @@ class Shap:
         pylab.tight_layout()
         plt.savefig(out_path)
         plt.close()
+        
 
-    
     def decision_miss_data_plot(self, y_pred, y_test, out_path, show=False):
         # only miss data plot
         misclassified = np.where(y_pred < 0, 0, np.round(y_pred).astype(int)) != y_test
-        shap.decision_plot(base_value=self.base_value, 
+        shap.decision_plot(
+                        base_value=self.base_value, 
                         shap_values=self.shap_values[misclassified],
                         features=self.input_df.iloc[misclassified], 
                         feature_names=list(self.input_df.columns),
                         feature_order=self.shap_return_value.feature_idx,
                         xlim=self.shap_return_value.xlim,
                         highlight=np.arange(len(misclassified[misclassified==True])),
+                        legend_labels= legend_labels(self.pdb_names[misclassified], self.base_value+self.shap_values[misclassified].sum(axis=1)),
+                        legend_location='lower right',
                         show=show)
         # save plot
         pylab.tight_layout()
@@ -105,12 +121,15 @@ class Shap:
         ok_high_prob_idxs = y_pred >= prob_threshold
         # print(y_pred)
 
-        shap.decision_plot(base_value=self.base_value, 
+        shap.decision_plot(
+                        base_value=self.base_value, 
                         shap_values=self.shap_values[ok_high_prob_idxs],
                         features=self.input_df[ok_high_prob_idxs], 
                         feature_names=list(self.input_df.columns),
                         feature_order=self.shap_return_value.feature_idx,
                         xlim=self.shap_return_value.xlim,
+                        legend_labels= legend_labels(self.pdb_names[ok_high_prob_idxs], self.base_value+self.shap_values[ok_high_prob_idxs].sum(axis=1)),
+                        legend_location='lower right',
                         show=show)
         # save plot
         pylab.tight_layout()
@@ -120,7 +139,8 @@ class Shap:
 
     def dependence_plot(self, ind, interaction_index, out_path, show=False):
         # dependence_plot
-        shap.dependence_plot(ind=ind,
+        shap.dependence_plot(
+                        ind=ind,
                         interaction_index=interaction_index,
                         shap_values=self.shap_values,
                         features=self.input_df,
@@ -137,7 +157,8 @@ class Shap:
         misclassified = np.where(y_pred < 0, 0, np.round(y_pred).astype(int)) != y_test
         miss_index = np.argsort(misclassified)[::-1][0]
         
-        shap.force_plot(base_value=self.base_value, 
+        shap.force_plot(
+                    base_value=self.base_value, 
                     shap_values=self.shap_values[miss_index],
                     features=self.input_df.iloc[miss_index],
                     matplotlib=True,
@@ -146,4 +167,3 @@ class Shap:
         pylab.tight_layout()
         plt.savefig(out_path)
         plt.close()
-    

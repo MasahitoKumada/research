@@ -2,11 +2,11 @@
     "xgb" :{
         "objective": "binary:logistic", 
         "eval_metric": "logloss", 
-        "max_depth": 6,
-        "learning_rate": 0.1,
-        "subsample": 0.9,
-        "gamma":0.9,
-        "n_estimators": 5000,
+        "max_depth": 12,
+        "learning_rate": 0.01,
+        "subsample": 0.7,
+        "gamma":0.7,
+        "n_estimators": 10000,
         "importance_type": "gain" 
         },
     "lgbm":{
@@ -20,9 +20,8 @@
         "importance_type": "gain"
     }, 
     "svm":{
-        "C": 10,
-        "decision_function_shape": "ovr", 
+        "C": 1,
         "gamma": 0.1,
-        "kernel":"linear"
+        "kernel":"rbf"
     }
 }
