@@ -1,5 +1,5 @@
 import numpy as np
-import xgboost as xgb
+from sklearn.svm import SVC
 from sklearn.metrics import f1_score
 from contextlib import contextmanager
 from time import time
@@ -19,8 +19,9 @@ def timer(logger=None, format_str='{:.3f}[s]', prefix=None, suffix=None):
         print(out_str)
 
 
-def fit_xgb(X, y, cv, params: dict=None, verbose: int=10):
-    """XGBoost を CrossValidation の枠組みで学習を行なう function"""
+def fit_svm(X, y, cv, params: dict=None):
+    """support vector machine を CrossValidation の枠組みで学習を行なう function"""
+
     # パラメータがないときは、空の dict で置き換える
     if params is None:
         params = {}
@@ -28,7 +29,6 @@ def fit_xgb(X, y, cv, params: dict=None, verbose: int=10):
     models = []
     # training data の target と同じだけのゼロ配列を用意
     # float にしないと悲しい事件が起こるのでそこだけ注意
-    # print(y, y.shape)
     oof_pred = np.zeros_like(y, dtype=np.float)
 
     for i, (idx_train, idx_valid) in enumerate(cv): 
@@ -37,19 +37,18 @@ def fit_xgb(X, y, cv, params: dict=None, verbose: int=10):
         x_train, y_train = X[idx_train], y[idx_train]
         x_valid, y_valid = X[idx_valid], y[idx_valid]
 
-        clf = xgb.XGBClassifier(**params)
-
+        clf = SVC(**params, probability=True)
         with timer(prefix='fit fold={} '.format(i + 1)):
-            clf.fit(x_train, y_train,
-            eval_set=[(x_valid, y_valid)],
-            early_stopping_rounds=verbose, verbose=verbose)
+            clf.fit(x_train, y_train)
+            pred_i = clf.predict(x_valid)
+            pred_i = np.where(pred_i < 0, 0, pred_i)
+            oof_pred[idx_valid] = pred_i
 
-        pred_i = clf.predict(x_valid)
-        pred_i = np.where(pred_i < 0, 0, pred_i)
-        oof_pred[idx_valid] = pred_i
         models.append(clf)
 
+        # print(pred_i)
         print(f"Fold {i+1} F1: {f1_score(y_valid, pred_i) * 100}")
 
-    print('FINISHED | Whole F1: {:.4f}'.format(f1_score(y, oof_pred) * 100))
+    score = f1_score(y, oof_pred) * 100
+    print('FINISHED | Whole F1: {:.4f}'.format(score))
     return oof_pred, models
