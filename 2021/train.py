@@ -207,6 +207,11 @@ def main():
     y_pred = np.where(y_pred < 0, 0, np.round(y_pred).astype(int))
     score = f1_score(y_test, y_pred) * 100
 
+    print('Y true: ', y_test)
+    print('XgBoost predict: ', xgb_pred)
+    print('LightGBM predict: ', lgbm_pred)
+    print('SVM predict: ', svm_pred)
+
     pred_proba = xgb_ratio * xgb_pred_proba + lgbm_ratio * lgbm_pred_proba + svm_ratio * svm_pred_proba 
     # print(pred_proba)
 

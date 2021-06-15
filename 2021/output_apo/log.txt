@@ -1,62 +1,77 @@
-[0]	validation_0-logloss:0.68686
-[10]	validation_0-logloss:0.67943
-[20]	validation_0-logloss:0.69212
-[23]	validation_0-logloss:0.70098
-fit fold=1 0.020[s]
+----XGBoost train start----
+[0]	validation_0-rmse:0.49685
+[10]	validation_0-rmse:0.49305
+[20]	validation_0-rmse:0.49627
+[23]	validation_0-rmse:0.49942
+fit fold=1 0.036[s]
 Fold 1 F1: 51.28205128205129
-[0]	validation_0-logloss:0.68575
-[10]	validation_0-logloss:0.65994
-[20]	validation_0-logloss:0.70857
-[22]	validation_0-logloss:0.72043
-fit fold=2 0.017[s]
+[0]	validation_0-rmse:0.49629
+[10]	validation_0-rmse:0.48377
+[20]	validation_0-rmse:0.50611
+[21]	validation_0-rmse:0.50657
+fit fold=2 0.023[s]
 Fold 2 F1: 51.28205128205129
-[0]	validation_0-logloss:0.69483
-[10]	validation_0-logloss:0.63742
-[20]	validation_0-logloss:0.62749
-[30]	validation_0-logloss:0.61367
-[34]	validation_0-logloss:0.61438
-fit fold=3 0.026[s]
-Fold 3 F1: 66.66666666666667
-[0]	validation_0-logloss:0.69494
-[10]	validation_0-logloss:0.72646
-[11]	validation_0-logloss:0.73017
-fit fold=4 0.015[s]
+[0]	validation_0-rmse:0.50084
+[10]	validation_0-rmse:0.47244
+[20]	validation_0-rmse:0.46484
+[30]	validation_0-rmse:0.45413
+[40]	validation_0-rmse:0.45662
+[41]	validation_0-rmse:0.45569
+fit fold=3 0.034[s]
+Fold 3 F1: 68.57142857142857
+[0]	validation_0-rmse:0.50089
+[10]	validation_0-rmse:0.51406
+[11]	validation_0-rmse:0.51617
+fit fold=4 0.017[s]
 Fold 4 F1: 34.285714285714285
-FINISHED | Whole F1: 50.6849
+FINISHED | Whole XGBOOS F1: 51.3514
+
+----LightGBM train start----
 Training until validation scores don't improve for 10 rounds
-[10]	valid_0's binary_logloss: 0.689446
-[20]	valid_0's binary_logloss: 0.685479
-[30]	valid_0's binary_logloss: 0.687242
+[10]	valid_0's l2: 0.247797
+[20]	valid_0's l2: 0.244862
+[30]	valid_0's l2: 0.244547
+[40]	valid_0's l2: 0.243007
 Early stopping, best iteration is:
-[25]	valid_0's binary_logloss: 0.677654
-fit fold=1 0.040[s]
-Fold 1 F1: 58.536585365853654
+[36]	valid_0's l2: 0.240645
+fit fold=1 0.013[s]
+Fold 1 F1: 53.658536585365844
 Training until validation scores don't improve for 10 rounds
-[10]	valid_0's binary_logloss: 0.677199
-[20]	valid_0's binary_logloss: 0.694111
+[10]	valid_0's l2: 0.24228
+[20]	valid_0's l2: 0.250614
 Early stopping, best iteration is:
-[12]	valid_0's binary_logloss: 0.675757
-fit fold=2 0.010[s]
+[12]	valid_0's l2: 0.241709
+fit fold=2 0.006[s]
 Fold 2 F1: 42.42424242424242
 Training until validation scores don't improve for 10 rounds
-[10]	valid_0's binary_logloss: 0.690163
+[10]	valid_0's l2: 0.248626
 Early stopping, best iteration is:
-[3]	valid_0's binary_logloss: 0.678529
-fit fold=3 0.005[s]
+[3]	valid_0's l2: 0.242734
+fit fold=3 0.007[s]
 Fold 3 F1: 0.0
 Training until validation scores don't improve for 10 rounds
-[10]	valid_0's binary_logloss: 0.717892
+[10]	valid_0's l2: 0.262058
 Early stopping, best iteration is:
-[1]	valid_0's binary_logloss: 0.690207
-fit fold=4 0.004[s]
+[1]	valid_0's l2: 0.248526
+fit fold=4 0.005[s]
 Fold 4 F1: 0.0
-FINISHED | Whole F1: 33.6283
-fit fold=1 0.090[s]
-Fold 1 F1: 60.0
-fit fold=2 0.065[s]
-Fold 2 F1: 63.63636363636365
-fit fold=3 0.065[s]
-Fold 3 F1: 70.27027027027027
-fit fold=4 0.053[s]
-Fold 4 F1: 47.368421052631575
-FINISHED | Whole F1: 60.3774
+FINISHED | Whole LightGBM F1: 31.8584
+
+----SVM train start----
+fit fold=1 0.009[s]
+Fold 1 F1: 42.42424242424242
+fit fold=2 0.008[s]
+Fold 2 F1: 66.66666666666666
+fit fold=3 0.008[s]
+Fold 3 F1: 62.06896551724138
+fit fold=4 0.008[s]
+Fold 4 F1: 47.05882352941176
+FINISHED | Whole SVM F1: 55.0725
+
+Y true:  [1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0]
+XgBoost predict:  [1.   1.   0.   0.75 1.   0.25 0.5  1.   1.   0.5  0.   0.75 0.5  0.
+ 0.75 0.25 1.   1.   0.25 0.  ]
+LightGBM predict:  [0.5  0.5  0.   0.5  0.5  0.25 0.25 0.5  0.5  0.   0.   0.25 0.5  0.
+ 0.   0.   0.5  0.5  0.   0.  ]
+SVM predict:  [0.25 0.25 0.   0.   1.   0.   0.25 1.   1.   1.   0.   0.   0.75 0.
+ 0.75 0.   0.5  0.5  0.   0.  ]
