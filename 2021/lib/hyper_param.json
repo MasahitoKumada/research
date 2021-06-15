@@ -1,22 +1,22 @@
 {
     "xgb" :{
         "objective": ["binary:logistic"], 
-        "eval_metric": ["logloss"], 
-        "max_depth": [6, 12],
+        "eval_metric": ["rmse"], 
+        "max_depth": [3, 6, 12],
         "learning_rate": [0.01, 0.05, 0.1],
         "subsample": [0.5, 0.9],
         "gamma": [0.1, 0.5, 0.9],
-        "n_estimators": [1000, 3000, 5000],
+        "n_estimators": [3000, 5000, 7000],
         "importance_type": ["gain"] 
         },
     "lgbm":{
         "objective": ["binary"], 
-        "metrics": ["binary_logloss"],
-        "learning_rate": [0.01, 0.07, 0.1], 
-        "max_depth": [6, 12], 
-        "num_leaves":[3, 7, 15, 31],
+        "metrics": ["l2"],
+        "learning_rate": [0.01, 0.05, 0.1], 
+        "max_depth": [3, 6, 10, 12], 
+        "num_leaves":[3, 7, 15, 31, 60],
         "n_estimators": [1000, 3000, 5000], 
-        "colsample_bytree": [0.1, 0.5, 0.9], 
+        "colsample_bytree": [0.1, 0.7, 0.9], 
         "importance_type": ["gain"]
     }, 
     "svm":{

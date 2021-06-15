@@ -122,8 +122,9 @@ def main():
                         xgb.XGBClassifier(), # 識別器
                         xgb_params, # 最適化したいパラメータセット 
                         cv=cv, # 交差検定の回数
-                        scoring='f1',
-                        verbose=1
+                        scoring='neg_mean_squared_error',
+                        verbose=1,
+                        return_train_score = True
                     )
     xgb_gs_cv.fit(xgb_X_droped, y)
     xgb_best_param = xgb_gs_cv.best_params_
@@ -142,8 +143,9 @@ def main():
                         lgbm.LGBMClassifier(), # 識別器
                         lgbm_params, # 最適化したいパラメータセット 
                         cv=cv, # 交差検定の回数
-                        scoring='f1',
-                        verbose=1
+                        scoring='neg_mean_squared_error',
+                        verbose=1,
+                        return_train_score = True
                     )
     lgbm_gs_cv.fit(lgbm_X_droped, y)
     lgbm_best_param = lgbm_gs_cv.best_params_
@@ -162,8 +164,9 @@ def main():
                         SVC(), # 識別器
                         svm_params, # 最適化したいパラメータセット 
                         cv=cv, # 交差検定の回数
-                        scoring='f1',
-                        verbose=1
+                        scoring='neg_mean_squared_error',
+                        verbose=1,
+                        return_train_score = True
                     )
     svm_gs_cv.fit(svm_X_droped, y)
     svm_best_param = svm_gs_cv.best_params_
@@ -245,6 +248,11 @@ def main():
     y_pred = xgb_ratio * xgb_pred + lgbm_ratio * lgbm_pred + svm_ratio * svm_pred
     y_pred = np.where(y_pred < 0, 0, np.round(y_pred).astype(int))
     score = f1_score(y_test, y_pred) * 100
+
+    print('Y true: ', y_test)
+    print('XgBoost predict: ', xgb_pred)
+    print('LightGBM predict: ', lgbm_pred)
+    print('SVM predict: ', svm_pred)
 
     pred_proba = xgb_ratio * xgb_pred_proba + lgbm_ratio * lgbm_pred_proba + svm_ratio * svm_pred_proba 
     # print(pred_proba)

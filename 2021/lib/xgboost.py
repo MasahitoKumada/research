@@ -31,6 +31,8 @@ def fit_xgb(X, y, cv, params: dict=None, verbose: int=10):
     # print(y, y.shape)
     oof_pred = np.zeros_like(y, dtype=np.float)
 
+    print('----XGBoost train start----')
+
     for i, (idx_train, idx_valid) in enumerate(cv): 
         # この部分が交差検証のところです。データセットを cv instance によって分割します
         # training data を trian/valid に分割
@@ -51,5 +53,6 @@ def fit_xgb(X, y, cv, params: dict=None, verbose: int=10):
 
         print(f"Fold {i+1} F1: {f1_score(y_valid, pred_i) * 100}")
 
-    print('FINISHED | Whole F1: {:.4f}'.format(f1_score(y, oof_pred) * 100))
+    print('FINISHED | Whole XGBOOST F1: {:.4f}'.format(f1_score(y, oof_pred) * 100))
+    print()
     return oof_pred, models
