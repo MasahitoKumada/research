@@ -49,9 +49,9 @@ IS_SVM_SHAP = True
 
 
 # 特徴重要度の観察から特徴量削除カラム
-XGB_COLUMNS_NAME = []
-LGBM_COLUMNS_NAME = []
-SVM_COLUMNS_NAME = []
+XGB_COLUMNS_NAME = ['Druggability Score', 'Apolar SASA', 'Volume', 'Total SASA', 'Proportion of polar atoms', 'Cent. of mass - Alpha Sphere max dist', 'Charge score']
+LGBM_COLUMNS_NAME = ['Druggability Score', 'Total SASA', 'Charge score', 'Volume score', 'Volume', 'Proportion of polar atoms', 'Cent. of mass - Alpha Sphere max dist', 'Charge score']
+SVM_COLUMNS_NAME = ['Total SASA', 'Number of Alpha Spheres', 'Mean local hydrophobic density', 'Volume', 'Apolar SASA', 'Polar SASA']
 
 # 再現性
 random.seed(1)
