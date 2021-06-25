@@ -147,7 +147,8 @@ def main():
 
     # shap for xgb
     shap = Shap(df_test_droped_xgb, xgb_models, X_test_pdb_name,'xgboost')
-    shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/xgb/shap_summary_xgb.png'))
+    shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/xgb/shap_summary_violin_xgb.png'), 'violin')
+    shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/xgb/shap_summary_bar_xgb.png'), 'bar')
     shap.decision_plot(os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_xgb.png'))
     shap.decision_ok_vs_miss_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_ok_vs_miss_xgb.png'))
     shap.decision_miss_data_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_miss_xgb.png'))
@@ -166,7 +167,8 @@ def main():
 
     # shap for lgbm
     shap = Shap(df_test_droped_lgbm, lgbm_models, X_test_pdb_name,'lightgbm')
-    shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/lgbm/shap_summary_lgbm.png'))
+    shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/lgbm/shap_summary_violin_lgbm.png'), 'violin')
+    shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/lgbm/shap_summary_bar_lgbm.png'), 'bar')
     shap.decision_plot(os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_lgbm.png'))
     shap.decision_ok_vs_miss_plot(lgbm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_ok_vs_miss_lgbm.png'))
     shap.decision_miss_data_plot(lgbm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_miss_lgbm.png'))
@@ -191,7 +193,8 @@ def main():
     # shap for svm
     if IS_SVM_SHAP:
         shap = Shap(df_test_droped_svm, svm_models, X_test_pdb_name, 'svm')
-        shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/svm/shap_summary_svm.png'))
+        shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/svm/shap_summary_violin_svm.png'), 'violin')
+        shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/svm/shap_summary_bar_svm.png'), 'bar')
         shap.decision_plot(os.path.join(OUTPUT_DIR, './shap/svm/shap_decision_svm.png'))
         shap.decision_ok_vs_miss_plot(svm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/svm/shap_decision_ok_vs_miss_svm.png'))
         shap.decision_miss_data_plot(svm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/svm/shap_decision_miss_svm.png'))

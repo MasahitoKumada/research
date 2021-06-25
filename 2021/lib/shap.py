@@ -46,7 +46,7 @@ class Shap:
 
 
 
-    def summary_plot(self, out_path, plot_type='violin', show=False):
+    def summary_plot(self, out_path, plot_type, show=False):
         # summary plot
         shap.summary_plot(
                     shap_values=self.shap_values, 
@@ -99,6 +99,8 @@ class Shap:
     def decision_miss_data_plot(self, y_pred, y_test, out_path, show=False):
         # only miss data plot
         misclassified = np.where(y_pred < 0, 0, np.round(y_pred).astype(int)) != y_test
+        print('misclassified: ', misclassified)
+        print('pdb_names: ', self.pdb_names[misclassified])
         shap.decision_plot(
                         base_value=self.base_value, 
                         shap_values=self.shap_values[misclassified],
