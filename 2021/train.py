@@ -1,4 +1,5 @@
 import os
+import sys
 import pandas as pd
 import random
 import numpy as np
@@ -23,6 +24,11 @@ from sklearn.model_selection import GridSearchCV
 import xgboost as xgb
 import lightgbm as lgbm
 from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier
+import optuna
+from lib.optuna import param_tuning
+from lib.optuna import vizualize_tuning_result
+
 
 # 警告文非表示
 warnings.resetwarnings()
@@ -88,6 +94,7 @@ def select_fold_type(fold_type):
     return fold
 
 
+
 def main():
 
     # read input file
@@ -117,19 +124,48 @@ def main():
     # 特徴重要度の観察から特徴量削除
     xgb_X_droped = xgb_X.drop(columns=XGB_COLUMNS_NAME)
 
+    ## Optuna
+    # random forest
+    # study = param_tuning('RandomForest', X, y, X_test, y_test, n_trials=50)
+    # rf_best_param_v1 = study.best_params
+    # print('rf_best_param_v1: {}'.format(rf_best_param_v1))
+    # vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/rf'), 'rf')
+
+    # # xgboost
+    # study = param_tuning('XGboost', X, y, X_test, y_test, n_trials=50)
+    # xgb_best_param_v1 = study.best_params
+    # print('xgb_best_param_v1: {}'.format(xgb_best_param_v1))
+    # vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/xgb'), 'xgb')
+
+    # # lightgbm
+    # study = param_tuning('LightGBM', X, y, X_test, y_test, n_trials=50)
+    # lgbm_best_param_v1 = study.best_params
+    # print('lgbm_best_param_v1: {}'.format(lgbm_best_param_v1))
+    # vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/lgbm'), 'lgbm')
+
+    # support vector machine
+    study = param_tuning('SVM', X, y, X_test, y_test, n_trials=50)
+    svm_best_param_v1 = study.best_params
+    print('svm_best_param_v1: {}'.format(svm_best_param_v1))
+    vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/svm'), 'svm')
+
+
+    sys.exit()
+
+
     # Grid Search
-    xgb_gs_cv = GridSearchCV(
-                        xgb.XGBClassifier(), # 識別器
-                        xgb_params, # 最適化したいパラメータセット 
-                        cv=cv, # 交差検定の回数
-                        scoring='neg_mean_squared_error',
-                        verbose=1,
-                        return_train_score = True
-                    )
-    xgb_gs_cv.fit(xgb_X_droped, y)
-    xgb_best_param = xgb_gs_cv.best_params_
+    # xgb_gs_cv = GridSearchCV(
+    #                     xgb.XGBClassifier(), # 識別器
+    #                     xgb_params, # 最適化したいパラメータセット 
+    #                     cv=cv, # 交差検定の回数
+    #                     scoring='neg_mean_squared_error',
+    #                     verbose=1,
+    #                     return_train_score = True
+    #                 )
+    # xgb_gs_cv.fit(xgb_X_droped, y)
+    # xgb_best_param = xgb_gs_cv.best_params_
     
-    print('XgBoost Best parameter: {}'.format(xgb_best_param))
+    # print('XgBoost Best parameter: {}'.format(xgb_best_param))
 
     xgb_oof, xgb_models = fit_xgb(xgb_X_droped.values, y, cv, params=xgb_best_param)
     
