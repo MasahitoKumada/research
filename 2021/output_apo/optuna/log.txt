@@ -1,259 +1,65 @@
-[I 2021-06-29 14:09:36,328] A new study created in memory with name: no-name-28c1cb17-1d40-4d07-8fbd-2ad790bbe67b
-[I 2021-06-29 14:09:36,537] Trial 0 finished with value: 0.5882352941176471 and parameters: {'max_depth': 8, 'min_samples_leaf': 4, 'max_features': 2}. Best is trial 0 with value: 0.5882352941176471.
-[I 2021-06-29 14:09:36,701] Trial 1 finished with value: 0.7368421052631577 and parameters: {'max_depth': 6, 'min_samples_leaf': 2, 'max_features': 3}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:36,860] Trial 2 finished with value: 0.7368421052631577 and parameters: {'max_depth': 4, 'min_samples_leaf': 3, 'max_features': 9}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:37,060] Trial 3 finished with value: 0.631578947368421 and parameters: {'max_depth': 10, 'min_samples_leaf': 3, 'max_features': 14}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:37,278] Trial 4 finished with value: 0.6666666666666666 and parameters: {'max_depth': 5, 'min_samples_leaf': 4, 'max_features': 2}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:37,468] Trial 5 finished with value: 0.6666666666666666 and parameters: {'max_depth': 12, 'min_samples_leaf': 3, 'max_features': 12}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:37,640] Trial 6 finished with value: 0.7368421052631577 and parameters: {'max_depth': 4, 'min_samples_leaf': 2, 'max_features': 16}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:37,832] Trial 7 finished with value: 0.631578947368421 and parameters: {'max_depth': 16, 'min_samples_leaf': 2, 'max_features': 14}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:37,978] Trial 8 finished with value: 0.7000000000000001 and parameters: {'max_depth': 15, 'min_samples_leaf': 4, 'max_features': 3}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:38,142] Trial 9 finished with value: 0.5555555555555556 and parameters: {'max_depth': 2, 'min_samples_leaf': 2, 'max_features': 17}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:38,319] Trial 10 finished with value: 0.6666666666666666 and parameters: {'max_depth': 3, 'min_samples_leaf': 3, 'max_features': 19}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:38,517] Trial 11 finished with value: 0.6666666666666666 and parameters: {'max_depth': 9, 'min_samples_leaf': 4, 'max_features': 7}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:38,666] Trial 12 finished with value: 0.6666666666666666 and parameters: {'max_depth': 12, 'min_samples_leaf': 4, 'max_features': 2}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:38,856] Trial 13 finished with value: 0.6666666666666666 and parameters: {'max_depth': 13, 'min_samples_leaf': 4, 'max_features': 15}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:38,997] Trial 14 finished with value: 0.7000000000000001 and parameters: {'max_depth': 6, 'min_samples_leaf': 4, 'max_features': 3}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:39,197] Trial 15 finished with value: 0.6666666666666666 and parameters: {'max_depth': 8, 'min_samples_leaf': 4, 'max_features': 7}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:39,375] Trial 16 finished with value: 0.631578947368421 and parameters: {'max_depth': 6, 'min_samples_leaf': 2, 'max_features': 2}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:39,551] Trial 17 finished with value: 0.6666666666666666 and parameters: {'max_depth': 12, 'min_samples_leaf': 2, 'max_features': 6}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:39,763] Trial 18 finished with value: 0.6 and parameters: {'max_depth': 9, 'min_samples_leaf': 2, 'max_features': 12}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:39,942] Trial 19 finished with value: 0.6666666666666666 and parameters: {'max_depth': 4, 'min_samples_leaf': 3, 'max_features': 14}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:40,117] Trial 20 finished with value: 0.7000000000000001 and parameters: {'max_depth': 3, 'min_samples_leaf': 3, 'max_features': 14}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:40,298] Trial 21 finished with value: 0.7000000000000001 and parameters: {'max_depth': 8, 'min_samples_leaf': 2, 'max_features': 11}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:40,522] Trial 22 finished with value: 0.6363636363636364 and parameters: {'max_depth': 11, 'min_samples_leaf': 3, 'max_features': 19}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:40,762] Trial 23 finished with value: 0.6666666666666666 and parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'max_features': 4}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:40,940] Trial 24 finished with value: 0.7000000000000001 and parameters: {'max_depth': 4, 'min_samples_leaf': 4, 'max_features': 9}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:41,118] Trial 25 finished with value: 0.7368421052631577 and parameters: {'max_depth': 4, 'min_samples_leaf': 4, 'max_features': 8}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:41,319] Trial 26 finished with value: 0.6363636363636364 and parameters: {'max_depth': 13, 'min_samples_leaf': 4, 'max_features': 17}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:41,533] Trial 27 finished with value: 0.7000000000000001 and parameters: {'max_depth': 11, 'min_samples_leaf': 4, 'max_features': 8}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:41,717] Trial 28 finished with value: 0.7000000000000001 and parameters: {'max_depth': 6, 'min_samples_leaf': 4, 'max_features': 9}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:41,934] Trial 29 finished with value: 0.7000000000000001 and parameters: {'max_depth': 16, 'min_samples_leaf': 3, 'max_features': 13}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:42,117] Trial 30 finished with value: 0.6 and parameters: {'max_depth': 3, 'min_samples_leaf': 4, 'max_features': 10}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:42,362] Trial 31 finished with value: 0.7368421052631577 and parameters: {'max_depth': 10, 'min_samples_leaf': 3, 'max_features': 6}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:42,573] Trial 32 finished with value: 0.5882352941176471 and parameters: {'max_depth': 15, 'min_samples_leaf': 3, 'max_features': 2}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:42,756] Trial 33 finished with value: 0.6363636363636364 and parameters: {'max_depth': 11, 'min_samples_leaf': 2, 'max_features': 11}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:43,118] Trial 34 finished with value: 0.6666666666666666 and parameters: {'max_depth': 15, 'min_samples_leaf': 3, 'max_features': 18}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:43,337] Trial 35 finished with value: 0.6 and parameters: {'max_depth': 11, 'min_samples_leaf': 2, 'max_features': 18}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:43,489] Trial 36 finished with value: 0.7000000000000001 and parameters: {'max_depth': 12, 'min_samples_leaf': 4, 'max_features': 5}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:43,675] Trial 37 finished with value: 0.6666666666666666 and parameters: {'max_depth': 4, 'min_samples_leaf': 4, 'max_features': 14}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:43,832] Trial 38 finished with value: 0.631578947368421 and parameters: {'max_depth': 2, 'min_samples_leaf': 4, 'max_features': 15}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:43,984] Trial 39 finished with value: 0.6666666666666666 and parameters: {'max_depth': 15, 'min_samples_leaf': 4, 'max_features': 4}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:44,129] Trial 40 finished with value: 0.7142857142857143 and parameters: {'max_depth': 2, 'min_samples_leaf': 2, 'max_features': 2}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:44,302] Trial 41 finished with value: 0.7000000000000001 and parameters: {'max_depth': 5, 'min_samples_leaf': 4, 'max_features': 11}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:44,574] Trial 42 finished with value: 0.6666666666666666 and parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'max_features': 4}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:44,826] Trial 43 finished with value: 0.6666666666666666 and parameters: {'max_depth': 6, 'min_samples_leaf': 3, 'max_features': 19}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:45,041] Trial 44 finished with value: 0.6666666666666666 and parameters: {'max_depth': 10, 'min_samples_leaf': 2, 'max_features': 16}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:45,199] Trial 45 finished with value: 0.6666666666666666 and parameters: {'max_depth': 5, 'min_samples_leaf': 4, 'max_features': 8}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:45,377] Trial 46 finished with value: 0.6666666666666666 and parameters: {'max_depth': 14, 'min_samples_leaf': 4, 'max_features': 12}. Best is trial 1 with value: 0.7368421052631577.
-[I 2021-06-29 14:09:45,522] Trial 47 finished with value: 0.7777777777777778 and parameters: {'max_depth': 4, 'min_samples_leaf': 2, 'max_features': 4}. Best is trial 47 with value: 0.7777777777777778.
-[I 2021-06-29 14:09:45,667] Trial 48 finished with value: 0.75 and parameters: {'max_depth': 2, 'min_samples_leaf': 2, 'max_features': 6}. Best is trial 47 with value: 0.7777777777777778.
-[I 2021-06-29 14:09:45,815] Trial 49 finished with value: 0.5882352941176471 and parameters: {'max_depth': 12, 'min_samples_leaf': 3, 'max_features': 2}. Best is trial 47 with value: 0.7777777777777778.
 rf_best_param_v1: {'max_depth': 4, 'min_samples_leaf': 2, 'max_features': 4}
-[I 2021-06-29 14:09:49,777] A new study created in memory with name: no-name-e4fc6ccf-8d0f-4e5f-af72-be74e0fbaa03
-[I 2021-06-29 14:09:50,392] Trial 0 finished with value: 0.5263157894736842 and parameters: {'max_depth': 7, 'learning_rate': 0.07482920440979424, 'subsample': 0.10009149985387591, 'gamma': 0.3418660581054718, 'n_estimators': 1880}. Best is trial 0 with value: 0.5263157894736842.
-[I 2021-06-29 14:09:52,065] Trial 1 finished with value: 0.5714285714285715 and parameters: {'max_depth': 3, 'learning_rate': 0.026763419023990383, 'subsample': 0.3764485816344382, 'gamma': 0.41741397938453595, 'n_estimators': 4233}. Best is trial 1 with value: 0.5714285714285715.
-[I 2021-06-29 14:09:52,560] Trial 2 finished with value: 0.35294117647058826 and parameters: {'max_depth': 7, 'learning_rate': 0.07166975503570835, 'subsample': 0.263561799785214, 'gamma': 0.8024939491127564, 'n_estimators': 1164}. Best is trial 1 with value: 0.5714285714285715.
-[I 2021-06-29 14:09:53,451] Trial 3 finished with value: 0.5555555555555556 and parameters: {'max_depth': 9, 'learning_rate': 0.047557432213041435, 'subsample': 0.5469518627566013, 'gamma': 0.21230955087618703, 'n_estimators': 2188}. Best is trial 1 with value: 0.5714285714285715.
-[I 2021-06-29 14:09:55,533] Trial 4 finished with value: 0.5263157894736842 and parameters: {'max_depth': 11, 'learning_rate': 0.09714354181474578, 'subsample': 0.35073934252739425, 'gamma': 0.6538580925354512, 'n_estimators': 6259}. Best is trial 1 with value: 0.5714285714285715.
-[I 2021-06-29 14:09:57,828] Trial 5 finished with value: 0.5714285714285715 and parameters: {'max_depth': 11, 'learning_rate': 0.017653979023280014, 'subsample': 0.1312438265863059, 'gamma': 0.23586433565165513, 'n_estimators': 6269}. Best is trial 1 with value: 0.5714285714285715.
-[I 2021-06-29 14:10:00,057] Trial 6 finished with value: 0.5714285714285715 and parameters: {'max_depth': 3, 'learning_rate': 0.0478996862504547, 'subsample': 0.8663116241204015, 'gamma': 0.5265322279784137, 'n_estimators': 5151}. Best is trial 1 with value: 0.5714285714285715.
-[I 2021-06-29 14:10:02,264] Trial 7 finished with value: 0.6666666666666666 and parameters: {'max_depth': 6, 'learning_rate': 0.07178508349134254, 'subsample': 0.7677005375178984, 'gamma': 0.11463062187535344, 'n_estimators': 5501}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:03,813] Trial 8 finished with value: 0.6 and parameters: {'max_depth': 12, 'learning_rate': 0.07733490889418555, 'subsample': 0.32435519365152415, 'gamma': 0.7314234627611909, 'n_estimators': 1619}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:05,271] Trial 9 finished with value: 0.6 and parameters: {'max_depth': 7, 'learning_rate': 0.09177359527837861, 'subsample': 0.3348913186989436, 'gamma': 0.330220270869079, 'n_estimators': 1780}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:07,531] Trial 10 finished with value: 0.4761904761904762 and parameters: {'max_depth': 3, 'learning_rate': 0.0710951979645902, 'subsample': 0.26930249280004726, 'gamma': 0.31243732749778097, 'n_estimators': 3949}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:13,140] Trial 11 finished with value: 0.5714285714285715 and parameters: {'max_depth': 3, 'learning_rate': 0.061670584494281186, 'subsample': 0.21738285992464812, 'gamma': 0.5714444295226274, 'n_estimators': 5199}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:14,473] Trial 12 finished with value: 0.631578947368421 and parameters: {'max_depth': 4, 'learning_rate': 0.04726503890376115, 'subsample': 0.6555201261821961, 'gamma': 0.4313434156215221, 'n_estimators': 1299}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:20,305] Trial 13 finished with value: 0.5714285714285715 and parameters: {'max_depth': 8, 'learning_rate': 0.069741518069781, 'subsample': 0.5119112896466469, 'gamma': 0.8556758047926507, 'n_estimators': 4519}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:24,940] Trial 14 finished with value: 0.5263157894736842 and parameters: {'max_depth': 12, 'learning_rate': 0.02237272337316138, 'subsample': 0.21142107780060684, 'gamma': 0.7459130309676191, 'n_estimators': 3386}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:28,470] Trial 15 finished with value: 0.5 and parameters: {'max_depth': 4, 'learning_rate': 0.09347577223564306, 'subsample': 0.37821268779640527, 'gamma': 0.7006496825089245, 'n_estimators': 5356}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:29,691] Trial 16 finished with value: 0.6363636363636364 and parameters: {'max_depth': 11, 'learning_rate': 0.06613049863500481, 'subsample': 0.7007539472218698, 'gamma': 0.379118673582274, 'n_estimators': 2619}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:37,015] Trial 17 finished with value: 0.6666666666666666 and parameters: {'max_depth': 11, 'learning_rate': 0.04852820708841655, 'subsample': 0.8718720377187085, 'gamma': 0.6307531982547585, 'n_estimators': 4730}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:38,736] Trial 18 finished with value: 0.5714285714285715 and parameters: {'max_depth': 4, 'learning_rate': 0.09545403328363641, 'subsample': 0.4599297067839524, 'gamma': 0.5627116915097055, 'n_estimators': 3449}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:40,728] Trial 19 finished with value: 0.5263157894736842 and parameters: {'max_depth': 5, 'learning_rate': 0.09130415685060285, 'subsample': 0.5589435893378287, 'gamma': 0.10229626162492718, 'n_estimators': 4703}. Best is trial 7 with value: 0.6666666666666666.
-[I 2021-06-29 14:10:48,971] Trial 20 finished with value: 0.7000000000000001 and parameters: {'max_depth': 6, 'learning_rate': 0.05743522920318484, 'subsample': 0.8087536794486196, 'gamma': 0.3858158080019999, 'n_estimators': 6452}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:00,410] Trial 21 finished with value: 0.6666666666666666 and parameters: {'max_depth': 9, 'learning_rate': 0.011423911856190065, 'subsample': 0.843549786995009, 'gamma': 0.6527175340135392, 'n_estimators': 6984}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:01,540] Trial 22 finished with value: 0.7000000000000001 and parameters: {'max_depth': 4, 'learning_rate': 0.022342217466599, 'subsample': 0.8460763704297308, 'gamma': 0.6574545291919202, 'n_estimators': 1396}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:03,776] Trial 23 finished with value: 0.631578947368421 and parameters: {'max_depth': 10, 'learning_rate': 0.07784885696151218, 'subsample': 0.8384196284371866, 'gamma': 0.6692198069027774, 'n_estimators': 1745}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:08,158] Trial 24 finished with value: 0.5263157894736842 and parameters: {'max_depth': 3, 'learning_rate': 0.012358988818994734, 'subsample': 0.12264519041663569, 'gamma': 0.29696885408243673, 'n_estimators': 6161}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:12,161] Trial 25 finished with value: 0.631578947368421 and parameters: {'max_depth': 8, 'learning_rate': 0.059753978081718936, 'subsample': 0.7736247138876846, 'gamma': 0.19933865209592894, 'n_estimators': 2675}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:16,257] Trial 26 finished with value: 0.6 and parameters: {'max_depth': 8, 'learning_rate': 0.09726361734877072, 'subsample': 0.548824175404568, 'gamma': 0.11491783149835443, 'n_estimators': 5804}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:22,912] Trial 27 finished with value: 0.5 and parameters: {'max_depth': 5, 'learning_rate': 0.08263946760569013, 'subsample': 0.41028851525133747, 'gamma': 0.7908334836475429, 'n_estimators': 5483}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:23,890] Trial 28 finished with value: 0.5263157894736842 and parameters: {'max_depth': 8, 'learning_rate': 0.022280970309461655, 'subsample': 0.14793415160976933, 'gamma': 0.19707476459258988, 'n_estimators': 1267}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:25,306] Trial 29 finished with value: 0.631578947368421 and parameters: {'max_depth': 4, 'learning_rate': 0.030313840474706928, 'subsample': 0.6703911843061413, 'gamma': 0.547773585643314, 'n_estimators': 1075}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:27,378] Trial 30 finished with value: 0.5263157894736842 and parameters: {'max_depth': 3, 'learning_rate': 0.09705486970002448, 'subsample': 0.5544803695359537, 'gamma': 0.2626345877287924, 'n_estimators': 2514}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:33,045] Trial 31 finished with value: 0.6666666666666666 and parameters: {'max_depth': 10, 'learning_rate': 0.027588653299838693, 'subsample': 0.5650871418186062, 'gamma': 0.8760159912706499, 'n_estimators': 6081}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:34,744] Trial 32 finished with value: 0.6 and parameters: {'max_depth': 5, 'learning_rate': 0.054439274284185706, 'subsample': 0.5959645747051038, 'gamma': 0.763184719640143, 'n_estimators': 1940}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:37,858] Trial 33 finished with value: 0.6 and parameters: {'max_depth': 3, 'learning_rate': 0.01630199293473001, 'subsample': 0.4890760887496255, 'gamma': 0.5850635693226643, 'n_estimators': 4413}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:40,838] Trial 34 finished with value: 0.631578947368421 and parameters: {'max_depth': 6, 'learning_rate': 0.09897545389712041, 'subsample': 0.5637961753966375, 'gamma': 0.4041129380988403, 'n_estimators': 4306}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:42,653] Trial 35 finished with value: 0.4444444444444444 and parameters: {'max_depth': 10, 'learning_rate': 0.07023096041078662, 'subsample': 0.3119356461302475, 'gamma': 0.15306786754275326, 'n_estimators': 3220}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:44,591] Trial 36 finished with value: 0.5714285714285715 and parameters: {'max_depth': 9, 'learning_rate': 0.028915660892335562, 'subsample': 0.7022044429910511, 'gamma': 0.15322918508329197, 'n_estimators': 2562}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:49,937] Trial 37 finished with value: 0.5714285714285715 and parameters: {'max_depth': 11, 'learning_rate': 0.027409085436099496, 'subsample': 0.6115687047039521, 'gamma': 0.5197362472989869, 'n_estimators': 6549}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:55,395] Trial 38 finished with value: 0.631578947368421 and parameters: {'max_depth': 5, 'learning_rate': 0.015936498161562142, 'subsample': 0.6880527706309356, 'gamma': 0.7177424236345974, 'n_estimators': 6447}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:11:59,326] Trial 39 finished with value: 0.6 and parameters: {'max_depth': 12, 'learning_rate': 0.011255641567803731, 'subsample': 0.28748966889713645, 'gamma': 0.5934226856013262, 'n_estimators': 6695}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:12:01,984] Trial 40 finished with value: 0.631578947368421 and parameters: {'max_depth': 12, 'learning_rate': 0.06009878693756408, 'subsample': 0.8324850798130197, 'gamma': 0.61325296715707, 'n_estimators': 3340}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:12:06,134] Trial 41 finished with value: 0.5 and parameters: {'max_depth': 7, 'learning_rate': 0.0643879434627976, 'subsample': 0.5396383372068501, 'gamma': 0.840945141365163, 'n_estimators': 6513}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:12:06,872] Trial 42 finished with value: 0.5714285714285715 and parameters: {'max_depth': 6, 'learning_rate': 0.09669362755966407, 'subsample': 0.2391645333443715, 'gamma': 0.20106361555170987, 'n_estimators': 1810}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:12:07,767] Trial 43 finished with value: 0.7000000000000001 and parameters: {'max_depth': 8, 'learning_rate': 0.011937232474677819, 'subsample': 0.8583761689741448, 'gamma': 0.761692376936586, 'n_estimators': 1090}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:12:08,903] Trial 44 finished with value: 0.5263157894736842 and parameters: {'max_depth': 4, 'learning_rate': 0.03988572169301533, 'subsample': 0.20479747584873353, 'gamma': 0.7475925537012656, 'n_estimators': 3068}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:12:12,748] Trial 45 finished with value: 0.6666666666666666 and parameters: {'max_depth': 12, 'learning_rate': 0.062381276195237215, 'subsample': 0.8030655875294753, 'gamma': 0.7757875563137775, 'n_estimators': 6433}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:12:14,681] Trial 46 finished with value: 0.6 and parameters: {'max_depth': 7, 'learning_rate': 0.059171213441833605, 'subsample': 0.7388828729216316, 'gamma': 0.32857508138731806, 'n_estimators': 3942}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:12:17,508] Trial 47 finished with value: 0.6 and parameters: {'max_depth': 8, 'learning_rate': 0.011397994799575215, 'subsample': 0.5747851265573097, 'gamma': 0.44694107919156667, 'n_estimators': 5844}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:12:19,698] Trial 48 finished with value: 0.5555555555555556 and parameters: {'max_depth': 6, 'learning_rate': 0.09035998376726362, 'subsample': 0.5622857722276284, 'gamma': 0.24720816130197207, 'n_estimators': 5728}. Best is trial 20 with value: 0.7000000000000001.
-[I 2021-06-29 14:12:22,773] Trial 49 finished with value: 0.631578947368421 and parameters: {'max_depth': 9, 'learning_rate': 0.014851834486637766, 'subsample': 0.4361549440009058, 'gamma': 0.6432550692523437, 'n_estimators': 6512}. Best is trial 20 with value: 0.7000000000000001.
 xgb_best_param_v1: {'max_depth': 6, 'learning_rate': 0.05743522920318484, 'subsample': 0.8087536794486196, 'gamma': 0.3858158080019999, 'n_estimators': 6452}
-[I 2021-06-29 14:12:27,659] A new study created in memory with name: no-name-da20c7fa-ca81-4885-80e0-7d54f76974be
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:30,652] Trial 0 finished with value: 0.7000000000000001 and parameters: {'max_depth': 7, 'num_leaves': 44, 'learning_rate': 0.01001029373356104, 'n_estimators': 2814, 'colsample_bytree': 0.21740471265369044}. Best is trial 0 with value: 0.7000000000000001.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:31,508] Trial 1 finished with value: 0.47058823529411764 and parameters: {'max_depth': 3, 'num_leaves': 13, 'learning_rate': 0.0411004654338743, 'n_estimators': 3381, 'colsample_bytree': 0.5310533872026856}. Best is trial 0 with value: 0.7000000000000001.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:32,380] Trial 2 finished with value: 0.7999999999999999 and parameters: {'max_depth': 7, 'num_leaves': 42, 'learning_rate': 0.02840070247583657, 'n_estimators': 6269, 'colsample_bytree': 0.12191007455834094}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:32,652] Trial 3 finished with value: 0.631578947368421 and parameters: {'max_depth': 9, 'num_leaves': 27, 'learning_rate': 0.06028208456011766, 'n_estimators': 1842, 'colsample_bytree': 0.25848119126790303}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:33,288] Trial 4 finished with value: 0.5263157894736842 and parameters: {'max_depth': 11, 'num_leaves': 59, 'learning_rate': 0.03820817603433186, 'n_estimators': 5154, 'colsample_bytree': 0.8011113218368306}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:33,695] Trial 5 finished with value: 0.5555555555555556 and parameters: {'max_depth': 11, 'num_leaves': 7, 'learning_rate': 0.013514930490959413, 'n_estimators': 2019, 'colsample_bytree': 0.8025140027435306}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:34,262] Trial 6 finished with value: 0.4444444444444444 and parameters: {'max_depth': 3, 'num_leaves': 27, 'learning_rate': 0.09621005771354518, 'n_estimators': 4199, 'colsample_bytree': 0.6535016911603787}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:34,494] Trial 7 finished with value: 0.5263157894736842 and parameters: {'max_depth': 6, 'num_leaves': 42, 'learning_rate': 0.08511631047076357, 'n_estimators': 1109, 'colsample_bytree': 0.700115451955974}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:35,324] Trial 8 finished with value: 0.7368421052631577 and parameters: {'max_depth': 12, 'num_leaves': 46, 'learning_rate': 0.03523995928579647, 'n_estimators': 5736, 'colsample_bytree': 0.18258080526211362}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:35,730] Trial 9 finished with value: 0.6666666666666666 and parameters: {'max_depth': 7, 'num_leaves': 55, 'learning_rate': 0.03642527335363116, 'n_estimators': 2726, 'colsample_bytree': 0.20402285769462214}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:36,077] Trial 10 finished with value: 0.5555555555555556 and parameters: {'max_depth': 3, 'num_leaves': 42, 'learning_rate': 0.029046530440005318, 'n_estimators': 2593, 'colsample_bytree': 0.4932585274242707}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:36,656] Trial 11 finished with value: 0.631578947368421 and parameters: {'max_depth': 3, 'num_leaves': 36, 'learning_rate': 0.023205571741522914, 'n_estimators': 4536, 'colsample_bytree': 0.6598066880167449}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:37,086] Trial 12 finished with value: 0.6666666666666666 and parameters: {'max_depth': 4, 'num_leaves': 27, 'learning_rate': 0.07249601419549706, 'n_estimators': 3485, 'colsample_bytree': 0.13996276715686973}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:37,898] Trial 13 finished with value: 0.5555555555555556 and parameters: {'max_depth': 8, 'num_leaves': 41, 'learning_rate': 0.05634002008524778, 'n_estimators': 6668, 'colsample_bytree': 0.5692440324015944}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:38,723] Trial 14 finished with value: 0.5263157894736842 and parameters: {'max_depth': 12, 'num_leaves': 10, 'learning_rate': 0.02253487125256827, 'n_estimators': 5845, 'colsample_bytree': 0.4181414695884269}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:39,490] Trial 15 finished with value: 0.4444444444444444 and parameters: {'max_depth': 4, 'num_leaves': 56, 'learning_rate': 0.0412989273770956, 'n_estimators': 5505, 'colsample_bytree': 0.6807983882803612}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:39,999] Trial 16 finished with value: 0.5882352941176471 and parameters: {'max_depth': 11, 'num_leaves': 39, 'learning_rate': 0.07758481906246036, 'n_estimators': 3093, 'colsample_bytree': 0.31594231341202084}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:40,555] Trial 17 finished with value: 0.4444444444444444 and parameters: {'max_depth': 11, 'num_leaves': 27, 'learning_rate': 0.0968356042433547, 'n_estimators': 4981, 'colsample_bytree': 0.5973565761672974}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:41,162] Trial 18 finished with value: 0.5 and parameters: {'max_depth': 4, 'num_leaves': 58, 'learning_rate': 0.050492092013194656, 'n_estimators': 4470, 'colsample_bytree': 0.426509442209025}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:41,369] Trial 19 finished with value: 0.5555555555555556 and parameters: {'max_depth': 5, 'num_leaves': 55, 'learning_rate': 0.06163115380050573, 'n_estimators': 1017, 'colsample_bytree': 0.5937159308965791}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:41,931] Trial 20 finished with value: 0.5263157894736842 and parameters: {'max_depth': 6, 'num_leaves': 33, 'learning_rate': 0.08973478893796971, 'n_estimators': 3143, 'colsample_bytree': 0.8268281207358393}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:42,519] Trial 21 finished with value: 0.4210526315789474 and parameters: {'max_depth': 9, 'num_leaves': 3, 'learning_rate': 0.09364935103693853, 'n_estimators': 5146, 'colsample_bytree': 0.8978582803611844}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:43,196] Trial 22 finished with value: 0.631578947368421 and parameters: {'max_depth': 4, 'num_leaves': 10, 'learning_rate': 0.09393359167334472, 'n_estimators': 5181, 'colsample_bytree': 0.15280013817765}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:43,945] Trial 23 finished with value: 0.7000000000000001 and parameters: {'max_depth': 10, 'num_leaves': 46, 'learning_rate': 0.0930722081991835, 'n_estimators': 5269, 'colsample_bytree': 0.19941676957773177}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:44,299] Trial 24 finished with value: 0.6 and parameters: {'max_depth': 3, 'num_leaves': 4, 'learning_rate': 0.012547583921871514, 'n_estimators': 2477, 'colsample_bytree': 0.7880223589463105}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:44,597] Trial 25 finished with value: 0.5555555555555556 and parameters: {'max_depth': 8, 'num_leaves': 35, 'learning_rate': 0.08578278031236451, 'n_estimators': 1745, 'colsample_bytree': 0.3233469432089116}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:44,965] Trial 26 finished with value: 0.5263157894736842 and parameters: {'max_depth': 8, 'num_leaves': 59, 'learning_rate': 0.0604927197330139, 'n_estimators': 1111, 'colsample_bytree': 0.7405061381444931}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:45,759] Trial 27 finished with value: 0.5263157894736842 and parameters: {'max_depth': 5, 'num_leaves': 49, 'learning_rate': 0.044907457965775464, 'n_estimators': 6182, 'colsample_bytree': 0.6976973141897477}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:46,055] Trial 28 finished with value: 0.7000000000000001 and parameters: {'max_depth': 8, 'num_leaves': 10, 'learning_rate': 0.015392592056099049, 'n_estimators': 1728, 'colsample_bytree': 0.1356415028358094}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:46,835] Trial 29 finished with value: 0.7368421052631577 and parameters: {'max_depth': 4, 'num_leaves': 16, 'learning_rate': 0.0741690082344409, 'n_estimators': 4358, 'colsample_bytree': 0.11004478412729268}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:47,236] Trial 30 finished with value: 0.5555555555555556 and parameters: {'max_depth': 3, 'num_leaves': 59, 'learning_rate': 0.0611290415727948, 'n_estimators': 2219, 'colsample_bytree': 0.3018605956562588}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:47,970] Trial 31 finished with value: 0.5555555555555556 and parameters: {'max_depth': 10, 'num_leaves': 14, 'learning_rate': 0.062322303454593206, 'n_estimators': 6821, 'colsample_bytree': 0.7774630411920282}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:48,751] Trial 32 finished with value: 0.7368421052631577 and parameters: {'max_depth': 5, 'num_leaves': 31, 'learning_rate': 0.06579601465432418, 'n_estimators': 5974, 'colsample_bytree': 0.22543311571686742}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:49,241] Trial 33 finished with value: 0.47058823529411764 and parameters: {'max_depth': 3, 'num_leaves': 7, 'learning_rate': 0.05377105998433287, 'n_estimators': 4638, 'colsample_bytree': 0.5550811496691851}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:49,732] Trial 34 finished with value: 0.5263157894736842 and parameters: {'max_depth': 6, 'num_leaves': 60, 'learning_rate': 0.06217706973212173, 'n_estimators': 3281, 'colsample_bytree': 0.5407585752943175}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:49,925] Trial 35 finished with value: 0.631578947368421 and parameters: {'max_depth': 10, 'num_leaves': 41, 'learning_rate': 0.03384276018965285, 'n_estimators': 1398, 'colsample_bytree': 0.39606735833128504}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:50,167] Trial 36 finished with value: 0.6666666666666666 and parameters: {'max_depth': 9, 'num_leaves': 15, 'learning_rate': 0.07774799983649325, 'n_estimators': 1399, 'colsample_bytree': 0.3082520788628328}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:50,614] Trial 37 finished with value: 0.5 and parameters: {'max_depth': 11, 'num_leaves': 14, 'learning_rate': 0.06755147927919462, 'n_estimators': 4148, 'colsample_bytree': 0.8398463763194806}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:51,178] Trial 38 finished with value: 0.4210526315789474 and parameters: {'max_depth': 5, 'num_leaves': 6, 'learning_rate': 0.07615593669598025, 'n_estimators': 5633, 'colsample_bytree': 0.8262526820028192}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:51,608] Trial 39 finished with value: 0.5714285714285715 and parameters: {'max_depth': 12, 'num_leaves': 3, 'learning_rate': 0.031092587750927846, 'n_estimators': 4701, 'colsample_bytree': 0.8592130565500932}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:52,085] Trial 40 finished with value: 0.631578947368421 and parameters: {'max_depth': 12, 'num_leaves': 35, 'learning_rate': 0.0924045714789647, 'n_estimators': 4850, 'colsample_bytree': 0.412006171312997}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:52,779] Trial 41 finished with value: 0.5555555555555556 and parameters: {'max_depth': 7, 'num_leaves': 38, 'learning_rate': 0.05945931293577064, 'n_estimators': 6558, 'colsample_bytree': 0.8349867485068849}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:53,053] Trial 42 finished with value: 0.6666666666666666 and parameters: {'max_depth': 6, 'num_leaves': 58, 'learning_rate': 0.02565601000124179, 'n_estimators': 1758, 'colsample_bytree': 0.20806332643738507}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:53,650] Trial 43 finished with value: 0.7368421052631577 and parameters: {'max_depth': 8, 'num_leaves': 4, 'learning_rate': 0.0953173190095913, 'n_estimators': 5963, 'colsample_bytree': 0.11201518459369791}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:54,423] Trial 44 finished with value: 0.5 and parameters: {'max_depth': 4, 'num_leaves': 22, 'learning_rate': 0.02178971603298252, 'n_estimators': 5857, 'colsample_bytree': 0.37578932214663474}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:55,100] Trial 45 finished with value: 0.5 and parameters: {'max_depth': 12, 'num_leaves': 36, 'learning_rate': 0.08909487859706597, 'n_estimators': 6069, 'colsample_bytree': 0.8243138549669194}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:55,424] Trial 46 finished with value: 0.631578947368421 and parameters: {'max_depth': 7, 'num_leaves': 34, 'learning_rate': 0.08187432320368354, 'n_estimators': 2714, 'colsample_bytree': 0.49220281809594224}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:55,749] Trial 47 finished with value: 0.5714285714285715 and parameters: {'max_depth': 8, 'num_leaves': 3, 'learning_rate': 0.06341332673769735, 'n_estimators': 3602, 'colsample_bytree': 0.7458884231078732}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:56,108] Trial 48 finished with value: 0.5263157894736842 and parameters: {'max_depth': 6, 'num_leaves': 54, 'learning_rate': 0.0620071493756082, 'n_estimators': 2104, 'colsample_bytree': 0.7303433870604035}. Best is trial 2 with value: 0.7999999999999999.
 [LightGBM] [Warning] Unknown parameter: eval_metric
-[I 2021-06-29 14:12:56,708] Trial 49 finished with value: 0.39999999999999997 and parameters: {'max_depth': 9, 'num_leaves': 6, 'learning_rate': 0.04781743120010191, 'n_estimators': 5075, 'colsample_bytree': 0.8348814223820207}. Best is trial 2 with value: 0.7999999999999999.
 lgbm_best_param_v1: {'max_depth': 7, 'num_leaves': 42, 'learning_rate': 0.02840070247583657, 'n_estimators': 6269, 'colsample_bytree': 0.12191007455834094}
-
-[I 2021-07-01 18:34:26,495] A new study created in memory with name: no-name-4efe5537-7fb4-4b05-b04d-639bb7f12d55
-[I 2021-07-01 18:34:26,512] Trial 0 finished with value: 0.0 and parameters: {'C': 0.0012164941464151843, 'gamma': 0.0399597228313506, 'kernel': 'rbf'}. Best is trial 0 with value: 0.0.
-[I 2021-07-01 18:34:26,526] Trial 1 finished with value: 0.0 and parameters: {'C': 2.8952960233492834e-05, 'gamma': 8.536916958038759e-05, 'kernel': 'sigmoid'}. Best is trial 0 with value: 0.0.
-[I 2021-07-01 18:34:26,541] Trial 2 finished with value: 0.0 and parameters: {'C': 0.0012473047378928962, 'gamma': 0.026674574591455752, 'kernel': 'rbf'}. Best is trial 0 with value: 0.0.
-[I 2021-07-01 18:34:26,736] Trial 3 finished with value: 0.6666666666666666 and parameters: {'C': 0.02250803339759749, 'gamma': 0.0012204612973233803, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,751] Trial 4 finished with value: 0.0 and parameters: {'C': 0.10086090098685985, 'gamma': 0.6939175614145937, 'kernel': 'sigmoid'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,765] Trial 5 finished with value: 0.0 and parameters: {'C': 0.2971894016071674, 'gamma': 2.6620797194541587e-05, 'kernel': 'sigmoid'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,777] Trial 6 finished with value: 0.3636363636363636 and parameters: {'C': 3.1026598745141294e-05, 'gamma': 0.0012750820295281795, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,793] Trial 7 finished with value: 0.5 and parameters: {'C': 0.00037807516906122445, 'gamma': 0.02707102116508004, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,809] Trial 8 finished with value: 0.0 and parameters: {'C': 0.8796409613934173, 'gamma': 0.05505899398718485, 'kernel': 'rbf'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,838] Trial 9 finished with value: 0.6666666666666666 and parameters: {'C': 0.0017356718938171996, 'gamma': 0.34912224006065407, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,849] Trial 10 finished with value: 0.0 and parameters: {'C': 1.2497835076619116e-05, 'gamma': 0.02478435748817647, 'kernel': 'sigmoid'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,859] Trial 11 finished with value: 0.0 and parameters: {'C': 1.848471358009251e-05, 'gamma': 0.007423146427788864, 'kernel': 'sigmoid'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,871] Trial 12 finished with value: 0.3636363636363636 and parameters: {'C': 3.2484197638745114e-05, 'gamma': 0.0011756551187580215, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,885] Trial 13 finished with value: 0.0 and parameters: {'C': 0.004780595843863193, 'gamma': 0.020843623798933626, 'kernel': 'rbf'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,901] Trial 14 finished with value: 0.3636363636363636 and parameters: {'C': 0.32885888232073535, 'gamma': 4.8682572661358864e-05, 'kernel': 'rbf'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:26,914] Trial 15 finished with value: 0.0 and parameters: {'C': 6.710748849223313e-05, 'gamma': 0.434053139666011, 'kernel': 'rbf'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:30,504] Trial 16 finished with value: 0.5882352941176471 and parameters: {'C': 0.26093387032549575, 'gamma': 0.013132912033012485, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:35,231] Trial 17 finished with value: 0.5882352941176471 and parameters: {'C': 0.30159982901199417, 'gamma': 0.001381834238855257, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:35,245] Trial 18 finished with value: 0.0 and parameters: {'C': 3.7473983805068124e-05, 'gamma': 0.5590443897952936, 'kernel': 'rbf'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:35,255] Trial 19 finished with value: 0.0 and parameters: {'C': 0.0001531563124279051, 'gamma': 0.32877410395706247, 'kernel': 'sigmoid'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:35,266] Trial 20 finished with value: 0.0 and parameters: {'C': 0.0004297585333493071, 'gamma': 0.004318078281385298, 'kernel': 'sigmoid'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:35,280] Trial 21 finished with value: 0.0 and parameters: {'C': 0.013085809057162754, 'gamma': 1.1997926973420284e-05, 'kernel': 'sigmoid'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:35,292] Trial 22 finished with value: 0.3636363636363636 and parameters: {'C': 7.272815020888165e-05, 'gamma': 4.8492966026987945e-05, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,110] Trial 23 finished with value: 0.5882352941176471 and parameters: {'C': 0.0598846151660647, 'gamma': 0.0588004896106758, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,124] Trial 24 finished with value: 0.0 and parameters: {'C': 1.2571892801400742e-05, 'gamma': 1.3522435991628912e-05, 'kernel': 'sigmoid'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,197] Trial 25 finished with value: 0.5333333333333333 and parameters: {'C': 0.0049448750459448135, 'gamma': 0.005809113921463084, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,208] Trial 26 finished with value: 0.0 and parameters: {'C': 0.008487823836908569, 'gamma': 0.7046585755939448, 'kernel': 'sigmoid'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,222] Trial 27 finished with value: 0.0 and parameters: {'C': 0.00014617441660497824, 'gamma': 0.10852404632723824, 'kernel': 'rbf'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,238] Trial 28 finished with value: 0.0 and parameters: {'C': 0.00604228449787321, 'gamma': 4.8114516760523194e-05, 'kernel': 'rbf'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,251] Trial 29 finished with value: 0.3636363636363636 and parameters: {'C': 3.4472330553621894e-05, 'gamma': 0.0001344456307712471, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,261] Trial 30 finished with value: 0.3636363636363636 and parameters: {'C': 2.2901893905880608e-05, 'gamma': 0.6860908856598674, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,276] Trial 31 finished with value: 0.0 and parameters: {'C': 0.052375631261556074, 'gamma': 9.487404242649025e-05, 'kernel': 'rbf'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,291] Trial 32 finished with value: 0.0 and parameters: {'C': 0.00015821177236368037, 'gamma': 0.002943395159581409, 'kernel': 'rbf'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,304] Trial 33 finished with value: 0.0 and parameters: {'C': 1.2384572243648861e-05, 'gamma': 2.239291948629667e-05, 'kernel': 'rbf'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,319] Trial 34 finished with value: 0.5 and parameters: {'C': 0.00038619980184432227, 'gamma': 0.877163944912375, 'kernel': 'linear'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,329] Trial 35 finished with value: 0.0 and parameters: {'C': 0.05329324371211276, 'gamma': 0.02219036609586521, 'kernel': 'sigmoid'}. Best is trial 3 with value: 0.6666666666666666.
-[I 2021-07-01 18:34:36,506] Trial 36 finished with value: 0.7058823529411765 and parameters: {'C': 0.014079509821895432, 'gamma': 0.00011242685178549635, 'kernel': 'linear'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:36,520] Trial 37 finished with value: 0.0 and parameters: {'C': 0.10562648280651515, 'gamma': 9.271957090905028e-05, 'kernel': 'sigmoid'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:36,535] Trial 38 finished with value: 0.0 and parameters: {'C': 0.00020724490021311042, 'gamma': 2.1370045823661018e-05, 'kernel': 'sigmoid'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:36,549] Trial 39 finished with value: 0.5 and parameters: {'C': 0.45694122956451827, 'gamma': 1.1742426889804171e-05, 'kernel': 'sigmoid'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:43,141] Trial 40 finished with value: 0.6666666666666666 and parameters: {'C': 0.563482712095549, 'gamma': 0.006071079794060205, 'kernel': 'linear'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:43,158] Trial 41 finished with value: 0.0 and parameters: {'C': 0.0026912456166929837, 'gamma': 0.010508782767409216, 'kernel': 'rbf'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:43,180] Trial 42 finished with value: 0.5714285714285714 and parameters: {'C': 0.0009427098928543664, 'gamma': 0.6551076066793498, 'kernel': 'linear'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:43,222] Trial 43 finished with value: 0.6250000000000001 and parameters: {'C': 0.0033752879456183825, 'gamma': 1.2812209350007838e-05, 'kernel': 'linear'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:43,237] Trial 44 finished with value: 0.0 and parameters: {'C': 7.602935005242788e-05, 'gamma': 0.00045742286724279936, 'kernel': 'rbf'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:43,246] Trial 45 finished with value: 0.0 and parameters: {'C': 0.5018078046787631, 'gamma': 0.008129632237513727, 'kernel': 'sigmoid'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:43,283] Trial 46 finished with value: 0.6666666666666666 and parameters: {'C': 0.0019925137592348777, 'gamma': 0.00539180379552831, 'kernel': 'linear'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:43,298] Trial 47 finished with value: 0.0 and parameters: {'C': 0.009898093187184744, 'gamma': 1.1958215558990708e-05, 'kernel': 'sigmoid'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:43,308] Trial 48 finished with value: 0.0 and parameters: {'C': 0.0003768981584625056, 'gamma': 0.2913691336370612, 'kernel': 'sigmoid'}. Best is trial 36 with value: 0.7058823529411765.
-[I 2021-07-01 18:34:43,322] Trial 49 finished with value: 0.0 and parameters: {'C': 0.011485658125746624, 'gamma': 1.860143120473331e-05, 'kernel': 'sigmoid'}. Best is trial 36 with value: 0.7058823529411765.
 svm_best_param_v1: {'C': 0.014079509821895432, 'gamma': 0.00011242685178549635, 'kernel': 'linear'}
+--------------best parameter------------------
+rf_best_param_v1: {'max_depth': 4, 'min_samples_leaf': 2, 'max_features': 4}
+xgb_best_param_v1: {'max_depth': 6, 'learning_rate': 0.05743522920318484, 'subsample': 0.8087536794486196, 'gamma': 0.3858158080019999, 'n_estimators': 6452}
+lgbm_best_param_v1: {'max_depth': 7, 'num_leaves': 42, 'learning_rate': 0.02840070247583657, 'n_estimators': 6269, 'colsample_bytree': 0.12191007455834094}
+svm_best_param_v1: {'C': 0.014079509821895432, 'gamma': 0.00011242685178549635, 'kernel': 'linear'}
+--------------Predict test data using best parameter------------------
+rf: 0.6491228070175439
+[21:14:25] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+xgb: 0.7000000000000001
+lgbm: 0.7999999999999999
+svm: 0.7442455242966752

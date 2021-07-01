@@ -6,6 +6,7 @@ from optuna.visualization import plot_param_importances
 from optuna.visualization import plot_parallel_coordinate
 from optuna.visualization import plot_slice
 from sklearn.metrics import f1_score
+from sklearn.model_selection import cross_validate
 from sklearn.ensemble import RandomForestClassifier
 import xgboost as xgb
 import lightgbm as lgbm
@@ -59,6 +60,10 @@ def objective_variable(model_type, X_train, y_train, X_test, y_test):
                 "decision_function_shape": "ovr",
             }
             clf = SVC(**params, probability=True)
+
+        # score_funcs = ['f1']
+        # scores = cross_validate(clf, X_train, y_train, cv=4, scoring=score_funcs)
+        # return scores['test_f1'].mean()
 
         clf.fit(X_train, y_train)
         return f1_score(y_test, clf.predict(X_test))
