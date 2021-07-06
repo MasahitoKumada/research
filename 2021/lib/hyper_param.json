@@ -1,28 +1,35 @@
 {
+
+    "rf": { 
+        "max_depth": 4, 
+        "min_samples_leaf": 2, 
+        "max_features": 4 ,
+        "random_state": 1
+    },
     "xgb" :{
         "eval_metric": "rmse", 
-        "gamma": 0.9, 
+        "gamma": 0.3858158080019999, 
         "importance_type": "gain", 
-        "learning_rate": 0.1,
+        "learning_rate": 0.05743522920318484,
         "max_depth": 6,
-        "n_estimators": 5000, 
+        "n_estimators": 6452, 
         "objective": "binary:logistic", 
-        "subsample": 0.9
+        "subsample": 0.8087536794486196
         },
     "lgbm":{
-        "colsample_bytree": 0.5, 
+        "colsample_bytree": 0.12191007455834094, 
         "importance_type": "gain",
-         "learning_rate": 0.07,
-         "max_depth": 6,
+         "learning_rate": 0.02840070247583657,
+         "max_depth": 7,
          "metrics": "l2", 
-        "n_estimators": 10000, 
-        "num_leaves": 31, 
+        "n_estimators": 6269, 
+        "num_leaves": 42, 
         "objective": "binary"        
     }, 
     "svm":{
-        "C": 1,
+        "C": 0.014079509821895432,
         "decision_function_shape": "ovr", 
-       "gamma": 0.1,
-        "kernel": "rbf"       
+       "gamma": 0.00011242685178549635,
+        "kernel": "linear"       
     }
 }

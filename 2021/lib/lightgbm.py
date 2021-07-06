@@ -47,7 +47,6 @@ def fit_lgbm(X, y, cv, params: dict=None, verbose: int=10):
              early_stopping_rounds=verbose, verbose=verbose)
 
         pred_i = clf.predict(x_valid)
-
         pred_i = np.where(pred_i < 0, 0, pred_i)
         oof_pred[idx_valid] = pred_i
         models.append(clf)

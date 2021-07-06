@@ -9,6 +9,7 @@ import japanize_matplotlib
 from lib.lightgbm import fit_lgbm
 from lib.xgboost import fit_xgb
 from lib.svm import fit_svm
+from lib.random_forest import fit_rf
 from lib.visualize_importance import visualize_importance
 from lib.check_predict import check_predict
 from lib.shap import Shap
@@ -27,7 +28,7 @@ warnings.resetwarnings()
 warnings.filterwarnings('ignore')
 
 # 入出力
-INPUT_DIR = "./input_apo"
+INPUT_DIR = "./input/apo"
 TRAIN_FILE, TEST_FILE = "train.csv", "test.csv"
 OUTPUT_DIR = "./output_apo"
 OUTPUT_FILENAME = "predict.csv"
@@ -37,18 +38,21 @@ FOLD_TYPE = "k-stratified" # 'k-ford' or 'k-stratified'
 N_SPLITS = 4
 
 # モデルの特徴重要度の可視化
+RF_FEATURE_FIG, RF_FEATURE_FILENAME = "feature_importance_rf.png", "feature_rf.csv"
 XGB_FEATURE_FIG, XGB_FEATURE_FILENAME = "feature_importance_xgb.png", "feature_xgb.csv"
 LGBM_FEATURE_FIG, LGBM_FEATURE_FILENAME = "feature_importance_lgbm.png", "feature_lgbm.csv"
 SVM_FEATURE_FIG, SVM_FEATURE_FILENAME = "feature_importance_svm.png", "feature_svm.csv"
 CONFUSION_MATRIX_FILENAME = "confusion_matrix.png"
 
 # shap
+IS_RF_SHAP = True
 IS_XGB_SHAP = True
 IS_LGBM_SHAP = True
 IS_SVM_SHAP = True
 
 
 # 特徴重要度の観察から特徴量削除カラム
+RF_COLUMNS_NAME = []
 XGB_COLUMNS_NAME = []
 LGBM_COLUMNS_NAME = []
 SVM_COLUMNS_NAME = []
@@ -107,12 +111,18 @@ def main():
 
     # train param setting
     hyper_params = json.load(open('./lib/hyper_param.json', 'r'))
-
+    rf_params = hyper_params['rf']
     xgb_params = hyper_params['xgb']
     lgbm_params = hyper_params['lgbm']
     svm_params = hyper_params['svm']
 
     ## for train
+    # random forest
+    rf_X = X.copy()
+    # 特徴重要度の観察から特徴量削除
+    rf_X_droped = rf_X.drop(columns=RF_COLUMNS_NAME)
+    rf_oof, rf_models = fit_rf(rf_X_droped.values, y, cv, params=rf_params)
+
     # xgboost
     xgb_X = X.copy()
     # 特徴重要度の観察から特徴量削除
@@ -133,6 +143,28 @@ def main():
 
 
     ## for test
+    # for random forest
+    df_test_droped_rf = X_test.copy().drop(columns=RF_COLUMNS_NAME)
+    pred = np.array([model.predict(df_test_droped_rf.values) for model in rf_models])
+    rf_pred = np.mean(pred, axis=0)
+
+    # 特徴重要度の確認
+    fig, ax = visualize_importance(rf_models, df_test_droped_rf, os.path.join(OUTPUT_DIR, RF_FEATURE_FIG) , os.path.join(OUTPUT_DIR, RF_FEATURE_FILENAME))
+
+    # probaability
+    rf_pred_proba = np.mean(np.array([model.predict_proba(df_test_droped_rf.values) for model in rf_models]), axis=0)
+
+    # shap for rf
+    shap = Shap(df_test_droped_rf, rf_models, X_test_pdb_name, 'random_forest')
+    shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/rf/shap_summary_violin_rf.png'), 'violin')
+    shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/rf/shap_summary_bar_rf.png'), 'bar')
+    shap.decision_plot(os.path.join(OUTPUT_DIR, './shap/rf/shap_decision_rf.png'))
+    shap.decision_ok_vs_miss_plot(rf_pred, y_test, os.path.join(OUTPUT_DIR, './shap/rf/shap_decision_ok_vs_miss_rf.png'))
+    shap.decision_miss_data_plot(rf_pred, y_test, os.path.join(OUTPUT_DIR, './shap/rf/shap_decision_miss_rf.png'))
+    shap.decision_high_prob_data_plot(rf_pred, 0.90, os.path.join(OUTPUT_DIR, './shap/rf/shap_decision_ok_high_prob_rf.png'))
+    shap.dependence_plot(ind='Mean alp. sph. solvent access', interaction_index='Polarity score', out_path=os.path.join(OUTPUT_DIR, './shap/rf/shap_dependence_rf.png'))
+    shap.force_plot(rf_pred, y_test, os.path.join(OUTPUT_DIR, './shap/rf/shap_force_miss_rf.png'))
+
     # for xgb
     df_test_droped_xgb = X_test.copy().drop(columns=XGB_COLUMNS_NAME)
     pred = np.array([model.predict(df_test_droped_xgb.values) for model in xgb_models])
@@ -204,18 +236,19 @@ def main():
 
 
     ## ensamble
-    (xgb_ratio, lgbm_ratio, svm_ratio)=(0.5, 0.5, 0.0)
-    assert xgb_ratio + lgbm_ratio + svm_ratio == 1.0
-    y_pred = xgb_ratio * xgb_pred + lgbm_ratio * lgbm_pred + svm_ratio * svm_pred
+    (rf_ratio, xgb_ratio, lgbm_ratio, svm_ratio)=(0.60, 0.25, 0, 0.15)
+    assert rf_ratio + xgb_ratio + lgbm_ratio + svm_ratio == 1.0
+    y_pred = rf_ratio * rf_pred + xgb_ratio * xgb_pred + lgbm_ratio * lgbm_pred + svm_ratio * svm_pred
     y_pred = np.where(y_pred < 0, 0, np.round(y_pred).astype(int))
     score = f1_score(y_test, y_pred) * 100
 
     print('Y true: ', y_test)
-    print('XgBoost predict: ', xgb_pred)
-    print('LightGBM predict: ', lgbm_pred)
-    print('SVM predict: ', svm_pred)
+    print('Random Forest predict: ', f1_score(y_test, np.round(rf_pred).astype(int)) * 100, rf_pred)
+    print('XgBoost predict: ', f1_score(y_test, np.round(xgb_pred).astype(int)) * 100, xgb_pred)
+    print('LightGBM predict: ', f1_score(y_test, np.round(lgbm_pred).astype(int)) * 100, lgbm_pred)
+    print('SVM predict: ', f1_score(y_test, np.round(svm_pred).astype(int)) * 100, svm_pred)
 
-    pred_proba = xgb_ratio * xgb_pred_proba + lgbm_ratio * lgbm_pred_proba + svm_ratio * svm_pred_proba 
+    pred_proba = rf_ratio * rf_pred_proba + xgb_ratio * xgb_pred_proba + lgbm_ratio * lgbm_pred_proba + svm_ratio * svm_pred_proba 
     # print(pred_proba)
 
     pred_df = pd.DataFrame({
@@ -248,6 +281,7 @@ def main():
     plt.close()
 
     # 予測がまともに動いているかどうかチェック
+    check_predict(rf_pred, xgb_oof, os.path.join(OUTPUT_DIR, "check_predict_rf_.png"))
     check_predict(xgb_pred, xgb_oof, os.path.join(OUTPUT_DIR, "check_predict_xgb_.png"))
     check_predict(lgbm_pred, lgbm_oof, os.path.join(OUTPUT_DIR, "check_predict_lgbm.png"))
     check_predict(svm_pred, svm_oof, os.path.join(OUTPUT_DIR, "check_predict_svm.png"))

@@ -9,11 +9,11 @@ IN_PATH, IN_FILE = "./data", "cryptic_pocket_apo.csv"
 
 # 学習データとテストデータ(別々に用意した)を読込む。
 DO_READ_DATA_TRAIN_TEST = True
-IN_PATH, IN_TRAIN_FILE = "./data", "cryptic_pocket_apo_increase_train.csv"
-IN_PATH, IN_TEST_FILE = "./data", "cryptic_pocket_apo_increase_test.csv"
+IN_PATH, IN_TRAIN_FILE = "./data", "cryptic_pocket_apo_train.csv"
+IN_PATH, IN_TEST_FILE = "./data", "cryptic_pocket_apo_test.csv"
 
 # 出力ディレクトリ
-OUT_PATH = "./input_apo"
+OUT_PATH = "./input/apo"
 
 
 

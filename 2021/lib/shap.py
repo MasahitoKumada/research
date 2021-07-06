@@ -20,7 +20,16 @@ class Shap:
         self.pdb_names = pdb_names
 
         for model in models:
-            if model_type=='xgboost':
+
+            if model_type=='random_forest':
+                booster = model
+                # shap expaliner
+                self.explainer = shap.TreeExplainer(model=booster, feature_dependence='tree_path_dependent', model_output='margin')
+                # for class1
+                self.shap_values += self.explainer.shap_values(X=input_df)[1]/len(models) # for class1
+                self.base_value += self.explainer.expected_value[1]/len(models)
+
+            elif model_type=='xgboost':
                 # monkey patch
                 booster = model.get_booster() 
                 model_bytearray = booster.save_raw()[4:]
