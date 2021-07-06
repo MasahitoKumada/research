@@ -66,7 +66,7 @@ def objective_variable(model_type, X_train, y_train, X_test, y_test):
         # return scores['test_f1'].mean()
 
         clf.fit(X_train, y_train)
-        return f1_score(y_test, clf.predict(X_test))
+        return f1_score(y_test, clf.predict(X_test), average='weighted')
 
     return objective
 

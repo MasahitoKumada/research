@@ -35,14 +35,14 @@ warnings.resetwarnings()
 warnings.filterwarnings('ignore')
 
 # 入出力
-INPUT_DIR = "./input_apo"
+INPUT_DIR = "./input/apo"
 TRAIN_FILE, TEST_FILE = "train.csv", "test.csv"
 OUTPUT_DIR = "./output_apo"
 OUTPUT_FILENAME = "predict.csv"
 
 # k-cross validation
-FOLD_TYPE = "k-stratified" # 'k-ford' or 'k-stratified'
-N_SPLITS = 4
+FOLD_TYPE = "k-fold" # 'k-fold' or 'k-stratified'
+N_SPLITS = 5
 
 # モデルの特徴重要度の可視化
 XGB_FEATURE_FIG, XGB_FEATURE_FILENAME = "feature_importance_xgb.png", "feature_xgb.csv"
@@ -107,7 +107,7 @@ def main():
     X_test, y_test = split_train_data_last(test_df)
     X_test_pdb_name, X_test = split_train_data_first(X_test)
 
-    # select k-fold type
+    # select fold type
     fold = select_fold_type(FOLD_TYPE)
     cv = list(fold.split(X, y)) # もともとが generator なため明示的に list に変換する
 
@@ -125,25 +125,25 @@ def main():
 
     ## Optuna
     # random forest
-    study = param_tuning('RandomForest', X, y, X_test, y_test, n_trials=50)
+    study = param_tuning('RandomForest', X, y, X_test, y_test, n_trials=100)
     rf_best_param_v1 = study.best_params
     print('rf_best_param_v1: {}'.format(rf_best_param_v1))
     vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/rf'), 'rf')
 
     # xgboost
-    study = param_tuning('XGboost', X, y, X_test, y_test, n_trials=50)
+    study = param_tuning('XGboost', X, y, X_test, y_test, n_trials=100)
     xgb_best_param_v1 = study.best_params
     print('xgb_best_param_v1: {}'.format(xgb_best_param_v1))
     vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/xgb'), 'xgb')
 
     # lightgbm
-    study = param_tuning('LightGBM', X, y, X_test, y_test, n_trials=50)
+    study = param_tuning('LightGBM', X, y, X_test, y_test, n_trials=100)
     lgbm_best_param_v1 = study.best_params
     print('lgbm_best_param_v1: {}'.format(lgbm_best_param_v1))
     vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/lgbm'), 'lgbm')
 
     # support vector machine
-    study = param_tuning('SVM', X, y, X_test, y_test, n_trials=50)
+    study = param_tuning('SVM', X, y, X_test, y_test, n_trials=100)
     svm_best_param_v1 = study.best_params
     print('svm_best_param_v1: {}'.format(svm_best_param_v1))
     vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/svm'), 'svm')
@@ -158,16 +158,16 @@ def main():
     print('--------------Predict test data using best parameter------------------')
     clf = RandomForestClassifier(**rf_best_param_v1)
     clf.fit(X, y)
-    print('rf: {}'.format(f1_score(y_test, clf.predict(X_test), average='macro')))
+    print('rf: {}'.format(f1_score(y_test, clf.predict(X_test))))
     clf = xgb.XGBClassifier(**xgb_best_param_v1)
     clf.fit(X, y)
-    print('xgb: {}'.format(f1_score(y_test, clf.predict(X_test), average='macro')))
+    print('xgb: {}'.format(f1_score(y_test, clf.predict(X_test))))
     clf = lgbm.LGBMClassifier(**lgbm_best_param_v1)
     clf.fit(X, y)
-    print('lgbm: {}'.format(f1_score(y_test, clf.predict(X_test), average='macro')))
+    print('lgbm: {}'.format(f1_score(y_test, clf.predict(X_test))))
     clf = SVC(**svm_best_param_v1, probability=True)
     clf.fit(X, y)
-    print('svm: {}'.format(f1_score(y_test, clf.predict(X_test), average='macro')))
+    print('svm: {}'.format(f1_score(y_test, clf.predict(X_test))))
 
     sys.exit()
 
