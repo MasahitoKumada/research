@@ -35,7 +35,7 @@ warnings.filterwarnings('ignore')
 # 入出力
 INPUT_DIR = "./input/apo"
 TRAIN_FILE, TEST_FILE = "train.csv", "test.csv"
-OUTPUT_DIR = "./output_apo"
+OUTPUT_DIR = "./output/apo"
 OUTPUT_FILENAME = "predict.csv"
 
 # Hold out or K-fold out
@@ -50,13 +50,13 @@ RF_FEATURE_FIG, RF_FEATURE_FILENAME = "feature_importance_rf.png", "feature_rf.c
 XGB_FEATURE_FIG, XGB_FEATURE_FILENAME = "feature_importance_xgb.png", "feature_xgb.csv"
 LGBM_FEATURE_FIG, LGBM_FEATURE_FILENAME = "feature_importance_lgbm.png", "feature_lgbm.csv"
 SVM_FEATURE_FIG, SVM_FEATURE_FILENAME = "feature_importance_svm.png", "feature_svm.csv"
-CONFUSION_MATRIX_FILENAME = "confusion_matrix.png"
+CONFUSION_MATRIX_FILENAME = "confusion_matrix_"
 
 # shap
-IS_RF_SHAP = False
-IS_XGB_SHAP = False
-IS_LGBM_SHAP = False
-IS_SVM_SHAP = False
+IS_RF_SHAP = True
+IS_XGB_SHAP = True
+IS_LGBM_SHAP = True
+IS_SVM_SHAP = True
 
 
 # 特徴重要度の観察から特徴量削除カラム
@@ -97,6 +97,28 @@ def select_fold_type(fold_type):
     elif fold_type=='k-stratified':
         fold = StratifiedKFold(n_splits=N_SPLITS, shuffle=True, random_state=11)
     return fold
+
+
+def make_confusion_matrix(y_test, y_pred, filename):
+    #混合行列作成
+    
+    ax = plt.subplot()
+    plt.tight_layout()
+    cm = confusion_matrix(y_test, y_pred)
+    sns.set(font_scale=2.5) # Adjust to fit
+    sns.heatmap(cm, annot=True, ax=ax, cmap='Blues')
+    # 軸名
+    label_font = {'size':'18'}  # Adjust to fit
+    ax.set_xlabel('pred', fontdict=label_font)
+    ax.set_ylabel('True', fontdict=label_font)
+    # title
+    title_font = {'size':'21'}  # Adjust to fit
+    ax.set_title('Confusion Matrix', fontdict=title_font)
+    # ticks
+    ax.tick_params(axis='both', which='major', labelsize=16)  # Adjust to fit
+    # save figure
+    plt.savefig(os.path.join(OUTPUT_DIR, filename))
+    plt.close()
 
 
 def main():
@@ -147,7 +169,7 @@ def main():
     else:
         xgb_model = xgb.XGBClassifier(**xgb_params)
         xgb_model.fit(xgb_X_droped, y)
-        xgb_models.append(rf_model)
+        xgb_models.append(xgb_model)
     
     # lightgbm
     lgbm_X = X.copy()
@@ -188,7 +210,7 @@ def main():
     fig, ax = visualize_importance(rf_models, df_test_droped_rf, os.path.join(OUTPUT_DIR, RF_FEATURE_FIG) , os.path.join(OUTPUT_DIR, RF_FEATURE_FILENAME))
 
     # shap for rf
-    if IS_SVM_SHAP:
+    if IS_RF_SHAP:
         shap = Shap(df_test_droped_rf, rf_models, X_test_pdb_name, 'random_forest')
         shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/rf/shap_summary_violin_rf.png'), 'violin')
         shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/rf/shap_summary_bar_rf.png'), 'bar')
@@ -276,7 +298,8 @@ def main():
 
 
     ## ensamble
-    (rf_ratio, xgb_ratio, lgbm_ratio, svm_ratio)=(0.20, 0.27, 0.28, 0.25)
+    # (rf_ratio, xgb_ratio, lgbm_ratio, svm_ratio)=(0.20, 0.25, 0.26, 0.29) # 4つ全て使う
+    (rf_ratio, xgb_ratio, lgbm_ratio, svm_ratio)=(0, 0.2, 0.2, 0.6) # 上位3つ使う
     assert rf_ratio + xgb_ratio + lgbm_ratio + svm_ratio == 1.0
     y_pred = rf_ratio * rf_pred + xgb_ratio * xgb_pred + lgbm_ratio * lgbm_pred + svm_ratio * svm_pred
     y_pred = np.where(y_pred < 0, 0, np.round(y_pred).astype(int))
@@ -289,37 +312,33 @@ def main():
     print('SVM predict: ', f1_score(y_test, np.round(svm_pred).astype(int)) * 100, svm_pred)
     print('Final Predict: ', y_pred)
     print('Total Score: ', score)
+    print()
+    correct_classified = y_test==svm_pred
+    mis_classified = y_test!=svm_pred
+    print('correct_classified PDB: ', X_test_pdb_name[correct_classified])
+    print('miss_classified PDB: ', X_test_pdb_name[mis_classified])
 
     pred_proba = rf_ratio * rf_pred_proba + xgb_ratio * xgb_pred_proba + lgbm_ratio * lgbm_pred_proba + svm_ratio * svm_pred_proba 
 
     pred_df = pd.DataFrame({
         "PDB Name": X_test_pdb_name,
         "cryptic pocket flag True": y_test,
-        "cryptic pocket flag predict": y_pred,
-        "pred proba 0": pred_proba[:,0],
-        "pred proba 1": pred_proba[:,1],
+        "cryptic pocket flag predict": svm_pred,
+        "pred proba 0": pred_proba [:,0],
+        "pred proba 1": pred_proba [:,1],
         "f1 score": score
         })
     #テストデータに対する予測結果の保存    
     pred_df.to_csv(os.path.join(OUTPUT_DIR, OUTPUT_FILENAME), index=False)
 
     #混合行列作成
-    ax = plt.subplot()
-    cm = confusion_matrix(y_test, y_pred)
-    sns.set(font_scale=2.5) # Adjust to fit
-    sns.heatmap(cm, annot=True, ax=ax, cmap='Blues')
-    # 軸名
-    label_font = {'size':'18'}  # Adjust to fit
-    ax.set_xlabel('pred', fontdict=label_font)
-    ax.set_ylabel('True', fontdict=label_font)
-    # title
-    title_font = {'size':'21'}  # Adjust to fit
-    ax.set_title('Confusion Matrix', fontdict=title_font)
-    # ticks
-    ax.tick_params(axis='both', which='major', labelsize=16)  # Adjust to fit
-    # save figure
-    plt.savefig(os.path.join(OUTPUT_DIR, CONFUSION_MATRIX_FILENAME))
-    plt.close()
+    make_confusion_matrix(y_test, rf_pred, CONFUSION_MATRIX_FILENAME + 'rf')
+    make_confusion_matrix(y_test, xgb_pred, CONFUSION_MATRIX_FILENAME + 'xgb')
+    make_confusion_matrix(y_test, lgbm_pred, CONFUSION_MATRIX_FILENAME + 'lgbm')
+    make_confusion_matrix(y_test, svm_pred, CONFUSION_MATRIX_FILENAME + 'svm')
+    make_confusion_matrix(y_test, y_pred, CONFUSION_MATRIX_FILENAME + 'ensamble')
+    
+   
 
     # 予測がまともに動いているかどうかチェック
     if IS_Kfold_Out:
@@ -327,6 +346,7 @@ def main():
         check_predict(xgb_pred, xgb_oof, os.path.join(OUTPUT_DIR, "check_predict_xgb_.png"))
         check_predict(lgbm_pred, lgbm_oof, os.path.join(OUTPUT_DIR, "check_predict_lgbm.png"))
         check_predict(svm_pred, svm_oof, os.path.join(OUTPUT_DIR, "check_predict_svm.png"))
+
 
 
 if __name__ == "__main__":

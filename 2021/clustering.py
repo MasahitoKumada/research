@@ -10,9 +10,9 @@ import umap.umap_ as umap
 from scipy.sparse.csgraph import connected_components
 
 
-INPUT_DIR = './input_apo'
+INPUT_DIR = './input/apo'
 TRAIN_FILE, TEST_FILE = 'train.csv', 'test.csv'
-OUT_DIR = './output_apo/clustering'
+OUT_DIR = './output/apo/clustering'
 
 SELECT_CLMS = ['Score', 'Druggability Score', 'Number of Alpha Spheres',
        'Total SASA', 'Polar SASA', 'Apolar SASA', 'Volume',
@@ -42,11 +42,10 @@ def main():
     # 標準化
     whole_df[SELECT_CLMS] = whole_df[SELECT_CLMS].apply(lambda x: (x-x.mean())/x.std(), axis=0)
 
-
     features_df = dimensional_compression(whole_df, 'pca', is_annotate=False)
-    # features_df = dimensional_compression(whole_df, 'tsne', is_annotate=False)
-    # features_df = dimensional_compression(whole_df, 'svd', is_annotate=False)
-    # features_df = dimensional_compression(whole_df, 'umap', is_annotate=True)
+    features_df = dimensional_compression(whole_df, 'tsne', is_annotate=False)
+    features_df = dimensional_compression(whole_df, 'svd', is_annotate=False)
+    features_df = dimensional_compression(whole_df, 'umap', is_annotate=True)
 
 
 def dimensional_compression(input_df, select_method, is_annotate=False):

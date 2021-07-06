@@ -110,15 +110,18 @@ class Shap:
         misclassified = np.where(y_pred < 0, 0, np.round(y_pred).astype(int)) != y_test
         print('misclassified: ', misclassified)
         print('pdb_names: ', self.pdb_names[misclassified])
+
+        sort_idx = np.argsort(self.shap_values[misclassified].sum(axis=1))[::-1]
+        
         shap.decision_plot(
                         base_value=self.base_value, 
-                        shap_values=self.shap_values[misclassified],
+                        shap_values=self.shap_values[misclassified][[sort_idx]],
                         features=self.input_df.iloc[misclassified], 
                         feature_names=list(self.input_df.columns),
                         feature_order=self.shap_return_value.feature_idx,
                         xlim=self.shap_return_value.xlim,
-                        highlight=np.arange(len(misclassified[misclassified==True])),
-                        legend_labels= legend_labels(self.pdb_names[misclassified], self.base_value+self.shap_values[misclassified].sum(axis=1)),
+                        highlight=(misclassified & y_test==1)[misclassified][sort_idx],
+                        legend_labels= legend_labels(self.pdb_names[misclassified][sort_idx], self.base_value+self.shap_values[misclassified].sum(axis=1)[sort_idx]),
                         legend_location='lower right',
                         show=show)
         # save plot
@@ -132,14 +135,16 @@ class Shap:
         ok_high_prob_idxs = y_pred >= prob_threshold
         # print(y_pred)
 
+        sort_idx = np.argsort(self.shap_values[ok_high_prob_idxs].sum(axis=1))[::-1]
+
         shap.decision_plot(
                         base_value=self.base_value, 
-                        shap_values=self.shap_values[ok_high_prob_idxs],
+                        shap_values=self.shap_values[ok_high_prob_idxs][[sort_idx]],
                         features=self.input_df[ok_high_prob_idxs], 
                         feature_names=list(self.input_df.columns),
                         feature_order=self.shap_return_value.feature_idx,
                         xlim=self.shap_return_value.xlim,
-                        legend_labels= legend_labels(self.pdb_names[ok_high_prob_idxs], self.base_value+self.shap_values[ok_high_prob_idxs].sum(axis=1)),
+                        legend_labels= legend_labels(self.pdb_names[ok_high_prob_idxs][sort_idx], self.base_value+self.shap_values[ok_high_prob_idxs].sum(axis=1)[sort_idx]),
                         legend_location='lower right',
                         show=show)
         # save plot
