@@ -53,9 +53,10 @@ def objective_variable(model_type, X_train, y_train, X_test, y_test):
             clf = lgbm.LGBMClassifier(**params)
 
         elif model_type=='SVM':
+            # 正規化する
             params = {
-                "C": trial.suggest_loguniform("C", 1e-5, 1),
-                "gamma": trial.suggest_loguniform("gamma", 1e-5, 1),
+                "C": trial.suggest_loguniform("C", 1e-2, 1000),
+                "gamma": trial.suggest_loguniform("gamma", 1e-2, 100),
                 "kernel": trial.suggest_categorical("kernel", ["linear", "rbf", "sigmoid"]),
                 "decision_function_shape": "ovr",
             }

@@ -20,7 +20,6 @@ from sklearn.preprocessing import StandardScaler
 import seaborn as sns
 import json
 import warnings
-from sklearn.model_selection import GridSearchCV
 import xgboost as xgb
 import lightgbm as lgbm
 from sklearn.svm import SVC
@@ -40,6 +39,13 @@ TRAIN_FILE, TEST_FILE = "train.csv", "test.csv"
 OUTPUT_DIR = "./output_apo"
 OUTPUT_FILENAME = "predict.csv"
 
+
+# Optunaで Tuning するかどうか
+TUNING_RF = False
+TUNING_XGB = False
+TUNING_LGBM = True
+TUNING_SVM = False
+
 # k-cross validation
 FOLD_TYPE = "k-fold" # 'k-fold' or 'k-stratified'
 N_SPLITS = 5
@@ -56,6 +62,7 @@ IS_LGBM_SHAP = True
 IS_SVM_SHAP = True
 
 # 特徴重要度の観察から特徴量削除カラム
+RF_COLUMNS_NAME = []
 XGB_COLUMNS_NAME = []
 LGBM_COLUMNS_NAME = []
 SVM_COLUMNS_NAME = []
@@ -118,117 +125,90 @@ def main():
     svm_params = hyper_params['svm']
 
     ## for train
-    # xgboost
-    xgb_X = X.copy()
-    # 特徴重要度の観察から特徴量削除
-    xgb_X_droped = xgb_X.drop(columns=XGB_COLUMNS_NAME)
-
-    ## Optuna
+    ## Tuning by Optuna
+    
     # random forest
-    study = param_tuning('RandomForest', X, y, X_test, y_test, n_trials=100)
-    rf_best_param_v1 = study.best_params
-    print('rf_best_param_v1: {}'.format(rf_best_param_v1))
-    vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/rf'), 'rf')
+    if TUNING_RF:
+        ## 前処理
+        rf_X = X.copy()
+        # 特徴重要度の観察から特徴量削除
+        rf_X_droped = rf_X.drop(columns=RF_COLUMNS_NAME)
+
+        study = param_tuning('RandomForest', rf_X_droped, y, X_test, y_test, n_trials=100)
+        rf_best_param_v1 = study.best_params
+        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/rf'), 'rf')
+
+        print('--------------best parameter------------------')
+        print('rf_best_param_v1: {}'.format(rf_best_param_v1))
+        print('--------------Predict test data using best parameter------------------')
+        clf = RandomForestClassifier(**rf_best_param_v1)
+        clf.fit(X, y)
+        print('rf: {}'.format(f1_score(y_test, clf.predict(X_test))))
+
+        
 
     # xgboost
-    study = param_tuning('XGboost', X, y, X_test, y_test, n_trials=100)
-    xgb_best_param_v1 = study.best_params
-    print('xgb_best_param_v1: {}'.format(xgb_best_param_v1))
-    vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/xgb'), 'xgb')
+    if TUNING_XGB:
+        ## 前処理
+        xgb_X = X.copy()
+        # 特徴重要度の観察から特徴量削除
+        xgb_X_droped = xgb_X.drop(columns=XGB_COLUMNS_NAME)
+
+        study = param_tuning('XGboost', xgb_X_droped, y, X_test, y_test, n_trials=100)
+        xgb_best_param_v1 = study.best_params
+        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/xgb'), 'xgb')
+        print('--------------best parameter------------------')
+        print('xgb_best_param_v1: {}'.format(xgb_best_param_v1))
+        print('--------------Predict test data using best parameter------------------')
+        clf = xgb.XGBClassifier(**xgb_best_param_v1)
+        clf.fit(X, y)
+        print('xgb: {}'.format(f1_score(y_test, clf.predict(X_test))))
+        
 
     # lightgbm
-    study = param_tuning('LightGBM', X, y, X_test, y_test, n_trials=100)
-    lgbm_best_param_v1 = study.best_params
-    print('lgbm_best_param_v1: {}'.format(lgbm_best_param_v1))
-    vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/lgbm'), 'lgbm')
+    if TUNING_LGBM:
+        ## 前処理
+        lgbm_X = X.copy()
+        # 特徴重要度の観察から特徴量削除
+        lgbm_X_droped = lgbm_X.drop(columns=LGBM_COLUMNS_NAME)
+
+        study = param_tuning('LightGBM', lgbm_X_droped, y, X_test, y_test, n_trials=100)
+        lgbm_best_param_v1 = study.best_params
+        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/xgb'), 'xgb')
+        print('--------------best parameter------------------')
+        print('lgbm_best_param_v1: {}'.format(lgbm_best_param_v1))
+        print('--------------Predict test data using best parameter------------------')
+        clf = lgbm.LGBMClassifier(**lgbm_best_param_v1)
+        clf.fit(X, y)
+        print('lgbm: {}'.format(f1_score(y_test, clf.predict(X_test))))
+        
 
     # support vector machine
-    study = param_tuning('SVM', X, y, X_test, y_test, n_trials=100)
-    svm_best_param_v1 = study.best_params
-    print('svm_best_param_v1: {}'.format(svm_best_param_v1))
-    vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/svm'), 'svm')
+    if TUNING_SVM:
+        ## 前処理
+        # 標準化 & 特徴重要度の観察から特徴量削除
+        stdsc = StandardScaler().fit(X.copy())
+        svm_X_droped_stdsc = pd.DataFrame(stdsc.transform(X.copy()), columns=X.copy().columns).drop(columns=SVM_COLUMNS_NAME)
+        X_test_stdsc = pd.DataFrame(stdsc.transform(X_test.copy()), columns=X_test.copy().columns).drop(columns=SVM_COLUMNS_NAME)
 
-    # best parameter
-    print('--------------best parameter------------------')
-    print('rf_best_param_v1: {}'.format(rf_best_param_v1))
-    print('xgb_best_param_v1: {}'.format(xgb_best_param_v1))
-    print('lgbm_best_param_v1: {}'.format(lgbm_best_param_v1))
-    print('svm_best_param_v1: {}'.format(svm_best_param_v1))
+        study = param_tuning('SVM', svm_X_droped_stdsc, y, X_test_stdsc, y_test, n_trials=100)
+        svm_best_param_v1 = study.best_params
+        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/svm'), 'svm')
+        print('--------------best parameter------------------')
+        print('svm_best_param_v1: {}'.format(svm_best_param_v1))
+        print('--------------Predict test data using best parameter------------------')
+        clf = SVC(**svm_best_param_v1, probability=True)
+        clf.fit(svm_X_droped_stdsc, y)
+        print('svm: {}'.format(f1_score(y_test, clf.predict(X_test_stdsc))))
 
-    print('--------------Predict test data using best parameter------------------')
-    clf = RandomForestClassifier(**rf_best_param_v1)
-    clf.fit(X, y)
-    print('rf: {}'.format(f1_score(y_test, clf.predict(X_test))))
-    clf = xgb.XGBClassifier(**xgb_best_param_v1)
-    clf.fit(X, y)
-    print('xgb: {}'.format(f1_score(y_test, clf.predict(X_test))))
-    clf = lgbm.LGBMClassifier(**lgbm_best_param_v1)
-    clf.fit(X, y)
-    print('lgbm: {}'.format(f1_score(y_test, clf.predict(X_test))))
-    clf = SVC(**svm_best_param_v1, probability=True)
-    clf.fit(X, y)
-    print('svm: {}'.format(f1_score(y_test, clf.predict(X_test))))
 
     sys.exit()
 
 
-    # Grid Search
-    # xgb_gs_cv = GridSearchCV(
-    #                     xgb.XGBClassifier(), # 識別器
-    #                     xgb_params, # 最適化したいパラメータセット 
-    #                     cv=cv, # 交差検定の回数
-    #                     scoring='neg_mean_squared_error',
-    #                     verbose=1,
-    #                     return_train_score = True
-    #                 )
-    # xgb_gs_cv.fit(xgb_X_droped, y)
-    # xgb_best_param = xgb_gs_cv.best_params_
-    
-    # print('XgBoost Best parameter: {}'.format(xgb_best_param))
-
-    xgb_oof, xgb_models = fit_xgb(xgb_X_droped.values, y, cv, params=xgb_best_param)
-    
-    # lightgbm
-    lgbm_X = X.copy()
-    # 特徴重要度の観察から特徴量削除
-    lgbm_X_droped = lgbm_X.drop(columns=LGBM_COLUMNS_NAME)
-
-    # Grid Search
-    lgbm_gs_cv = GridSearchCV(
-                        lgbm.LGBMClassifier(), # 識別器
-                        lgbm_params, # 最適化したいパラメータセット 
-                        cv=cv, # 交差検定の回数
-                        scoring='neg_mean_squared_error',
-                        verbose=1,
-                        return_train_score = True
-                    )
-    lgbm_gs_cv.fit(lgbm_X_droped, y)
-    lgbm_best_param = lgbm_gs_cv.best_params_
-    
-    print('LightGBM Best parameter: {}'.format(lgbm_best_param))
-
-    lgbm_oof, lgbm_models = fit_lgbm(lgbm_X_droped.values, y, cv, params=lgbm_best_param)
-
-    # svm
-    # 標準化 & 特徴重要度の観察から特徴量削除
-    stdsc = StandardScaler().fit(X.copy())
-    svm_X_droped = pd.DataFrame(stdsc.transform(X.copy()), columns=X.copy().columns).drop(columns=SVM_COLUMNS_NAME)
-
-    # Grid Search
-    svm_gs_cv = GridSearchCV(
-                        SVC(), # 識別器
-                        svm_params, # 最適化したいパラメータセット 
-                        cv=cv, # 交差検定の回数
-                        scoring='neg_mean_squared_error',
-                        verbose=1,
-                        return_train_score = True
-                    )
-    svm_gs_cv.fit(svm_X_droped, y)
-    svm_best_param = svm_gs_cv.best_params_
-
-    print('Support Vector Machine Best parameter: {}'.format(svm_best_param))
-
-    svm_oof, svm_models = fit_svm(svm_X_droped.values, y, cv, params=svm_best_param)
+    # training with best parameter
+    xgb_oof, xgb_models = fit_xgb(xgb_X_droped.values, y, cv, params=xgb_best_param_v1)
+    lgbm_oof, lgbm_models = fit_lgbm(lgbm_X_droped.values, y, cv, params=lgbm_best_param_v1)
+    svm_oof, svm_models = fit_svm(svm_X_droped.values, y, cv, params=svm_best_param_v1)
 
     ## for test
     ## for xgb
