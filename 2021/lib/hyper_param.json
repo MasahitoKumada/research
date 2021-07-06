@@ -1,35 +1,27 @@
 {
 
-    "rf": { 
-        "max_depth": 4, 
-        "min_samples_leaf": 2, 
-        "max_features": 4 ,
-        "random_state": 1
+    "rf": {
+        "max_depth": 6, 
+        "min_samples_leaf": 3, 
+        "max_features": 19
     },
     "xgb" :{
-        "eval_metric": "rmse", 
-        "gamma": 0.3858158080019999, 
-        "importance_type": "gain", 
-        "learning_rate": 0.05743522920318484,
-        "max_depth": 6,
-        "n_estimators": 6452, 
-        "objective": "binary:logistic", 
-        "subsample": 0.8087536794486196
+        "max_depth": 3, 
+        "learning_rate": 0.012358988818994734, 
+        "subsample": 0.12264519041663569, 
+        "gamma": 0.29696885408243673, 
+        "n_estimators": 6161
         },
     "lgbm":{
-        "colsample_bytree": 0.12191007455834094, 
-        "importance_type": "gain",
-         "learning_rate": 0.02840070247583657,
-         "max_depth": 7,
-         "metrics": "l2", 
-        "n_estimators": 6269, 
+        "max_depth": 3, 
         "num_leaves": 42, 
-        "objective": "binary"        
+        "learning_rate": 0.029046530440005318, 
+        "n_estimators": 2593, 
+        "colsample_bytree": 0.4932585274242707   
     }, 
     "svm":{
-        "C": 0.014079509821895432,
-        "decision_function_shape": "ovr", 
-       "gamma": 0.00011242685178549635,
-        "kernel": "linear"       
+        "C": 0.014079509821895432, 
+        "gamma": 0.00011242685178549635, 
+        "kernel": "linear"    
     }
 }

@@ -1,3 +1,4 @@
+from os import WEXITED
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import f1_score
@@ -49,8 +50,8 @@ def fit_rf(X, y, cv, params: dict=None):
 
         models.append(clf)
 
-        print(f"Fold {i+1} F1: {f1_score(y_valid, pred_i) * 100}")
+        print(f"Fold {i+1} F1: {f1_score(y_valid, pred_i, average='weighted') * 100}")
 
-    print('FINISHED | Whole Random Forest F1: {:.4f}'.format(f1_score(y, oof_pred) * 100))
+    print('FINISHED | Whole Random Forest F1: {:.4f}'.format(f1_score(y, oof_pred, average='weighted') * 100))
     print()
     return oof_pred, models

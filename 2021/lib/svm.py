@@ -49,9 +49,8 @@ def fit_svm(X, y, cv, params: dict=None):
         models.append(clf)
 
         # print(pred_i)
-        print(f"Fold {i+1} F1: {f1_score(y_valid, pred_i) * 100}")
+        print(f"Fold {i+1} F1: {f1_score(y_valid, pred_i, average='weighted') * 100}")
 
-    score = f1_score(y, oof_pred) * 100
-    print('FINISHED | Whole SVM F1: {:.4f}'.format(score))
+    print('FINISHED | Whole SVM F1: {:.4f}'.format(f1_score(y, oof_pred, average='weighted') * 100))
     print()
     return oof_pred, models

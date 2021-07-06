@@ -53,9 +53,8 @@ def fit_lgbm(X, y, cv, params: dict=None, verbose: int=10):
 
         # print(pred_i)
 
-        print(f"Fold {i+1} F1: {f1_score(y_valid, pred_i) * 100}")
+        print(f"Fold {i+1} F1: {f1_score(y_valid, pred_i, average='weighted') * 100}")
 
-    score = f1_score(y, oof_pred) * 100
-    print('FINISHED | Whole LightGBM F1: {:.4f}'.format(score))
+    print('FINISHED | Whole LightGBM F1: {:.4f}'.format(f1_score(y, oof_pred, average='weighted') * 100))
     print()
     return oof_pred, models

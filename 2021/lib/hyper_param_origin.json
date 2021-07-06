@@ -1,4 +1,10 @@
 {
+    "rf": { 
+        "max_depth": 4, 
+        "min_samples_leaf": 2, 
+        "max_features": 4 ,
+        "random_state": 1
+    },
     "xgb" :{
         "objective": "binary:logistic", 
         "eval_metric": "logloss", 
