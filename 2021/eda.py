@@ -1,18 +1,25 @@
 import os
-import sys
 import pandas as pd
 import matplotlib.pyplot as plt
 import japanize_matplotlib
 import seaborn as sns
-import numpy as np
+from scipy import stats
 
 
-DATA_TYPE = 'test'
-IN_DIR, IN_FILE = './data', 'cryptic_pocket_apo_' + DATA_TYPE + '.csv'
+IN_DIR = './data'
+IN_TRAIN_FILE, IN_TEST_FILE = 'cryptic_pocket_apo_train.csv', 'cryptic_pocket_apo_test.csv'
 OUT_DIR = './eda'
-OUT_FILE_HIST = 'cryptic_site_vs_other_site_for_apo_eda_hist_' + DATA_TYPE
-OUT_FILE_VIOLIN = 'cryptic_site_vs_other_site_for_apo_eda_violin_' + DATA_TYPE
-N_COLS = 5
+
+IS_HISTGRAM = False
+IS_INSPECTION = True
+
+if IS_HISTGRAM:
+    OUT_FILE_HIST = 'cryptic_site_vs_other_site_for_apo_eda_hist'
+    OUT_FILE_VIOLIN = 'cryptic_site_vs_other_site_for_apo_eda_violin'
+    N_COLS = 5
+
+
+
 
 
 
@@ -99,16 +106,35 @@ def violin_plot(df, filename):
 
 
 
+def two_sample_test(input_df):
+
+    test_dic = {} 
+    for clm in input_df.columns:
+        cryptic_site = input_df[input_df['cryptic pocket flag']==1]
+        other_site = input_df[input_df['cryptic pocket flag']==0]
+
+        if not clm=="cryptic pocket flag":
+            test_dic[clm] = stats.ks_2samp(cryptic_site[clm], other_site[clm]).pvalue
+
+    test_dic_sorted = sorted(test_dic.items(), key=lambda x:x[1])
+    for key,val in dict(test_dic_sorted).items():
+        print('culum name: {}, p value: {}'.format(key, val))
+
+
 def main():
 
-    input_df = read_csv(IN_DIR, IN_FILE)
+    input_train_df = read_csv(IN_DIR, IN_TRAIN_FILE)
+    input_test_df = read_csv(IN_DIR, IN_TEST_FILE)
+    input_df = pd.concat([input_train_df, input_test_df], axis=0)
 
-    cryptic_site_apo_df = input_df[input_df['cryptic pocket flag']==1].drop(columns='PDB Name')
-    other_site_apo_df = input_df[input_df['cryptic pocket flag']==0].drop(columns='PDB Name')
+    if IS_HISTGRAM :
+        cryptic_site_apo_df = input_df[input_df['cryptic pocket flag']==1].drop(columns='PDB Name')
+        other_site_apo_df = input_df[input_df['cryptic pocket flag']==0].drop(columns='PDB Name')
+        vs_multi_plot(cryptic_site_apo_df, other_site_apo_df, OUT_FILE_HIST)
+        violin_plot(input_df.drop(columns='PDB Name'), OUT_FILE_VIOLIN)
 
-    vs_multi_plot(cryptic_site_apo_df, other_site_apo_df, OUT_FILE_HIST )
-
-    violin_plot(input_df.drop(columns='PDB Name'), OUT_FILE_VIOLIN)
+    if IS_INSPECTION:
+        two_sample_test(input_df.drop(columns='PDB Name'))
 
 
 if __name__ == "__main__":
