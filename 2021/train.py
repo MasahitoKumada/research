@@ -53,10 +53,10 @@ SVM_FEATURE_FIG, SVM_FEATURE_FILENAME = "feature_importance_svm.png", "feature_s
 CONFUSION_MATRIX_FILENAME = "confusion_matrix_"
 
 # shap
-IS_RF_SHAP = True
-IS_XGB_SHAP = True
-IS_LGBM_SHAP = True
-IS_SVM_SHAP = True
+IS_RF_SHAP = False
+IS_XGB_SHAP = False
+IS_LGBM_SHAP = False
+IS_SVM_SHAP = False
 
 
 # 特徴重要度の観察から特徴量削除カラム
@@ -118,7 +118,7 @@ def make_confusion_matrix(y_test, y_pred, filename):
     ax.tick_params(axis='both', which='major', labelsize=16)  # Adjust to fit
     # save figure
     plt.savefig(os.path.join(OUTPUT_DIR, filename))
-    plt.close()
+    # plt.close()
 
 
 def main():
@@ -342,8 +342,8 @@ def main():
 
     # 予測がまともに動いているかどうかチェック
     if IS_Kfold_Out:
-        check_predict(rf_pred, rf_oof, os.path.join(OUTPUT_DIR, "check_predict_rf_.png"))
-        check_predict(xgb_pred, xgb_oof, os.path.join(OUTPUT_DIR, "check_predict_xgb_.png"))
+        check_predict(rf_pred, rf_oof, os.path.join(OUTPUT_DIR, "check_predict_rf.png"))
+        check_predict(xgb_pred, xgb_oof, os.path.join(OUTPUT_DIR, "check_predict_xgb.png"))
         check_predict(lgbm_pred, lgbm_oof, os.path.join(OUTPUT_DIR, "check_predict_lgbm.png"))
         check_predict(svm_pred, svm_oof, os.path.join(OUTPUT_DIR, "check_predict_svm.png"))
 
