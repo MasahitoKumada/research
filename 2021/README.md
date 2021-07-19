@@ -5,7 +5,7 @@
 
 
 ### data/cryptic_pocket_apo.xlsx       ...  構築データセット　\
-###     /cryptic_pocket_apo_train.csv  ...  構築データセットのうち学習データ \
+###\t/cryptic_pocket_apo_train.csv  ...  構築データセットのうち学習データ \
 ###     /cryptic_pocket_apo_test.csv   ...  構築データセットのうちテストデータ 
     
     
