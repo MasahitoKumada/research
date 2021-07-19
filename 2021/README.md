@@ -4,7 +4,7 @@
 ## 東京大学大学院新領域創成科学研究科メディカル情報生命専攻　　修士２年　熊田　匡仁
 
 
-* dtrain.py
+* train.py  ... input/train.csv, test.csv を読み取り、output/に推論結果等を出力する。
 
 
 
