@@ -16,5 +16,13 @@
 #### - output/apo/clustering/   ...  クラスタリング結果
 #### - output/apo/shap/         ...  SHAP結果
 
+#### - lib/*     ...  機械学習系ライブラリ、SHAP
+
+#### - eda/*                 ...  EDA結果
+#### - doc/*                 ...  進捗
+#### - doc/master_thesis/*   ...  修士論文
+#### - doc/reference/*  　　　...  参考文献等
+
+
     
     
