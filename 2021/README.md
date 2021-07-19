@@ -4,6 +4,10 @@
 ## 東京大学大学院新領域創成科学研究科メディカル情報生命専攻　　修士２年　熊田　匡仁
 
 
+train.py
+
+
+
 * data/
   * #### - data/cryptic_pocket_apo.xlsx       ...  構築データセット　
   * #### - data/cryptic_pocket_apo_train.csv  ...  構築データセットのうち学習データ 
