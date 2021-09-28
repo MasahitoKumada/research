@@ -39,6 +39,8 @@ OUTPUT_DIR = "./output/apo_add_features"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 OUTPUT_FILENAME = "predict.csv"
 
+HYPER_PARAM_FILE = './lib/hyper_param_add_features.json' # hyper param input file
+
 # Hold out or K-fold out
 IS_Kfold_Out = False
 if IS_Kfold_Out:
@@ -146,7 +148,7 @@ def main():
         cv = list(fold.split(X, y)) # もともとがgeneratorなため明示的に list に変換する
 
     # train param setting
-    hyper_params = json.load(open('./lib/hyper_param.json', 'r'))
+    hyper_params = json.load(open(HYPER_PARAM_FILE , 'r'))
     rf_params = hyper_params['rf']
     xgb_params = hyper_params['xgb']
     lgbm_params = hyper_params['lgbm']

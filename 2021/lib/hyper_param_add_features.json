@@ -1,0 +1,27 @@
+{
+
+    "rf": {
+        "max_depth": 15, 
+        "min_samples_leaf": 2, 
+        "max_features": 42
+    },
+    "xgb" :{
+        "max_depth": 3, 
+        "learning_rate": 0.061670584494281186, 
+        "subsample": 0.21738285992464812, 
+        "gamma": 0.5714444295226274, 
+        "n_estimators": 5199
+        },
+    "lgbm":{
+        "max_depth": 3, 
+        "num_leaves": 24, 
+        "learning_rate": 0.017166346992842713, 
+        "n_estimators": 6897, 
+        "colsample_bytree": 0.24529028106461104   
+    }, 
+    "svm":{
+        "C": 100.86090098685973, 
+        "gamma": 74.65283462691556, 
+        "kernel": "sigmoid" 
+    }
+}
