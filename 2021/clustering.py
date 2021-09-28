@@ -8,19 +8,33 @@ from sklearn.manifold import TSNE
 from sklearn.decomposition import TruncatedSVD
 import umap.umap_ as umap
 from scipy.sparse.csgraph import connected_components
+import warnings
 
 
-INPUT_DIR = './input_apo'
-TRAIN_FILE, TEST_FILE = 'train.csv', 'test.csv'
-OUT_DIR = './output_apo/clustering'
+# 警告文非表示
+warnings.resetwarnings()
+warnings.filterwarnings('ignore')
 
-SELECT_CLMS = ['Score', 'Druggability Score', 'Number of Alpha Spheres',
-       'Total SASA', 'Polar SASA', 'Apolar SASA', 'Volume',
-       'Mean local hydrophobic density', 'Mean alpha sphere radius',
-       'Mean alp. sph. solvent access', 'Apolar alpha sphere proportion',
-       'Hydrophobicity score', 'Volume score', 'Polarity score',
-       'Charge score', 'Proportion of polar atoms', 'Alpha sphere density',
-       'Cent. of mass - Alpha Sphere max dist', 'Flexibility']
+
+INPUT_DIR = './input/apo'
+TRAIN_FILE, TEST_FILE = 'train_add_features.csv', 'test_add_features.csv'
+OUT_DIR = './output/apo_add_features/clustering'
+
+os.makedirs(OUT_DIR, exist_ok=True)
+
+SELECT_CLMS = [ 
+        'Score', 'Druggability Score', 'Number of Alpha Spheres',
+        'Total SASA', 'Polar SASA', 'Apolar SASA', 'Volume',
+        'Mean local hydrophobic density', 'Mean alpha sphere radius',
+        'Mean alp. sph. solvent access', 'Apolar alpha sphere proportion',
+        'Hydrophobicity score', 'Volume score', 'Polarity score',
+        'Charge score', 'Proportion of polar atoms', 'Alpha sphere density',
+        'Cent. of mass - Alpha Sphere max dist', 'Flexibility',
+        'ALA', 'ARG', 'ASN', 'ASP', 'CYS', 'GLN', 'GLU', 'GLY',
+        'ILE', 'LEU', 'LYS', 'MET', 'PHE', 'PRO', 'SER', 'THR',
+        'TRP', 'TYR', 'VAL', 'HIS' ]
+
+
 
 
 def read_csv(dir, filename):
@@ -42,7 +56,6 @@ def main():
     # 標準化
     whole_df[SELECT_CLMS] = whole_df[SELECT_CLMS].apply(lambda x: (x-x.mean())/x.std(), axis=0)
 
-
     features_df = dimensional_compression(whole_df, 'pca', is_annotate=False)
     features_df = dimensional_compression(whole_df, 'tsne', is_annotate=False)
     features_df = dimensional_compression(whole_df, 'svd', is_annotate=False)
@@ -54,6 +67,7 @@ def dimensional_compression(input_df, select_method, is_annotate=False):
     if select_method=='pca':
         #主成分分析
         pca = PCA(random_state=0)
+
         features = pca.fit_transform(input_df[SELECT_CLMS])
         # 主成分得点
         tmp_features_df = pd.DataFrame(features, columns=["PC{}".format(x + 1) for x in range(len(input_df[SELECT_CLMS].columns))])

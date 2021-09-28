@@ -1,0 +1,11 @@
+[11:39:04] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+Y true:  [1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0]
+Random Forest predict:  48.275862068965516 [0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 1 1 0 0 1]
+XgBoost predict:  45.16129032258064 [0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 1 1 0 0 1 1 0 0 0 1 0 1 0 0 1 1 1 0 0 0]
+LightGBM predict:  52.94117647058824 [0 0 0 0 0 1 0 1 1 0 1 0 0 0 1 1 1 1 0 0 1 1 0 0 1 1 0 1 0 0 0 1 1 1 0 0]
+SVM predict:  51.61290322580646 [0 0 1 0 0 0 0 1 1 0 1 0 0 0 0 1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 1 0 0 0]
+Final Predict:  [0 0 1 0 0 0 0 1 1 0 1 0 0 0 0 1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 1 0 0 0]
+Total Score:  51.61290322580646
+
+correct_classified PDB:  ['1B6BA', '1B6BA', '1B6BA', '1B6BA', '1BSQA', '1BSQA', '1E2XA', '1E2XA', '1JBUH', '1KZ7D', '1KZ7D', '1KZ7D', '1KZ7D', '1MY0B', '1MY0B', '1Z92A', '1ZAHB', '3FDLA', '3GXDB', '3GXDB', '4HB2C']
+miss_classified PDB:  ['1B6BA', '1B6BA', '1BNCB', '1BNCB', '1JBUH', '1JWPA', '1JWPA', '1Z92A', '1ZAHB', '3FDLA', '3FDLA', '3FDLA', '3FDLA', '3FDLA', '4HB2C']

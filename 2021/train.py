@@ -35,9 +35,12 @@ warnings.filterwarnings('ignore')
 
 # 入出力
 INPUT_DIR = "./input/apo"
-TRAIN_FILE, TEST_FILE = "train.csv", "test.csv"
+TRAIN_FILE, TEST_FILE = "train_add_features.csv", "test_add_features.csv"
 OUTPUT_DIR = "./output_apo"
 OUTPUT_FILENAME = "predict.csv"
+
+OUTPUT_OPTUNA = "optuna3"  #for save optuna result
+os.makedirs(os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA),exist_ok=True)
 
 
 # Optunaで Tuning するかどうか
@@ -57,6 +60,7 @@ SVM_FEATURE_FIG, SVM_FEATURE_FILENAME = "feature_importance_svm.png", "feature_s
 CONFUSION_MATRIX_FILENAME = "confusion_matrix.png"
 
 # shap
+IS_RF_SHAP = True
 IS_XGB_SHAP = True
 IS_LGBM_SHAP = True
 IS_SVM_SHAP = True
@@ -77,16 +81,22 @@ def read_csv(dir, filename):
     return pd.read_csv(file_path)
 
 
-def split_train_data_first(df):
-    y = df[df.columns[0]].values
-    X = df[df.columns[1:]]
-    return y, X
+def split_dataset(df):
+
+    select_clms = [ 
+        'Score', 'Druggability Score', 'Number of Alpha Spheres',
+        'Total SASA', 'Polar SASA', 'Apolar SASA', 'Volume',
+        'Mean local hydrophobic density', 'Mean alpha sphere radius',
+        'Mean alp. sph. solvent access', 'Apolar alpha sphere proportion',
+        'Hydrophobicity score', 'Volume score', 'Polarity score',
+        'Charge score', 'Proportion of polar atoms', 'Alpha sphere density',
+        'Cent. of mass - Alpha Sphere max dist', 'Flexibility',
+        'ALA', 'ARG', 'ASN','ASP','CYS','GLN','GLU','GLY',
+        'ILE', 'LEU', 'LYS','MET','PHE','PRO','SER','THR',
+        'TRP', 'TYR', 'VAL', 'HIS', 'ASX', 'GLX', 'UNK' ]
 
 
-def split_train_data_last(df):
-    X = df[df.columns[:-1]]
-    y = df[df.columns[-1]].values
-    return X, y
+    return df[select_clms], df['cryptic pocket flag'], df['PDB Name']
 
 
 def select_fold_type(fold_type):
@@ -106,13 +116,11 @@ def main():
     # read input file
     # for train
     train_df = read_csv(INPUT_DIR, TRAIN_FILE)
-    X, y = split_train_data_last(train_df)
-    X_train_pdb_name, X = split_train_data_first(X)
+    X, y, X_train_pdb_name= split_dataset(train_df)
 
     # for test
     test_df = read_csv(INPUT_DIR, TEST_FILE)
-    X_test, y_test = split_train_data_last(test_df)
-    X_test_pdb_name, X_test = split_train_data_first(X_test)
+    X_test, y_test, X_test_pdb_name= split_dataset(test_df)
 
     # select fold type
     fold = select_fold_type(FOLD_TYPE)
@@ -124,11 +132,13 @@ def main():
     lgbm_params = hyper_params['lgbm']
     svm_params = hyper_params['svm']
 
+
     ## for train
     ## Tuning by Optuna
     
     # random forest
     if TUNING_RF:
+        os.makedirs(os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA+'/rf'),exist_ok=True)
         ## 前処理
         rf_X = X.copy()
         # 特徴重要度の観察から特徴量削除
@@ -136,7 +146,7 @@ def main():
 
         study = param_tuning('RandomForest', rf_X_droped, y, X_test, y_test, n_trials=100)
         rf_best_param_v1 = study.best_params
-        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/rf'), 'rf')
+        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA+'/rf'), 'rf')
 
         print('--------------best parameter------------------')
         print('rf_best_param_v1: {}'.format(rf_best_param_v1))
@@ -149,6 +159,7 @@ def main():
 
     # xgboost
     if TUNING_XGB:
+        os.makedirs(os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA+'/xgb'),exist_ok=True)
         ## 前処理
         xgb_X = X.copy()
         # 特徴重要度の観察から特徴量削除
@@ -156,7 +167,7 @@ def main():
 
         study = param_tuning('XGboost', xgb_X_droped, y, X_test, y_test, n_trials=100)
         xgb_best_param_v1 = study.best_params
-        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/xgb'), 'xgb')
+        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA+'/xgb'), 'xgb')
         print('--------------best parameter------------------')
         print('xgb_best_param_v1: {}'.format(xgb_best_param_v1))
         print('--------------Predict test data using best parameter------------------')
@@ -167,6 +178,7 @@ def main():
 
     # lightgbm
     if TUNING_LGBM:
+        os.makedirs(os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA+'/lgbm'),exist_ok=True)
         ## 前処理
         lgbm_X = X.copy()
         # 特徴重要度の観察から特徴量削除
@@ -174,7 +186,7 @@ def main():
 
         study = param_tuning('LightGBM', lgbm_X_droped, y, X_test, y_test, n_trials=100)
         lgbm_best_param_v1 = study.best_params
-        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/xgb'), 'xgb')
+        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA+'/lgbm'), 'xgb')
         print('--------------best parameter------------------')
         print('lgbm_best_param_v1: {}'.format(lgbm_best_param_v1))
         print('--------------Predict test data using best parameter------------------')
@@ -185,6 +197,7 @@ def main():
 
     # support vector machine
     if TUNING_SVM:
+        os.makedirs(os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA+'/svm'),exist_ok=True)
         ## 前処理
         # 標準化 & 特徴重要度の観察から特徴量削除
         stdsc = StandardScaler().fit(X.copy())
@@ -193,7 +206,7 @@ def main():
 
         study = param_tuning('SVM', svm_X_droped_stdsc, y, X_test_stdsc, y_test, n_trials=100)
         svm_best_param_v1 = study.best_params
-        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, 'optuna/svm'), 'svm')
+        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA+'/svm'), 'svm')
         print('--------------best parameter------------------')
         print('svm_best_param_v1: {}'.format(svm_best_param_v1))
         print('--------------Predict test data using best parameter------------------')
@@ -226,13 +239,13 @@ def main():
     # shap for xgb
     if IS_XGB_SHAP:
         shap = Shap(df_test_droped_xgb, xgb_models, X_test_pdb_name, 'xgboost')
-        shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/xgb/shap_summary_xgb.png'))
-        shap.decision_plot(os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_xgb.png'))
-        shap.decision_ok_vs_miss_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_ok_vs_miss_xgb.png'))
-        shap.decision_miss_data_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_miss_xgb.png'))
-        shap.decision_high_prob_data_plot(xgb_pred, 0.90, os.path.join(OUTPUT_DIR, './shap/xgb/shap_decision_ok_high_prob_xgb.png'))
-        shap.dependence_plot(ind='Mean alp. sph. solvent access', interaction_index='Polarity score', out_path=os.path.join(OUTPUT_DIR, './shap/xgb/shap_dependence_xgb.png'))
-        shap.force_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, './shap/xgb/shap_force_miss_xgb.png'))
+        shap.summary_plot(os.path.join(OUTPUT_DIR, 'shap/xgb/shap_summary_xgb.png'))
+        shap.decision_plot(os.path.join(OUTPUT_DIR, 'shap/xgb/shap_decision_xgb.png'))
+        shap.decision_ok_vs_miss_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, 'shap/xgb/shap_decision_ok_vs_miss_xgb.png'))
+        shap.decision_miss_data_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, 'shap/xgb/shap_decision_miss_xgb.png'))
+        shap.decision_high_prob_data_plot(xgb_pred, 0.90, os.path.join(OUTPUT_DIR, 'shap/xgb/shap_decision_ok_high_prob_xgb.png'))
+        shap.dependence_plot(ind='Mean alp. sph. solvent access', interaction_index='Polarity score', out_path=os.path.join(OUTPUT_DIR, 'shap/xgb/shap_dependence_xgb.png'))
+        shap.force_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, 'shap/xgb/shap_force_miss_xgb.png'))
 
     ## for lgbm
     df_test_droped_lgbm = X_test.copy().drop(columns=LGBM_COLUMNS_NAME)
@@ -245,13 +258,13 @@ def main():
     # shap for lgbm
     if IS_LGBM_SHAP:
         shap = Shap(df_test_droped_lgbm, lgbm_models, X_test_pdb_name, 'lightgbm')
-        shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/lgbm/shap_summary_lgbm.png'))
-        shap.decision_plot(os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_lgbm.png'))
-        shap.decision_ok_vs_miss_plot(lgbm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_ok_vs_miss_lgbm.png'))
-        shap.decision_miss_data_plot(lgbm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_miss_lgbm.png'))
-        shap.decision_high_prob_data_plot(lgbm_pred, 0.80, os.path.join(OUTPUT_DIR, './shap/lgbm/shap_decision_ok_high_prob_lgbm.png'))
-        shap.dependence_plot(ind='Mean alp. sph. solvent access', interaction_index='Polarity score', out_path=os.path.join(OUTPUT_DIR, './shap/lgbm/shap_dependence_lgbm.png'))
-        shap.force_plot(lgbm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/lgbm/shap_force_miss_lgbm.png'))
+        shap.summary_plot(os.path.join(OUTPUT_DIR, 'shap/lgbm/shap_summary_lgbm.png'))
+        shap.decision_plot(os.path.join(OUTPUT_DIR, 'shap/lgbm/shap_decision_lgbm.png'))
+        shap.decision_ok_vs_miss_plot(lgbm_pred, y_test, os.path.join(OUTPUT_DIR, 'shap/lgbm/shap_decision_ok_vs_miss_lgbm.png'))
+        shap.decision_miss_data_plot(lgbm_pred, y_test, os.path.join(OUTPUT_DIR, 'shap/lgbm/shap_decision_miss_lgbm.png'))
+        shap.decision_high_prob_data_plot(lgbm_pred, 0.80, os.path.join(OUTPUT_DIR, 'shap/lgbm/shap_decision_ok_high_prob_lgbm.png'))
+        shap.dependence_plot(ind='Mean alp. sph. solvent access', interaction_index='Polarity score', out_path=os.path.join(OUTPUT_DIR, 'shap/lgbm/shap_dependence_lgbm.png'))
+        shap.force_plot(lgbm_pred, y_test, os.path.join(OUTPUT_DIR, 'shap/lgbm/shap_force_miss_lgbm.png'))
 
     # 特徴重要度の確認
     fig, ax = visualize_importance(lgbm_models, df_test_droped_lgbm, os.path.join(OUTPUT_DIR, LGBM_FEATURE_FIG), os.path.join(OUTPUT_DIR, LGBM_FEATURE_FILENAME))
@@ -268,13 +281,13 @@ def main():
     # shap for svm
     if IS_SVM_SHAP:
         shap = Shap(df_test_droped_svm, svm_models, X_test_pdb_name, 'svm')
-        shap.summary_plot(os.path.join(OUTPUT_DIR, './shap/svm/shap_summary_svm.png'))
-        shap.decision_plot(os.path.join(OUTPUT_DIR, './shap/svm/shap_decision_svm.png'))
-        shap.decision_ok_vs_miss_plot(svm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/svm/shap_decision_ok_vs_miss_svm.png'))
-        shap.decision_miss_data_plot(svm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/svm/shap_decision_miss_svm.png'))
-        shap.decision_high_prob_data_plot(svm_pred, 0.90, os.path.join(OUTPUT_DIR, './shap/svm/shap_decision_ok_high_prob_svm.png'))
-        shap.dependence_plot(ind='Mean alp. sph. solvent access', interaction_index='Polarity score', out_path=os.path.join(OUTPUT_DIR, './shap/svm/shap_dependence_svm.png'))
-        shap.force_plot(svm_pred, y_test, os.path.join(OUTPUT_DIR, './shap/svm/shap_force_miss_svm.png'))
+        shap.summary_plot(os.path.join(OUTPUT_DIR, 'shap/svm/shap_summary_svm.png'))
+        shap.decision_plot(os.path.join(OUTPUT_DIR, 'shap/svm/shap_decision_svm.png'))
+        shap.decision_ok_vs_miss_plot(svm_pred, y_test, os.path.join(OUTPUT_DIR, 'shap/svm/shap_decision_ok_vs_miss_svm.png'))
+        shap.decision_miss_data_plot(svm_pred, y_test, os.path.join(OUTPUT_DIR, 'shap/svm/shap_decision_miss_svm.png'))
+        shap.decision_high_prob_data_plot(svm_pred, 0.90, os.path.join(OUTPUT_DIR, 'shap/svm/shap_decision_ok_high_prob_svm.png'))
+        shap.dependence_plot(ind='Mean alp. sph. solvent access', interaction_index='Polarity score', out_path=os.path.join(OUTPUT_DIR, 'shap/svm/shap_dependence_svm.png'))
+        shap.force_plot(svm_pred, y_test, os.path.join(OUTPUT_DIR, 'shap/svm/shap_force_miss_svm.png'))
 
 
     ## ensamble
