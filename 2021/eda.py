@@ -7,19 +7,18 @@ from scipy import stats
 
 
 IN_DIR = './data'
-IN_TRAIN_FILE, IN_TEST_FILE = 'cryptic_pocket_apo_train.csv', 'cryptic_pocket_apo_test.csv'
+IN_TRAIN_FILE, IN_TEST_FILE = 'cryptic_pocket_apo_train_add_features.csv', 'cryptic_pocket_apo_test_add_features.csv'
 OUT_DIR = './eda'
 
-IS_HISTGRAM = False
+os.makedirs(OUT_DIR, exist_ok=True)
+
+IS_HISTGRAM = True
 IS_INSPECTION = True
 
 if IS_HISTGRAM:
-    OUT_FILE_HIST = 'cryptic_site_vs_other_site_for_apo_eda_hist'
-    OUT_FILE_VIOLIN = 'cryptic_site_vs_other_site_for_apo_eda_violin'
+    OUT_FILE_HIST = 'cryptic_site_vs_other_site_for_apo_add_features_eda_hist'
+    OUT_FILE_VIOLIN = 'cryptic_site_vs_other_site_for_apo_add_features_eda_violin'
     N_COLS = 5
-
-
-
 
 
 
@@ -63,12 +62,13 @@ def vs_multi_plot(df1, df2, filename):
     # プロット
     for c, ax in zip(columns, axes.ravel()):
 
+
             if df1[c].dtypes=='object':
-                df1[c].value_counts().plot(ax=ax, kind='bar', alpha=0.7, label='cryptic site', color='C2')
-                df2[c].value_counts().plot(ax=ax, kind='bar', alpha=0.7, label='concave site', color='C3')
+                df1[c].value_counts().plot(ax=ax, kind='bar', alpha=0.5, label='cryptic site', color='C2', range=(min(df1[c].value_counts()), max(df1[c].value_counts())), bins=15)
+                df2[c].value_counts().plot(ax=ax, kind='bar', alpha=0.5, label='concave site', color='C3', range=(min(df2[c].value_counts()), max(df2[c].value_counts())), bins=15)
             else:
-                df1[c].plot(ax=ax, kind='hist', alpha=0.7, label='cryptic site', color='C2')
-                df2[c].plot(ax=ax, kind='hist', alpha=0.7, label='concave site', color='C3')
+                df1[c].plot(ax=ax, kind='hist', alpha=0.5, label='cryptic site', color='C2', range=(min(df1[c]), max(df1[c])), bins=15)
+                df2[c].plot(ax=ax, kind='hist', alpha=0.5, label='concave site', color='C3', range=(min(df2[c]), max(df2[c])), bins=15)
 
             ax.set_title(c)
             ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left', borderaxespad=0)
@@ -135,6 +135,8 @@ def main():
 
     if IS_INSPECTION:
         two_sample_test(input_df.drop(columns='PDB Name'))
+
+    print('OK.')
 
 
 if __name__ == "__main__":
