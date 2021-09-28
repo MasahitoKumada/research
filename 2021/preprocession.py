@@ -9,11 +9,13 @@ IN_PATH, IN_FILE = "./data", "cryptic_pocket_apo.csv"
 
 # 学習データとテストデータ(別々に用意した)を読込む。
 DO_READ_DATA_TRAIN_TEST = True
-IN_PATH, IN_TRAIN_FILE = "./data", "cryptic_pocket_apo_train.csv"
-IN_PATH, IN_TEST_FILE = "./data", "cryptic_pocket_apo_test.csv"
+IN_PATH, IN_TRAIN_FILE = "./data", "cryptic_pocket_apo_train_add_features.csv"
+IN_PATH, IN_TEST_FILE = "./data", "cryptic_pocket_apo_test_add_features.csv"
 
 # 出力ディレクトリ
 OUT_PATH = "./input/apo"
+OUT_TRAIN_FILE = "train_add_features.csv"
+OUT_TEST_FILE = "test_add_features.csv"
 
 
 
@@ -50,8 +52,8 @@ def main():
         test_df = read_csv(IN_TEST_FILE)
 
     # save
-    save_csv(train_df, "train.csv")
-    save_csv(test_df, "test.csv")
+    save_csv(train_df, OUT_TRAIN_FILE)
+    save_csv(test_df, OUT_TEST_FILE)
 
 
 

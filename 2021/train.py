@@ -44,10 +44,10 @@ os.makedirs(os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA),exist_ok=True)
 
 
 # Optunaで Tuning するかどうか
-TUNING_RF = False
-TUNING_XGB = False
+TUNING_RF = True
+TUNING_XGB = True
 TUNING_LGBM = True
-TUNING_SVM = False
+TUNING_SVM = True
 
 # k-cross validation
 FOLD_TYPE = "k-fold" # 'k-fold' or 'k-stratified'
@@ -60,10 +60,10 @@ SVM_FEATURE_FIG, SVM_FEATURE_FILENAME = "feature_importance_svm.png", "feature_s
 CONFUSION_MATRIX_FILENAME = "confusion_matrix.png"
 
 # shap
-IS_RF_SHAP = True
-IS_XGB_SHAP = True
-IS_LGBM_SHAP = True
-IS_SVM_SHAP = True
+IS_RF_SHAP = False
+IS_XGB_SHAP = False
+IS_LGBM_SHAP =False
+IS_SVM_SHAP = False
 
 # 特徴重要度の観察から特徴量削除カラム
 RF_COLUMNS_NAME = []
@@ -128,9 +128,9 @@ def main():
 
     # train param setting
     hyper_params = json.load(open('./lib/hyper_param.json', 'r'))
-    xgb_params = hyper_params['xgb']
-    lgbm_params = hyper_params['lgbm']
-    svm_params = hyper_params['svm']
+    # xgb_params = hyper_params['xgb']
+    # lgbm_params = hyper_params['lgbm']
+    # svm_params = hyper_params['svm']
 
 
     ## for train

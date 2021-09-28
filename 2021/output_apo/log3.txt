@@ -1,3 +1,12 @@
+--------------best parameter------------------
+rf_best_param_v1: {'max_depth': 15, 'min_samples_leaf': 2, 'max_features': 42}
+--------------Predict test data using best parameter------------------
+rf: 0.5333333333333333
+--------------best parameter------------------
+xgb_best_param_v1: {'max_depth': 3, 'learning_rate': 0.061670584494281186, 'subsample': 0.21738285992464812, 'gamma': 0.5714444295226274, 'n_estimators': 5199}
+--------------Predict test data using best parameter------------------
+[12:49:24] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+xgb: 0.5454545454545454
 [LightGBM] [Warning] Unknown parameter: eval_metric
 [LightGBM] [Warning] Unknown parameter: eval_metric
 [LightGBM] [Warning] Unknown parameter: eval_metric
@@ -102,3 +111,7 @@
 lgbm_best_param_v1: {'max_depth': 3, 'num_leaves': 24, 'learning_rate': 0.017166346992842713, 'n_estimators': 6897, 'colsample_bytree': 0.24529028106461104}
 --------------Predict test data using best parameter------------------
 lgbm: 0.5882352941176471
+--------------best parameter------------------
+svm_best_param_v1: {'C': 100.86090098685973, 'gamma': 74.65283462691556, 'kernel': 'sigmoid'}
+--------------Predict test data using best parameter------------------
+svm: 0.7567567567567567
