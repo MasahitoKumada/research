@@ -29,9 +29,9 @@ warnings.resetwarnings()
 warnings.filterwarnings('ignore')
 
 # 入出力
-INPUT_DIR = "./input_apo"
+INPUT_DIR = "./input"
 TRAIN_FILE, TEST_FILE = "train.csv", "test.csv"
-OUTPUT_DIR = "./output_apo"
+OUTPUT_DIR = "./output/apo"
 OUTPUT_FILENAME = "predict.csv"
 
 # k-cross validation
