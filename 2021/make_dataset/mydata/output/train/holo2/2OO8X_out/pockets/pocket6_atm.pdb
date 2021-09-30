@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0714
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9199
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6693
+HEADER 5  - Mean B-factor of pocket residues  : 0.1166
+HEADER 6  - Hydrophobicity Score              : -1.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 486.1581
+HEADER 10  -Pocket volume (convex hull)       : 64.3499
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.6923
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.4815
+ATOM   1940   CB VAL X1090      72.128  21.353  69.746  0.00  0.00           C 0
+ATOM   1916   CG GLN X1087      67.767  23.817  65.757  0.00  0.00           C 0
+ATOM   1941  CG1 VAL X1090      73.326  22.339  69.860  0.00  0.00           C 0
+ATOM   1942  CG2 VAL X1090      72.491  20.194  68.783  0.00  0.00           C 0
+ATOM   1909    O ALA X1086      69.279  19.902  68.175  0.70  1.07           O 0
+ATOM   1910   CB ALA X1086      68.439  18.478  65.333  0.00  0.00           C 0
+ATOM   1908    C ALA X1086      68.302  19.912  67.410  0.00  0.00           C 0
+ATOM   1912   CA GLN X1087      67.946  22.288  67.764  0.00  0.00           C 0
+ATOM   1917   CD GLN X1087      66.943  24.824  64.984  0.00  0.00           C 0
+ATOM   1915   CB GLN X1087      67.191  23.455  67.115  0.00  0.00           C 0
+ATOM   1918  NE2 GLN X1087      67.620  25.674  64.224  0.32  9.84           N 0
+ATOM   1911    N GLN X1087      67.608  21.013  67.130  0.00  0.00           N 0
+ATOM   1914    O GLN X1087      68.445  22.772  70.046  0.48  3.21           O 0
+ATOM   1948   OG SER X1091      68.956  24.745  72.046  0.70  6.43           O 0
+ATOM   1919  OE1 GLN X1087      65.716  24.813  65.031  0.52  7.50           O 0
+ATOM   1865    O GLU X1081      60.465  29.104  65.571  0.81  4.29           O 0
+ATOM   1824  NH2 ARG X1076      61.762  30.469  67.496  0.61  6.56           N 0
+ATOM   1793  OE1 GLN X1073      64.223  27.953  70.526  0.60  5.36           O 0
+ATOM   1886   CB PRO X1083      63.438  24.904  68.042  0.00  0.00           C 0
+ATOM   1883   CA PRO X1083      62.795  24.926  66.646  0.00  0.00           C 0
+ATOM   1874    O ARG X1082      61.039  25.670  64.678  0.24  9.64           O 0
+TER
+END

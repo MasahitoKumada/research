@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0120
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9413
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5537
+HEADER 5  - Mean B-factor of pocket residues  : 0.5678
+HEADER 6  - Hydrophobicity Score              : -5.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.2864
+HEADER 10  -Pocket volume (convex hull)       : 6.1151
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   8734  ND1 HIS B 411      -9.895  11.697  22.426  0.00  0.00           N 0
+ATOM  11538  OD1 ASN B 745     -16.857  12.566  19.700  0.64  1.07           O 0
+ATOM  11537   CG ASN B 745     -17.193  13.405  20.529  0.00  0.00           C 0
+ATOM  11539  ND2 ASN B 745     -17.007  14.692  20.352  0.60  9.84           N 0
+ATOM  11567   CB ARG B 749     -10.752  10.747  15.523  0.00  0.00           C 0
+ATOM  11566    O ARG B 749      -8.554  10.095  17.776  0.00  0.00           O 0
+ATOM  11587  CG2 VAL B 751      -6.981  13.573  19.422  0.00  0.00           C 0
+ATOM  11577    O PRO B 750      -7.349  12.434  15.904  0.00  0.00           O 0
+ATOM  11536   CB ASN B 745     -17.867  13.011  21.813  0.00  0.00           C 0
+ATOM   8754   CB PRO B 413     -13.763  10.685  24.521  0.00  0.00           C 0
+ATOM   8736  CE1 HIS B 411      -9.983  12.129  23.671  0.00  0.00           C 0
+ATOM  11549  OG1 THR B 747     -15.569  11.821  17.639  0.80  4.29           O 0
+ATOM  11563    N ARG B 749     -11.088   9.106  17.346  0.00  0.00           N 0
+ATOM  11568   CG ARG B 749     -12.190  10.762  15.138  0.00  0.00           C 0
+ATOM   8755   CG PRO B 413     -14.256  10.009  23.268  0.00  0.00           C 0
+ATOM  11547    O THR B 747     -14.920   9.564  19.806  0.53  2.14           O 0
+ATOM   8731    O HIS B 411     -10.561   8.358  20.612  0.48  1.07           O 0
+TER
+END

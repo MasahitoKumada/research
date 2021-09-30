@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0249
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9449
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6527
+HEADER 5  - Mean B-factor of pocket residues  : 0.3454
+HEADER 6  - Hydrophobicity Score              : 14.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.9640
+HEADER 10  -Pocket volume (convex hull)       : 9.9885
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    301    O ALA B  41      77.604  85.504  61.095  0.00  0.00           O 0
+ATOM    333   NZ LYS B  45      78.176  90.923  58.900  0.00  0.00           N 1
+ATOM    300    C ALA B  41      77.307  84.814  60.120  0.00  0.00           C 0
+ATOM    303    N GLU B  42      76.312  85.133  59.293  0.00  0.00           N 0
+ATOM    302   CB ALA B  41      79.125  83.752  58.728  0.00  0.00           C 0
+ATOM    331   CD LYS B  45      78.840  90.346  61.222  0.00  0.00           C 0
+ATOM    280    O ASP B  38      76.379  83.658  56.538  0.69  2.14           O 0
+ATOM    284  OD2 ASP B  38      79.322  82.322  53.011  0.00  0.00           O 1
+ATOM    278   CA ASP B  38      77.291  82.223  54.833  0.00  0.00           C 0
+ATOM    309   CD GLU B  42      75.531  88.764  57.357  0.00  0.00           C 0
+ATOM    311  OE2 GLU B  42      76.215  89.435  56.557  0.00  0.00           O 1
+ATOM    308   CG GLU B  42      75.324  87.281  57.101  0.00  0.00           C 0
+ATOM    282   CG ASP B  38      78.222  82.637  52.508  0.00  0.00           C 0
+ATOM   1916  CD2 LEU B 250      75.310  85.026  51.225  0.00  0.00           C 0
+ATOM   1942   NZ LYS B 253      79.938  83.918  49.477  0.69  8.75           N 1
+ATOM    283  OD1 ASP B  38      78.076  82.879  51.286  0.00  0.00           O 0
+ATOM   1882  CD1 LEU B 246      74.182  89.021  53.589  0.00  0.00           C 0
+ATOM    281   CB ASP B  38      77.012  82.739  53.418  0.00  0.00           C 0
+TER
+END

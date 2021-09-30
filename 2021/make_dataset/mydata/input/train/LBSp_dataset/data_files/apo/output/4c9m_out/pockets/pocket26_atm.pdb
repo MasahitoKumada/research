@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : 0.0316
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7726
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4699
+HEADER 5  - Mean B-factor of pocket residues  : 0.1698
+HEADER 6  - Hydrophobicity Score              : 27.3636
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1818
+HEADER 9  - Pocket volume (Monte Carlo)       : 190.0019
+HEADER 10  -Pocket volume (convex hull)       : 3.6715
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   6590   CG PRO B  17      36.332  29.963  41.249  0.00  0.00           C 0
+ATOM   7308    O GLY B  62      42.649  26.458  44.761  0.53  7.50           O 0
+ATOM   7315    O GLY B  63      41.844  25.317  41.908  0.51  6.43           O 0
+ATOM   7807  NH2 ARG B  92      44.098  29.255  39.285  0.00  0.00           N 0
+ATOM   6550  CG1 VAL B  14      40.053  28.411  47.715  0.00  0.00           C 0
+ATOM   7230  CZ2 TRP B  57      37.385  25.690  43.926  0.00  0.00           C 0
+ATOM   6564    O ALA B  15      36.940  29.047  46.512  0.38  4.29           O 0
+ATOM   7313   CA GLY B  63      40.782  24.609  43.931  0.00  0.00           C 0
+ATOM   6591   CD PRO B  17      36.240  29.088  42.484  0.00  0.00           C 0
+ATOM   7227  NE1 TRP B  57      37.452  25.514  41.432  0.56  2.19           N 0
+ATOM  11452    N LEU B 325      42.523  26.341  36.416  0.61  1.09           N 0
+ATOM  11441   CA ASP B 324      41.376  28.421  35.952  0.00  0.00           C 0
+ATOM  11446  OD1 ASP B 324      39.092  29.601  37.017  0.00  0.00           O 0
+ATOM   7320   CA HIS B  64      40.699  23.343  40.346  0.00  0.00           C 0
+ATOM   7343  CD1 TRP B  65      38.050  24.857  36.130  0.00  0.00           C 0
+ATOM  11445   CG ASP B 324      38.864  28.788  36.099  0.00  0.00           C 0
+TER
+END

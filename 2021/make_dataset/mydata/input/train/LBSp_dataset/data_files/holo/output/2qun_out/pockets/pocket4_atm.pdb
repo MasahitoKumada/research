@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0851
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9045
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5567
+HEADER 5  - Mean B-factor of pocket residues  : 0.4948
+HEADER 6  - Hydrophobicity Score              : 18.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.1747
+HEADER 10  -Pocket volume (convex hull)       : 1.8271
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   2042    O VAL A 261      -2.162 -24.001 -25.900  0.00  0.00           O 0
+ATOM   1980   CB LYS A 251      -5.160 -25.382 -26.658  0.00  0.00           C 0
+ATOM   1982   CD LYS A 251      -7.179 -23.867 -26.492  0.00  0.00           C 0
+ATOM   2047   CA TRP A 262      -2.829 -21.262 -25.865  0.00  0.00           C 0
+ATOM   2056  CE3 TRP A 262      -1.111 -22.048 -23.013  0.00  0.00           C 0
+ATOM   2049    O TRP A 262      -5.039 -20.310 -26.041  0.00  0.00           O 0
+ATOM   2012    N ARG A 257       0.724 -27.173 -23.146  0.00  0.00           N 0
+ATOM   1992    O GLY A 253      -1.307 -29.088 -21.984  0.70  2.14           O 0
+ATOM   2058  CZ3 TRP A 262      -0.375 -22.792 -22.099  0.00  0.00           C 0
+ATOM   2010   CB SER A 256      -1.576 -27.863 -25.028  0.00  0.00           C 0
+ATOM   1986   CA GLY A 252      -5.713 -27.918 -23.252  0.00  0.00           C 0
+ATOM   2022  NH2 ARG A 257      -0.773 -24.172 -18.167  0.00  0.00           N 0
+ATOM   2016   CB ARG A 257       1.142 -26.624 -20.809  0.00  0.00           C 0
+ATOM   1985    N GLY A 252      -5.073 -27.240 -24.365  0.51  2.19           N 0
+ATOM   1987    C GLY A 252      -4.939 -28.880 -22.363  0.00  0.00           C 0
+ATOM   1988    O GLY A 252      -5.248 -28.986 -21.177  0.37  7.50           O 0
+TER
+END

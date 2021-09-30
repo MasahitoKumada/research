@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0195
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6982
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4633
+HEADER 5  - Mean B-factor of pocket residues  : 0.3471
+HEADER 6  - Hydrophobicity Score              : -6.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.5113
+HEADER 10  -Pocket volume (convex hull)       : 3.3751
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    853   CB LYS L 103      19.623  41.313   2.146  0.00  0.00           C 0
+ATOM     68    O LEU L   9      14.458  40.846  -2.544  0.00  0.00           O 0
+ATOM    852    O LYS L 103      17.409  39.418   1.160  0.47  4.29           O 0
+ATOM    855   CD LYS L 103      19.270  43.235   3.714  0.00  0.00           C 0
+ATOM    870   CB GLU L 105      13.597  41.536   4.199  0.00  0.00           C 0
+ATOM    866    N GLU L 105      14.877  39.446   4.036  0.00  0.00           N 0
+ATOM    854   CG LYS L 103      19.136  41.733   3.523  0.00  0.00           C 0
+ATOM    873  OE1 GLU L 105      12.612  44.110   3.364  0.04  6.43           O 0
+ATOM     87    N PRO L  12       9.892  40.412   1.022  0.00  0.00           N 0
+ATOM     81    C ASN L  11      10.376  39.828  -0.072  0.00  0.00           C 0
+ATOM     76    O SER L  10      10.888  42.512  -3.044  0.55  5.36           O 0
+ATOM     93   CD PRO L  12       9.114  41.665   1.077  0.00  0.00           C 0
+ATOM     82    O ASN L  11      11.108  38.838  -0.039  0.64  1.07           O 0
+ATOM     69   CB LEU L   9      14.921  38.052  -1.703  0.00  0.00           C 0
+TER
+END

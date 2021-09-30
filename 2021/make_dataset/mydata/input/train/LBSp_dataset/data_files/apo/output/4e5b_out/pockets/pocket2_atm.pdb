@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1029
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.6675
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4808
+HEADER 5  - Mean B-factor of pocket residues  : 0.2921
+HEADER 6  - Hydrophobicity Score              : 21.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 6.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.6721
+HEADER 10  -Pocket volume (convex hull)       : 7.4508
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.3793
+ATOM   1142  OD1 ASP A 150      -8.188   7.475  18.504  0.44  3.21           O 0
+ATOM   1336   CG ARG A 189     -12.208   9.178  19.114  0.00  0.00           C 0
+ATOM   1323   CB TYR A 188     -13.638   4.137  16.401  0.00  0.00           C 0
+ATOM   1147    O LEU A 151     -11.055   3.120  18.610  0.58  1.07           O 0
+ATOM   1156   CB LYS A 152      -9.279   2.949  16.015  0.00  0.00           C 0
+ATOM   1158   CD LYS A 152      -7.525   4.720  15.684  0.00  0.00           C 0
+ATOM   1331    N ARG A 189     -14.570   7.308  17.679  0.00  0.00           N 0
+ATOM   1326  CD2 TYR A 188     -12.498   3.866  14.179  0.00  0.00           C 0
+ATOM   1319    N TYR A 188     -14.327   6.110  15.159  0.60  1.09           N 0
+ATOM   1295   CA ARG A 186     -12.324   9.809  14.288  0.00  0.00           C 0
+ATOM   1294    N ARG A 186     -11.465   9.788  13.099  0.00  0.00           N 0
+ATOM   1160   NZ LYS A 152      -5.878   6.618  15.993  0.00  0.00           N 0
+ATOM   1340  NH1 ARG A 189      -9.020  10.398  18.106  0.47  3.28           N 0
+ATOM   1341  NH2 ARG A 189      -9.775  11.898  16.525  0.22  5.47           N 0
+ATOM   1328  CE2 TYR A 188     -12.325   3.228  12.964  0.00  0.00           C 0
+ATOM   1312  CD2 TRP A 187     -13.842   6.547   9.269  0.00  0.00           C 0
+ATOM   1315  CE3 TRP A 187     -13.372   5.305   8.822  0.00  0.00           C 0
+ATOM   1309   CB TRP A 187     -14.440   6.252  11.821  0.00  0.00           C 0
+ATOM   1310   CG TRP A 187     -14.295   7.040  10.530  0.00  0.00           C 0
+ATOM   1305    N TRP A 187     -13.578   8.003  13.266  0.33  1.09           N 0
+TER
+END

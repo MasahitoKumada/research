@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0384
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0149
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7056
+HEADER 5  - Mean B-factor of pocket residues  : 0.6903
+HEADER 6  - Hydrophobicity Score              : 9.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 306.2157
+HEADER 10  -Pocket volume (convex hull)       : 8.5380
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   2745    N ASP B  32      21.806  24.228  84.491  0.66  2.19           N 0
+ATOM   2734    O VAL B  30      17.985  25.244  84.387  0.89  1.07           O 0
+ATOM   2673   OH TYR B  22      20.015  26.645  83.696  0.00  0.00           O 0
+ATOM   2739   CA PRO B  31      19.654  23.158  84.915  0.00  0.00           C 0
+ATOM   2722   CB PRO B  28      16.790  28.141  86.916  0.00  0.00           C 0
+ATOM   2723   CG PRO B  28      17.230  28.903  88.125  0.00  0.00           C 0
+ATOM   2665    O TYR B  22      18.741  34.293  86.962  0.46  2.14           O 0
+ATOM   2667   CG TYR B  22      19.600  30.767  84.232  0.00  0.00           C 0
+ATOM   2663   CA TYR B  22      18.229  32.723  85.197  0.00  0.00           C 0
+ATOM   2666   CB TYR B  22      19.444  32.258  84.401  0.00  0.00           C 0
+ATOM   2751  OD1 ASP B  32      23.403  27.061  85.253  0.66  7.50           O 0
+ATOM   2669  CD2 TYR B  22      20.851  30.212  83.924  0.00  0.00           C 0
+ATOM   2671  CE2 TYR B  22      21.006  28.830  83.743  0.00  0.00           C 0
+ATOM   2685   OH TYR B  23      24.187  32.756  83.455  0.00  7.50           O 0
+ATOM   2682  CE1 TYR B  23      23.169  34.455  84.722  0.00  0.00           C 0
+ATOM   2672   CZ TYR B  22      19.895  28.008  83.861  0.00  0.00           C 0
+ATOM   2750   CG ASP B  32      24.204  26.126  85.468  0.00  0.00           C 0
+ATOM   2752  OD2 ASP B  32      25.015  26.126  86.412  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0173
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0197
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5781
+HEADER 5  - Mean B-factor of pocket residues  : 0.2343
+HEADER 6  - Hydrophobicity Score              : 7.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 306.0725
+HEADER 10  -Pocket volume (convex hull)       : 12.3608
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1699  CE2 PHE B 220      84.224  25.047 113.703  0.00  0.00           C 0
+ATOM   2084   CG LYS B 268      88.887  23.846 116.849  0.00  0.00           C 0
+ATOM   2085   CD LYS B 268      88.900  23.462 118.285  0.00  0.00           C 0
+ATOM   1713   CB ARG B 222      81.934  22.376 116.633  0.00  0.00           C 0
+ATOM   1704    O LEU B 221      81.121  25.011 115.752  0.65  9.64           O 0
+ATOM   1726  OD1 ASP B 223      86.482  20.985 114.549  0.78  2.14           O 0
+ATOM   1720    N ASP B 223      83.594  20.577 115.040  0.63  1.09           N 0
+ATOM   1710   CA ARG B 222      82.261  22.570 115.157  0.00  0.00           C 0
+ATOM   1723    O ASP B 223      82.822  18.631 116.684  0.48  6.43           O 0
+ATOM   1724   CB ASP B 223      85.383  18.926 114.922  0.00  0.00           C 0
+ATOM   2077  OD1 ASP B 267      88.919  17.280 116.201  0.58  8.57           O 0
+ATOM   1736   CA ALA B 225      83.631  15.266 118.888  0.00  0.00           C 0
+ATOM   2074    O ASP B 267      91.380  21.154 115.831  0.57  1.07           O 0
+ATOM   3524  ND2 ASN B 450      92.469  21.226 118.915  0.31  4.37           N 0
+TER
+END

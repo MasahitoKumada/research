@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2130
+HEADER 1  - Drug Score                        : 0.0607
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.6626
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4023
+HEADER 5  - Mean B-factor of pocket residues  : 0.8640
+HEADER 6  - Hydrophobicity Score              : 41.8182
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.0039
+HEADER 10  -Pocket volume (convex hull)       : 12.2803
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 10.3333
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1810  CG2 ILE B1189      10.001  21.962  44.857  0.00  0.00           C 0
+ATOM    516    O GLY A1145      14.369  22.276  39.064  0.25  4.29           O 0
+ATOM   1785   CG GLU B1186      10.107  24.693  39.844  0.00  0.00           C 0
+ATOM   1819  OD2 ASP B1190      12.942  25.405  44.707  0.76  2.14           O 0
+ATOM   1781   CA GLU B1186       9.165  25.127  42.179  0.00  0.00           C 0
+ATOM   1839   CG MET B1193      12.192  18.828  48.193  0.00  0.00           C 0
+ATOM   1809  CG1 ILE B1189       9.181  20.043  46.316  0.00  0.00           C 0
+ATOM   1510  CG2 VAL B1154       9.854  16.243  44.644  0.00  0.00           C 0
+ATOM    509    O THR A1144      12.482  19.119  39.355  0.36  3.21           O 0
+ATOM   1818  OD1 ASP B1190      14.306  23.808  45.349  0.00  9.64           O 0
+ATOM    522   CG GLN A1146      15.797  18.580  41.052  0.00  0.00           C 0
+ATOM   1509  CG1 VAL B1154      10.424  16.413  42.185  0.00  0.00           C 0
+ATOM   1777  CE1 PHE B1185       7.556  19.568  42.808  0.00  0.00           C 0
+ATOM    523   CD GLN A1146      16.215  17.335  41.754  0.00  0.00           C 0
+ATOM   1542  NE1 TRP B1158       9.102  19.270  39.501  0.00  0.00           N 0
+ATOM   1775  CD1 PHE B1185       7.191  20.714  42.091  0.00  0.00           C 0
+ATOM   1545  CZ2 TRP B1158       9.595  21.204  37.996  0.00  0.00           C 0
+ATOM    525  NE2 GLN A1146      15.490  16.247  41.494  0.65  6.56           N 0
+ATOM   1508   CB VAL B1154       9.888  15.509  43.259  0.00  0.00           C 0
+ATOM   1479   CA TRP B1151      11.889  12.284  45.333  0.00  0.00           C 0
+ATOM   1482   CB TRP B1151      13.323  11.835  45.053  0.00  0.00           C 0
+ATOM   1841   CE MET B1193      12.875  16.172  47.604  0.00  0.00           C 0
+TER
+END

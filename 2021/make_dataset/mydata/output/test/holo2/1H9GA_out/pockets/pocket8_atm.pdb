@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0501
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0147
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5724
+HEADER 5  - Mean B-factor of pocket residues  : 0.6943
+HEADER 6  - Hydrophobicity Score              : 1.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.6703
+HEADER 10  -Pocket volume (convex hull)       : 6.1732
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6842
+ATOM    495   CB GLN A  64      31.622   9.782  40.122  0.00  0.00           C 0
+ATOM    499  OE1 GLN A  64      33.828   9.122  42.060  0.68  3.21           O 0
+ATOM    526    O PRO A  68      28.678  13.347  42.915  0.48  3.21           O 0
+ATOM    518   CB LYS A  67      29.359   9.418  43.337  0.00  0.00           C 0
+ATOM    542   CG LYS A  70      31.635  16.564  43.937  0.00  0.00           C 0
+ATOM    481  CG2 THR A  62      34.021  14.893  39.076  0.00  0.00           C 0
+ATOM    479    O THR A  62      30.605  15.458  39.445  0.00  0.00           O 0
+ATOM    520   CD LYS A  67      31.555   8.280  43.663  0.00  0.00           C 0
+ATOM    529   CD PRO A  68      27.665  11.256  45.751  0.00  0.00           C 0
+ATOM    519   CG LYS A  67      30.078   8.255  43.976  0.00  0.00           C 0
+ATOM    521   CE LYS A  67      32.306   7.364  44.621  0.00  0.00           C 0
+ATOM    543   CD LYS A  70      33.062  16.330  44.403  0.00  0.00           C 0
+ATOM    527   CB PRO A  68      26.973  13.497  45.635  0.00  0.00           C 0
+ATOM    528   CG PRO A  68      26.879  12.281  46.526  0.00  0.00           C 0
+ATOM    204  CG2 ILE A  30      28.546  17.213  46.650  0.00  0.00           C 0
+TER
+END

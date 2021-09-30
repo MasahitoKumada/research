@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1412
+HEADER 1  - Drug Score                        : 0.1294
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0280
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6236
+HEADER 5  - Mean B-factor of pocket residues  : 0.0981
+HEADER 6  - Hydrophobicity Score              : 32.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.8717
+HEADER 10  -Pocket volume (convex hull)       : 4.9225
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.6400
+ATOM   2047    O PHE A 250     -37.110 -50.444   0.481  0.61  1.07           O 0
+ATOM   2082    N GLN A 254     -38.783 -52.021  -0.995  0.73  1.09           N 0
+ATOM   2083   CA GLN A 254     -39.540 -52.933  -0.142  0.00  0.00           C 0
+ATOM   2086   CB GLN A 254     -39.361 -52.516   1.327  0.00  0.00           C 0
+ATOM   2048   CB PHE A 250     -34.169 -49.808   1.692  0.00  0.00           C 0
+ATOM   2090  NE2 GLN A 254     -39.125 -51.856   4.015  0.64  9.84           N 0
+ATOM   2315   CB ALA A 284     -33.497 -56.850  -1.544  0.00  0.00           C 0
+ATOM   2080  OE1 GLN A 253     -33.916 -52.808  -2.856  0.77  1.07           O 0
+ATOM   2115  CD1 ILE A 257     -37.404 -56.218  -2.621  0.00  0.00           C 0
+ATOM   2078   CG GLN A 253     -36.175 -52.850  -3.658  0.00  0.00           C 0
+ATOM   2284   CB LYS A 280     -28.191 -53.984   0.301  0.00  0.00           C 0
+ATOM   2052  CE1 PHE A 250     -30.910 -50.616  -0.125  0.00  0.00           C 0
+ATOM   2050  CD1 PHE A 250     -32.260 -50.322   0.121  0.00  0.00           C 0
+ATOM   2053  CE2 PHE A 250     -30.458 -50.461   2.233  0.00  0.00           C 0
+ATOM   2283    O LYS A 280     -30.125 -55.903  -1.628  0.69  4.29           O 0
+ATOM   2051  CD2 PHE A 250     -31.807 -50.167   2.466  0.00  0.00           C 0
+ATOM   2054   CZ PHE A 250     -30.012 -50.685   0.931  0.00  0.00           C 0
+ATOM   2049   CG PHE A 250     -32.716 -50.095   1.417  0.00  0.00           C 0
+TER
+END

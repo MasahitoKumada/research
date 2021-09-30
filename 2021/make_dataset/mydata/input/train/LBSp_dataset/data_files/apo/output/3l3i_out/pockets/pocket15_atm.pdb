@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0271
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9022
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5463
+HEADER 5  - Mean B-factor of pocket residues  : 0.4340
+HEADER 6  - Hydrophobicity Score              : 16.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.3251
+HEADER 10  -Pocket volume (convex hull)       : 12.6131
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    963   CD GLN A 115      23.244  19.164  32.642  0.00  0.00           C 0
+ATOM   1044   CB ALA A 125      27.343  21.266  31.472  0.00  0.00           C 0
+ATOM   1048    O LEU A 126      25.241  24.117  29.111  0.51  3.21           O 0
+ATOM    964  OE1 GLN A 115      23.935  19.154  33.665  0.05  4.29           O 0
+ATOM    962   CG GLN A 115      23.879  19.105  31.272  0.00  0.00           C 0
+ATOM    932  NH2 ARG A 111      21.173  25.551  30.552  0.00  0.00           N 0
+ATOM   1061    N GLU A 128      24.217  27.914  29.303  0.51  4.37           N 0
+ATOM    931  NH1 ARG A 111      20.074  26.435  32.381  0.00  0.00           N 0
+ATOM   1059  OD1 ASN A 127      28.362  26.589  31.016  0.38  7.50           O 0
+ATOM    965  NE2 GLN A 115      21.921  19.241  32.664  0.00  0.00           N 0
+ATOM    944  CD2 TYR A 113      19.186  22.170  30.795  0.00  0.00           C 0
+ATOM    946  CE2 TYR A 113      18.258  22.937  31.535  0.00  0.00           C 0
+ATOM    938   CA TYR A 113      20.625  21.626  27.679  0.00  0.00           C 0
+ATOM   1054   CA ASN A 127      26.267  26.617  29.086  0.00  0.00           C 0
+ATOM   1065   CB GLU A 128      22.208  29.132  30.079  0.00  0.00           C 0
+TER
+END

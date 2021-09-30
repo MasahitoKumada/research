@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    64:
+HEADER 0  - Pocket Score                      : -0.1307
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.2935
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7024
+HEADER 5  - Mean B-factor of pocket residues  : 0.5107
+HEADER 6  - Hydrophobicity Score              : 38.5714
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.6517
+HEADER 10  -Pocket volume (convex hull)       : 1.9861
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6818
+ATOM   7805   CD LYS E  26      16.412  67.400  12.971  0.00  0.00           C 0
+ATOM   7778    O LEU E  23      19.115  63.177  13.501  0.00  0.00           O 0
+ATOM   9478  CG1 VAL F  -5      22.566  63.138  13.515  0.00  0.00           C 0
+ATOM   7779   CB LEU E  23      19.875  64.111  16.469  0.00  0.00           C 0
+ATOM   9486   CD PRO F  -4      24.205  65.837  16.612  0.00  0.00           C 0
+ATOM   7782  CD2 LEU E  23      18.483  65.994  17.461  0.00  0.00           C 0
+ATOM   7806   CE LYS E  26      16.632  68.738  12.266  0.00  0.00           C 0
+ATOM   7814  CD1 PHE E  27      22.050  63.556   8.731  0.00  0.00           C 0
+ATOM   7809   CA PHE E  27      18.900  63.117   9.708  0.00  0.00           C 0
+ATOM   7840  OE2 GLU E  30      16.938  67.863   8.593  0.00  0.00           O 0
+ATOM   9468    O LEU F  -6      24.704  64.393  11.389  0.00  0.00           O 0
+ATOM   7804   CG LYS E  26      16.058  66.329  11.960  0.00  0.00           C 0
+ATOM   7781  CD1 LEU E  23      20.858  65.651  18.101  0.00  0.00           C 0
+ATOM   7808    N PHE E  27      17.938  63.246  10.807  0.00  0.00           N 0
+ATOM   7812   CB PHE E  27      20.254  62.645  10.223  0.00  0.00           C 0
+ATOM   9474   CA VAL F  -5      24.831  64.019  14.219  0.00  0.00           C 0
+TER
+END

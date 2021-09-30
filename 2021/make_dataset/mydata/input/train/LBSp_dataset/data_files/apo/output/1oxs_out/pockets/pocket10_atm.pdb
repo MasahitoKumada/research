@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1575
+HEADER 1  - Drug Score                        : 0.5806
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0544
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6948
+HEADER 5  - Mean B-factor of pocket residues  : 0.5456
+HEADER 6  - Hydrophobicity Score              : 32.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 266.1747
+HEADER 10  -Pocket volume (convex hull)       : 7.0236
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM    876   CE MET C 112      13.746  -5.694  -3.437  0.00  0.00           C 0
+ATOM    940   CD ARG C 120      18.890  -3.900  -1.358  0.00  0.00           C 0
+ATOM    941   NE ARG C 120      18.869  -2.756  -0.452  0.73  2.19           N 0
+ATOM   1226    O VAL C 156      16.542  -2.131   1.078  0.00  0.00           O 0
+ATOM    875   SD MET C 112      12.360  -4.792  -2.964  0.00  0.00           S 0
+ATOM   1233    O LYS C 157      14.870   2.108   0.544  0.71  2.14           O 0
+ATOM   1231   CA LYS C 157      14.835  -0.010   1.651  0.00  0.00           C 0
+ATOM    939   CG ARG C 120      17.718  -4.860  -1.016  0.00  0.00           C 0
+ATOM   1232    C LYS C 157      15.524   1.249   1.156  0.00  0.00           C 0
+ATOM   1243   CB ASP C 158      17.604   2.609  -0.555  0.00  0.00           C 0
+ATOM    833  CD2 LEU C 107      13.040  -4.202   0.858  0.00  0.00           C 0
+ATOM    938   CB ARG C 120      17.659  -6.059  -1.871  0.00  0.00           C 0
+ATOM    856   SDAMET C 110       8.199  -1.047   0.211  0.00  0.00           S 0
+ATOM    854   CGAMET C 110       9.124  -2.592  -0.064  0.00  0.00           C 0
+ATOM    853   CB MET C 110       8.975  -3.120  -1.461  0.00  0.00           C 0
+ATOM   1234   CB LYS C 157      13.471   0.407   2.203  0.00  0.00           C 0
+ATOM   1236   CD LYS C 157      11.134  -0.307   2.900  0.00  0.00           C 0
+ATOM   1235   CG LYS C 157      12.591  -0.723   2.656  0.00  0.00           C 0
+TER
+END

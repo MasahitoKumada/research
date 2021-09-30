@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0052
+HEADER 1  - Drug Score                        : 0.0126
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8403
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4604
+HEADER 5  - Mean B-factor of pocket residues  : 0.3512
+HEADER 6  - Hydrophobicity Score              : -13.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 163.6905
+HEADER 10  -Pocket volume (convex hull)       : 2.2565
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM   1006  CG2 THR A 135       1.298  -8.627 -49.274  0.00  0.00           C 0
+ATOM    761  NE2 GLN A 103       0.469  -1.676 -50.003  0.00  0.00           N 0
+ATOM   1031   CE LYS A 138      -4.143  -4.213 -44.872  0.00  0.00           C 0
+ATOM   1029   CG LYS A 138      -1.825  -3.819 -44.046  0.00  0.00           C 0
+ATOM   1022  OE1 GLU A 137      -2.632  -8.975 -43.702  0.25  4.29           O 0
+ATOM   1005  OG1 THR A 135       0.889  -8.927 -46.862  0.50  2.14           O 0
+ATOM   1016   CA GLU A 137       0.182  -7.575 -43.352  0.00  0.00           C 0
+ATOM   1004   CB THR A 135       1.811  -8.450 -47.829  0.00  0.00           C 0
+ATOM    758   CG GLN A 103       2.405  -2.409 -48.775  0.00  0.00           C 0
+ATOM    756    O GLN A 103       2.136  -4.492 -51.485  0.53  3.21           O 0
+ATOM   1024    N LYS A 138       0.672  -5.218 -43.439  0.47  3.28           N 0
+ATOM   1007    N ASN A 136       3.691  -8.165 -45.508  0.00  0.00           N 0
+ATOM    754   CA GLN A 103       3.787  -4.372 -49.768  0.00  0.00           C 0
+ATOM    757   CB GLN A 103       3.812  -3.003 -49.067  0.00  0.00           C 0
+ATOM   1066   CA GLY A 143       3.989  -2.460 -44.654  0.00  0.00           C 0
+TER
+END

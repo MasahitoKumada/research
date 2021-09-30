@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    64:
+HEADER 0  - Pocket Score                      : -0.0657
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7482
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5210
+HEADER 5  - Mean B-factor of pocket residues  : 0.4320
+HEADER 6  - Hydrophobicity Score              : 9.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.8908
+HEADER 10  -Pocket volume (convex hull)       : 8.7038
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   9998  OE2 GLU F   9      45.678  29.041 -20.125  0.00  0.00           O 0
+ATOM   9997  OE1 GLU F   9      43.865  29.706 -21.193  0.00  0.00           O 0
+ATOM  10340   NZ LYS F  54      44.121  24.552 -26.277  0.00  0.00           N 0
+ATOM   9976  CE1 PHE F   6      42.180  25.123 -21.860  0.00  0.00           C 0
+ATOM  10339   CE LYS F  54      42.677  24.659 -25.956  0.00  0.00           C 0
+ATOM   9956   CA SER F   4      40.086  31.096 -23.526  0.00  0.00           C 0
+ATOM   9960   OG SER F   4      41.241  29.934 -21.782  0.60  1.07           O 0
+ATOM   9974  CD1 PHE F   6      41.902  26.289 -21.189  0.00  0.00           C 0
+ATOM   9961    N VAL F   5      38.721  29.162 -23.078  0.54  1.09           N 0
+ATOM   9967  CG2 VAL F   5      38.235  26.218 -23.396  0.00  0.00           C 0
+ATOM   9959   CB SER F   4      40.977  31.228 -22.292  0.00  0.00           C 0
+ATOM   9955    N SER F   4      39.968  32.371 -24.209  0.55  5.47           N 0
+ATOM  10371  OE1 GLU F  58      40.169  25.552 -28.366  0.82  4.29           O 0
+ATOM   9966  CG1 VAL F   5      36.822  27.749 -24.775  0.00  0.00           C 0
+ATOM  10369   CG GLU F  58      37.814  25.614 -27.924  0.00  0.00           C 0
+ATOM   9949    O LYS F   3      38.534  31.604 -25.746  0.36  7.50           O 0
+TER
+END

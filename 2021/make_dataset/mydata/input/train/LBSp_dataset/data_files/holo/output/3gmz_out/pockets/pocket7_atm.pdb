@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1904
+HEADER 1  - Drug Score                        : 0.0060
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8522
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5349
+HEADER 5  - Mean B-factor of pocket residues  : 0.2036
+HEADER 6  - Hydrophobicity Score              : 48.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.6722
+HEADER 10  -Pocket volume (convex hull)       : 12.6442
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5909
+ATOM   2231   CB ALA A 298     -13.485   9.268  38.747  0.00  0.00           C 0
+ATOM   2287  CD1 LEU A 306     -14.808  15.395  35.891  0.00  0.00           C 0
+ATOM   1895   OH TYR A 254     -10.456   9.031  39.679  0.00  0.00           O 0
+ATOM   1926  CD1 LEU A 258      -9.926   9.110  34.834  0.00  0.00           C 0
+ATOM   2253  CD1 LEU A 301     -17.199  13.912  38.684  0.00  0.00           C 0
+ATOM   2228   CA ALA A 298     -14.947   9.604  38.464  0.00  0.00           C 0
+ATOM   1963  OE2 GLU A 262     -10.917  11.505  30.193  0.60  1.07           O 0
+ATOM   1927  CD2 LEU A 258     -12.353   8.517  34.764  0.00  0.00           C 0
+ATOM   2299   CG ARG A 308      -8.518  12.557  32.585  0.00  0.00           C 0
+ATOM   2295   CA ARG A 308      -8.935  14.770  31.379  0.00  0.00           C 0
+ATOM   2292    O ALA A 307     -11.006  16.539  31.276  0.32  7.50           O 0
+ATOM   2294    N ARG A 308     -10.215  14.512  30.735  0.61  1.09           N 0
+ATOM   2230    O ALA A 298     -15.487   9.624  36.129  0.57  1.07           O 0
+ATOM   2291    C ALA A 307     -11.162  15.441  30.742  0.00  0.00           C 0
+ATOM   2284    O LEU A 306     -14.341  13.483  31.362  0.80  1.07           O 0
+ATOM   2259   CB ALA A 302     -15.379   9.796  32.545  0.00  0.00           C 0
+ATOM   2285   CB LEU A 306     -15.602  14.914  33.602  0.00  0.00           C 0
+ATOM   2283    C LEU A 306     -14.477  14.708  31.390  0.00  0.00           C 0
+TER
+END

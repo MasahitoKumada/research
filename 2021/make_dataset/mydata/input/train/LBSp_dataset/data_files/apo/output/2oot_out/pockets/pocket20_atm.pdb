@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0513
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9624
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6959
+HEADER 5  - Mean B-factor of pocket residues  : 0.2678
+HEADER 6  - Hydrophobicity Score              : -0.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.9975
+HEADER 10  -Pocket volume (convex hull)       : 2.8645
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   5762   OG SER A 747      10.154  79.229  59.921  0.90  7.50           O 0
+ATOM   4818  CG2 ILE A 642      13.583  77.450  60.053  0.00  0.00           C 0
+ATOM   4817  CG1 ILE A 642      14.456  79.511  59.006  0.00  0.00           C 0
+ATOM   5758   CA SER A 747       9.873  77.833  61.836  0.00  0.00           C 0
+ATOM   4839   CBALYS A 645      16.375  79.083  64.909  0.00  0.00           C 0
+ATOM   4841   CGALYS A 645      17.194  80.387  64.831  0.00  0.00           C 0
+ATOM   4807   CB GLU A 641      19.282  80.965  59.238  0.00  0.00           C 0
+ATOM   4805    C GLU A 641      18.272  79.017  60.533  0.00  0.00           C 0
+ATOM   4806    O GLU A 641      18.307  78.874  61.787  0.83  1.07           O 0
+ATOM   5763    N GLU A 748       8.814  78.565  63.997  0.56  2.19           N 0
+ATOM   5761   CB SER A 747       9.251  78.860  60.899  0.00  0.00           C 0
+ATOM   4813   CA ILE A 642      16.012  78.171  60.487  0.00  0.00           C 0
+ATOM   4812    N ILE A 642      17.187  78.622  59.832  0.00  0.00           N 0
+ATOM   4890  NH1 ARG A 649      12.462  77.817  66.314  0.81  6.56           N 0
+ATOM   4815    O ILE A 642      15.711  76.586  62.266  0.54  1.07           O 0
+TER
+END

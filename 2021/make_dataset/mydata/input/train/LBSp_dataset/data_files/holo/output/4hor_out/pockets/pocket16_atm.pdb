@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0142
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8614
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6532
+HEADER 5  - Mean B-factor of pocket residues  : 0.3453
+HEADER 6  - Hydrophobicity Score              : 11.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.4151
+HEADER 10  -Pocket volume (convex hull)       : 5.9523
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    539  NE2 HIS A  62       0.659 -23.894  10.467  0.69  3.28           N 0
+ATOM    547  CD2 LEU A  63       0.294 -20.951  13.908  0.00  0.00           C 0
+ATOM    541   CA LEU A  63       0.440 -23.732  15.319  0.00  0.00           C 0
+ATOM    224   NZ LYS A  26       5.834 -22.572  16.017  0.00  0.00           N 1
+ATOM    558   CA GLY A  65       2.449 -28.713  15.140  0.00  0.00           C 0
+ATOM    550    C LYS A  64       1.884 -27.636  17.236  0.00  0.00           C 0
+ATOM    551    O LYS A  64       2.373 -28.563  17.892  0.00  0.00           O 0
+ATOM    557    N GLY A  65       1.839 -27.642  15.907  0.00  0.00           N 0
+ATOM    543    O LEU A  63       2.406 -24.247  16.608  0.64  9.64           O 0
+ATOM    222   CD LYS A  26       4.117 -20.773  16.411  0.00  0.00           C 0
+ATOM    549   CA LYS A  64       1.247 -26.433  17.928  0.00  0.00           C 0
+ATOM    533    O HIS A  62       0.719 -26.028  13.831  0.36  4.29           O 0
+ATOM    538  CE1 HIS A  62       0.870 -25.151  10.125  0.00  0.00           C 0
+TER
+END

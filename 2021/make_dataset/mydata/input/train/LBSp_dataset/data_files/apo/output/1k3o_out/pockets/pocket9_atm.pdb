@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0320
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1569
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5783
+HEADER 5  - Mean B-factor of pocket residues  : 0.2369
+HEADER 6  - Hydrophobicity Score              : 26.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 353.5441
+HEADER 10  -Pocket volume (convex hull)       : 8.6395
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8125
+ATOM   2484   CB LEU B 108      74.520  18.630  26.114  0.00  0.00           C 0
+ATOM   2577   CE LYS B 120      78.111  25.348  27.304  0.00  0.00           C 0
+ATOM   2482    C LEU B 108      73.262  19.272  28.141  0.00  0.00           C 0
+ATOM   2483    O LEU B 108      74.030  18.817  28.996  0.65  3.21           O 0
+ATOM   2509  CG2 VAL B 111      75.700  15.911  29.562  0.00  0.00           C 0
+ATOM   2511   CA CYS B 112      76.991  19.142  32.323  0.00  0.00           C 0
+ATOM   2486  CD1 LEU B 108      76.130  18.015  24.288  0.00  0.00           C 0
+ATOM   2459    O MET B 105      72.569  22.809  26.151  0.61  1.07           O 0
+ATOM   2514   CB CYS B 112      76.745  20.632  32.066  0.00  0.00           C 0
+ATOM   2578   NZ LYS B 120      77.424  25.613  26.009  0.00  0.00           N 0
+ATOM   2452   CG GLU B 104      74.413  19.857  20.685  0.00  0.00           C 0
+ATOM   2457   CA MET B 105      73.304  23.261  23.895  0.00  0.00           C 0
+ATOM   2450    O GLU B 104      72.927  20.763  23.342  0.67  1.07           O 0
+ATOM   2460   CB MET B 105      73.783  24.699  23.973  0.00  0.00           C 0
+ATOM   2456    N MET B 105      72.773  22.867  22.571  0.00  0.00           N 0
+ATOM   2461   CG MET B 105      73.681  25.577  22.744  0.00  0.00           C 0
+ATOM   2430    O ASP B 101      73.493  24.726  19.575  0.00  0.00           O 0
+TER
+END

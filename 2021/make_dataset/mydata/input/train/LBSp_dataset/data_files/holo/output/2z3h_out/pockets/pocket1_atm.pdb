@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.4446
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7651
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4553
+HEADER 5  - Mean B-factor of pocket residues  : 0.5767
+HEADER 6  - Hydrophobicity Score              : 28.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.5722
+HEADER 10  -Pocket volume (convex hull)       : 5.3849
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM    126    O ASN A  19      27.021  46.106 116.913  0.42  5.36           O 0
+ATOM    157  CG1 ILE A  23      21.421  42.076 116.281  0.00  0.00           C 0
+ATOM    140    O ILE A  21      23.740  45.831 114.222  0.59  4.29           O 0
+ATOM    118    O ILE A  18      27.158  44.125 113.678  0.50  3.21           O 0
+ATOM    130  ND2 ASN A  19      29.469  42.095 116.949  0.67  2.19           N 0
+ATOM    159  CD1 ILE A  23      20.971  41.749 117.694  0.00  0.00           C 0
+ATOM    550    N GLU A  80      26.055  38.239 116.048  0.68  4.37           N 0
+ATOM    555   CG GLU A  80      23.268  37.665 116.708  0.00  0.00           C 0
+ATOM    546   CB ASN A  79      25.612  39.258 113.318  0.00  0.00           C 0
+ATOM    153   CA ILE A  23      20.720  42.769 113.968  0.00  0.00           C 0
+ATOM    124   CA ASN A  19      28.578  44.529 116.026  0.00  0.00           C 0
+ATOM    551   CA GLU A  80      25.720  37.531 117.279  0.00  0.00           C 0
+ATOM    148    O PRO A  22      21.559  44.747 112.205  0.00  0.00           O 0
+ATOM    122  CD1 ILE A  18      27.031  42.112 110.762  0.00  0.00           C 0
+ATOM    142  CG1 ILE A  21      25.040  45.695 111.198  0.00  0.00           C 0
+ATOM    186    O TYR A  27      23.298  42.030 109.109  0.76  1.07           O 0
+ATOM    549  ND2 ASN A  79      23.356  38.798 112.561  0.69  5.47           N 0
+ATOM    128   CG ASN A  19      30.111  43.114 117.493  0.00  0.00           C 0
+ATOM    127   CB ASN A  19      29.653  44.516 117.111  0.00  0.00           C 0
+TER
+END

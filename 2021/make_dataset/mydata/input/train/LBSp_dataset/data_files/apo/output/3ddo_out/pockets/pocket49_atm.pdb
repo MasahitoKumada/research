@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    49:
+HEADER 0  - Pocket Score                      : -0.0882
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0285
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6842
+HEADER 5  - Mean B-factor of pocket residues  : 0.7329
+HEADER 6  - Hydrophobicity Score              : 28.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 362.9386
+HEADER 10  -Pocket volume (convex hull)       : 23.7818
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM  11125    O ARG F6251      49.991  18.758 -36.427  0.00  0.00           O 0
+ATOM  10890  NH1 ARG F6212      53.015  16.709 -30.753  0.00  0.00           N 0
+ATOM  11140  CD2 LEU F6252      49.346  16.698 -32.584  0.00  0.00           C 0
+ATOM  11134   CA LEU F6252      50.466  16.176 -35.553  0.00  0.00           C 0
+ATOM  10322   CB ALA F6139      45.601  17.817 -33.221  0.00  0.00           C 0
+ATOM  10296    O ALA F6135      47.328  18.529 -30.264  0.45  2.14           O 0
+ATOM  10317  CG2 THR F6138      45.181  22.666 -30.242  0.00  0.00           C 0
+ATOM  11136    O LEU F6252      52.619  15.108 -35.525  0.58  3.21           O 0
+ATOM  10297   CB ALA F6135      50.399  18.846 -29.139  0.00  0.00           C 0
+ATOM  10319   CA ALA F6139      44.471  18.748 -32.765  0.00  0.00           C 0
+ATOM  10346  OE2 GLU F6142      44.009  24.137 -33.948  0.63  7.50           O 0
+ATOM  11126   CB ARG F6251      46.957  18.810 -36.916  0.00  0.00           C 0
+ATOM  11128   CD ARG F6251      44.726  19.923 -36.836  0.00  0.00           C 0
+ATOM  10318    N ALA F6139      44.673  19.176 -31.384  0.00  0.00           N 0
+ATOM   2864  CG1 VAL B2141      49.959  27.187 -25.587  0.00  0.00           C 0
+ATOM   2893   NZ LYS B2145      50.202  28.910 -30.632  0.00  0.00           N 0
+ATOM   2892   CE LYS B2145      51.050  29.277 -29.460  0.00  0.00           C 0
+ATOM  10291  CE2 PHE F6134      48.051  23.547 -26.247  0.00  0.00           C 0
+ATOM  10294   CA ALA F6135      48.989  19.102 -28.616  0.00  0.00           C 0
+ATOM  10315   CB THR F6138      45.386  21.472 -29.315  0.00  0.00           C 0
+ATOM  10289  CD2 PHE F6134      48.596  22.346 -25.811  0.00  0.00           C 0
+TER
+END

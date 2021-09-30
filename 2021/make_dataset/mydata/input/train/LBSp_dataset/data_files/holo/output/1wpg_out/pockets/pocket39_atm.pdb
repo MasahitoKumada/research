@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : -0.0676
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8778
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4763
+HEADER 5  - Mean B-factor of pocket residues  : 0.4745
+HEADER 6  - Hydrophobicity Score              : 17.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.3204
+HEADER 10  -Pocket volume (convex hull)       : 6.3500
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   6266  OD1 ASP A 818     104.713  42.046  -0.247  0.00  0.00           O 0
+ATOM   6267  OD2 ASP A 818     105.944  43.824  -0.628  0.75  9.64           O 0
+ATOM   4745  OD2 ASP A 616     101.855  48.477  -1.599  0.74  8.57           O 0
+ATOM   4720  CD2 LEU A 613      98.735  47.444   1.058  0.00  0.00           C 0
+ATOM   4742   CB ASP A 616     102.004  47.075  -3.515  0.00  0.00           C 0
+ATOM   6255    O MET A 817     101.990  42.430  -3.465  0.64  1.07           O 0
+ATOM   6256   CB MET A 817     100.584  40.730  -1.520  0.00  0.00           C 0
+ATOM   5703  CG1 VAL A 744      95.149  43.359  -0.955  0.00  0.00           C 0
+ATOM   4719  CD1 LEU A 613      96.436  46.668   1.603  0.00  0.00           C 0
+ATOM   6257   CG MET A 817      99.347  39.869  -1.351  0.00  0.00           C 0
+ATOM   5729  OE1 GLU A 748      96.945  37.971   2.344  0.00  0.00           O 0
+ATOM   4717   CB LEU A 613      97.100  47.001  -0.784  0.00  0.00           C 0
+ATOM   4716    O LEU A 613      98.610  46.191  -3.591  0.66  1.07           O 0
+ATOM   6259   CE MET A 817      97.220  41.100  -2.630  0.00  0.00           C 0
+TER
+END

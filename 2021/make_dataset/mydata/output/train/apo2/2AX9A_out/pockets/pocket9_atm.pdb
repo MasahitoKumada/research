@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0023
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6898
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4045
+HEADER 5  - Mean B-factor of pocket residues  : 0.4900
+HEADER 6  - Hydrophobicity Score              : 34.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.7317
+HEADER 10  -Pocket volume (convex hull)       : 3.6577
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   1834   CB ASP A 879      30.711 -10.684   5.056  0.00  0.00           C 0
+ATOM   1808  CD2 PHE A 876      27.349  -6.809   1.444  0.00  0.00           C 0
+ATOM   1804    O PHE A 876      29.883  -7.058   4.466  0.49  1.07           O 0
+ATOM   1870   NZ LYS A 883      32.196 -11.682  -0.086  0.00  0.00           N 1
+ATOM   1837  OD2 ASP A 879      28.739 -11.917   5.516  0.00  0.00           O 1
+ATOM   1869   CE LYS A 883      33.201 -10.779   0.541  0.00  0.00           C 0
+ATOM   1810  CE2 PHE A 876      28.033  -6.399   0.295  0.00  0.00           C 0
+ATOM    384   CZ PHE A 697      32.277  -6.142  -2.877  0.00  0.00           C 0
+ATOM   1052   CB ARG A 779      27.638  -7.482  -3.841  0.00  0.00           C 0
+ATOM   1051    O ARG A 779      25.596  -7.279  -1.902  0.00  0.00           O 0
+ATOM   1844  CD1 LEU A 880      33.960  -6.519   0.606  0.00  0.00           C 0
+ATOM   1842   CB LEU A 880      32.778  -6.320   2.806  0.00  0.00           C 0
+ATOM   1054   CD ARG A 779      29.742  -8.536  -4.734  0.00  0.00           C 0
+ATOM   1802   CA PHE A 876      27.534  -7.288   4.823  0.00  0.00           C 0
+ATOM   1838    N LEU A 880      32.572  -8.225   4.346  0.00  0.00           N 0
+TER
+END

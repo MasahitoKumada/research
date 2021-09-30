@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0649
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0033
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6466
+HEADER 5  - Mean B-factor of pocket residues  : 0.6198
+HEADER 6  - Hydrophobicity Score              : 37.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.1371
+HEADER 10  -Pocket volume (convex hull)       : 4.6793
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    302  CD1 ILE A  43      -1.478  69.291  26.836  0.00  0.00           C 0
+ATOM     88   CB THR A  14      -4.328  66.855  29.824  0.00  0.00           C 0
+ATOM     87    O THR A  14      -1.367  66.885  29.912  0.54  6.43           O 0
+ATOM     89  OG1 THR A  14      -4.495  67.176  31.210  0.42  4.29           O 0
+ATOM    284   CA GLY A  41      -8.494  72.025  26.835  0.00  0.00           C 0
+ATOM    299   CB ILE A  43      -3.663  68.367  25.943  0.00  0.00           C 0
+ATOM     90  CG2 THR A  14      -5.690  66.572  29.186  0.00  0.00           C 0
+ATOM    277    O LYS A  40      -9.920  70.522  28.575  0.00  0.00           O 0
+ATOM    303    N ALA A  44      -6.790  67.856  25.807  0.77  1.09           N 0
+ATOM    300  CG1 ILE A  43      -2.417  69.213  25.678  0.00  0.00           C 0
+ATOM    295    N ILE A  43      -5.124  70.053  24.860  0.69  2.19           N 0
+ATOM    291   CB LEU A  42      -4.863  72.931  23.857  0.00  0.00           C 0
+ATOM    287    N LEU A  42      -6.843  72.318  25.130  0.65  4.37           N 0
+TER
+END

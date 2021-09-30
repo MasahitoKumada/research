@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : 0.0320
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0893
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6385
+HEADER 5  - Mean B-factor of pocket residues  : 0.5352
+HEADER 6  - Hydrophobicity Score              : 24.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.6600
+HEADER 10  -Pocket volume (convex hull)       : 3.3184
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   5131    O VAL B 285       7.746 -14.136  38.066  0.68  2.14           O 0
+ATOM   5117  CD2ATYR B 284       1.211 -13.946  36.740  0.00  0.00           C 0
+ATOM   5370  OE1 GLU B 314       5.823 -16.714  42.245  0.00  0.00           O 0
+ATOM   5367   CB GLU B 314       7.274 -14.439  41.634  0.00  0.00           C 0
+ATOM   5142   CB SER B 286       8.252 -17.508  37.988  0.00  0.00           C 0
+ATOM   5371  OE2 GLU B 314       7.285 -18.103  41.392  0.00  0.00           O 0
+ATOM   5369   CD GLU B 314       6.938 -16.955  41.719  0.00  0.00           C 0
+ATOM   5384   CB GLU B 316       1.856 -10.119  38.212  0.00  0.00           C 0
+ATOM   5388  OE2 GLU B 316      -0.644 -11.281  38.872  0.00  0.00           O 0
+ATOM   5375    O MET B 315       5.532 -11.160  37.808  0.79  1.07           O 0
+ATOM   5365    C GLU B 314       7.423 -11.968  41.219  0.00  0.00           C 0
+ATOM   5373   CA MET B 315       6.092 -10.356  39.988  0.00  0.00           C 0
+ATOM   5366    O GLU B 314       7.291 -11.340  42.278  0.68  4.29           O 0
+ATOM   5372    N MET B 315       6.968 -11.517  40.058  0.00  0.00           N 0
+ATOM   5374    C MET B 315       5.228 -10.422  38.742  0.00  0.00           C 0
+ATOM   5380    N GLU B 316       4.152  -9.641  38.765  0.65  3.28           N 0
+ATOM   5111   CBATYR B 284       3.329 -14.259  35.405  0.00  0.00           C 0
+TER
+END

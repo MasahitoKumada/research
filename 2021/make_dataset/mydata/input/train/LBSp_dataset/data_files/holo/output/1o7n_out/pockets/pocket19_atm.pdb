@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.0035
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9729
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6376
+HEADER 5  - Mean B-factor of pocket residues  : 0.5323
+HEADER 6  - Hydrophobicity Score              : 11.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 140.8655
+HEADER 10  -Pocket volume (convex hull)       : 0.7614
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM     48    O LYS A   6       5.378  63.451 106.659  0.43  3.21           O 0
+ATOM   3299   CB SER A 425      11.115  64.607 107.637  0.00  0.00           C 0
+ATOM     32    O ASN A   4       8.402  64.940 110.863  0.00  0.00           O 0
+ATOM   3272  NE2 GLN A 421       8.983  62.772 104.728  0.00  0.00           N 0
+ATOM   3269   CG GLN A 421       9.517  60.302 104.861  0.00  0.00           C 0
+ATOM     59  CG1 ILE A   7       3.621  59.818 108.637  0.00  0.00           C 0
+ATOM     40    O ASN A   5       4.477  63.353 110.026  0.65  5.36           O 0
+ATOM   3270   CD GLN A 421       8.612  61.501 104.645  0.00  0.00           C 0
+ATOM     55   CA ILE A   7       3.963  61.146 106.516  0.00  0.00           C 0
+ATOM   3300   OG SER A 425      12.064  63.548 107.558  0.62  8.57           O 0
+ATOM   3271  OE1 GLN A 421       7.415  61.353 104.367  0.00  0.00           O 0
+ATOM     73    O VAL A   9       6.529  57.657 104.631  0.53  2.14           O 0
+ATOM     60  CG2 ILE A   7       3.800  58.622 106.483  0.00  0.00           C 0
+TER
+END

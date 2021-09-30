@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0441
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9620
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6185
+HEADER 5  - Mean B-factor of pocket residues  : 0.3843
+HEADER 6  - Hydrophobicity Score              : 19.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.3696
+HEADER 10  -Pocket volume (convex hull)       : 2.4152
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   3149    O ARG C  62     -21.020  22.618 -38.026  0.56  1.07           O 0
+ATOM   3184    N GLU C  66     -20.900  20.097 -39.780  0.00  0.00           N 0
+ATOM   3191  OE1 GLU C  66     -17.976  21.701 -42.652  0.00  0.00           O 0
+ATOM   3188   CB GLU C  66     -18.619  20.973 -40.077  0.00  0.00           C 0
+ATOM   3155  NH1 ARG C  62     -17.633  24.792 -38.513  0.56  4.37           N 0
+ATOM   3151   CG ARG C  62     -20.907  26.005 -38.159  0.00  0.00           C 0
+ATOM   3222    O VAL C  70     -23.657  19.703 -45.227  0.54  5.36           O 0
+ATOM   3183   CB ALA C  65     -23.950  20.943 -39.652  0.00  0.00           C 0
+ATOM   3181    C ALA C  65     -22.000  19.415 -40.105  0.00  0.00           C 0
+ATOM   3182    O ALA C  65     -22.040  18.635 -41.058  0.61  1.07           O 0
+ATOM   3185   CA GLU C  66     -19.671  19.943 -40.537  0.00  0.00           C 0
+ATOM   3250   CB LEU C  73     -26.101  24.172 -41.892  0.00  0.00           C 0
+ATOM   3246    N LEU C  73     -27.067  23.810 -44.129  0.48  3.28           N 0
+ATOM   3229    O ASP C  71     -25.146  21.829 -47.795  0.00  0.00           O 0
+ATOM   3253  CD2 LEU C  73     -24.913  24.750 -39.783  0.00  0.00           C 0
+TER
+END

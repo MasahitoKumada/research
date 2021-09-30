@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0874
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0641
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5597
+HEADER 5  - Mean B-factor of pocket residues  : 0.0001
+HEADER 6  - Hydrophobicity Score              : 3.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.1235
+HEADER 10  -Pocket volume (convex hull)       : 1.2792
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM    290  OE1 GLU A  33      -4.892 -17.564  26.358  0.50  4.29           O 0
+ATOM    252   CB ILE A  29      -1.425 -16.233  21.838  0.00  0.00           C 0
+ATOM    254  CG2 ILE A  29      -2.282 -15.078  21.365  0.00  0.00           C 0
+ATOM    256    N ASP A  30      -0.083 -17.334  24.300  0.00  0.00           N 0
+ATOM   2757  OD1 ASP A 334      -1.557 -16.152  28.437  0.56  1.07           O 0
+ATOM   2758  OD2 ASP A 334      -3.408 -15.270  29.227  0.00  0.00           O 1
+ATOM   1254    O LYS A 150      -5.888 -14.160  21.308  0.67  9.64           O 0
+ATOM   1272   CA GLY A 152      -4.352 -10.031  21.780  0.00  0.00           C 0
+ATOM    298  CG2 VAL A  34      -4.655 -18.102  22.832  0.00  0.00           C 0
+ATOM    249   CA ILE A  29      -0.135 -15.713  22.516  0.00  0.00           C 0
+ATOM   2769   CB MET A 336       1.072 -13.989  26.426  0.00  0.00           C 0
+ATOM   2768    O MET A 336       0.505 -11.763  28.241  0.00  0.00           O 0
+ATOM    243    O ASP A  28       0.187 -13.016  22.151  0.00  0.00           O 0
+TER
+END

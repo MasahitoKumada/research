@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0272
+HEADER 1  - Drug Score                        : 0.0101
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8059
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4272
+HEADER 5  - Mean B-factor of pocket residues  : 0.4659
+HEADER 6  - Hydrophobicity Score              : 15.1000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.6570
+HEADER 10  -Pocket volume (convex hull)       : 27.7452
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.5714
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM    765   OG SER P  94      17.576  26.511  13.999  0.00  0.00           O 0
+ATOM   2376   CB HIS P 295      20.833  30.371   9.638  0.00  0.00           C 0
+ATOM    736  CE1 PHE P  90      16.285  29.501  12.104  0.00  0.00           C 0
+ATOM    738   CZ PHE P  90      16.600  30.181  13.269  0.00  0.00           C 0
+ATOM    804   CD PRO P 100      20.927  30.912  16.721  0.00  0.00           C 0
+ATOM    789    O GLY P  98      21.512  27.266  17.659  0.00  0.00           O 0
+ATOM    803   CG PRO P 100      22.221  31.636  16.486  0.00  0.00           C 0
+ATOM    785  CG2 THR P  97      24.398  26.293  16.806  0.00  0.00           C 0
+ATOM   2372    N HIS P 295      19.166  32.082  10.166  0.60  2.19           N 0
+ATOM   2361    O VAL P 293      20.196  35.673  11.462  0.00  0.00           O 0
+ATOM    764   CB SER P  94      18.240  25.747  14.988  0.00  0.00           C 0
+ATOM    827  CD2 LEU P 103      17.705  33.285  15.031  0.00  0.00           C 0
+ATOM    824   CB LEU P 103      18.516  34.379  17.158  0.00  0.00           C 0
+ATOM   2355   CB PRO P 292      20.679  38.210  15.150  0.00  0.00           C 0
+ATOM    802   CB PRO P 100      22.484  32.408  17.754  0.00  0.00           C 0
+ATOM    818   CG PRO P 102      23.311  36.589  20.279  0.00  0.00           C 0
+ATOM    817   CB PRO P 102      22.116  37.355  19.836  0.00  0.00           C 0
+ATOM   2356   CG PRO P 292      19.969  38.157  16.433  0.00  0.00           C 0
+TER
+END

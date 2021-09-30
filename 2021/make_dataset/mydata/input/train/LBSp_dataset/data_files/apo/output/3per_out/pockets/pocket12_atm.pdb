@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1438
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.8219
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5065
+HEADER 5  - Mean B-factor of pocket residues  : 0.3316
+HEADER 6  - Hydrophobicity Score              : 37.0909
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 5.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 322.9462
+HEADER 10  -Pocket volume (convex hull)       : 38.4750
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.6000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.1852
+ATOM   8225  CD2 LEU B  32      -6.420  23.069  64.983  0.00  0.00           C 0
+ATOM  10214  CZ2 TRP B 155      -7.378  28.731  65.778  0.00  0.00           C 0
+ATOM   8164  NE2 GLN B  28      -9.020  26.078  69.373  0.43  8.75           N 0
+ATOM   8894  CE3 TRP B  74      -3.300  25.738  65.913  0.00  0.00           C 0
+ATOM   8869  NH1 ARG B  73      -4.854  25.445  73.020  0.00  0.00           N 0
+ATOM   8830    O ASP B  71      -1.751  22.587  70.558  0.69  3.21           O 0
+ATOM   7747  CD2 TYR B   4      -1.975  23.448  76.813  0.00  0.00           C 0
+ATOM   8831   CB ASP B  71      -2.228  19.813  70.229  0.00  0.00           C 0
+ATOM   8866   CD ARG B  73      -2.065  25.076  73.398  0.00  0.00           C 0
+ATOM   8761  CG2 VAL B  67       1.964  20.984  70.776  0.00  0.00           C 0
+ATOM   7749  CE2 TYR B   4      -0.725  23.237  76.265  0.00  0.00           C 0
+ATOM   8813    O HIS B  70      -4.055  21.250  66.814  0.67  3.21           O 0
+ATOM   8224  CD1 LEU B  32      -8.583  22.624  66.157  0.00  0.00           C 0
+ATOM   8833  OD1 ASP B  71      -4.258  18.600  69.923  0.64  8.57           O 0
+ATOM   8828   CA ASP B  71      -2.553  20.825  69.128  0.00  0.00           C 0
+ATOM   8888   CB TRP B  74      -3.214  28.895  66.918  0.00  0.00           C 0
+ATOM   8887    O TRP B  74      -4.133  29.976  69.616  0.32  1.07           O 0
+ATOM   7790    O ARG B   7      -7.449  27.756  72.101  0.12  1.07           O 0
+ATOM   8842    O TYR B  72      -2.395  25.094  68.906  0.00  0.00           O 0
+ATOM   8884    N TRP B  74      -2.160  28.060  68.944  0.00  0.00           N 0
+ATOM   8819  NE2 HIS B  70      -6.946  18.573  66.313  0.79  2.19           N 0
+ATOM   8817  CD2 HIS B  70      -5.621  18.510  66.676  0.00  0.00           C 0
+TER
+END

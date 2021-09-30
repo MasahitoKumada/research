@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0798
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6757
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4413
+HEADER 5  - Mean B-factor of pocket residues  : 0.6009
+HEADER 6  - Hydrophobicity Score              : 20.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 170.7634
+HEADER 10  -Pocket volume (convex hull)       : 6.3191
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM   2370  CG2 ILE A 320     -22.080  37.497 -33.186  0.00  0.00           C 0
+ATOM   2950   CD LYS A 393     -21.435  43.634 -30.932  0.00  0.00           C 0
+ATOM   2949   CG LYS A 393     -22.113  43.440 -29.591  0.00  0.00           C 0
+ATOM   2325  OE1 GLU A 314     -20.283  37.133 -27.570  0.00  0.00           O 0
+ATOM   2951   CE LYS A 393     -19.937  43.781 -30.799  0.00  0.00           C 0
+ATOM   2356    O GLY A 318     -16.887  40.095 -32.159  0.48  5.36           O 0
+ATOM   2354   CA GLY A 318     -15.735  38.745 -30.590  0.00  0.00           C 0
+ATOM   2952   NZ LYS A 393     -19.341  43.806 -32.162  0.64  2.19           N 1
+ATOM   2773   CD PRO A 371     -21.849  41.056 -35.235  0.00  0.00           C 0
+ATOM   2953    N LYS A 394     -23.141  43.483 -26.499  0.60  8.75           N 0
+ATOM   2945   CA LYS A 393     -24.436  43.185 -28.519  0.00  0.00           C 0
+ATOM   2360    O THR A 319     -18.912  36.418 -32.575  0.00  0.00           O 0
+ATOM   2324   CD GLU A 314     -21.385  36.572 -27.757  0.00  0.00           C 0
+ATOM   2929  NE1 TRP A 391     -24.834  39.669 -31.325  0.75  1.09           N 0
+ATOM   2326  OE2 GLU A 314     -22.301  36.568 -26.909  0.00  0.00           O 1
+ATOM   2930  CZ2 TRP A 391     -24.999  37.448 -30.160  0.00  0.00           C 0
+ATOM   2323   CG GLU A 314     -21.616  35.864 -29.075  0.00  0.00           C 0
+ATOM   2355    C GLY A 318     -16.531  38.958 -31.860  0.00  0.00           C 0
+ATOM   2936    O PHE A 392     -26.228  41.131 -28.534  0.63  5.36           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1932
+HEADER 1  - Drug Score                        : 0.5268
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0498
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6262
+HEADER 5  - Mean B-factor of pocket residues  : 0.2932
+HEADER 6  - Hydrophobicity Score              : 49.8000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 333.9338
+HEADER 10  -Pocket volume (convex hull)       : 9.2297
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.7826
+ATOM     17   CB ALA A 107      58.591  60.949   9.787  0.00  0.00           C 0
+ATOM      3    C ALA A 106      56.191  58.664   9.010  0.00  0.00           C 0
+ATOM     13    N ALA A 107      56.415  59.912   9.406  0.48  3.28           N 0
+ATOM      2   CA ALA A 106      55.140  58.489   7.926  0.00  0.00           C 0
+ATOM      1    N ALA A 106      55.450  57.270   7.141  0.47  6.56           N 0
+ATOM   3942   CB ALA A 384      60.384  55.265   4.354  0.00  0.00           C 0
+ATOM      4    O ALA A 106      56.749  57.681   9.487  0.32  1.07           O 0
+ATOM   3938    N ALA A 384      60.788  52.919   4.921  0.00  0.00           N 0
+ATOM    327   CG TYR A 129      60.811  56.662  10.966  0.00  0.00           C 0
+ATOM   3903    O TYR A 382      61.248  51.121   8.649  0.20  6.43           O 0
+ATOM    328  CD1 TYR A 129      61.947  56.402  11.719  0.00  0.00           C 0
+ATOM    330  CE1 TYR A 129      62.951  57.337  11.859  0.00  0.00           C 0
+ATOM   3908  CE1 TYR A 382      57.878  54.054   7.463  0.00  0.00           C 0
+ATOM    326   CB TYR A 129      59.740  55.621  10.819  0.00  0.00           C 0
+ATOM   3906  CD1 TYR A 382      58.316  53.164   8.422  0.00  0.00           C 0
+ATOM    331  CE2 TYR A 129      61.683  58.858  10.520  0.00  0.00           C 0
+ATOM    329  CD2 TYR A 129      60.689  57.906  10.375  0.00  0.00           C 0
+ATOM    332   CZ TYR A 129      62.816  58.566  11.263  0.00  0.00           C 0
+TER
+END

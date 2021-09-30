@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0269
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9317
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5507
+HEADER 5  - Mean B-factor of pocket residues  : 0.2100
+HEADER 6  - Hydrophobicity Score              : 47.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 326.8074
+HEADER 10  -Pocket volume (convex hull)       : 15.9743
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.8462
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM    593   CG GLU A  73      16.330  52.590  35.095  0.00  0.00           C 0
+ATOM    604  CD1 ILE A  74      21.190  49.617  32.645  0.00  0.00           C 0
+ATOM    631   CG TYR A  77      17.801  49.377  29.332  0.00  0.00           C 0
+ATOM    596  OE2 GLU A  73      16.495  54.860  34.440  0.00  0.00           O 0
+ATOM    594   CD GLU A  73      16.730  54.015  35.337  0.00  0.00           C 0
+ATOM    571  OE1 GLN A  70      21.174  54.357  38.299  0.00  0.00           O 0
+ATOM    595  OE1 GLU A  73      17.280  54.338  36.447  0.77  5.36           O 0
+ATOM    630   CB TYR A  77      17.231  48.934  30.619  0.00  0.00           C 0
+ATOM    591    O GLU A  73      16.400  49.396  33.952  0.73  1.07           O 0
+ATOM    632  CD1 TYR A  77      16.988  49.959  28.383  0.00  0.00           C 0
+ATOM    601   CB ILE A  74      20.443  49.052  35.046  0.00  0.00           C 0
+ATOM    602  CG1 ILE A  74      21.427  48.817  33.961  0.00  0.00           C 0
+ATOM    567    O GLN A  70      18.913  50.436  38.218  0.00  0.00           O 0
+ATOM    633  CD2 TYR A  77      19.120  49.286  29.106  0.00  0.00           C 0
+ATOM    476   CZ PHE A  58      23.190  49.417  38.992  0.00  0.00           C 0
+ATOM    518   OH TYR A  63      26.293  51.714  40.099  0.85  4.29           O 0
+ATOM    474  CE1 PHE A  58      22.927  50.371  39.937  0.00  0.00           C 0
+TER
+END

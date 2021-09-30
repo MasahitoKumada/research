@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.0172
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9748
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5145
+HEADER 5  - Mean B-factor of pocket residues  : 0.6911
+HEADER 6  - Hydrophobicity Score              : 15.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.7410
+HEADER 10  -Pocket volume (convex hull)       : 5.7210
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM    578   CB VAL A  75      -9.366 -18.797 -14.829  0.00  0.00           C 0
+ATOM    741  OE1 GLU A  96     -13.041 -15.216 -10.660  0.00  0.00           O 0
+ATOM    574    N VAL A  75      -8.699 -16.659 -13.774  0.00  0.00           N 0
+ATOM    577    O VAL A  75     -11.488 -17.191 -15.268  0.56  3.21           O 0
+ATOM    828   NZ LYS A 115     -14.086 -20.329 -13.165  0.58  9.84           N 0
+ATOM    580  CG2 VAL A  75      -8.262 -19.405 -13.958  0.00  0.00           C 0
+ATOM    767  CD2 LEU A 107      -7.851 -20.947 -10.010  0.00  0.00           C 0
+ATOM    800  NE2 GLN A 112     -12.340 -23.090 -10.414  0.71  4.37           N 0
+ATOM    836   CE MET A 116      -9.724 -22.930 -12.613  0.00  0.00           C 0
+ATOM    723    O VAL A  94      -7.011 -17.107 -10.097  0.00  0.00           O 0
+ATOM    728   CA PRO A  95      -8.260 -17.528  -7.609  0.00  0.00           C 0
+ATOM    734    N GLU A  96      -9.698 -15.574  -7.785  0.00  0.00           N 0
+ATOM    731   CB PRO A  95      -8.398 -18.144  -6.217  0.00  0.00           C 0
+ATOM    768    N ASP A 108      -9.313 -23.975  -7.561  0.39  1.09           N 0
+ATOM    772   CB ASP A 108     -11.533 -24.988  -7.120  0.00  0.00           C 0
+ATOM    759    O GLY A 106      -7.680 -22.359  -4.747  0.00  0.00           O 0
+TER
+END

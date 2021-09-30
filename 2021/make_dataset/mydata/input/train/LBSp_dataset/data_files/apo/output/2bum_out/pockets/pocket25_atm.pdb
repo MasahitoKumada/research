@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0210
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8051
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4316
+HEADER 5  - Mean B-factor of pocket residues  : 0.7554
+HEADER 6  - Hydrophobicity Score              : 43.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.4058
+HEADER 10  -Pocket volume (convex hull)       : 15.2689
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   1607    O ILE B 303     -15.781 -42.383  27.860  0.00  0.00           O 0
+ATOM    644  CG2 THR A  85     -10.814 -45.848  32.918  0.00  0.00           C 0
+ATOM   1617  CG1 ILE B 304     -14.752 -46.036  26.033  0.00  0.00           C 0
+ATOM   1613   CA ILE B 304     -13.855 -43.753  26.513  0.00  0.00           C 0
+ATOM    628    O ALA A  83      -9.015 -43.217  35.006  0.58  1.07           O 0
+ATOM    626   CA ALA A  83      -9.981 -41.281  36.029  0.00  0.00           C 0
+ATOM    619    O GLN A  82     -12.447 -41.752  37.049  0.48  5.36           O 0
+ATOM   1623    O TRP B 305      -9.277 -43.048  27.483  0.65  2.14           O 0
+ATOM   3521  CD2 LEU B 539      -6.278 -44.247  29.286  0.00  0.00           C 0
+ATOM   3505  ND2 ASN B 537      -9.002 -48.258  27.267  0.43  4.37           N 0
+ATOM    643  OG1 THR A  85      -9.066 -47.423  33.194  0.64  3.21           O 0
+ATOM   1624   CB TRP B 305     -10.817 -40.461  28.297  0.00  0.00           C 0
+ATOM   3441  NH1 ARG B 530      -8.803 -39.704  31.650  0.74  5.47           N 0
+ATOM   3442  NH2 ARG B 530      -7.838 -41.211  30.203  0.55  4.37           N 0
+ATOM   1618  CG2 ILE B 304     -12.253 -45.701  26.438  0.00  0.00           C 0
+ATOM   1620    N TRP B 305     -12.032 -42.312  27.283  0.00  0.00           N 0
+ATOM   1626  CD1 TRP B 305     -13.021 -39.872  29.396  0.00  0.00           C 0
+TER
+END

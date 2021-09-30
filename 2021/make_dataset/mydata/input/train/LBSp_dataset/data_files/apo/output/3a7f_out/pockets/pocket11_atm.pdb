@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0138
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8813
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6123
+HEADER 5  - Mean B-factor of pocket residues  : 0.4647
+HEADER 6  - Hydrophobicity Score              : -8.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 341.2604
+HEADER 10  -Pocket volume (convex hull)       : 33.9413
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1929   CB PRO A 259      45.593 -29.926  13.666  0.00  0.00           C 0
+ATOM   1438    N ASP A 197      41.863 -34.136  10.256  0.64  1.09           N 0
+ATOM   1427   CA TYR A 196      42.468 -32.721   8.381  0.00  0.00           C 0
+ATOM   1444  OD1 ASP A 197      43.267 -34.643  12.798  0.67  1.07           O 0
+ATOM   1932    N SER A 260      48.149 -30.399  15.559  0.56  1.09           N 0
+ATOM   1936   CB SER A 260      50.288 -31.645  15.704  0.00  0.00           C 0
+ATOM   1933   CA SER A 260      48.906 -31.341  16.346  0.00  0.00           C 0
+ATOM   1445  OD2 ASP A 197      44.680 -36.291  12.371  0.60  9.64           O 0
+ATOM   1457   CG LYS A 199      44.012 -33.369  16.074  0.00  0.00           C 0
+ATOM   1927    C PRO A 259      46.854 -30.238  15.823  0.00  0.00           C 0
+ATOM   1429    O TYR A 196      41.642 -34.957   8.181  0.00  0.00           O 0
+ATOM   1428    C TYR A 196      41.946 -34.030   8.925  0.00  0.00           C 0
+ATOM   1425   CB ALA A 195      45.674 -33.050   4.954  0.00  0.00           C 0
+ATOM   1426    N TYR A 196      42.899 -32.794   6.974  0.78  1.09           N 0
+ATOM   1423    C ALA A 195      43.981 -32.130   6.596  0.00  0.00           C 0
+ATOM   1923  OE1 GLU A 258      50.058 -29.074  13.700  0.80  4.29           O 0
+ATOM   1460   NZ LYS A 199      46.298 -33.781  18.211  0.34  8.75           N 0
+ATOM   1459   CE LYS A 199      44.900 -34.407  18.274  0.00  0.00           C 0
+ATOM   1442   CB ASP A 197      42.579 -36.300  11.209  0.00  0.00           C 0
+ATOM   1424    O ALA A 195      44.632 -31.380   7.369  0.69  9.64           O 0
+ATOM   1930   CG PRO A 259      45.760 -28.898  12.615  0.00  0.00           C 0
+ATOM   1443   CG ASP A 197      43.570 -35.698  12.193  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   202:
+HEADER 0  - Pocket Score                      : -0.1661
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9033
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4404
+HEADER 5  - Mean B-factor of pocket residues  : 0.3492
+HEADER 6  - Hydrophobicity Score              : -16.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 469.0300
+HEADER 10  -Pocket volume (convex hull)       : 28.0145
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2800
+ATOM   3447   CZ ARG B   6      49.237-101.673  40.472  0.00  0.00           C 0
+ATOM   3446   NE ARG B   6      50.178-101.401  39.584  0.00  0.00           N 0
+ATOM  17066  OE2 GLU F   7      55.367-105.369  41.347  0.00  0.00           O 0
+ATOM   3449  NH2 ARG B   6      48.371-102.653  40.250  0.48  7.66           N 0
+ATOM  17065  OE1 GLU F   7      55.120-104.361  43.281  0.00  0.00           O 0
+ATOM   3448  NH1 ARG B   6      49.165-100.962  41.590  0.63  9.84           N 0
+ATOM   3458  OE2 GLU B   7      55.231 -96.960  43.512  0.62  3.21           O 0
+ATOM   3455   CG GLU B   7      53.063 -96.184  44.155  0.00  0.00           C 0
+ATOM   6509  OD1 ASP B 379      47.392-104.297  38.206  0.00  0.00           O 0
+ATOM   6539  OD2 ASP B 382      51.261-100.690  36.270  0.00  0.00           O 0
+ATOM   9880  OE1 GLU C 375      53.940-109.794  35.096  0.00  0.00           O 0
+ATOM   3445   CD ARG B   6      51.177-100.341  39.747  0.00  0.00           C 0
+ATOM   3444   CG ARG B   6      50.553 -98.952  39.624  0.00  0.00           C 0
+ATOM  17064   CD GLU F   7      55.791-104.637  42.261  0.00  0.00           C 0
+ATOM  17062   CB GLU F   7      57.121-102.538  42.104  0.00  0.00           C 0
+ATOM   3456   CD GLU B   7      54.218 -96.327  43.149  0.00  0.00           C 0
+ATOM  17045   CB SER F   5      55.614 -98.763  40.095  0.00  0.00           C 0
+ATOM  17046   OG SER F   5      56.364 -99.918  39.779  0.70  3.21           O 0
+ATOM  17073  CG2 VAL F   8      57.713-101.476  37.285  0.00  0.00           C 0
+TER
+END

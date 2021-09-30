@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0121
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9364
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6535
+HEADER 5  - Mean B-factor of pocket residues  : 0.3773
+HEADER 6  - Hydrophobicity Score              : -14.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 2.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 195.6756
+HEADER 10  -Pocket volume (convex hull)       : 1.1647
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   6630    O PRO B 312      39.811 -28.803   9.884  0.60  5.36           O 0
+ATOM   6386    O ALA B 280      39.934 -24.817  14.796  0.67  9.64           O 0
+ATOM   6379   CG GLU B 279      43.498 -28.263  13.910  0.00  0.00           C 0
+ATOM   6637    O SER B 313      39.446 -26.273   7.368  0.00  0.00           O 0
+ATOM   6383    N ALA B 280      39.770 -27.484  14.510  0.23  2.19           N 0
+ATOM   6378   CB GLU B 279      42.377 -29.211  13.437  0.00  0.00           C 0
+ATOM   6385    C ALA B 280      38.951 -25.234  14.183  0.00  0.00           C 0
+ATOM   6641   CA GLY B 314      37.062 -25.797   8.745  0.00  0.00           C 0
+ATOM   6393   CG PRO B 281      36.698 -23.637  11.808  0.00  0.00           C 0
+ATOM   6389   CA PRO B 281      38.484 -23.012  13.347  0.00  0.00           C 0
+ATOM   6392   CB PRO B 281      37.345 -22.449  12.486  0.00  0.00           C 0
+ATOM   6388    N PRO B 281      38.194 -24.447  13.429  0.00  0.00           N 0
+ATOM   6643    O GLY B 314      35.861 -23.899   7.905  0.64  3.21           O 0
+TER
+END

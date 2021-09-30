@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    46:
+HEADER 0  - Pocket Score                      : -0.0269
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8312
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4763
+HEADER 5  - Mean B-factor of pocket residues  : 0.6385
+HEADER 6  - Hydrophobicity Score              : -1.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.9113
+HEADER 10  -Pocket volume (convex hull)       : 2.5582
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   9065    O ARG D 280      20.430 -29.209  31.819  0.41  5.36           O 0
+ATOM   8599    O PRO D 220      17.204 -26.119  28.539  0.39  1.07           O 0
+ATOM   9073    N SER D 281      20.811 -29.256  29.607  0.67  1.09           N 0
+ATOM   9074   CA SER D 281      19.407 -29.047  29.266  0.00  0.00           C 0
+ATOM   8612   CG GLU D 222      21.012 -23.164  27.097  0.00  0.00           C 0
+ATOM   8605    C GLY D 221      17.950 -22.763  29.774  0.00  0.00           C 0
+ATOM   8604   CA GLY D 221      16.893 -23.818  30.038  0.00  0.00           C 0
+ATOM   9100   CB PHE D 284      17.334 -27.760  32.548  0.00  0.00           C 0
+ATOM   8606    O GLY D 221      18.466 -22.139  30.699  0.00  0.00           O 0
+ATOM   9102  CD1 PHE D 284      16.478 -25.655  33.636  0.00  0.00           C 0
+ATOM   9064    C ARG D 280      21.206 -29.320  30.875  0.00  0.00           C 0
+ATOM   9038    O ARG D 277      22.601 -28.733  27.267  0.00  0.00           O 0
+ATOM   9066   CB ARG D 280      23.440 -28.212  30.987  0.00  0.00           C 0
+ATOM   8615  OE2 GLU D 222      22.395 -24.621  25.811  0.78  2.14           O 0
+ATOM   9069   NE ARG D 280      25.750 -26.266  30.569  0.52  7.66           N 0
+ATOM   9068   CD ARG D 280      25.220 -26.681  31.863  0.00  0.00           C 0
+TER
+END

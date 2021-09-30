@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2449
+HEADER 1  - Drug Score                        : 0.0477
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.5557
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3771
+HEADER 5  - Mean B-factor of pocket residues  : 0.3235
+HEADER 6  - Hydrophobicity Score              : 38.9167
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 126.9356
+HEADER 10  -Pocket volume (convex hull)       : 5.2147
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM    693  OE2 GLU A 111     -16.940  39.019  12.032  0.75  1.07           O 0
+ATOM   1047   OG SER A 157     -17.533  43.435   7.421  0.77  1.07           O 0
+ATOM    684  CD2 LEU A 110     -13.966  42.297   8.261  0.00  0.00           C 0
+ATOM    691   CD GLU A 111     -17.904  39.068  11.224  0.00  0.00           C 0
+ATOM   1136  CD1 LEU A 168     -12.691  42.845  11.792  0.00  0.00           C 0
+ATOM   1101   OG SER A 164     -16.353  40.519  14.070  0.76  1.07           O 0
+ATOM   1064   CE MET A 159     -18.900  45.486  11.209  0.00  0.00           C 0
+ATOM   1051    O GLU A 158     -20.166  42.211   9.356  0.00  0.00           O 0
+ATOM    692  OE1 GLU A 111     -19.028  39.570  11.508  0.00  0.00           O 0
+ATOM    963  CE2 PHE A 145     -13.135  45.870   8.972  0.00  0.00           C 0
+ATOM   1134   CB LEU A 168     -12.353  45.163  12.738  0.00  0.00           C 0
+ATOM   1046   CB SER A 157     -17.579  44.868   7.437  0.00  0.00           C 0
+ATOM   1165  CG2 VAL A 172     -14.897  48.472  10.506  0.00  0.00           C 0
+ATOM   1139   CA ALA A 169     -14.030  48.918  14.856  0.00  0.00           C 0
+ATOM   1343   CZ PHE A 196     -18.903  49.750  13.358  0.00  0.00           C 0
+ATOM   1063   SD MET A 159     -19.653  45.805  12.711  0.00  0.00           S 0
+ATOM   1103   CA PRO A 165     -15.938  44.322  15.973  0.00  0.00           C 0
+ATOM   1106   CB PRO A 165     -17.381  44.854  16.261  0.00  0.00           C 0
+ATOM   1138    N ALA A 169     -13.057  47.800  14.876  0.00  0.00           N 0
+TER
+END

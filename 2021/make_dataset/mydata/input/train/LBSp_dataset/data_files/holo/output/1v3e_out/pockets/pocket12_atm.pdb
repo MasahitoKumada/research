@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0263
+HEADER 1  - Drug Score                        : 0.0474
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7291
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4637
+HEADER 5  - Mean B-factor of pocket residues  : 0.6918
+HEADER 6  - Hydrophobicity Score              : 22.6667
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.2930
+HEADER 10  -Pocket volume (convex hull)       : 3.7328
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM   1969   CD LYS A 395      57.689 102.824  -7.782  0.00  0.00           C 0
+ATOM   1967   CB LYS A 395      57.746 104.123  -5.608  0.00  0.00           C 0
+ATOM   1879  CG1 VAL A 383      52.874 103.374  -3.497  0.00  0.00           C 0
+ATOM   1970   CE LYS A 395      58.493 101.657  -7.248  0.00  0.00           C 0
+ATOM   1475   CE LYS A 331      52.248  99.537  -3.218  0.00  0.00           C 0
+ATOM   1987  NE1 TRP A 397      54.829 104.747  -8.574  0.00  0.00           N 0
+ATOM   2363  CE1 TYR A 442      51.312 103.163  -7.958  0.00  0.00           C 0
+ATOM   1950   CB LYS A 393      59.957 100.986  -0.147  0.00  0.00           C 0
+ATOM   1957    C LEU A 394      59.248 105.139  -2.683  0.00  0.00           C 0
+ATOM   1963    N LYS A 395      58.189 105.246  -3.472  0.68  1.09           N 0
+ATOM   1958    O LEU A 394      60.387 105.042  -3.114  0.54  2.14           O 0
+ATOM   1310   OG SER A 310      62.650 102.897  -5.859  0.11  8.57           O 0
+ATOM   1892   CB ASP A 385      54.849  99.908  -0.650  0.00  0.00           C 0
+ATOM   1877    O VAL A 383      55.659 104.895  -1.841  0.50  2.14           O 0
+ATOM   1949    O LYS A 393      57.775 103.107   0.347  0.72  1.07           O 0
+TER
+END

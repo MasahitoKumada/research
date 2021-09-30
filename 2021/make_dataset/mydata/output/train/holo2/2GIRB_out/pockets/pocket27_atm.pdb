@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0110
+HEADER 1  - Drug Score                        : 0.0153
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8216
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4222
+HEADER 5  - Mean B-factor of pocket residues  : 0.4915
+HEADER 6  - Hydrophobicity Score              : 35.3000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.7515
+HEADER 10  -Pocket volume (convex hull)       : 8.0483
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7143
+ATOM   2804   CB CYS B 366       6.208  12.600  13.898  0.00  0.00           C 0
+ATOM   3460  CE1 TYR B 448       5.911   6.035  12.543  0.00  0.00           C 0
+ATOM   2803    O CYS B 366       8.100  13.644  12.228  0.39  4.29           O 0
+ATOM   3458  CD1 TYR B 448       6.885   5.304  13.238  0.00  0.00           C 0
+ATOM   2942  CD2 LEU B 384       4.329  11.819   7.990  0.00  0.00           C 0
+ATOM   1529   CD ARG B 200       1.689  10.954  11.312  0.00  0.00           C 0
+ATOM   3179   CE MET B 414       6.918   6.315   8.862  0.00  0.00           C 0
+ATOM   2817   OG SER B 368       7.213  13.870   9.626  0.59  1.07           O 0
+ATOM   3191   OH TYR B 415       8.784  12.367   8.410  0.00  0.00           O 0
+ATOM   3463   OH TYR B 448       3.696   6.185  11.655  0.66  4.29           O 0
+ATOM   1508   CG PRO B 197       4.154   6.975   6.355  0.00  0.00           C 0
+ATOM   1504   CA PRO B 197       2.019   7.804   7.024  0.00  0.00           C 0
+ATOM   2805   SG CYS B 366       5.444  11.741  15.258  0.00  0.00           S 0
+ATOM   2431  ND2 ASN B 316       3.800   8.215  16.092  0.00  0.00           N 0
+ATOM   1473  CE1 PHE B 193       6.202   6.214  17.009  0.00  0.00           C 0
+ATOM   1532  NH1 ARG B 200       1.766  10.894  14.173  0.00  0.00           N 1
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0649
+HEADER 1  - Drug Score                        : 0.0036
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9655
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6553
+HEADER 5  - Mean B-factor of pocket residues  : 0.0788
+HEADER 6  - Hydrophobicity Score              : 76.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 122.5996
+HEADER 10  -Pocket volume (convex hull)       : 0.5752
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM   1315  CG2 VAL A 161      -0.013  39.738   1.926  0.00  0.00           C 0
+ATOM   1284   CB LEU A 157       1.814  35.458  -1.181  0.00  0.00           C 0
+ATOM   1293  OG1 THR A 158       3.109  33.663   2.955  0.73  6.43           O 0
+ATOM    976  CD2 PHE A 121      -4.017  37.128   5.064  0.00  0.00           C 0
+ATOM   1283    O LEU A 157       2.535  37.857   0.933  0.65  1.07           O 0
+ATOM   1289   CA THR A 158       3.519  36.039   2.744  0.00  0.00           C 0
+ATOM   1282    C LEU A 157       2.992  36.811   0.488  0.00  0.00           C 0
+ATOM   1288    N THR A 158       3.526  35.872   1.290  0.00  0.00           N 0
+ATOM   1313   CB VAL A 161       0.679  39.875   3.244  0.00  0.00           C 0
+ATOM    978  CE2 PHE A 121      -3.625  38.389   4.608  0.00  0.00           C 0
+ATOM   1314  CG1 VAL A 161      -0.281  40.062   4.384  0.00  0.00           C 0
+ATOM    961  CD1 TRP A 120      -0.856  37.756   7.239  0.00  0.00           C 0
+ATOM    959   CB TRP A 120      -0.165  35.282   7.434  0.00  0.00           C 0
+TER
+END

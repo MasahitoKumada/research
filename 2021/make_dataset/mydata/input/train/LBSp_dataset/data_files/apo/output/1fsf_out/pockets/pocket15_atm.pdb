@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0088
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0006
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5636
+HEADER 5  - Mean B-factor of pocket residues  : 0.3584
+HEADER 6  - Hydrophobicity Score              : 0.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.1585
+HEADER 10  -Pocket volume (convex hull)       : 2.1150
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    231    O PRO A  29      90.880  30.266  -6.441  0.66  9.64           O 0
+ATOM    233   CG PRO A  29      90.476  30.857  -3.307  0.00  0.00           C 0
+ATOM    475   CB SER A  62      97.520  31.179  -1.702  0.00  0.00           C 0
+ATOM    504  CD2 HIS A  65      93.521  33.090  -7.498  0.00  0.00           C 0
+ATOM    497    N HIS A  65      93.581  34.981  -4.347  0.71  2.19           N 0
+ATOM    492   CB LYS A  64      96.585  34.582  -5.013  0.00  0.00           C 0
+ATOM    476   OG SER A  62      97.841  32.321  -2.474  0.54  3.21           O 0
+ATOM    234   CD PRO A  29      89.953  29.444  -3.199  0.00  0.00           C 0
+ATOM    201  OD1 ASN A  25      93.513  26.640   0.942  0.00  0.00           O 0
+ATOM    193  CG2 ILE A  24      91.278  30.191   0.709  0.00  0.00           C 0
+ATOM    474    O SER A  62      94.837  32.242  -0.397  0.49  1.07           O 0
+ATOM    471    N SER A  62      96.777  30.494   0.518  0.28  2.19           N 0
+ATOM    501   CB HIS A  65      91.792  34.100  -5.813  0.00  0.00           C 0
+TER
+END

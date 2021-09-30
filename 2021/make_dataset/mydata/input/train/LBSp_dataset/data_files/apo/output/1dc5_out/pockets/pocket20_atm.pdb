@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0444
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8699
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4458
+HEADER 5  - Mean B-factor of pocket residues  : 0.7201
+HEADER 6  - Hydrophobicity Score              : 43.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 178.2695
+HEADER 10  -Pocket volume (convex hull)       : 5.7181
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0500
+ATOM    160  NE2 GLN A  20     -25.357  69.413 -27.471  0.80  4.37           N 0
+ATOM    204   CA GLU A  26     -21.283  73.240 -30.881  0.00  0.00           C 0
+ATOM    212    N ILE A  27     -20.851  71.935 -28.860  0.70  2.19           N 0
+ATOM    208   CG GLU A  26     -20.372  71.358 -32.385  0.00  0.00           C 0
+ATOM    150    O ALA A  19     -26.947  73.283 -28.937  0.43  1.07           O 0
+ATOM    198    O ILE A  25     -23.484  74.626 -31.879  0.00  0.00           O 0
+ATOM    153   CA GLN A  20     -28.085  70.791 -28.688  0.00  0.00           C 0
+ATOM    155    O GLN A  20     -28.826  71.355 -30.883  0.00  0.00           O 0
+ATOM    536   CB LYS A  69     -21.247  65.126 -32.627  0.00  0.00           C 0
+ATOM    537   CG LYS A  69     -22.407  65.599 -33.493  0.00  0.00           C 0
+ATOM    215    O ILE A  27     -19.458  69.479 -28.876  0.76  7.50           O 0
+ATOM    159  OE1 GLN A  20     -26.006  67.707 -28.789  0.00  0.00           O 0
+ATOM    557  CD1 ILE A  71     -20.285  66.410 -27.551  0.00  0.00           C 0
+ATOM    516    O VAL A  66     -23.807  63.576 -30.313  0.44  1.07           O 0
+TER
+END

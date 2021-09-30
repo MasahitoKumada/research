@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.3251
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 4.0661
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6606
+HEADER 5  - Mean B-factor of pocket residues  : 0.1501
+HEADER 6  - Hydrophobicity Score              : 0.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 138.1933
+HEADER 10  -Pocket volume (convex hull)       : 1.1794
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2069
+ATOM   3402    C ALA C 152      24.395 -44.339 -12.431  0.00  0.00           C 0
+ATOM   3395   CB GLN C 151      26.189 -39.627 -13.804  0.00  0.00           C 0
+ATOM   3409   CB ALA C 153      22.652 -46.150 -14.689  0.00  0.00           C 0
+ATOM   3398  OE1 GLN C 151      25.392 -38.366 -16.171  0.00  0.00           O 0
+ATOM   3403    O ALA C 152      23.405 -43.706 -12.072  0.58  4.29           O 0
+ATOM   3400    N ALA C 152      25.806 -42.345 -12.091  0.00  0.00           N 0
+ATOM   3393    C GLN C 151      26.827 -41.663 -12.591  0.00  0.00           C 0
+ATOM   3257   NZ LYS C 132      28.219 -44.075 -19.129  0.66  5.47           N 0
+ATOM   2990  OD2 ASP C  97      26.461 -46.290 -18.880  0.73  8.57           O 0
+ATOM   3405    N ALA C 153      24.329 -45.509 -13.049  0.00  0.00           N 0
+ATOM   3002  OG1 THR C  99      28.707 -41.171 -17.965  0.61  6.43           O 0
+ATOM   2986    O ASP C  97      26.802 -46.247 -14.109  0.00  0.00           O 0
+ATOM   3394    O GLN C 151      27.794 -42.206 -13.137  0.00  0.00           O 0
+ATOM   3401   CA ALA C 152      25.788 -43.809 -12.178  0.00  0.00           C 0
+ATOM   2992   CA SER C  98      28.781 -44.544 -14.884  0.00  0.00           C 0
+ATOM   2997    N THR C  99      29.557 -42.348 -15.435  0.00  0.00           N 0
+ATOM   2991    N SER C  98      28.477 -45.804 -15.547  0.00  0.00           N 0
+TER
+END

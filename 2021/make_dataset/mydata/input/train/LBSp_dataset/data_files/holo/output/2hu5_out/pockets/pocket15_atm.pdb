@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0400
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9520
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7014
+HEADER 5  - Mean B-factor of pocket residues  : 0.7345
+HEADER 6  - Hydrophobicity Score              : 4.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.1862
+HEADER 10  -Pocket volume (convex hull)       : 5.7332
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   4430   CB ARG B  18      24.299  -4.538   7.634  0.00  0.00           C 0
+ATOM   4427   CA ARG B  18      23.344  -5.205   8.624  0.00  0.00           C 0
+ATOM   4431   CG ARG B  18      23.569  -3.783   6.490  0.00  0.00           C 0
+ATOM   4457   CB ALA B  21      20.556  -8.056   8.210  0.00  0.00           C 0
+ATOM   4429    O ARG B  18      24.302  -7.342   9.190  0.00  0.00           O 0
+ATOM   4470   CG GLU B  23      22.060 -15.107   6.114  0.00  0.00           C 0
+ATOM   4459   CA VAL B  22      23.876 -11.173   8.645  0.00  0.00           C 0
+ATOM   4473  OE2 GLU B  23      21.891 -15.250   3.737  0.41  4.29           O 0
+ATOM   4456    O ALA B  21      21.217 -11.080   8.169  0.00  0.00           O 0
+ATOM   4465    N GLU B  23      23.453 -13.541   8.289  0.00  0.00           N 0
+ATOM   4458    N VAL B  22      22.979 -10.140   9.161  0.00  0.00           N 0
+ATOM   4455    C ALA B  21      21.685 -10.186   8.850  0.00  0.00           C 0
+ATOM   6688    O GLY B 321      27.840 -10.984   5.242  0.00  0.00           O 0
+ATOM   4462   CB VAL B  22      25.355 -10.932   9.023  0.00  0.00           C 0
+ATOM   6703   CD PRO B 323      28.481  -7.235   6.144  0.00  0.00           C 0
+ATOM   6702   CG PRO B 323      28.107  -6.066   5.264  0.00  0.00           C 0
+ATOM   6685    N GLY B 321      27.829 -13.842   5.254  0.63  4.37           N 0
+ATOM   4464  CG2 VAL B  22      26.258 -11.853   8.218  0.00  0.00           C 0
+ATOM   4471   CD GLU B  23      22.402 -15.745   4.772  0.00  0.00           C 0
+TER
+END

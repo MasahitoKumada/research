@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.4076
+HEADER 1  - Drug Score                        : 0.3294
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0660
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6516
+HEADER 5  - Mean B-factor of pocket residues  : 0.6159
+HEADER 6  - Hydrophobicity Score              : 11.1111
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.2213
+HEADER 10  -Pocket volume (convex hull)       : 8.6712
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM    339   CB ASP A1014      24.871  54.300 -10.267  0.00  0.00           C 0
+ATOM    335    N ASP A1014      23.650  52.209 -10.615  0.53  1.09           N 0
+ATOM    379  CG2 VAL A1018      27.225  50.758 -13.465  0.00  0.00           C 0
+ATOM    369  OE1AGLU A1017      27.906  54.831  -9.490  0.00  0.00           O 0
+HETATM 1203   CB ALY B  12      29.367  47.708 -11.892  0.00  0.00           C 0
+ATOM    333  CG1 VAL A1013      23.858  49.369 -12.347  0.00  0.00           C 0
+HETATM 1201   CD ALY B  12      27.235  46.488 -12.479  0.00  0.00           C 0
+HETATM 1199   NZ ALY B  12      25.600  45.245 -10.982  0.78  2.19           N 0
+ATOM    293  CG2 VAL A1008      26.381  44.719  -6.400  0.00  0.00           C 0
+ATOM    329   CA VAL A1013      22.558  50.068 -10.320  0.00  0.00           C 0
+HETATM 1202   CG ALY B  12      28.565  46.397 -11.809  0.00  0.00           C 0
+ATOM    334  CG2 VAL A1013      22.797  47.651 -10.914  0.00  0.00           C 0
+ATOM    290    O VAL A1008      23.717  45.950  -5.678  0.00  0.00           O 0
+ATOM    324    O PRO A1012      21.892  51.409  -7.988  0.00  0.00           O 0
+ATOM    315    O LYS A1011      20.982  48.929  -6.203  0.53  2.14           O 0
+ATOM    316   CB LYS A1011      21.435  51.374  -4.028  0.00  0.00           C 0
+ATOM    312    N LYS A1011      20.785  49.043  -3.545  0.00  0.00           N 0
+ATOM    279    O ARG A1007      24.445  46.641  -2.071  0.15  3.21           O 0
+TER
+END

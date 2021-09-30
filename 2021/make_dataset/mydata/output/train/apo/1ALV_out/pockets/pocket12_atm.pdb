@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0021
+HEADER 1  - Drug Score                        : 0.0360
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9119
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5227
+HEADER 5  - Mean B-factor of pocket residues  : 0.6747
+HEADER 6  - Hydrophobicity Score              : 40.3333
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.5836
+HEADER 10  -Pocket volume (convex hull)       : 4.4474
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM    188   CG MET A 111      -3.079 -36.603  21.738  0.00  0.00           C 0
+ATOM    130    O ALA A 104      -1.699 -43.446  23.469  0.30  8.57           O 0
+ATOM    163    O GLY A 108      -4.755 -39.882  23.725  0.73  5.36           O 0
+ATOM    131   CB ALA A 104       0.857 -43.437  21.295  0.00  0.00           C 0
+ATOM    128   CA ALA A 104       0.573 -43.098  22.775  0.00  0.00           C 0
+ATOM    158   CB ALA A 107      -1.044 -40.200  26.123  0.00  0.00           C 0
+ATOM    184   CA MET A 111      -2.537 -37.193  24.236  0.00  0.00           C 0
+ATOM    187   CB MET A 111      -2.264 -36.273  23.029  0.00  0.00           C 0
+ATOM    122  CD2 PHE A 103       2.839 -39.917  24.525  0.00  0.00           C 0
+ATOM     77   CG ARG A 100       6.470 -41.849  19.714  0.00  0.00           C 0
+ATOM     75    O ARG A 100       4.173 -43.832  21.821  0.76  1.07           O 0
+ATOM    190   CE MET A 111      -1.669 -35.352  19.724  0.00  0.00           C 0
+ATOM    124  CE2 PHE A 103       2.140 -38.736  24.777  0.00  0.00           C 0
+TER
+END

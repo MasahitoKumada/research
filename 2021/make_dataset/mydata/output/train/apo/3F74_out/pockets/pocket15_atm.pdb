@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.1008
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8494
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5555
+HEADER 5  - Mean B-factor of pocket residues  : 0.7561
+HEADER 6  - Hydrophobicity Score              : -4.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 147.9316
+HEADER 10  -Pocket volume (convex hull)       : 1.0673
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   2283   CB GLU B 222      32.585 -20.939   4.199  0.00  0.00           C 0
+ATOM   2331   CD PRO B 228      32.274 -22.254  -0.647  0.00  0.00           C 0
+ATOM   2312    O ALA B 226      30.185 -23.319   2.184  0.41  1.07           O 0
+ATOM   2325    N PRO B 228      31.080 -21.849  -1.414  0.67  1.09           N 0
+ATOM   2279    N GLU B 222      30.446 -20.237   5.169  0.00  0.00           N 0
+ATOM   2326   CA PRO B 228      31.325 -20.616  -2.173  0.00  0.00           C 0
+ATOM   2330   CG PRO B 228      33.193 -21.079  -0.791  0.00  0.00           C 0
+ATOM   2313   CB ALA B 226      27.467 -21.785   2.958  0.00  0.00           C 0
+ATOM   2317    O ARG B 227      28.878 -21.906  -1.906  0.68  5.36           O 0
+ATOM   2316    C ARG B 227      29.854 -22.404  -1.353  0.00  0.00           C 0
+ATOM   2252    O PHE B 220      27.025 -17.146   4.392  0.00  0.00           O 0
+ATOM   2359   CE LYS B 232      25.870 -16.738  -0.547  0.00  0.00           C 0
+ATOM   2360   NZ LYS B 232      26.858 -16.804  -1.651  0.00  0.00           N 0
+ATOM   1515  OD2 ASP B 131      26.072 -23.270  -0.213  0.31  2.14           O 0
+TER
+END

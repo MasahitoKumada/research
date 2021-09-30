@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0295
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6034
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3682
+HEADER 5  - Mean B-factor of pocket residues  : 0.3669
+HEADER 6  - Hydrophobicity Score              : 14.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.7321
+HEADER 10  -Pocket volume (convex hull)       : 5.7926
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM    684  ND2 ASN A 756     -19.725 -15.304  -1.762  0.47  8.75           N 0
+ATOM    742  CE1 TYR A 763     -22.605 -13.488  -1.730  0.00  0.00           C 0
+ATOM    745   OH TYR A 763     -22.978 -15.260  -3.295  0.00  0.00           O 0
+ATOM    115  CG2 VAL A 684     -24.806 -19.038   1.977  0.00  0.00           C 0
+ATOM    767   CG PRO A 766     -25.898 -15.512  -1.765  0.00  0.00           C 0
+ATOM    114  CG1 VAL A 684     -26.435 -17.453   0.936  0.00  0.00           C 0
+ATOM    768   CD PRO A 766     -26.320 -14.172  -1.203  0.00  0.00           C 0
+ATOM    649   CD ARG A 752     -21.861 -13.083   3.068  0.00  0.00           C 0
+ATOM    116    N VAL A 685     -27.835 -15.802   3.134  0.62  2.19           N 0
+ATOM    110   CA VAL A 684     -26.361 -17.702   3.439  0.00  0.00           C 0
+ATOM    650   NE ARG A 752     -22.504 -11.777   2.929  0.68  1.09           N 0
+ATOM    119    O VAL A 685     -28.355 -13.528   1.470  0.47  2.14           O 0
+ATOM    108    O GLY A 683     -26.309 -17.019   6.129  0.32  3.21           O 0
+ATOM    316  OE1 GLN A 711     -27.017 -11.946   5.849  0.18  5.36           O 0
+ATOM    652  NH1 ARG A 752     -22.647 -11.419   5.205  0.48  4.37           N 1
+ATOM    685  OD1 ASN A 756     -17.921 -15.883  -0.559  0.74  3.21           O 0
+ATOM    648   CG ARG A 752     -20.381 -12.988   3.397  0.00  0.00           C 0
+TER
+END

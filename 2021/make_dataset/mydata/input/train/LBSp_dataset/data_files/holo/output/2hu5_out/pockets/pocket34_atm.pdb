@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0998
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0273
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5186
+HEADER 5  - Mean B-factor of pocket residues  : 0.4985
+HEADER 6  - Hydrophobicity Score              : 36.4167
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.0833
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.4059
+HEADER 10  -Pocket volume (convex hull)       : 10.5562
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   5559  CD1 LEU B 167      23.386 -30.418  31.347  0.00  0.00           C 0
+ATOM   5469   CB PHE B 155      18.102 -28.500  30.234  0.00  0.00           C 0
+ATOM   5479    O VAL B 156      18.103 -31.685  27.062  0.56  5.36           O 0
+ATOM   5488   OG SER B 157      21.347 -32.896  29.551  0.00  0.00           O 0
+ATOM   6150  CD1 TRP B 250      25.785 -30.767  22.989  0.00  0.00           C 0
+ATOM   6440  NH2 ARG B 287      21.829 -28.579  20.697  0.57  4.37           N 0
+ATOM   6439  NH1 ARG B 287      21.976 -30.824  20.306  0.76  4.37           N 0
+ATOM   4823  OD2 ASP B  69      18.883 -31.279  22.681  0.36  7.50           O 0
+ATOM   5484   CA SER B 157      20.139 -33.537  27.559  0.00  0.00           C 0
+ATOM   5486    O SER B 157      20.555 -34.468  25.380  0.50  8.57           O 0
+ATOM   5487   CB SER B 157      21.269 -33.856  28.531  0.00  0.00           C 0
+ATOM   5783    O ALA B 200      24.043 -35.343  27.179  0.64  2.14           O 0
+ATOM   6145   CA TRP B 250      28.691 -30.125  24.819  0.00  0.00           C 0
+ATOM   5777   CA SER B 199      26.568 -31.645  29.442  0.00  0.00           C 0
+ATOM   6140    O THR B 249      28.074 -27.777  26.094  0.00  0.00           O 0
+ATOM   5773    O SER B 198      26.285 -28.961  30.347  0.00  0.00           O 0
+ATOM   5780    N ALA B 200      25.414 -33.778  29.070  0.70  1.09           N 0
+ATOM   6161    O LEU B 251      26.800 -34.378  24.265  0.70  1.07           O 0
+ATOM   6152  NE1 TRP B 250      25.328 -31.827  22.238  0.62  5.47           N 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0502
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8468
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4667
+HEADER 5  - Mean B-factor of pocket residues  : 0.7907
+HEADER 6  - Hydrophobicity Score              : 44.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 145.3456
+HEADER 10  -Pocket volume (convex hull)       : 1.3458
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   4827  OE1AGLN A 594      16.445  62.279  30.286  0.63  9.64           O 0
+ATOM   3193  CD1 LEU A 399      12.791  64.779  35.418  0.00  0.00           C 0
+ATOM   3187    N LEU A 399      16.603  65.542  37.370  0.00  0.00           N 0
+ATOM   3192   CG LEU A 399      13.647  65.804  36.149  0.00  0.00           C 0
+ATOM   3229  CD1 LEU A 404      14.993  68.486  34.202  0.00  0.00           C 0
+ATOM   4836  OD2 ASP A 595      20.046  66.891  29.650  0.52  1.07           O 1
+ATOM   3230  CD2 LEU A 404      15.703  70.121  32.459  0.00  0.00           C 0
+ATOM   3180   CA ILE A 398      18.810  65.864  36.362  0.00  0.00           C 0
+ATOM   3181    C ILE A 398      17.528  66.409  37.004  0.00  0.00           C 0
+ATOM   4860  CD1 LEU A 598      17.874  65.624  27.052  0.00  0.00           C 0
+ATOM   3178  NH2 ARG A 397      18.728  69.383  28.660  0.00  0.00           N 0
+ATOM   3171    O ARG A 397      20.111  66.003  33.883  0.32  8.57           O 0
+ATOM   3172   CB ARG A 397      19.810  69.128  33.373  0.00  0.00           C 0
+TER
+END

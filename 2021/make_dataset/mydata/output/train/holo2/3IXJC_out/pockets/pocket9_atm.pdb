@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0162
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0843
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5415
+HEADER 5  - Mean B-factor of pocket residues  : 0.5161
+HEADER 6  - Hydrophobicity Score              : 24.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.6426
+HEADER 10  -Pocket volume (convex hull)       : 9.8239
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   2795    O ALA C 416     -10.869 -31.028  34.730  0.00  0.00           O 0
+ATOM   2701  CG2 VAL C 404     -11.762 -27.210  37.685  0.00  0.00           C 0
+ATOM   2699   CB VAL C 404     -12.688 -28.080  36.925  0.00  0.00           C 0
+ATOM   2728  NE2 HIS C 408     -12.556 -32.940  38.173  0.57  6.56           N 0
+ATOM   2709   CA ALA C 406     -15.175 -29.752  43.063  0.00  0.00           C 0
+ATOM   1364  CG2 THR C 233     -10.900 -26.869  43.067  0.00  0.00           C 0
+ATOM   2712   CB ALA C 406     -15.278 -28.843  44.288  0.00  0.00           C 0
+ATOM   2711    O ALA C 406     -15.077 -31.866  44.242  0.00  0.00           O 0
+ATOM   2789   CB THR C 415      -8.984 -33.752  36.367  0.00  0.00           C 0
+ATOM   2791  OG1 THR C 415      -7.861 -33.050  35.823  0.23  7.50           O 0
+ATOM   1365  OG1 THR C 233     -11.024 -27.299  40.700  0.00  0.00           O 0
+ATOM   2790  CG2 THR C 415      -8.580 -34.424  37.682  0.00  0.00           C 0
+ATOM   2745  NE2 HIS C 410     -11.160 -35.708  41.082  0.00  0.00           N 0
+ATOM   2705    O SER C 405     -14.844 -30.482  40.390  0.41  2.14           O 0
+ATOM   2725  CD2 HIS C 408     -13.812 -32.594  38.621  0.00  0.00           C 0
+TER
+END

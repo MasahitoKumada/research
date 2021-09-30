@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    67:
+HEADER 0  - Pocket Score                      : -0.0930
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7331
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4751
+HEADER 5  - Mean B-factor of pocket residues  : 0.6239
+HEADER 6  - Hydrophobicity Score              : -8.8750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.0524
+HEADER 10  -Pocket volume (convex hull)       : 4.6795
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM   5201    O ASP C 168      32.824  10.265  16.144  0.00  0.00           O 0
+ATOM   5202   CB ASP C 168      35.650  10.300  17.908  0.00  0.00           C 0
+ATOM   5223   CA PHE C 171      29.507   8.975  18.116  0.00  0.00           C 0
+ATOM   5209    O ASP C 169      33.282   7.217  16.819  0.41  6.43           O 0
+ATOM   5217    O ASN C 170      30.521   6.382  18.531  0.44  7.50           O 0
+ATOM   5226   CB PHE C 171      29.795  10.407  17.666  0.00  0.00           C 0
+ATOM   5198    N ASP C 168      34.466  12.257  17.022  0.70  2.19           N 0
+ATOM   5401  OD1 ASP C 194      30.089  12.871  22.216  0.74  7.50           O 0
+ATOM   5205  OD2 ASP C 168      36.928  11.162  19.737  0.00  0.00           O 0
+ATOM   5402  OD2 ASP C 194      29.209  11.174  21.069  0.61  6.43           O 0
+ATOM   5400   CG ASP C 194      29.437  12.401  21.249  0.00  0.00           C 0
+ATOM   5399   CB ASP C 194      28.913  13.396  20.251  0.00  0.00           C 0
+ATOM   5192   CA VAL C 167      33.689  14.493  16.626  0.00  0.00           C 0
+ATOM   5180   CE LYS C 165      31.855  16.146  21.388  0.00  0.00           C 0
+ATOM   5179   CD LYS C 165      32.888  17.268  21.661  0.00  0.00           C 0
+ATOM   5185    O GLU C 166      34.605  16.091  18.624  0.67  9.64           O 0
+ATOM   5181   NZ LYS C 165      31.267  15.531  22.632  0.50  5.47           N 0
+TER
+END

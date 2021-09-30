@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1849
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7368
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4901
+HEADER 5  - Mean B-factor of pocket residues  : 0.1885
+HEADER 6  - Hydrophobicity Score              : 7.1000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 256.3442
+HEADER 10  -Pocket volume (convex hull)       : 15.2909
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1760  OG1 THR A1017       4.989 -28.315   7.079  0.00  0.00           O 0
+ATOM   1298   OG SER A 956       0.626 -29.006  10.312  0.19  7.50           O 0
+ATOM   1296    O SER A 956      -0.901 -27.326   7.163  0.70  4.29           O 0
+ATOM   1307  OE1 GLN A 957      -2.142 -31.839   7.361  0.27  6.43           O 0
+ATOM   1297   CB SER A 956       1.030 -27.784   9.738  0.00  0.00           C 0
+ATOM   2311   CB SER A1084       3.782 -35.131  10.127  0.00  0.00           C 0
+ATOM   2313    N PHE A1085       3.583 -33.246  12.567  0.54  1.09           N 0
+ATOM   2303    O PRO A1083       7.548 -33.985  11.463  0.00  0.00           O 0
+ATOM   2308   CA SER A1084       4.894 -34.559  10.999  0.00  0.00           C 0
+ATOM   1768  OD1 ASN A1018       8.800 -31.230   6.993  0.00  0.00           O 0
+ATOM   2292    O ARG A1082       9.297 -35.405   9.339  0.00  0.00           O 0
+ATOM   1757    O THR A1017       7.109 -27.882  10.083  0.76  1.07           O 0
+ATOM   1789  CG2 VAL A1021       7.180 -30.526  12.253  0.00  0.00           C 0
+ATOM   1758   CB THR A1017       4.707 -27.382   8.125  0.00  0.00           C 0
+ATOM   2320  CD2 PHE A1085       3.403 -29.562  12.905  0.00  0.00           C 0
+ATOM   2337  OE1 GLN A1087       5.912 -38.399  10.637  0.77  6.43           O 0
+ATOM   2307    N SER A1084       5.951 -35.543  11.187  0.00  0.00           N 0
+TER
+END

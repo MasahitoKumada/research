@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0644
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1026
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6439
+HEADER 5  - Mean B-factor of pocket residues  : 0.2896
+HEADER 6  - Hydrophobicity Score              : 37.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 347.3683
+HEADER 10  -Pocket volume (convex hull)       : 11.9148
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.6000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   1249  CD2 PHE A 165      12.131  73.090  37.333  0.00  0.00           C 0
+ATOM   1173   CG ASN A 156      10.356  70.821  34.677  0.00  0.00           C 0
+ATOM   1175  ND2 ASN A 156      11.141  70.152  35.516  0.76  4.37           N 0
+ATOM   1174  OD1 ASN A 156       9.188  70.499  34.458  0.71  8.57           O 0
+ATOM   1251  CE2 PHE A 165      12.481  71.998  38.143  0.00  0.00           C 0
+ATOM   1172   CB ASN A 156      10.973  72.034  34.017  0.00  0.00           C 0
+ATOM   1171    O ASN A 156      10.144  74.896  32.989  0.64  7.50           O 0
+ATOM   1999   OH TYR A 258       7.990  74.296  40.726  0.00  0.00           O 0
+ATOM   1230    O PRO A 163      10.330  76.763  38.889  0.61  3.21           O 0
+ATOM   1219   CB TYR A 162       7.276  79.294  36.345  0.00  0.00           C 0
+ATOM   1223  CE1 TYR A 162       4.161  81.268  35.369  0.00  0.00           C 0
+ATOM   1221  CD1 TYR A 162       5.328  80.879  36.011  0.00  0.00           C 0
+ATOM   1953  CG2 VAL A 252       4.781  82.232  40.058  0.00  0.00           C 0
+ATOM   1957    O ASN A 253       1.735  81.371  42.051  0.00  0.00           O 0
+ATOM   1222  CD2 TYR A 162       5.551  79.033  34.514  0.00  0.00           C 0
+ATOM   1996  CE1 TYR A 258       6.146  75.449  41.742  0.00  0.00           C 0
+ATOM   1220   CG TYR A 162       6.038  79.752  35.597  0.00  0.00           C 0
+ATOM   1233   CD PRO A 163       7.419  79.116  40.008  0.00  0.00           C 0
+ATOM   1968  CG2 ILE A 254       4.080  79.189  42.817  0.00  0.00           C 0
+TER
+END

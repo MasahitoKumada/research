@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0713
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0105
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6898
+HEADER 5  - Mean B-factor of pocket residues  : 0.6675
+HEADER 6  - Hydrophobicity Score              : -15.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.7551
+HEADER 10  -Pocket volume (convex hull)       : 6.9544
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM    855   CA SER A2552       5.208  17.167  18.982  0.00  0.00           C 0
+ATOM    846    O ARG A2551       7.493  18.447  19.821  0.39  4.29           O 0
+ATOM    854    N SER A2552       6.377  17.436  18.153  0.00  0.00           N 0
+ATOM    858   CB SER A2552       3.927  17.235  18.147  0.00  0.00           C 0
+ATOM    845    C ARG A2551       7.441  18.057  18.652  0.00  0.00           C 0
+ATOM    847   CB ARG A2551       8.547  19.666  17.066  0.00  0.00           C 0
+ATOM    821    O LYS A2548       5.663  17.925  15.211  0.63  1.07           O 0
+ATOM    705  NE2 GLN A2532       9.631  20.883  20.999  0.67  7.66           N 0
+ATOM    852  NH1 ARG A2551       9.615  24.167  17.647  0.00  0.00           N 0
+ATOM    819   CA LYS A2548       6.028  18.812  13.015  0.00  0.00           C 0
+ATOM    849   CD ARG A2551       9.595  21.259  15.404  0.00  0.00           C 0
+ATOM    731    O PRO A2536       8.887  22.199  10.777  0.59  3.21           O 0
+ATOM    850   NE ARG A2551       9.235  22.457  16.159  0.67  4.37           N 0
+ATOM    823   CG LYS A2548       3.494  19.229  12.951  0.00  0.00           C 0
+ATOM    822   CB LYS A2548       4.770  18.987  12.157  0.00  0.00           C 0
+ATOM    826   NZ LYS A2548       2.169  21.573  11.609  0.00  0.00           N 0
+ATOM    732   CB PRO A2536       9.430  24.614  12.883  0.00  0.00           C 0
+ATOM    743  CE1 HIS A2537       7.292  25.724   9.271  0.00  0.00           C 0
+TER
+END

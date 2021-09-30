@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0314
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8554
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5480
+HEADER 5  - Mean B-factor of pocket residues  : 0.5772
+HEADER 6  - Hydrophobicity Score              : 28.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 313.7526
+HEADER 10  -Pocket volume (convex hull)       : 26.6634
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.4000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4348
+ATOM   1985  CG1 ILE X 267      80.978  80.699  43.205  0.00  0.00           C 0
+ATOM   1345   CA TYR X 188      83.286  76.415  44.275  0.00  0.00           C 0
+ATOM   1380   NZ LYS X 191      85.150  81.891  47.918  0.00  0.00           N 0
+ATOM   1379   CE LYS X 191      85.147  80.445  48.435  0.00  0.00           C 0
+ATOM   1378   CD LYS X 191      83.735  79.806  48.873  0.00  0.00           C 0
+ATOM   1350  CD1 TYR X 188      80.645  77.749  45.659  0.00  0.00           C 0
+ATOM   1339    O ASP X 187      85.901  76.344  44.786  0.81  6.43           O 0
+ATOM   1340   CB ASP X 187      86.961  77.554  42.038  0.00  0.00           C 0
+ATOM   1338    C ASP X 187      85.587  76.260  43.618  0.00  0.00           C 0
+ATOM   1319  OD1 ASP X 184      84.757  80.564  37.299  0.42  5.36           O 0
+ATOM   1343  OD2 ASP X 187      88.285  78.593  40.397  0.39  6.43           O 0
+ATOM   1316    O ASP X 184      83.531  77.044  40.498  0.69  2.14           O 0
+ATOM   1317   CB ASP X 184      83.192  78.855  37.929  0.00  0.00           C 0
+ATOM   1314   CA ASP X 184      84.177  77.834  38.362  0.00  0.00           C 0
+ATOM   1983    O ILE X 267      80.525  84.199  43.420  0.00  0.00           O 0
+ATOM   1998   SD MET X 269      79.282  84.290  37.664  0.00  0.00           S 0
+ATOM   1997   CG MET X 269      78.383  84.817  39.190  0.00  0.00           C 0
+ATOM   1996   CB MET X 269      78.389  86.212  39.398  0.00  0.00           C 0
+ATOM   1344    N TYR X 188      84.301  76.275  43.254  0.70  1.09           N 0
+ATOM   1986  CG2 ILE X 267      79.722  81.964  41.392  0.00  0.00           C 0
+ATOM   1318   CG ASP X 184      83.800  79.855  36.964  0.00  0.00           C 0
+ATOM   1291  CD1 LEU X 180      79.255  79.985  37.515  0.00  0.00           C 0
+TER
+END

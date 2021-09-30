@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1609
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5722
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3264
+HEADER 5  - Mean B-factor of pocket residues  : 0.4913
+HEADER 6  - Hydrophobicity Score              : 23.7273
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 126.2152
+HEADER 10  -Pocket volume (convex hull)       : 2.1821
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   1710   OG SER A 212      -4.608  40.404 -24.712  0.55  9.64           O 0
+ATOM   1935   OG SER A 242      -5.249  38.234 -18.029  0.61  5.36           O 0
+ATOM   1692    O THR A 210      -0.623  40.345 -22.703  0.28  6.43           O 0
+ATOM   1958  CG2 THR A 245      -4.314  41.497 -17.647  0.00  0.00           C 0
+ATOM   1950  CG2 ILE A 244      -1.329  38.535 -17.775  0.00  0.00           C 0
+ATOM   1699    O GLN A 211      -1.522  37.265 -23.640  0.55  2.14           O 0
+ATOM   1654    N TYR A 206      -3.238  34.168 -20.211  0.55  1.09           N 0
+ATOM   1706   CA SER A 212      -3.655  38.258 -25.015  0.00  0.00           C 0
+ATOM   1650    O PRO A 205      -5.425  34.246 -20.770  0.60  1.07           O 0
+ATOM   1711    N ILE A 213      -4.665  36.058 -25.301  0.60  2.19           N 0
+ATOM   1740   CD LYS A 216      -8.775  39.536 -23.802  0.00  0.00           C 0
+ATOM   1716  CG1 ILE A 213      -6.916  34.225 -24.548  0.00  0.00           C 0
+ATOM   1934   CB SER A 242      -5.824  36.990 -18.452  0.00  0.00           C 0
+ATOM   1643  CE1 TYR A 204      -9.142  35.892 -20.232  0.00  0.00           C 0
+ATOM   1739   CG LYS A 216      -9.693  38.321 -23.882  0.00  0.00           C 0
+TER
+END

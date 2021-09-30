@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0120
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.0151
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5840
+HEADER 5  - Mean B-factor of pocket residues  : 0.1659
+HEADER 6  - Hydrophobicity Score              : 12.1000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.5571
+HEADER 10  -Pocket volume (convex hull)       : 9.8906
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2692
+ATOM    801  CE1 HIS A 206      -0.104 -17.045  20.956  0.00  0.00           C 0
+ATOM    763  CE2 PHE A 202      -5.260 -16.099  18.146  0.00  0.00           C 0
+ATOM    166    O ASP A 124      -6.248 -12.695  21.332  0.00  0.00           O 0
+ATOM    785  CG2 THR A 204      -1.827 -14.746  17.957  0.00  0.00           C 0
+ATOM    764   CZ PHE A 202      -6.341 -15.680  18.908  0.00  0.00           C 0
+ATOM    186  ND2 ASN A 126      -3.437 -12.442  27.874  0.00  0.00           N 0
+ATOM    791  OG1 THR A 205       1.584 -13.703  23.211  0.00  0.00           O 0
+ATOM    214  OD2 ASP A 129      -1.180 -11.068  26.618  0.62  7.50           O 0
+ATOM    179    N ASN A 126      -5.153 -10.284  25.327  0.59  2.19           N 0
+ATOM    185  OD1 ASN A 126      -5.674 -12.222  27.889  0.00  0.00           O 0
+ATOM    172   CA MET A 125      -5.481 -10.498  22.923  0.00  0.00           C 0
+ATOM    792  CG2 THR A 205       0.948 -11.392  23.489  0.00  0.00           C 0
+ATOM    176   CG MET A 125      -3.633 -10.166  21.199  0.00  0.00           C 0
+ATOM    173    C MET A 125      -5.927  -9.978  24.286  0.00  0.00           C 0
+ATOM    159    O PRO A 123      -9.898 -11.260  22.029  0.00  0.00           O 0
+ATOM    174    O MET A 125      -6.940  -9.284  24.390  0.00  0.00           O 0
+ATOM    786    N THR A 205       0.766 -12.504  20.731  0.56  2.19           N 0
+ATOM    783   CB THR A 204      -0.730 -14.093  18.802  0.00  0.00           C 0
+ATOM    768    O TRP A 203      -3.698 -12.150  18.630  0.00  0.00           O 0
+ATOM    780   CA THR A 204      -0.992 -12.581  19.081  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0699
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.5185
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4179
+HEADER 5  - Mean B-factor of pocket residues  : 0.3936
+HEADER 6  - Hydrophobicity Score              : 30.4545
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1818
+HEADER 9  - Pocket volume (Monte Carlo)       : 126.7844
+HEADER 10  -Pocket volume (convex hull)       : 2.8322
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0476
+ATOM   2011    O ILE A 261      79.089  79.746 -15.379  0.33  4.29           O 0
+ATOM   2024  OE2 GLU A 262      79.218  74.710 -13.845  0.62  5.36           O 0
+ATOM   2036    O LEU A 264      81.499  80.993 -12.044  0.63  1.07           O 0
+ATOM   1893  CG2 ILE A 246      76.522  79.252  -9.850  0.00  0.00           C 0
+ATOM   2023  OE1 GLU A 262      77.316  75.263 -14.860  0.73  5.36           O 0
+ATOM   2005   CB PRO A 260      74.355  77.640 -15.528  0.00  0.00           C 0
+ATOM   2952   NZ LYS A 379      75.996  74.817  -8.326  0.88  2.19           N 0
+ATOM   2906    O GLY A 375      79.975  74.927  -8.698  0.00  0.00           O 0
+ATOM   2915  NE1 TRP A 376      78.330  72.812 -11.879  0.00  0.00           N 0
+ATOM   2025    N ASN A 263      81.425  77.017 -15.349  0.00  0.00           N 0
+ATOM   3824    O VAL A 492      73.619  74.539 -13.142  0.85  1.07           O 0
+ATOM   1898    O SER A 247      76.059  81.783 -13.439  0.62  2.14           O 0
+ATOM   2008    N ILE A 261      76.150  80.164 -16.124  0.00  0.00           N 0
+ATOM   2918  CZ2 TRP A 376      75.879  72.872 -11.386  0.00  0.00           C 0
+ATOM   2916  CE2 TRP A 376      77.216  72.583 -11.126  0.00  0.00           C 0
+ATOM   1892  CG1 ILE A 246      78.248  78.464  -8.435  0.00  0.00           C 0
+ATOM   2904   CA GLY A 375      81.892  75.296 -10.056  0.00  0.00           C 0
+ATOM   1894  CD1 ILE A 246      79.676  78.727  -8.007  0.00  0.00           C 0
+TER
+END

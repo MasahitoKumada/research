@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.1400
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8137
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7553
+HEADER 5  - Mean B-factor of pocket residues  : 0.5782
+HEADER 6  - Hydrophobicity Score              : 14.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 297.4044
+HEADER 10  -Pocket volume (convex hull)       : 16.7328
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.1818
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM    745    N LYS X  97       3.327  13.434   8.197  0.00  0.00           N 0
+ATOM    749   CB LYS X  97       2.838  14.508  10.364  0.00  0.00           C 0
+ATOM    746   CA LYS X  97       3.923  13.969   9.424  0.00  0.00           C 0
+ATOM    744  CG2 THR X  96       3.162  15.356   4.646  0.00  0.00           C 0
+ATOM    740    C THR X  96       3.948  13.587   7.031  0.00  0.00           C 0
+ATOM    741    O THR X  96       5.058  14.113   6.930  0.37  6.43           O 0
+ATOM    750   CG LYS X  97       3.379  15.438  11.453  0.00  0.00           C 0
+ATOM    715  OE1 GLN X  92      -5.233  14.529   3.755  0.00  0.00           O 0
+ATOM    712   CB GLN X  92      -3.213  12.906   5.079  0.00  0.00           C 0
+ATOM    714   CD GLN X  92      -4.700  13.648   3.077  0.00  0.00           C 0
+ATOM    743  OG1 THR X  96       1.561  13.642   4.084  0.70  5.36           O 0
+ATOM    713   CG GLN X  92      -3.892  12.529   3.728  0.00  0.00           C 0
+ATOM   1174  CD2 LEU X 150      -0.868  12.671   0.094  0.00  0.00           C 0
+ATOM    742   CB THR X  96       2.317  14.193   5.178  0.00  0.00           C 0
+ATOM    711    O GLN X  92      -0.175  12.393   6.443  0.00  0.00           O 0
+ATOM    718   CA SER X  93      -0.843  12.396   9.055  0.00  0.00           C 0
+ATOM    717    N SER X  93      -1.778  12.016   7.995  0.00  0.00           N 0
+ATOM    710    C GLN X  92      -1.358  12.099   6.723  0.00  0.00           C 0
+TER
+END

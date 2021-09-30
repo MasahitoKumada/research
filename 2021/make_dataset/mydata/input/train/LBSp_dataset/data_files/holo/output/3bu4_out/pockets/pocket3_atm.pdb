@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1987
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8247
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6162
+HEADER 5  - Mean B-factor of pocket residues  : 0.2213
+HEADER 6  - Hydrophobicity Score              : 20.2000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.4706
+HEADER 10  -Pocket volume (convex hull)       : 7.5954
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM    484   CB LEU A  88       8.586  22.098  20.864  0.00  0.00           C 0
+ATOM    499   OG SER A  90       6.661  23.878  23.498  0.82  2.14           O 0
+ATOM    498   CB SER A  90       6.923  23.850  24.892  0.00  0.00           C 0
+ATOM    487  CD2 LEU A  88      10.433  23.101  19.496  0.00  0.00           C 0
+ATOM    493   OG SER A  89      10.915  20.621  25.747  0.00  0.00           O 0
+ATOM    486  CD1 LEU A  88       8.260  24.279  19.697  0.00  0.00           C 0
+ATOM    558    N GLY A 100      15.184  23.622  19.173  0.00  0.00           N 0
+ATOM    548    O SER A  98      13.061  26.541  18.800  0.78  7.50           O 0
+ATOM    559   CA GLY A 100      15.540  22.609  20.153  0.00  0.00           C 0
+ATOM    550   OG SER A  98      16.474  26.853  20.015  0.68  5.36           O 0
+ATOM    488    N SER A  89       9.433  20.057  23.329  0.51  1.09           N 0
+ATOM    494    N SER A  90       7.785  21.561  24.863  0.00  0.00           N 0
+ATOM    574  OD2 ASP A 102      13.360  16.607  21.982  0.23  2.14           O 0
+ATOM     61  OD1 ASN A  35      13.649  17.665  24.705  0.32  7.50           O 0
+ATOM    562    N ALA A 101      16.533  20.383  20.102  0.00  0.00           N 0
+ATOM     80   OH TYR A  37      10.867  17.169  22.393  0.00  0.00           O 0
+ATOM    475    O ILE A  87      10.734  19.031  19.439  0.24  2.14           O 0
+TER
+END

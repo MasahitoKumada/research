@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1632
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5649
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5725
+HEADER 5  - Mean B-factor of pocket residues  : 0.7466
+HEADER 6  - Hydrophobicity Score              : 4.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 2.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 112.6165
+HEADER 10  -Pocket volume (convex hull)       : 1.4242
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM    623   OG SER A 175      -4.329   2.958  25.868  0.35  4.29           O 0
+ATOM    611   OG SER A 173      -7.069   5.414  20.108  0.00  0.00           O 0
+ATOM    557   OG SER A 165      -2.041   6.782  24.433  0.00  0.00           O 0
+ATOM    615    O SER A 174      -2.506   3.386  22.239  0.40  1.07           O 0
+ATOM    610   CB SER A 173      -5.776   5.670  19.577  0.00  0.00           C 0
+ATOM    790    C LYS A 200      -6.868  -0.395  23.493  0.00  0.00           C 0
+ATOM    792   CB LYS A 200      -7.611   0.789  25.558  0.00  0.00           C 0
+ATOM    791    O LYS A 200      -5.717  -0.083  23.189  0.00  0.00           O 0
+ATOM    609    O SER A 173      -6.200   2.401  19.311  0.50  1.07           O 0
+ATOM    613   CA SER A 174      -4.191   2.015  21.224  0.00  0.00           C 0
+ATOM    794   CA VAL A 201      -7.640  -0.302  21.181  0.00  0.00           C 0
+ATOM    795    C VAL A 201      -8.909   0.374  20.684  0.00  0.00           C 0
+ATOM    614    C SER A 174      -3.249   2.412  22.357  0.00  0.00           C 0
+ATOM    801   CA SER A 202      -9.952   1.906  19.140  0.00  0.00           C 0
+ATOM    800    N SER A 202      -8.782   1.217  19.669  0.00  0.00           N 0
+ATOM    796    O VAL A 201      -9.994   0.138  21.222  0.56  2.14           O 0
+TER
+END

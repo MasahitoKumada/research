@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0204
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6623
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4735
+HEADER 5  - Mean B-factor of pocket residues  : 0.7669
+HEADER 6  - Hydrophobicity Score              : 39.1250
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 120.3135
+HEADER 10  -Pocket volume (convex hull)       : 1.3077
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM    103  CD1 ILE A 156      -1.699 -17.667  25.928  0.00  0.00           C 0
+ATOM    386   CG GLN A 193       1.463 -21.408  21.679  0.00  0.00           C 0
+ATOM    122    N GLY A 159       4.934 -18.237  26.328  0.50  2.19           N 0
+ATOM    129    O ILE A 160       1.859 -21.974  27.128  0.48  1.07           O 0
+ATOM    382   CA GLN A 193       0.559 -19.215  20.753  0.00  0.00           C 0
+ATOM    371  CG2 ILE A 191      -1.585 -20.924  23.752  0.00  0.00           C 0
+ATOM    107    O PRO A 157       2.425 -17.073  28.168  0.70  1.07           O 0
+ATOM    126    N ILE A 160       3.601 -19.992  28.048  0.00  0.00           N 0
+ATOM    132  CG2 ILE A 160       0.533 -19.677  28.621  0.00  0.00           C 0
+ATOM    413  OD1 ASN A 196       1.020 -14.853  24.365  0.70  1.07           O 0
+ATOM    384    O GLN A 193       1.448 -17.010  20.472  0.22  8.57           O 0
+ATOM    385   CB GLN A 193       1.672 -20.263  20.695  0.00  0.00           C 0
+ATOM    119  CE1 PHE A 158       6.609 -14.988  22.809  0.00  0.00           C 0
+ATOM    117  CD1 PHE A 158       5.983 -14.697  24.007  0.00  0.00           C 0
+TER
+END

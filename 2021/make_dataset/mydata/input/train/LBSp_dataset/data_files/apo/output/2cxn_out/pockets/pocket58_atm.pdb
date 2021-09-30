@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    58:
+HEADER 0  - Pocket Score                      : -0.0508
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6753
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4679
+HEADER 5  - Mean B-factor of pocket residues  : 0.3467
+HEADER 6  - Hydrophobicity Score              : 27.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 78.3405
+HEADER 10  -Pocket volume (convex hull)       : 0.4973
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    815    O VAL A 101      18.986   7.249 -16.999  0.75  1.07           O 0
+ATOM    818  CG2 VAL A 101      17.745   3.579 -17.406  0.00  0.00           C 0
+ATOM    690  CD2 PHE A  85      20.393   1.663 -19.766  0.00  0.00           C 0
+ATOM    816   CB VAL A 101      18.808   4.122 -16.444  0.00  0.00           C 0
+ATOM    897  CD1 ILE A 111      16.881   6.437 -21.358  0.00  0.00           C 0
+ATOM    848   CG ASN A 105      19.929   9.178 -21.249  0.00  0.00           C 0
+ATOM    849  OD1 ASN A 105      21.100   8.919 -21.537  0.55  6.43           O 0
+ATOM   2370  CE1 HIS A 301      24.151   8.096 -19.835  0.00  0.00           C 0
+ATOM   2368  ND1 HIS A 301      23.970   8.120 -18.526  0.00  0.00           N 0
+ATOM    692  CE2 PHE A  85      21.338   1.854 -18.761  0.00  0.00           C 0
+ATOM   2398   CB ASP A 304      23.761   3.917 -16.344  0.00  0.00           C 0
+ATOM   2410  NE2 GLN A 305      24.711   4.634 -21.150  0.36  4.37           N 0
+ATOM   2401  OD2 ASP A 304      22.241   5.404 -15.218  0.68  1.07           O 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0750
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7826
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5171
+HEADER 5  - Mean B-factor of pocket residues  : 0.7485
+HEADER 6  - Hydrophobicity Score              : 16.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.5000
+HEADER 10  -Pocket volume (convex hull)       : 3.3112
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM    396    N LEU B  97      19.766  -4.910 -24.671  0.00  0.00           N 0
+ATOM    400   CB LEU B  97      17.800  -6.176 -23.905  0.00  0.00           C 0
+ATOM    598   CG PRO B 121      18.821 -11.492 -23.711  0.00  0.00           C 0
+ATOM    369    O GLN B  93      20.253  -5.649 -21.708  0.59  3.21           O 0
+ATOM    626  CD1 LEU B 124      18.982  -9.858 -20.217  0.00  0.00           C 0
+ATOM    394  NE2 GLN B  96      24.415  -6.966 -22.466  0.74  5.47           N 0
+ATOM    618  NE2 GLN B 123      24.771 -11.879 -21.499  0.29  6.56           N 0
+ATOM    615   CB GLN B 123      22.437 -12.224 -19.167  0.00  0.00           C 0
+ATOM    371   CG GLN B  93      22.999  -7.325 -18.426  0.00  0.00           C 0
+ATOM    422    O GLY B 100      18.215  -7.770 -29.600  0.00  0.00           O 0
+ATOM    397   CA LEU B  97      18.554  -5.618 -25.119  0.00  0.00           C 0
+ATOM    402  CD1 LEU B  97      16.620  -7.970 -25.245  0.00  0.00           C 0
+ATOM    392   CG GLN B  96      22.958  -5.484 -23.780  0.00  0.00           C 0
+ATOM    390    O GLN B  96      20.390  -4.377 -26.760  0.67  4.29           O 0
+ATOM    389    C GLN B  96      20.581  -4.325 -25.547  0.00  0.00           C 0
+ATOM    370   CB GLN B  93      21.716  -6.686 -18.955  0.00  0.00           C 0
+TER
+END

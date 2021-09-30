@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0026
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7465
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4671
+HEADER 5  - Mean B-factor of pocket residues  : 0.5597
+HEADER 6  - Hydrophobicity Score              : -3.2500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.0806
+HEADER 10  -Pocket volume (convex hull)       : 2.1095
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1956   CE LYS A 268       1.720 -35.954  48.138  0.00  0.00           C 0
+ATOM   1985  OD1 ASP A 272      -2.467 -33.955  50.151  0.81  6.43           O 0
+ATOM    379    O GLY A  49       1.276 -34.664  44.196  0.00  0.00           O 0
+ATOM   1957   NZ LYS A 268       0.488 -36.381  48.876  0.00  0.00           N 0
+ATOM    143  CE1 PHE A  19       1.015 -29.085  48.315  0.00  0.00           C 0
+ATOM    385  CG1 ILE A  50       3.254 -32.162  44.869  0.00  0.00           C 0
+ATOM    138    O PHE A  19      -1.242 -28.847  44.720  0.00  0.00           O 0
+ATOM    394   CD PRO A  51      -0.716 -31.352  41.999  0.00  0.00           C 0
+ATOM    132   CB PRO A  18      -4.370 -32.055  46.356  0.00  0.00           C 0
+ATOM    133   CG PRO A  18      -5.514 -32.939  46.734  0.00  0.00           C 0
+ATOM   1978  OD2 ASP A 271      -2.445 -30.464  49.296  0.86  3.21           O 0
+ATOM    141  CD1 PHE A  19      -0.258 -28.566  48.134  0.00  0.00           C 0
+ATOM   1954   CG LYS A 268       1.935 -33.930  49.620  0.00  0.00           C 0
+TER
+END

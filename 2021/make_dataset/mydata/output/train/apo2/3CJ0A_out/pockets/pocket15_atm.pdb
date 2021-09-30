@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.1144
+HEADER 1  - Drug Score                        : 0.0211
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0586
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6208
+HEADER 5  - Mean B-factor of pocket residues  : 0.2736
+HEADER 6  - Hydrophobicity Score              : 12.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 340.9358
+HEADER 10  -Pocket volume (convex hull)       : 11.1320
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM    586   CB ALA A  73     -10.857  50.960  30.016  0.00  0.00           C 0
+ATOM    583   CA ALA A  73      -9.647  51.900  30.004  0.00  0.00           C 0
+ATOM    550    O LYS A  69      -8.823  48.495  28.141  0.50  1.07           O 0
+ATOM    554   CE LYS A  69     -11.169  48.263  23.393  0.00  0.00           C 0
+ATOM    552   CG LYS A  69     -10.004  47.267  25.370  0.00  0.00           C 0
+ATOM    582    N ALA A  73      -8.406  51.185  29.623  0.00  0.00           N 0
+ATOM    581   NZ LYS A  72      -2.994  49.537  23.741  0.36  6.56           N 1
+ATOM    553   CD LYS A  69     -10.678  46.949  24.031  0.00  0.00           C 0
+ATOM    579   CD LYS A  72      -4.357  50.306  25.704  0.00  0.00           C 0
+ATOM    551   CB LYS A  69      -8.933  46.256  25.747  0.00  0.00           C 0
+ATOM    548   CA LYS A  69      -7.902  46.813  26.736  0.00  0.00           C 0
+ATOM    576    O LYS A  72      -7.103  53.057  29.644  0.00  0.00           O 0
+ATOM    607   OGASER A  76      -9.610  55.822  30.128  0.00  0.00           O 0
+ATOM    605   CBASER A  76      -8.379  56.323  29.600  0.00  0.00           C 0
+ATOM    577   CB LYS A  72      -5.855  50.807  27.677  0.00  0.00           C 0
+ATOM    575    C LYS A  72      -7.232  51.823  29.520  0.00  0.00           C 0
+ATOM    544   CG LEU A  68      -3.143  46.056  26.414  0.00  0.00           C 0
+ATOM    547    N LYS A  69      -6.871  45.829  27.035  0.69  1.09           N 0
+ATOM    516    O ARG A  65      -6.893  43.397  25.310  0.00  0.00           O 0
+ATOM    518   CG ARG A  65      -4.509  41.752  22.006  0.00  0.00           C 0
+ATOM    546  CD2 LEU A  68      -2.167  45.652  25.281  0.00  0.00           C 0
+TER
+END

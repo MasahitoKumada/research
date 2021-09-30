@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0832
+HEADER 1  - Drug Score                        : 0.0237
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7192
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4780
+HEADER 5  - Mean B-factor of pocket residues  : 0.5890
+HEADER 6  - Hydrophobicity Score              : 32.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 121.8356
+HEADER 10  -Pocket volume (convex hull)       : 1.0649
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.9412
+ATOM   3277  CG2 VAL C 416     -23.237 -10.061  60.028  0.00  0.00           C 0
+ATOM   3272   CA VAL C 416     -23.481 -11.577  58.044  0.00  0.00           C 0
+ATOM   3270  OE1 GLN C 415     -26.817 -12.752  60.476  0.12  5.36           O 0
+ATOM   2987   CE MET C 377     -26.235  -5.802  58.407  0.00  0.00           C 0
+ATOM   3276  CG1 VAL C 416     -22.751  -9.145  57.824  0.00  0.00           C 0
+ATOM   3307  CD2 LEU C 420     -25.634  -7.977  52.670  0.00  0.00           C 0
+ATOM   2985   CG MET C 377     -24.409  -5.714  56.202  0.00  0.00           C 0
+ATOM   3305   CG LEU C 420     -24.533  -8.889  53.210  0.00  0.00           C 0
+ATOM   2986   SD MET C 377     -25.942  -4.987  56.824  0.00  0.00           S 0
+ATOM   3296   CG GLN C 419     -28.872 -11.799  55.602  0.00  0.00           C 0
+ATOM   3274    O VAL C 416     -24.012 -11.400  55.732  0.35  2.14           O 0
+ATOM   3332  OE1 GLU C 423     -29.321  -8.912  52.719  0.70  3.21           O 0
+ATOM   3333  OE2 GLU C 423     -31.129  -9.585  53.838  0.00  0.00           O 1
+ATOM   3295   CB GLN C 419     -27.595 -12.678  55.808  0.00  0.00           C 0
+TER
+END

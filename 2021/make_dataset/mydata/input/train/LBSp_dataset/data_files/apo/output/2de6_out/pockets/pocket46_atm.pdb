@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    46:
+HEADER 0  - Pocket Score                      : -0.0065
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6669
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3919
+HEADER 5  - Mean B-factor of pocket residues  : 0.2584
+HEADER 6  - Hydrophobicity Score              : -3.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 105.7055
+HEADER 10  -Pocket volume (convex hull)       : 1.1895
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   6700    N ASN C  52      -6.345   8.620  23.252  0.56  3.28           N 0
+ATOM   6707  ND2 ASN C  52      -3.737   8.312  20.434  0.53  3.28           N 0
+ATOM   6690    O GLY C  50      -3.890   6.433  25.553  0.46  2.14           O 0
+ATOM   9362  CG1 VAL C 382      -4.240   3.071  24.977  0.00  0.00           C 0
+ATOM   6839  NH1 ARG C  68      -7.011   1.821  20.637  0.65  4.37           N 0
+ATOM   9360    O VAL C 382      -6.733   1.699  23.457  0.71  2.14           O 0
+ATOM   6836   CD ARG C  68      -7.400   3.172  18.216  0.00  0.00           C 0
+ATOM   6834   CB ARG C  68      -8.666   5.337  17.840  0.00  0.00           C 0
+ATOM   6704   CB ASN C  52      -5.742   9.530  21.031  0.00  0.00           C 0
+ATOM   6703    O ASN C  52      -8.649   9.352  21.803  0.00  0.00           O 0
+ATOM   6819   CD LYS C  66     -10.808   5.115  21.637  0.00  0.00           C 0
+ATOM   6692   CA GLU C  51      -6.464   7.427  25.376  0.00  0.00           C 0
+ATOM   6820   CE LYS C  66     -10.924   5.159  23.153  0.00  0.00           C 0
+ATOM   6695   CB GLU C  51      -7.898   7.078  25.797  0.00  0.00           C 0
+ATOM   6818   CG LYS C  66     -10.863   6.507  21.037  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0468
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1932
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6510
+HEADER 5  - Mean B-factor of pocket residues  : 0.7249
+HEADER 6  - Hydrophobicity Score              : 23.8889
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.4510
+HEADER 10  -Pocket volume (convex hull)       : 2.7711
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   1824   CG LYS E 185       2.149 -10.362  37.130  0.00  0.00           C 0
+ATOM   1624   CB PRO E 161       4.041  -3.974  34.604  0.00  0.00           C 0
+ATOM   1625   CG PRO E 161       3.147  -5.017  33.964  0.00  0.00           C 0
+ATOM    262  CG2 ILE E  14K      0.951  -3.128  38.107  0.00  0.00           C 0
+ATOM   1806    O GLY E 184       5.818  -8.133  33.847  0.81  2.14           O 0
+ATOM   1641  CG2 VAL E 163       8.194  -7.007  35.917  0.00  0.00           C 0
+ATOM   1370   CA GLY E 133       4.821  -0.950  38.523  0.00  0.00           C 0
+ATOM    263  CD1 ILE E  14K      2.294  -2.658  35.929  0.00  0.00           C 0
+ATOM   1366    C ALA E 132       7.103  -0.742  39.329  0.00  0.00           C 0
+ATOM   1367    O ALA E 132       6.868   0.003  40.265  0.00  0.00           O 0
+ATOM   1650  OE2 GLU E 164       8.265  -6.603  42.446  0.00  0.00           O 1
+ATOM   1368   CB ALA E 132       9.021  -2.075  40.212  0.00  0.00           C 0
+ATOM   1630    O ILE E 162       7.749  -3.548  36.688  0.73  2.14           O 0
+ATOM   1649  OE1 GLU E 164       8.748  -6.446  40.353  0.00  0.00           O 0
+ATOM   1369    N GLY E 133       6.257  -1.275  38.447  0.77  2.19           N 0
+TER
+END

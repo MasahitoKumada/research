@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1192
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9826
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4843
+HEADER 5  - Mean B-factor of pocket residues  : 0.4955
+HEADER 6  - Hydrophobicity Score              : 16.7778
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 153.9802
+HEADER 10  -Pocket volume (convex hull)       : 2.1330
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2308
+ATOM   2553    O GLY A 329     -60.540 -81.928 -20.755  0.36  6.43           O 0
+ATOM    118  CD1 LEU A  16     -58.133 -84.762 -27.456  0.00  0.00           C 0
+ATOM   2830  CE1 HIS A 366     -63.377 -87.298 -21.695  0.00  0.00           C 0
+ATOM    140    O GLY A  19     -61.835 -83.567 -28.745  0.00  0.00           O 0
+ATOM    155   CG LEU A  21     -59.988 -88.637 -25.724  0.00  0.00           C 0
+ATOM   2831  NE2 HIS A 366     -62.287 -88.045 -21.716  0.79  1.09           N 0
+ATOM   2557    O ASP A 330     -58.093 -81.403 -23.739  0.67  7.50           O 0
+ATOM    119  CD2 LEU A  16     -56.506 -83.321 -26.200  0.00  0.00           C 0
+ATOM    157  CD2 LEU A  21     -58.573 -88.244 -25.270  0.00  0.00           C 0
+ATOM   2565    O GLU A 331     -55.658 -84.659 -21.947  0.84  3.21           O 0
+ATOM   2573    C CYS A 332     -58.388 -85.231 -18.847  0.00  0.00           C 0
+ATOM   2574    O CYS A 332     -59.123 -84.254 -18.729  0.00  0.00           O 0
+ATOM   2564    C GLU A 331     -56.271 -83.723 -21.438  0.00  0.00           C 0
+ATOM   2572   CA CYS A 332     -57.132 -85.176 -19.717  0.00  0.00           C 0
+ATOM    746    O ARG A  96     -57.391 -88.326 -20.101  0.40  1.07           O 0
+ATOM   2571    N CYS A 332     -57.002 -83.865 -20.335  0.53  1.09           N 0
+TER
+END

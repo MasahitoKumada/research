@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0757
+HEADER 1  - Drug Score                        : 0.0872
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1360
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5494
+HEADER 5  - Mean B-factor of pocket residues  : 0.6320
+HEADER 6  - Hydrophobicity Score              : 39.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.7327
+HEADER 10  -Pocket volume (convex hull)       : 3.7284
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM    266    O GLY A  37      31.287  28.010  13.542  0.47  8.57           O 0
+ATOM    561    O SER A  78      37.231  30.225   9.162  0.00  0.00           O 0
+ATOM   1408  CE1 PHE A 194      30.077  31.184  13.913  0.00  0.00           C 0
+ATOM   1410   CZ PHE A 194      30.457  32.515  13.879  0.00  0.00           C 0
+ATOM    271   CB SER A  38      32.061  25.765  11.297  0.00  0.00           C 0
+ATOM    273    N SER A  39      29.538  25.341   9.657  0.00  0.00           N 0
+ATOM    942    O LEU A 133      29.186  29.033   6.078  0.53  4.29           O 0
+ATOM    557  CD1 ILE A  77      34.266  26.381   7.434  0.00  0.00           C 0
+ATOM    571  CD2 TYR A  79      36.548  26.394  11.186  0.00  0.00           C 0
+ATOM    943   CB LEU A 133      27.907  29.798   8.604  0.00  0.00           C 0
+ATOM    555  CG1 ILE A  77      35.169  27.397   6.773  0.00  0.00           C 0
+ATOM    945  CD1 LEU A 133      28.209  30.335  11.027  0.00  0.00           C 0
+ATOM    268   CA SER A  38      30.625  26.103  11.692  0.00  0.00           C 0
+ATOM    961  CG2 THR A 135      32.453  28.369   4.130  0.00  0.00           C 0
+TER
+END

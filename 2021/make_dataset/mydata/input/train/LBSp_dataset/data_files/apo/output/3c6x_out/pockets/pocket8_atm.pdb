@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0509
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1025
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7155
+HEADER 5  - Mean B-factor of pocket residues  : 0.1650
+HEADER 6  - Hydrophobicity Score              : 22.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.1118
+HEADER 10  -Pocket volume (convex hull)       : 2.6000
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   2076    O ASP A 130      10.765  64.907  16.626  0.00  0.00           O 0
+ATOM   2423   CA GLY A 149      12.905  62.566  14.720  0.00  0.00           C 0
+ATOM   2429    N PHE A 150      14.505  63.428  13.100  0.70  1.09           N 0
+ATOM   2080  OD2 ASP A 130      14.693  65.847  15.163  0.00  0.00           O 0
+ATOM   2389   NZ LYS A 147       9.562  61.744   8.902  0.56  4.37           N 0
+ATOM   2104  OG1 THR A 132       6.474  63.490  14.671  0.62  7.50           O 0
+ATOM   2105  CG2 THR A 132       7.147  65.490  15.768  0.00  0.00           C 0
+ATOM   2433   CB PHE A 150      15.707  64.391  11.219  0.00  0.00           C 0
+ATOM   2436  CD2 PHE A 150      14.651  64.961   9.028  0.00  0.00           C 0
+ATOM   2434   CG PHE A 150      14.726  64.076  10.078  0.00  0.00           C 0
+ATOM   2386   CG LYS A 147       7.863  60.439  11.212  0.00  0.00           C 0
+ATOM   2406    O LEU A 148      11.856  60.883  12.802  0.68  2.14           O 0
+ATOM   2387   CD LYS A 147       7.373  61.351  10.112  0.00  0.00           C 0
+ATOM   2435  CD1 PHE A 150      13.982  62.909  10.029  0.00  0.00           C 0
+ATOM   2384    O LYS A 147       9.047  60.892  14.759  0.00  0.00           O 0
+ATOM   2437  CE1 PHE A 150      13.148  62.611   8.942  0.00  0.00           C 0
+ATOM   2439   CZ PHE A 150      13.105  63.483   7.920  0.00  0.00           C 0
+ATOM   2438  CE2 PHE A 150      13.789  64.671   7.930  0.00  0.00           C 0
+TER
+END

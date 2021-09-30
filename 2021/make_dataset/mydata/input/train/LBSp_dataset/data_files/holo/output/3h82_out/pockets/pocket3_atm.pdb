@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0189
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7419
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5544
+HEADER 5  - Mean B-factor of pocket residues  : 0.3895
+HEADER 6  - Hydrophobicity Score              : -30.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.4547
+HEADER 10  -Pocket volume (convex hull)       : 11.7430
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1057   OGASER A 241      16.217   9.556   1.773  0.39  7.50           O 0
+ATOM   1215   CG ARG A 260      10.722   6.370   1.378  0.00  0.00           C 0
+ATOM   1243  OE1 GLU A 263      15.106   8.624  -4.321  0.00  0.00           O 0
+ATOM   1055   CBASER A 241      16.600   8.187   1.736  0.00  0.00           C 0
+ATOM   1216   CD ARG A 260      11.080   6.607   2.837  0.00  0.00           C 0
+ATOM   1046  OD2 ASP A 240      12.447  10.085   4.673  0.56  4.29           O 0
+ATOM   1049   CAASER A 241      15.709   7.342   2.662  0.00  0.00           C 0
+ATOM   1205    O ASP A 259       9.378   4.734  -2.952  0.59  5.36           O 0
+ATOM   1211   CA ARG A 260      10.657   4.758  -0.551  0.00  0.00           C 0
+ATOM   1210    N ARG A 260       9.210   4.729  -0.689  0.00  0.00           N 0
+ATOM   1213    O ARG A 260      12.538   3.500  -1.401  0.44  1.07           O 0
+ATOM   1214   CB ARG A 260      11.088   4.945   0.906  0.00  0.00           C 0
+ATOM   1240   CB GLU A 263      14.909   5.792  -4.771  0.00  0.00           C 0
+ATOM   1241   CG GLU A 263      14.176   6.734  -5.698  0.00  0.00           C 0
+ATOM   1053    OASER A 241      15.908   5.228   1.462  0.47  2.14           O 0
+ATOM   1026   NZ LYS A   1      18.917   5.437  -2.935  0.36  3.28           N 0
+ATOM   1204    C ASP A 259       8.673   4.709  -1.917  0.00  0.00           C 0
+ATOM   1206   CB ASP A 259       6.666   5.985  -2.676  0.00  0.00           C 0
+TER
+END

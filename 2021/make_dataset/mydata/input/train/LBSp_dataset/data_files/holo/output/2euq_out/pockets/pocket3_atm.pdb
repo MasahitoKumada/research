@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0312
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.4959
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3741
+HEADER 5  - Mean B-factor of pocket residues  : 0.3323
+HEADER 6  - Hydrophobicity Score              : 32.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 72.5829
+HEADER 10  -Pocket volume (convex hull)       : 0.2985
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   1005   NE ARG A 194       4.342  85.478  39.413  0.00  0.00           N 0
+ATOM   1012    O CYS A 195      -0.328  83.453  42.506  0.74  4.29           O 0
+ATOM   2237    O PRO A 348       6.417  84.925  42.552  0.62  3.21           O 0
+ATOM   2200  CD1 PHE A 343       1.234  86.989  40.454  0.00  0.00           C 0
+ATOM   1002   CB ARG A 194       2.215  83.068  39.164  0.00  0.00           C 0
+ATOM   2233   CB ALA A 347       4.195  87.832  44.052  0.00  0.00           C 0
+ATOM   2240   CD PRO A 348       4.787  84.824  45.842  0.00  0.00           C 0
+ATOM   1009    N CYS A 195       0.870  81.199  41.515  0.62  1.09           N 0
+ATOM   2238   CB PRO A 348       6.267  83.092  45.132  0.00  0.00           C 0
+ATOM   2239   CG PRO A 348       5.165  83.382  46.022  0.00  0.00           C 0
+ATOM   1014   SG CYS A 195       1.006  81.088  44.831  0.00  0.00           S 0
+ATOM   2244    O SER A 349       7.428  82.063  41.667  0.59  1.07           O 0
+ATOM    999   CA ARG A 194       2.123  81.583  39.491  0.00  0.00           C 0
+ATOM   2264   CZ PHE A 351       4.988  79.188  44.408  0.00  0.00           C 0
+ATOM   2263  CE2 PHE A 351       4.023  78.652  43.603  0.00  0.00           C 0
+TER
+END

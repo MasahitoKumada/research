@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1061
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7452
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5512
+HEADER 5  - Mean B-factor of pocket residues  : 0.8168
+HEADER 6  - Hydrophobicity Score              : 5.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 144.4610
+HEADER 10  -Pocket volume (convex hull)       : 3.0495
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   2804   CE MET C 369      79.378 107.028  96.750  0.00  0.00           C 0
+ATOM   2890   OG SER C 380      76.297 107.086  94.206  0.46  5.36           O 0
+ATOM   2866   CB ASP C 377      78.261 102.242  91.515  0.00  0.00           C 0
+ATOM   2868  OD1 ASP C 377      76.196 101.585  92.456  0.50  9.64           O 0
+ATOM   2867   CG ASP C 377      77.225 101.204  91.857  0.00  0.00           C 0
+ATOM   2810   CG ARG C 370      80.994  99.924  97.854  0.00  0.00           C 0
+ATOM   2837   CG GLN C 373      78.844  97.257  92.716  0.00  0.00           C 0
+ATOM   2869  OD2 ASP C 377      77.441 100.015  91.539  0.00  0.00           O 1
+ATOM   2819    O GLU C 371      82.125  98.976  93.766  0.00  0.00           O 0
+ATOM   2889   CB SER C 380      76.713 106.783  92.889  0.00  0.00           C 0
+ATOM   2808    O ARG C 370      82.705 101.738  95.548  0.52  1.07           O 0
+ATOM   2897  CG2 VAL C 381      81.720 105.741  93.497  0.00  0.00           C 0
+ATOM   2865    O ASP C 377      79.165 105.355  91.477  0.72  1.07           O 0
+ATOM   2863   CA ASP C 377      77.639 103.557  91.043  0.00  0.00           C 0
+TER
+END

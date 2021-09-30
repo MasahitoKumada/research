@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0518
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0435
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4984
+HEADER 5  - Mean B-factor of pocket residues  : 0.3080
+HEADER 6  - Hydrophobicity Score              : 53.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 289.6416
+HEADER 10  -Pocket volume (convex hull)       : 10.7253
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6500
+ATOM     78   CB THR A  14      15.728  34.233   4.069  0.00  0.00           C 0
+ATOM    100   CB ALA A  17      14.418  32.858  -1.524  0.00  0.00           C 0
+ATOM     80  CG2 THR A  14      15.977  35.740   4.229  0.00  0.00           C 0
+ATOM    461  CG2 VAL A  65      18.480  31.496  -2.700  0.00  0.00           C 0
+ATOM     77    O THR A  14      14.691  31.934   1.882  0.69  3.21           O 0
+ATOM    107  CG2 VAL A  18      16.571  28.690   0.275  0.00  0.00           C 0
+ATOM    453  CE2 PHE A  64      20.863  28.878   1.437  0.00  0.00           C 0
+ATOM    880  NE1 TRP A 120      16.150  27.879   3.989  0.71  1.09           N 0
+ATOM    451  CD2 PHE A  64      21.331  29.551   0.304  0.00  0.00           C 0
+ATOM     79  OG1 THR A  14      15.461  33.654   5.351  0.65  4.29           O 0
+ATOM   2007  CD1 LEU A 258      20.187  29.777   8.358  0.00  0.00           C 0
+ATOM     88  CD2 HIS A  15      14.018  30.329   6.516  0.00  0.00           C 0
+ATOM   1130  OE2 GLU A 152      17.038  30.809   9.964  0.77  4.29           O 0
+ATOM    883  CZ2 TRP A 120      18.565  27.234   4.311  0.00  0.00           C 0
+ATOM   2008  CD2 LEU A 258      21.355  28.205   6.780  0.00  0.00           C 0
+ATOM     75   CA THR A  14      14.531  33.992   3.104  0.00  0.00           C 0
+TER
+END

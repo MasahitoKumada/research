@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2282
+HEADER 1  - Drug Score                        : 0.2629
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8069
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3753
+HEADER 5  - Mean B-factor of pocket residues  : 0.5426
+HEADER 6  - Hydrophobicity Score              : 38.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 195.3908
+HEADER 10  -Pocket volume (convex hull)       : 12.4272
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.9130
+HETATM 4108   ZN ZN  H 247      16.429 -10.959  18.650  0.00  0.00          ZN 0
+ATOM    779  CH2 TRP H  60D     18.544 -17.245  17.229  0.00  0.00           C 0
+HETATM 4109   ZN ZN  H 248      15.867 -15.353  22.568  0.00  0.00          ZN 0
+ATOM   3169  OE1 GLU H 192      14.609 -16.003  18.475  0.54  5.36           O 0
+ATOM   3170  OE2 GLU H 192      14.675 -14.451  16.959  0.36  6.43           O 1
+ATOM    778  CZ3 TRP H  60D     18.807 -16.517  16.069  0.00  0.00           C 0
+ATOM    777  CZ2 TRP H  60D     19.508 -18.121  17.736  0.00  0.00           C 0
+ATOM    728   OH TYR H  60A     23.314 -16.195  20.891  0.47  9.64           O 0
+ATOM    726  CE2 TYR H  60A     22.920 -15.653  18.602  0.00  0.00           C 0
+ATOM    727   CZ TYR H  60A     23.432 -15.311  19.842  0.00  0.00           C 0
+ATOM    810   NZ LYS H  60F     19.543 -11.167  14.016  0.69  4.37           N 1
+ATOM    658  CD2 HIS H  57      19.348 -10.322  18.676  0.00  0.00           C 0
+ATOM    724  CD2 TYR H  60A     23.064 -14.794  17.537  0.00  0.00           C 0
+ATOM    661  NE2 HIS H  57      18.134 -10.085  19.101  0.00  0.00           N 0
+ATOM   3553   CB TRP H 215      17.542 -11.744  24.653  0.00  0.00           C 0
+ATOM   1605  CD1 LEU H  99      21.009 -11.230  23.107  0.00  0.00           C 0
+ATOM    725  CE1 TYR H  60A     24.081 -14.107  20.019  0.00  0.00           C 0
+TER
+END

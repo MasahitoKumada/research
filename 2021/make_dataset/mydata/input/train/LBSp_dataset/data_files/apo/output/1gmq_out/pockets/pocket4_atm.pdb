@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1242
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8223
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6273
+HEADER 5  - Mean B-factor of pocket residues  : 0.6704
+HEADER 6  - Hydrophobicity Score              : 22.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.5597
+HEADER 10  -Pocket volume (convex hull)       : 2.6775
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM   1083   CG PRO B  45      11.761  13.809  16.212  0.00  0.00           C 0
+ATOM    762    N VAL B   2      15.144  17.918  20.486  0.38  1.09           N 0
+ATOM   1084   CD PRO B  45      13.065  13.289  16.850  0.00  0.00           C 0
+ATOM    768  CG2 VAL B   2      15.844  16.868  17.874  0.00  0.00           C 0
+ATOM    755   CA ASP B   1      13.607  17.111  22.174  0.00  0.00           C 0
+ATOM   1079   CA PRO B  45      11.159  11.897  17.498  0.00  0.00           C 0
+ATOM   1060    O SER B  42      12.414  11.430  23.015  0.12  4.29           O 0
+ATOM   1090  OG1 THR B  46       8.546   8.573  19.958  0.29  5.36           O 0
+ATOM   1085    N THR B  46       9.903   9.880  17.907  0.00  0.00           N 0
+ATOM   1078    N PRO B  45      12.549  12.306  17.823  0.00  0.00           N 0
+ATOM    760  OD1 ASP B   1      11.218  17.168  23.619  0.00  0.00           O 0
+ATOM   1066    O VAL B  43      14.438  13.890  21.339  0.30  2.14           O 0
+ATOM   1072    C LEU B  44      13.151  11.755  18.857  0.00  0.00           C 0
+ATOM    754    N ASP B   1      13.676  15.962  23.101  0.21  3.28           N 0
+ATOM   1073    O LEU B  44      12.673  10.914  19.622  0.00  0.00           O 0
+TER
+END

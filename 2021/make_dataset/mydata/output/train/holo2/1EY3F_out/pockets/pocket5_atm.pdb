@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0296
+HEADER 1  - Drug Score                        : 0.0073
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8782
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5268
+HEADER 5  - Mean B-factor of pocket residues  : 0.1144
+HEADER 6  - Hydrophobicity Score              : 32.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.9305
+HEADER 10  -Pocket volume (convex hull)       : 7.9283
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.6429
+ATOM   1078   CB THR F 176      54.373  55.224   8.568  0.00  0.00           C 0
+ATOM   1201  CG1 VAL F 192      52.245  59.623   6.090  0.00  0.00           C 0
+ATOM   1079  CG2 THR F 176      54.334  55.995   7.244  0.00  0.00           C 0
+ATOM   1177   SD MET F 189      46.840  58.224   9.642  0.00  0.00           S 0
+ATOM   1114  CG2 THR F 180      51.650  56.246  14.927  0.00  0.00           C 0
+ATOM   1148   CG LYS F 185      46.548  57.596  14.655  0.00  0.00           C 0
+ATOM   1176   CG MET F 189      46.937  59.243  11.139  0.00  0.00           C 0
+ATOM   1178   CE MET F 189      46.090  56.750  10.291  0.00  0.00           C 0
+ATOM   1149   CD LYS F 185      45.372  56.626  14.801  0.00  0.00           C 0
+ATOM   1171    N MET F 189      49.461  61.157  11.587  0.76  1.09           N 0
+ATOM   1172   CA MET F 189      48.578  61.096  10.419  0.00  0.00           C 0
+ATOM   1169    O ALA F 188      51.271  61.647  10.355  0.00  0.00           O 0
+ATOM   1200   CB VAL F 192      52.171  60.578   7.264  0.00  0.00           C 0
+ATOM   1202  CG2 VAL F 192      53.336  60.326   8.209  0.00  0.00           C 0
+ATOM   1115  OG1 THR F 180      53.010  56.819  13.017  0.71  3.21           O 0
+ATOM   1170   CB ALA F 188      51.885  60.097  13.252  0.00  0.00           C 0
+ATOM   1075   CA THR F 176      55.186  56.010   9.622  0.00  0.00           C 0
+ATOM   1077    O THR F 176      54.139  54.932  11.472  0.48  4.29           O 0
+ATOM   1168    C ALA F 188      50.754  61.441  11.454  0.00  0.00           C 0
+ATOM   1146    O LYS F 185      48.073  60.347  13.902  0.00  0.00           O 0
+TER
+END

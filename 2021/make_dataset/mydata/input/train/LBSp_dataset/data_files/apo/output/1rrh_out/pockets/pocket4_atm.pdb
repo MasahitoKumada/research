@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1364
+HEADER 1  - Drug Score                        : 0.5243
+HEADER 2  - Number of alpha spheres           :    36
+HEADER 3  - Mean alpha-sphere radius          : 3.7418
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4183
+HEADER 5  - Mean B-factor of pocket residues  : 0.2916
+HEADER 6  - Hydrophobicity Score              : 76.4667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.4667
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.7392
+HEADER 10  -Pocket volume (convex hull)       : 18.5186
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 33.0000
+HEADER 13 - Number of apolar alpha sphere     :    34
+HEADER 14 - Proportion of apolar alpha sphere : 0.9444
+ATOM   5513   SG CYS A 698      45.156   8.845  11.910  0.00  0.00           S 0
+ATOM   4231  CG2 ILE A 543      45.124  12.547   9.842  0.00  0.00           C 0
+ATOM   4269  CD2 LEU A 547      41.682  11.371  11.315  0.00  0.00           C 0
+ATOM   5485  CD1 LEU A 694      47.983  10.786  13.247  0.00  0.00           C 0
+ATOM   5229  CD1 LEU A 664      47.861  14.581  12.438  0.00  0.00           C 0
+ATOM   5250   SG CYS A 667      42.655  17.013  14.623  0.00  0.00           S 0
+ATOM   4187  CD2 LEU A 537      43.228  16.067  10.427  0.00  0.00           C 0
+ATOM   5255   CB TRP A 668      46.311  15.815  18.441  0.00  0.00           C 0
+ATOM   5251    N TRP A 668      44.934  17.529  17.483  0.00  0.00           N 0
+ATOM   5226    O LEU A 664      47.211  17.658  15.435  0.61  1.07           O 0
+ATOM   5228   CG LEU A 664      48.544  15.567  13.314  0.00  0.00           C 0
+ATOM   5433   CE MET A 688      47.830  11.275  17.418  0.00  0.00           C 0
+ATOM   5261  CE3 TRP A 668      44.569  13.040  18.302  0.00  0.00           C 0
+ATOM   5263  CZ3 TRP A 668      43.983  11.790  18.497  0.00  0.00           C 0
+ATOM   5431   CG MET A 688      49.443  13.407  17.218  0.00  0.00           C 0
+ATOM   4118  CD1 PHE A 529      39.496  11.614  17.454  0.00  0.00           C 0
+ATOM   4149  OG1 THR A 533      39.379  14.800  12.478  0.64  3.21           O 0
+ATOM   4115    O PHE A 529      37.515  14.891  14.457  0.00  0.00           O 0
+ATOM   5288   CG LEU A 671      40.542  14.353  19.749  0.00  0.00           C 0
+ATOM   4143   CB ALA A 532      39.320  17.689  16.795  0.00  0.00           C 0
+ATOM   5507   CB ALA A 697      45.627   8.136  17.121  0.00  0.00           C 0
+ATOM   5534  CD1 ILE A 701      41.069   9.251  15.256  0.00  0.00           C 0
+TER
+END

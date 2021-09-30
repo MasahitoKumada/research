@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0512
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7618
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4875
+HEADER 5  - Mean B-factor of pocket residues  : 0.2412
+HEADER 6  - Hydrophobicity Score              : 12.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 131.3120
+HEADER 10  -Pocket volume (convex hull)       : 2.5144
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM    309   CG ARG A  42      62.897 157.785 -30.749  0.00  0.00           C 0
+ATOM    471  OE1 GLU A  62      57.562 155.586 -28.529  0.59  8.57           O 0
+ATOM    313  NH1 ARG A  42      62.371 154.796 -31.735  0.62  1.09           N 0
+ATOM    128   NZ LYS A  16      64.116 153.917 -28.493  0.00  0.00           N 0
+ATOM    308   CB ARG A  42      62.436 158.753 -29.740  0.00  0.00           C 0
+ATOM    119    O GLY A  15      64.449 159.315 -24.214  0.00  0.00           O 0
+ATOM    126   CD LYS A  16      65.834 155.726 -27.859  0.00  0.00           C 0
+ATOM    124   CB LYS A  16      66.188 157.889 -26.557  0.00  0.00           C 0
+ATOM   2618   CB GLN A 339      66.699 156.672 -23.391  0.00  0.00           C 0
+ATOM    125   CG LYS A  16      65.655 157.272 -27.847  0.00  0.00           C 0
+ATOM    110  CD1 TYR A  14      59.188 158.197 -24.727  0.00  0.00           C 0
+ATOM   2622  NE2 GLN A 339      65.251 153.778 -22.611  0.50  3.28           N 0
+ATOM   2626    O PHE A 340      62.717 158.836 -21.484  0.62  4.29           O 0
+ATOM    118    C GLY A  15      64.079 159.889 -25.250  0.00  0.00           C 0
+ATOM    117   CA GLY A  15      62.758 160.626 -25.305  0.00  0.00           C 0
+ATOM    112  CE1 TYR A  14      58.421 157.709 -25.742  0.00  0.00           C 0
+TER
+END

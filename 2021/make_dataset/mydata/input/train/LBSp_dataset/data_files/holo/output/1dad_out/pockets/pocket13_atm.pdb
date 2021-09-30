@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0084
+HEADER 1  - Drug Score                        : 0.1655
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0096
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6187
+HEADER 5  - Mean B-factor of pocket residues  : 0.0897
+HEADER 6  - Hydrophobicity Score              : 76.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 163.7982
+HEADER 10  -Pocket volume (convex hull)       : 0.5692
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8947
+ATOM   1178    C LEU A 158       2.955  36.693   0.583  0.00  0.00           C 0
+ATOM   1180   CB LEU A 158       1.791  35.246  -1.045  0.00  0.00           C 0
+ATOM   1184    N THR A 159       3.478  35.805   1.453  0.00  0.00           N 0
+ATOM   1189  OG1 THR A 159       3.074  33.701   3.237  0.25  6.43           O 0
+ATOM   1185   CA THR A 159       3.518  36.064   2.886  0.00  0.00           C 0
+ATOM    903  CD2 PHE A 122      -3.589  36.915   4.996  0.00  0.00           C 0
+ATOM    905  CE2 PHE A 122      -3.200  38.200   4.599  0.00  0.00           C 0
+ATOM   1183  CD2 LEU A 158       0.341  36.070  -2.941  0.00  0.00           C 0
+ATOM    886   CB TRP A 121       0.138  35.202   7.346  0.00  0.00           C 0
+ATOM   1210  CG1 VAL A 162      -0.017  39.711   4.524  0.00  0.00           C 0
+ATOM    888  CD1 TRP A 121      -0.560  37.627   7.213  0.00  0.00           C 0
+ATOM   1211  CG2 VAL A 162      -0.123  39.744   2.076  0.00  0.00           C 0
+ATOM   1179    O LEU A 158       2.588  37.823   0.916  0.74  1.07           O 0
+ATOM   1209   CB VAL A 162       0.825  39.740   3.283  0.00  0.00           C 0
+TER
+END

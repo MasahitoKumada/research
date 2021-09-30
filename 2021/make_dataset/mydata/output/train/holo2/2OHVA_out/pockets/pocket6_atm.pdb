@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1174
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9051
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4532
+HEADER 5  - Mean B-factor of pocket residues  : 0.5929
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.7510
+HEADER 10  -Pocket volume (convex hull)       : 4.5528
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2308
+ATOM     96  CG1 VAL A  13      34.304  44.009  73.903  0.00  0.00           C 0
+ATOM     95   CB VAL A  13      32.792  43.821  73.912  0.00  0.00           C 0
+ATOM    281   OG SER A  37      31.386  39.070  76.800  0.79  6.43           O 0
+ATOM   1820  CD1 ILE A 244      34.049  42.806  80.595  0.00  0.00           C 0
+ATOM   1857  CD1 ILE A 248      34.697  46.228  77.223  0.00  0.00           C 0
+ATOM   1113  OE1 GLU A 152      38.225  42.753  76.725  0.00  0.00           O 0
+ATOM   1818  CG1 ILE A 244      32.732  43.492  80.884  0.00  0.00           C 0
+ATOM   1822   CA PHE A 245      29.656  44.894  78.838  0.00  0.00           C 0
+ATOM   1827  CD1 PHE A 245      28.667  42.496  76.392  0.00  0.00           C 0
+ATOM     91    N VAL A  13      32.778  41.578  72.943  0.60  2.19           N 0
+ATOM   1114  OE2 GLU A 152      37.426  42.649  74.681  0.62  5.36           O 1
+ATOM     88   CA GLY A  12      32.538  39.174  72.979  0.00  0.00           C 0
+ATOM    277   CA SER A  37      32.119  36.785  76.327  0.00  0.00           C 0
+ATOM    279    O SER A  37      33.944  35.421  77.062  0.00  0.00           O 0
+HETATM 2000  OXT NHL A 400      38.512  38.726  72.589  0.62  9.64           O 0
+ATOM     84    O SER A  11      33.262  36.529  72.775  0.27  2.14           O 0
+HETATM 1994    O NHL A 400      36.611  39.278  71.589  0.68  2.14           O 0
+ATOM    280   CB SER A  37      31.720  37.820  77.385  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.1251
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1269
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4434
+HEADER 5  - Mean B-factor of pocket residues  : 0.7451
+HEADER 6  - Hydrophobicity Score              : 27.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 238.8000
+HEADER 10  -Pocket volume (convex hull)       : 4.2245
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   1782   CA PRO A 233     -18.843 -16.783  -1.174  0.00  0.00           C 0
+ATOM    276  CG2 THR A  39     -16.230 -12.480   5.089  0.00  0.00           C 0
+ATOM   1785   CB PRO A 233     -18.464 -18.144  -0.567  0.00  0.00           C 0
+ATOM   1788    N ASP A 234     -16.845 -15.458  -1.529  0.38  3.28           N 0
+ATOM   1991    O GLY A 259     -18.892 -11.048   2.023  0.40  7.50           O 0
+ATOM   1794  OD1 ASP A 234     -13.699 -16.065  -0.530  0.00  0.00           O 0
+ATOM    275  OG1 THR A  39     -15.343 -14.218   6.515  0.76  4.29           O 0
+ATOM    235  CE1 TYR A  33     -22.349 -13.196   5.362  0.00  0.00           C 0
+ATOM   1985    O CYS A 258     -22.741 -11.667   1.218  0.72  3.21           O 0
+ATOM   1771  CG2 ILE A 231     -24.632 -14.732   0.159  0.00  0.00           C 0
+ATOM   1786   CG PRO A 233     -19.742 -18.941  -0.560  0.00  0.00           C 0
+ATOM    233  CD1 TYR A  33     -21.260 -13.028   6.208  0.00  0.00           C 0
+ATOM   1776    O ILE A 232     -20.296 -14.902  -2.480  0.58  2.14           O 0
+ATOM   1781    N PRO A 233     -20.095 -17.064  -1.894  0.00  0.00           N 0
+ATOM   1775    C ILE A 232     -20.730 -16.059  -2.507  0.00  0.00           C 0
+TER
+END

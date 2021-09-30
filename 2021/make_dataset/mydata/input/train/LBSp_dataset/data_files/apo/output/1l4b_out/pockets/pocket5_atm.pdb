@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0064
+HEADER 1  - Drug Score                        : 0.0449
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0051
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6931
+HEADER 5  - Mean B-factor of pocket residues  : 0.4654
+HEADER 6  - Hydrophobicity Score              : 14.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.7800
+HEADER 10  -Pocket volume (convex hull)       : 5.7647
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM   2074   CA LEU A 303      39.501  29.452   1.259  0.00  0.00           C 0
+ATOM   1920   CD ARG A 282      37.345  26.438   5.318  0.00  0.00           C 0
+ATOM   2066    O HIS A 302      39.921  27.835  -0.940  0.00  0.00           O 0
+ATOM   2079  CD1 LEU A 303      41.659  28.159   3.025  0.00  0.00           C 0
+ATOM   1871   CB CYS A 275      41.622  23.523   4.256  0.00  0.00           C 0
+ATOM   1872   SG CYS A 275      40.812  24.650   5.447  0.00  0.00           S 0
+ATOM   2076    O LEU A 303      37.337  29.408   2.300  0.00  0.00           O 0
+ATOM   1921   NE ARG A 282      36.820  27.674   4.733  0.62  1.09           N 0
+ATOM   2086   OG SER A 304      35.257  29.197  -1.099  0.00  0.00           O 0
+ATOM   2085   CB SER A 304      35.139  29.822   0.170  0.00  0.00           C 0
+ATOM   1918   CB ARG A 282      36.801  24.111   6.197  0.00  0.00           C 0
+ATOM   1896   CA PRO A 279      38.930  19.347   5.052  0.00  0.00           C 0
+ATOM   1898    O PRO A 279      37.317  20.663   6.230  0.77  7.50           O 0
+ATOM   1899   CB PRO A 279      38.241  18.589   3.918  0.00  0.00           C 0
+ATOM   1870    O CYS A 275      41.793  20.463   3.583  0.54  4.29           O 0
+ATOM   1919   CG ARG A 282      36.264  25.366   5.485  0.00  0.00           C 0
+TER
+END

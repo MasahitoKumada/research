@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1740
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7858
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5797
+HEADER 5  - Mean B-factor of pocket residues  : 0.6179
+HEADER 6  - Hydrophobicity Score              : 4.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.4752
+HEADER 10  -Pocket volume (convex hull)       : 3.6270
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   2564  OD1 ASP C 324      -1.118 -27.461  69.396  0.68  7.50           O 0
+ATOM   2628  OD2 ASP C 331      -8.327 -27.056  65.272  0.44  2.14           O 1
+ATOM   2601  ND2 ASN C 328      -7.394 -25.739  68.242  0.67  5.47           N 0
+ATOM   2594   OG SER C 327      -4.046 -26.914  62.974  0.00  0.00           O 0
+ATOM   2595    N ASN C 328      -5.498 -24.166  65.499  0.59  1.09           N 0
+ATOM   2602  OD1 ASN C 328      -5.543 -24.959  69.320  0.50  7.50           O 0
+ATOM   2600   CG ASN C 328      -6.460 -24.800  68.492  0.00  0.00           C 0
+ATOM   1879   CE LYS C 240       1.947 -29.537  65.292  0.00  0.00           C 0
+ATOM   2556  CG2 ILE C 323       1.174 -26.486  63.275  0.00  0.00           C 0
+ATOM   1856    O PHE C 238      -0.427 -29.914  61.108  0.44  6.43           O 0
+ATOM   2593   CB SER C 327      -3.373 -25.912  63.750  0.00  0.00           C 0
+ATOM   2565  OD2 ASP C 324       0.667 -27.747  68.106  0.60  5.36           O 1
+ATOM   2563   CG ASP C 324      -0.170 -27.000  68.707  0.00  0.00           C 0
+ATOM   2561    O ASP C 324      -2.762 -24.019  66.879  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0728
+HEADER 1  - Drug Score                        : 0.0033
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9106
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5707
+HEADER 5  - Mean B-factor of pocket residues  : 0.5176
+HEADER 6  - Hydrophobicity Score              : 32.2500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.5389
+HEADER 10  -Pocket volume (convex hull)       : 13.4871
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   4550  CG1 ILE A 614      26.994  69.875  37.328  0.00  0.00           C 0
+ATOM   4552  CD1 ILE A 614      25.905  68.848  37.744  0.00  0.00           C 0
+ATOM   4551  CG2 ILE A 614      25.738  70.722  35.264  0.00  0.00           C 0
+ATOM   5397   OH TYR A 709      24.753  64.073  35.192  0.00  0.00           O 0
+ATOM   5394  CE1 TYR A 709      24.049  65.716  36.783  0.00  0.00           C 0
+ATOM   5420   CA PHE A 713      22.067  67.490  31.159  0.00  0.00           C 0
+ATOM   5389    O TYR A 709      20.464  67.997  34.500  0.00  0.00           O 0
+ATOM   4546   CA ILE A 614      27.481  72.184  36.432  0.00  0.00           C 0
+ATOM   4572   CG LYS A 617      30.791  72.887  33.380  0.00  0.00           C 0
+ATOM   4574   CE LYS A 617      32.897  71.895  34.498  0.00  0.00           C 0
+ATOM   5396   CZ TYR A 709      23.701  64.798  35.782  0.00  0.00           C 0
+ATOM   5425  CD1 PHE A 713      23.470  64.577  31.685  0.00  0.00           C 0
+ATOM   4575   NZ LYS A 617      32.671  72.391  35.931  0.60  5.47           N 0
+ATOM   5430    N ASP A 714      23.265  67.573  29.032  0.59  4.37           N 0
+ATOM   4584  CE1 HIS A 618      26.546  73.150  30.356  0.00  0.00           C 0
+ATOM   4548    O ILE A 614      27.442  73.351  34.316  0.00  0.00           O 0
+ATOM   5414    O LEU A 712      22.758  70.091  30.875  0.59  1.07           O 0
+ATOM   5453  OE1 GLU A 716      25.955  70.287  27.038  0.00  0.00           O 0
+TER
+END

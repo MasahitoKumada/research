@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2098
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.9876
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5503
+HEADER 5  - Mean B-factor of pocket residues  : 0.2958
+HEADER 6  - Hydrophobicity Score              : -19.2000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 2.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.4214
+HEADER 10  -Pocket volume (convex hull)       : 15.3994
+HEADER 11 - Charge Score                      :    -5
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0333
+ATOM   2799   CA GLY C  18     -34.541  18.289 -26.439  0.00  0.00           C 0
+ATOM   2754   CB ASP C  12     -33.779  21.292 -30.285  0.00  0.00           C 0
+ATOM   3487  OD2 ASP C 104     -41.702  21.723 -28.803  0.00  0.00           O 0
+ATOM   2801    O GLY C  18     -33.858  20.079 -25.000  0.18  8.57           O 0
+ATOM   3503  ND2 ASN C 106     -38.632  26.005 -34.310  0.00  0.00           N 0
+ATOM   3484   CB ASP C 104     -41.733  21.575 -31.197  0.00  0.00           C 0
+ATOM   3502  OD1 ASN C 106     -40.001  24.224 -34.450  0.82  6.43           O 0
+ATOM   3105  OE2 GLU C  56     -33.693  27.911 -29.602  0.64  8.57           O 0
+ATOM   2756  OD1 ASP C  12     -32.410  23.093 -31.056  0.51  1.07           O 0
+ATOM   2741  OD2 ASP C  10     -35.692  21.766 -35.222  0.44  6.43           O 0
+ATOM   3091  OG1 THR C  54     -32.171  24.663 -34.694  0.37  1.07           O 0
+ATOM   3093    N GLY C  55     -34.278  26.665 -35.520  0.00  0.00           N 0
+ATOM   2753    O ASP C  12     -35.868  19.404 -31.458  0.63  2.14           O 0
+ATOM   3097    N GLU C  56     -32.703  27.643 -33.550  0.00  0.00           N 0
+ATOM   3094   CA GLY C  55     -34.562  28.020 -35.071  0.00  0.00           C 0
+ATOM   2752    C ASP C  12     -34.842  19.085 -30.876  0.00  0.00           C 0
+ATOM   3479  OD2 ASP C 103     -39.094  18.280 -30.344  0.34  8.57           O 0
+ATOM   3102   CG GLU C  56     -32.234  26.492 -30.827  0.00  0.00           C 0
+ATOM   3478  OD1 ASP C 103     -38.769  19.110 -32.348  0.74  4.29           O 0
+ATOM   2740  OD1 ASP C  10     -36.780  20.066 -34.231  0.52  2.14           O 0
+ATOM   2813   CE MET C  20     -32.859  24.491 -27.257  0.00  0.00           C 0
+TER
+END

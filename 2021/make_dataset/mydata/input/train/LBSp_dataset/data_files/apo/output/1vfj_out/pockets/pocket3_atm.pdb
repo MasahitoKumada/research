@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1427
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7538
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4191
+HEADER 5  - Mean B-factor of pocket residues  : 0.8998
+HEADER 6  - Hydrophobicity Score              : 28.8889
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 146.7887
+HEADER 10  -Pocket volume (convex hull)       : 2.7433
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM    198  CG1 VAL A  25       8.688  13.373 -26.564  0.00  0.00           C 0
+ATOM    508    O GLY A  64       7.902  19.137 -26.634  0.48  6.43           O 0
+ATOM    214    O GLY A  27      11.917  17.100 -25.744  0.45  2.14           O 0
+ATOM    200    N ARG A  26      11.626  13.464 -29.173  0.66  3.28           N 0
+ATOM    194   CA VAL A  25       9.362  12.645 -28.848  0.00  0.00           C 0
+ATOM    872    O VAL A 112       7.708  19.586 -30.931  0.00  0.00           O 0
+ATOM    514  CG1 VAL A  65       5.742  16.677 -26.159  0.00  0.00           C 0
+ATOM    187    O GLU A  24       9.112  13.045 -31.589  0.38  2.14           O 0
+ATOM    211    N GLY A  27      13.286  15.841 -28.146  0.00  0.00           N 0
+ATOM    199  CG2 VAL A  25       7.045  12.180 -27.997  0.00  0.00           C 0
+ATOM   2202   NZ LYS C  90      13.274  22.079 -28.822  0.00  0.00           N 0
+ATOM    212   CA GLY A  27      13.753  16.895 -27.260  0.00  0.00           C 0
+ATOM   2201   CE LYS C  90      12.043  22.764 -28.381  0.00  0.00           C 0
+ATOM    870   CA VAL A 112       8.255  21.857 -30.426  0.00  0.00           C 0
+ATOM    543   CG PHE A  69       3.816  14.554 -31.174  0.00  0.00           C 0
+ATOM    545  CD2 PHE A  69       4.461  13.319 -31.238  0.00  0.00           C 0
+TER
+END

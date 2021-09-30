@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1701
+HEADER 1  - Drug Score                        : 0.0076
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.7683
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4969
+HEADER 5  - Mean B-factor of pocket residues  : 0.3762
+HEADER 6  - Hydrophobicity Score              : 20.8889
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 358.2630
+HEADER 10  -Pocket volume (convex hull)       : 26.9304
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1935
+ATOM   1503   CDAGLN A 997     -12.079  58.120 116.198  0.00  0.00           C 0
+ATOM   1501   CGAGLN A 997     -11.456  57.656 114.862  0.00  0.00           C 0
+ATOM   1458    O VAL A 991     -14.277  59.762 110.596  0.52  6.43           O 0
+ATOM   1505  OE1AGLN A 997     -11.586  59.018 116.860  0.00  0.00           O 0
+ATOM   1516  CD2 LEU A 998      -2.909  60.215 111.411  0.00  0.00           C 0
+ATOM    793  ND2 ASN A 908      -0.893  63.220 112.130  0.00  5.47           N 0
+ATOM   1512    O LEU A 998      -5.419  58.943 115.501  0.00  0.00           O 0
+ATOM   1520    O GLY A 999      -2.248  58.399 116.030  0.50  6.43           O 0
+ATOM    789    O ASN A 908      -4.991  64.598 111.822  0.20  4.29           O 0
+ATOM   1514   CG LEU A 998      -3.421  58.977 112.190  0.00  0.00           C 0
+ATOM    812   CEALYS A 910     -10.504  64.264 113.022  0.00  0.00           C 0
+ATOM    814   NZALYS A 910     -10.116  65.512 113.784  0.53  4.37           N 0
+ATOM   1499   CBAGLN A 997      -9.907  57.625 114.788  0.00  0.00           C 0
+ATOM   1493   CAAGLN A 997      -9.351  57.229 113.386  0.00  0.00           C 0
+ATOM   1474   CA GLY A 994     -15.143  57.829 113.606  0.00  0.00           C 0
+ATOM   1507  NE2AGLN A 997     -13.233  57.536 116.554  0.26  6.56           N 0
+ATOM    797    O GLY A 909      -8.122  62.057 110.452  0.54  4.29           O 0
+ATOM    795   CA GLY A 909      -5.756  62.304 110.535  0.00  0.00           C 0
+ATOM   1513   CB LEU A 998      -4.923  58.987 112.448  0.00  0.00           C 0
+ATOM   1509    N LEU A 998      -7.012  58.001 113.273  0.74  3.28           N 0
+ATOM   1487    O VAL A 996     -11.459  57.017 111.543  0.72  1.07           O 0
+ATOM   1460  CG1 VAL A 991     -11.691  60.320 108.655  0.00  0.00           C 0
+ATOM    810   CDALYS A 910     -10.367  64.386 111.511  0.00  0.00           C 0
+TER
+END

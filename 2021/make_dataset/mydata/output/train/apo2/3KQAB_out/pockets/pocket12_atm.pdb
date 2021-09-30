@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0939
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0447
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6042
+HEADER 5  - Mean B-factor of pocket residues  : 0.3645
+HEADER 6  - Hydrophobicity Score              : 18.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 326.7212
+HEADER 10  -Pocket volume (convex hull)       : 23.8950
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2186    N ARG B 295     -36.669 -46.012-128.610  0.62  1.09           N 0
+ATOM   1962   NZ LYS B 265     -38.744 -51.359-127.996  0.00  0.00           N 1
+ATOM   2189    O ARG B 295     -38.738 -44.402-129.981  0.43  4.29           O 0
+ATOM   2190   CB ARG B 295     -36.221 -45.520-130.978  0.00  0.00           C 0
+ATOM   2242   CB PHE B 302     -41.466 -45.220-127.887  0.00  0.00           C 0
+ATOM   1930   CA ALA B 261     -45.818 -48.593-127.855  0.00  0.00           C 0
+ATOM   1932    O ALA B 261     -44.311 -49.681-126.324  0.74  3.21           O 0
+ATOM   1933   CB ALA B 261     -45.245 -47.296-128.439  0.00  0.00           C 0
+ATOM   1953   CB ALA B 264     -45.138 -53.116-127.551  0.00  0.00           C 0
+ATOM   1961   CE LYS B 265     -39.610 -50.796-126.906  0.00  0.00           C 0
+ATOM   2244  CD1 PHE B 302     -41.522 -46.484-125.732  0.00  0.00           C 0
+ATOM   1990  OE2 GLU B 268     -40.181 -55.011-128.356  0.78  7.50           O 1
+ATOM   2175    O THR B 293     -36.303 -50.254-127.122  0.74  2.14           O 0
+ATOM   2176   CB THR B 293     -33.470 -51.235-127.803  0.00  0.00           C 0
+ATOM   2177  CG2 THR B 293     -33.129 -50.114-128.791  0.00  0.00           C 0
+TER
+END

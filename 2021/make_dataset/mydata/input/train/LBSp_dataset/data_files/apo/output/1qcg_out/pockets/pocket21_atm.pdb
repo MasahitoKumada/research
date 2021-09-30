@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0193
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0226
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5704
+HEADER 5  - Mean B-factor of pocket residues  : 0.3822
+HEADER 6  - Hydrophobicity Score              : -25.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.1286
+HEADER 10  -Pocket volume (convex hull)       : 4.4771
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM    293   CG PRO A  30      17.905  12.535  24.722  0.00  0.00           C 0
+ATOM    294   CD PRO A  30      16.986  12.164  25.855  0.00  0.00           C 0
+ATOM    429  CG2 THR A  45      15.917  16.047  29.499  0.00  0.00           C 0
+ATOM    435    O ASN A  46      16.143  19.158  27.114  0.00  0.00           O 0
+ATOM    663  NH1 ARG A  68      13.234  16.499  26.275  0.70  5.47           N 0
+ATOM    449   CD PRO A  47      14.406  19.937  24.995  0.00  0.00           C 0
+ATOM    257  OE1 GLU A  26      12.398  16.315  18.766  0.00  0.00           O 0
+ATOM    253    O GLU A  26      11.288  14.522  22.580  0.23  1.07           O 0
+ATOM    258  OE2 GLU A  26      12.074  17.575  20.543  0.00  0.00           O 0
+ATOM    664  NH2 ARG A  68      13.322  14.285  25.694  0.53  4.37           N 0
+ATOM    662   CZ ARG A  68      12.617  15.392  25.892  0.00  0.00           C 0
+ATOM    242    O ASN A  25      12.927  11.689  20.274  0.21  8.57           O 0
+ATOM    269    O LYS A  28      13.306  11.628  24.587  0.33  3.21           O 0
+TER
+END

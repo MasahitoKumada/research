@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0781
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9447
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5631
+HEADER 5  - Mean B-factor of pocket residues  : 0.4493
+HEADER 6  - Hydrophobicity Score              : 24.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.6467
+HEADER 10  -Pocket volume (convex hull)       : 3.0752
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   4922   CA ALA A 639      30.819  30.355  33.531  0.00  0.00           C 0
+ATOM   4920  CD2 LEU A 638      25.441  29.812  35.508  0.00  0.00           C 0
+ATOM   4925   CB ALA A 639      30.926  30.082  31.949  0.00  0.00           C 0
+ATOM   3977  OD2 ASP A 518      24.089  27.165  31.253  0.00  0.00           O 1
+ATOM   4944   CB MET A 642      31.377  28.132  37.551  0.00  0.00           C 0
+ATOM   4924    O ALA A 639      32.909  30.234  34.654  0.56  7.50           O 0
+ATOM   4921    N ALA A 639      29.750  31.315  33.798  0.00  0.00           N 0
+ATOM   4892    O LYS A 635      28.175  32.005  31.421  0.67  1.07           O 0
+ATOM   3628   NZ LYS A 477      27.054  24.681  36.482  0.10  5.47           N 1
+ATOM   3595   OH TYR A 473      23.410  26.767  33.910  0.32  1.07           O 0
+ATOM   3627   CE LYS A 477      26.441  25.993  37.105  0.00  0.00           C 0
+ATOM   4945   CG MET A 642      29.894  28.324  37.846  0.00  0.00           C 0
+ATOM   4918   CG LEU A 638      26.623  30.620  35.934  0.00  0.00           C 0
+TER
+END

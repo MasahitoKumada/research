@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1720
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7076
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4930
+HEADER 5  - Mean B-factor of pocket residues  : 0.1233
+HEADER 6  - Hydrophobicity Score              : 11.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 155.1981
+HEADER 10  -Pocket volume (convex hull)       : 4.7616
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3913
+ATOM   1418   CA GLU B   2      20.382  17.519   5.522  0.00  0.00           C 0
+ATOM   1419    C GLU B   2      21.435  18.640   5.364  0.00  0.00           C 0
+ATOM   1417    N GLU B   2      18.983  17.854   5.969  0.70  1.09           N 0
+ATOM   1412    O MET B   1      18.920  16.061   7.281  0.04  7.50           O 0
+ATOM   1426    N ILE B   3      22.680  18.391   5.748  0.00  0.00           N 0
+ATOM   1698  CG1 VAL B  35      21.694  21.819  10.617  0.00  0.00           C 0
+ATOM   1431  CG1 ILE B   3      24.644  19.797   7.676  0.00  0.00           C 0
+ATOM   1726   CD LYS B  38      21.166  17.344  13.915  0.00  0.00           C 0
+ATOM   1735  CG2 THR B  39      24.941  19.665  12.430  0.00  0.00           C 0
+ATOM    487  OE1 GLU A  63      17.612  14.547  13.995  0.47  3.21           O 0
+ATOM    495   CD PRO A  64      17.189  18.201  13.966  0.00  0.00           C 0
+ATOM   1727   CE LYS B  38      20.266  16.081  13.885  0.00  0.00           C 0
+ATOM   1413   CB MET B   1      16.128  17.713   7.420  0.00  0.00           C 0
+ATOM   1414   CG MET B   1      16.909  19.157   7.661  0.00  0.00           C 0
+ATOM    492    O PRO A  64      14.887  19.126  11.097  0.00  0.00           O 0
+ATOM   1699  CG2 VAL B  35      19.277  21.734  10.716  0.00  0.00           C 0
+ATOM    494   CG PRO A  64      17.750  19.553  14.034  0.00  0.00           C 0
+ATOM    508  OE2 GLU A  66      14.420  15.192   9.998  0.61  6.43           O 0
+ATOM    484   CB GLU A  63      15.087  15.471  13.339  0.00  0.00           C 0
+TER
+END

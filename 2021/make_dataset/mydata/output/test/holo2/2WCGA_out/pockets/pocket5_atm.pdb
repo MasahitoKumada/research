@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1382
+HEADER 1  - Drug Score                        : 0.2336
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9855
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6738
+HEADER 5  - Mean B-factor of pocket residues  : 0.6379
+HEADER 6  - Hydrophobicity Score              : -10.2222
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 448.3687
+HEADER 10  -Pocket volume (convex hull)       : 36.1248
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.8750
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.6154
+ATOM   2019    O THR A 267     -41.564 -36.134 -54.964  0.65  1.07           O 0
+ATOM   1600  CG2 VAL A 214     -40.934 -32.219 -55.929  0.00  0.00           C 0
+ATOM   1599  CG1 VAL A 214     -41.419 -31.483 -58.180  0.00  0.00           C 0
+ATOM   2021  CG2 THR A 267     -43.116 -33.791 -53.270  0.00  0.00           C 0
+ATOM   1608   CE LYS A 215     -45.918 -26.248 -58.978  0.00  0.00           C 0
+ATOM   1565   CG ARG A 211     -46.324 -30.886 -53.905  0.00  0.00           C 0
+ATOM   1566   CD ARG A 211     -47.761 -30.837 -54.488  0.00  0.00           C 0
+ATOM   1564   CB ARG A 211     -45.647 -29.505 -53.799  0.00  0.00           C 0
+ATOM   2042  ND2 ASN A 270     -45.626 -39.093 -57.093  0.00  0.00           N 0
+ATOM   2022  OG1 THR A 267     -43.880 -34.888 -51.327  0.00  0.00           O 0
+ATOM   1530   CG GLN A 207     -49.421 -32.164 -49.901  0.00  0.00           C 0
+ATOM   1563    O ARG A 211     -42.973 -28.404 -55.091  0.00  0.00           O 0
+ATOM   2048   CB SER A 271     -40.437 -35.507 -58.306  0.00  0.00           C 0
+ATOM   2039    O ASN A 270     -42.896 -38.511 -58.637  0.41  6.43           O 0
+ATOM   1606   CG LYS A 215     -43.873 -26.380 -57.604  0.00  0.00           C 0
+ATOM   1636  OD2 ASP A 218     -41.963 -29.379 -61.311  0.73  6.43           O 1
+ATOM   1569  NH1 ARG A 211     -48.743 -28.481 -55.864  0.68  3.28           N 1
+ATOM   1598   CB VAL A 214     -41.265 -31.036 -56.744  0.00  0.00           C 0
+ATOM   2017   CA THR A 267     -42.468 -36.192 -52.743  0.00  0.00           C 0
+ATOM   2013   CB PRO A 266     -43.175 -39.493 -49.935  0.00  0.00           C 0
+ATOM   2012    O PRO A 266     -42.210 -38.934 -53.013  0.66  2.14           O 0
+ATOM   2040   CB ASN A 270     -43.448 -39.600 -56.019  0.00  0.00           C 0
+ATOM   2011    C PRO A 266     -42.081 -38.437 -51.893  0.00  0.00           C 0
+ATOM   2016    N THR A 267     -42.143 -37.131 -51.665  0.00  0.00           N 0
+TER
+END

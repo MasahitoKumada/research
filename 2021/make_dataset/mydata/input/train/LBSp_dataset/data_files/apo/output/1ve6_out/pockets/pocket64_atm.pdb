@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    64:
+HEADER 0  - Pocket Score                      : -0.0557
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6901
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5386
+HEADER 5  - Mean B-factor of pocket residues  : 0.6845
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.1668
+HEADER 10  -Pocket volume (convex hull)       : 4.5438
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   7035  CG2 THR B 358      45.484  55.518  23.520  0.00  0.00           C 0
+ATOM   7598    C GLY B 434      44.780  55.765  27.925  0.00  0.00           C 0
+ATOM   7600    N LEU B 435      43.848  54.830  28.064  0.00  0.00           N 0
+ATOM   7593    O SER B 433      47.235  53.870  29.488  0.00  0.00           O 0
+ATOM   6847  NH2 ARG B 334      44.408  48.859  25.980  0.00  0.00           N 0
+ATOM   7594   CB SER B 433      45.652  51.853  31.093  0.00  0.00           C 0
+ATOM   6846  NH1 ARG B 334      45.908  47.279  26.729  0.00  0.00           N 0
+ATOM   7595   OG SER B 433      44.539  52.071  30.245  0.00  0.00           O 0
+ATOM   7601   CA LEU B 435      42.948  54.466  26.967  0.00  0.00           C 0
+ATOM   7599    O GLY B 434      44.941  56.375  26.880  0.68  1.07           O 0
+ATOM   7604   CB LEU B 435      42.360  53.077  27.227  0.00  0.00           C 0
+ATOM   7034  OG1 THR B 358      44.033  54.991  21.666  0.53  2.14           O 0
+ATOM   7607  CD2 LEU B 435      41.435  52.946  24.907  0.00  0.00           C 0
+ATOM   6994  OE1 GLU B 352      43.792  50.602  19.319  0.64  8.57           O 0
+ATOM   6991   CB GLU B 352      41.172  49.730  20.529  0.00  0.00           C 0
+ATOM   7605   CG LEU B 435      41.793  52.174  26.124  0.00  0.00           C 0
+TER
+END

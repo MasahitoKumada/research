@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0114
+HEADER 1  - Drug Score                        : 0.0117
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.6963
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4850
+HEADER 5  - Mean B-factor of pocket residues  : 0.7548
+HEADER 6  - Hydrophobicity Score              : 53.2222
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.8472
+HEADER 10  -Pocket volume (convex hull)       : 13.3903
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM    765   SD MET A  97      35.071 -22.108   4.770  0.00  0.00           S 0
+ATOM    583   CB LEU A  74      29.476 -21.187   3.011  0.00  0.00           C 0
+ATOM    623  CD1 ILE A  79      32.261 -25.301   1.588  0.00  0.00           C 0
+ATOM    733  CG1 VAL A  93      33.237 -25.577   6.342  0.00  0.00           C 0
+ATOM    734  CG2 VAL A  93      32.168 -27.418   7.744  0.00  0.00           C 0
+ATOM    665  CG2 THR A  84      36.177 -29.440   3.639  0.00  0.00           C 0
+ATOM    732   CB VAL A  93      32.246 -25.884   7.452  0.00  0.00           C 0
+ATOM    706   CA PRO A  90      27.991 -26.417   7.177  0.00  0.00           C 0
+ATOM    708    O PRO A  90      29.122 -24.400   7.587  0.67  2.14           O 0
+ATOM    711   CD PRO A  90      26.754 -28.507   7.357  0.00  0.00           C 0
+ATOM    705    N PRO A  90      27.689 -27.569   8.034  0.00  0.00           N 0
+ATOM    622  CG2 ILE A  79      35.199 -25.627   2.887  0.00  0.00           C 0
+ATOM   1056  ND2 ASN A 143      28.886 -26.346   0.798  0.00  0.00           N 0
+ATOM    735    N LEU A  94      31.674 -22.856   8.378  0.00  0.00           N 0
+ATOM    710   CG PRO A  90      26.394 -27.799   6.061  0.00  0.00           C 0
+ATOM    695    O LEU A  88      30.469 -30.225   9.089  0.17  6.43           O 0
+ATOM    709   CB PRO A  90      26.774 -26.339   6.269  0.00  0.00           C 0
+TER
+END

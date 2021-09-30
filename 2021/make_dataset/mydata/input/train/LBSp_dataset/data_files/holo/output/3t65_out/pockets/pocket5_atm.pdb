@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1913
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1288
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6133
+HEADER 5  - Mean B-factor of pocket residues  : 0.5768
+HEADER 6  - Hydrophobicity Score              : 30.3750
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 5.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 386.1255
+HEADER 10  -Pocket volume (convex hull)       : 10.6374
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   2156  OG1 THR A  53      -8.524  32.267 129.157  0.00  0.00           O 0
+ATOM   2130   CB TRP A  50      -4.216  32.069 129.341  0.00  0.00           C 0
+ATOM   1958   CG LYS A  30F     -2.877  30.828 134.126  0.00  0.00           C 0
+ATOM   2129    O TRP A  50      -4.706  29.420 128.457  0.19  4.29           O 0
+ATOM   2150   OG SER A  52      -7.985  27.617 128.442  0.35  6.43           O 0
+ATOM   2136  CE3 TRP A  50      -4.751  34.848 131.110  0.00  0.00           C 0
+ATOM   1961   NZ LYS A  30F     -4.548  34.165 134.842  0.76  2.19           N 0
+ATOM    826   OH TYR B  99      -5.785  36.559 135.358  0.00  0.00           O 0
+ATOM   1957   CB LYS A  30F     -1.791  30.445 133.168  0.00  0.00           C 0
+ATOM   1954   CA LYS A  30F     -1.315  29.007 133.303  0.00  0.00           C 0
+ATOM   1945    O ARG A  30E     -2.328  27.316 135.272  0.00  0.00           O 0
+ATOM   1969  ND2 ASN A  31      -1.515  25.260 130.077  0.08  6.56           N 0
+ATOM   1962    N ASN A  31      -0.724  28.340 131.060  0.59  2.19           N 0
+ATOM   1960   CE LYS A  30F     -4.131  32.757 135.065  0.00  0.00           C 0
+ATOM   2138  CZ3 TRP A  50      -4.698  35.994 131.900  0.00  0.00           C 0
+ATOM   2125   OH TYR A  49      -8.341  37.468 128.382  0.52  9.64           O 0
+ATOM   1959   CD LYS A  30F     -3.251  32.278 133.933  0.00  0.00           C 0
+ATOM    835  CE1 TYR B 100      -7.117  39.530 130.909  0.00  0.00           C 0
+ATOM    824  CE2 TYR B  99      -5.307  38.677 134.399  0.00  0.00           C 0
+ATOM    838   OH TYR B 100      -8.738  40.757 132.138  0.48  4.29           O 0
+TER
+END

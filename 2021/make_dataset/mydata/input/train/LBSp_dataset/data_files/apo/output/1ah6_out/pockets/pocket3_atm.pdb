@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1575
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9467
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5592
+HEADER 5  - Mean B-factor of pocket residues  : 0.7453
+HEADER 6  - Hydrophobicity Score              : 3.3000
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.5452
+HEADER 10  -Pocket volume (convex hull)       : 8.3531
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    206   CD LYS A  27      14.962 -14.239  13.388  0.00  0.00           C 0
+ATOM   1409  OE1 GLN A 181      17.872 -14.720  14.918  0.63  8.57           O 0
+ATOM    187   CA SER A  25      11.316 -18.622  13.618  0.00  0.00           C 0
+ATOM    189    O SER A  25      12.680 -19.993  12.189  0.00  0.00           O 0
+ATOM    207   CE LYS A  27      14.065 -13.648  14.456  0.00  0.00           C 0
+ATOM    170    O VAL A  23      10.570 -15.794  16.481  0.00  0.00           O 0
+ATOM   1401  OD2 ASP A 180      18.110 -13.898  18.291  0.00  0.00           O 0
+ATOM   1427  OE2 GLU A 183      20.213 -20.032  11.618  0.00  0.00           O 0
+ATOM   1426  OE1 GLU A 183      20.631 -18.998  13.518  0.00  0.00           O 0
+ATOM   1439   OH TYR A 184      18.252 -17.901   9.867  0.51  3.21           O 0
+ATOM   1410  NE2 GLN A 181      18.649 -15.196  12.868  0.00  0.00           N 0
+ATOM    208   NZ LYS A  27      14.809 -12.629  15.241  0.24  5.47           N 0
+ATOM    177    O TYR A  24      11.732 -15.951  14.241  0.00  0.00           O 0
+ATOM    188    C SER A  25      11.895 -19.042  12.267  0.00  0.00           C 0
+ATOM   1481  NH2 ARG A 189      18.395 -21.037   9.101  0.00  0.00           N 0
+ATOM    209    N GLU A  28      15.515 -16.965   8.280  0.00  0.00           N 0
+ATOM    216  OE1 GLU A  28      16.664 -21.456   7.199  0.28  4.29           O 0
+ATOM    214   CG GLU A  28      15.526 -19.501   6.512  0.00  0.00           C 0
+ATOM    204   CB LYS A  27      15.070 -15.157  11.076  0.00  0.00           C 0
+ATOM    200    N LYS A  27      13.557 -16.851  10.196  0.00  0.00           N 0
+TER
+END

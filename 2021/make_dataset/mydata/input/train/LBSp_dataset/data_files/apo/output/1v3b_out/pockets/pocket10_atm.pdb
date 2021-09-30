@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1022
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.6544
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4206
+HEADER 5  - Mean B-factor of pocket residues  : 0.3381
+HEADER 6  - Hydrophobicity Score              : 52.6667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 152.6167
+HEADER 10  -Pocket volume (convex hull)       : 8.2128
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2051   CA TYR A 405      49.341 123.959 -13.485  0.00  0.00           C 0
+ATOM   1607   CB VAL A 348      52.607 123.872 -19.474  0.00  0.00           C 0
+ATOM   1616  CG2 ILE A 349      48.129 123.376 -17.061  0.00  0.00           C 0
+ATOM   1609  CG2 VAL A 348      52.439 125.341 -19.820  0.00  0.00           C 0
+ATOM   2045    O ASN A 404      50.397 121.768 -14.942  0.66  1.07           O 0
+ATOM   1743   CB SER A 367      55.650 126.008 -17.058  0.00  0.00           C 0
+ATOM   2018   CB MET A 401      53.867 120.689 -17.129  0.00  0.00           C 0
+ATOM   1613    O ILE A 349      48.892 125.657 -19.176  0.69  2.14           O 0
+ATOM   2019   CG MET A 401      54.950 120.643 -16.090  0.00  0.00           C 0
+ATOM   2020   SD MET A 401      56.197 121.837 -16.549  0.00  0.00           S 0
+ATOM   1832    O MET A 377      55.228 122.427 -12.211  0.62  1.07           O 0
+ATOM   2062    N TRP A 406      51.201 125.133 -12.488  0.80  4.37           N 0
+ATOM   2063   CA TRP A 406      52.410 125.297 -11.663  0.00  0.00           C 0
+ATOM   2052    C TYR A 405      50.595 123.960 -12.668  0.00  0.00           C 0
+ATOM   2248  NE1 TRP A 428      50.084 130.053 -16.405  0.72  6.56           N 0
+ATOM   2057  CD2 TYR A 405      46.978 125.859 -14.783  0.00  0.00           C 0
+ATOM   2251  CZ2 TRP A 428      48.081 129.013 -17.508  0.00  0.00           C 0
+ATOM   2066   CB TRP A 406      52.542 126.774 -11.286  0.00  0.00           C 0
+ATOM   1740   CA SER A 367      55.823 127.202 -16.118  0.00  0.00           C 0
+ATOM   1737    O ALA A 366      55.453 129.740 -15.045  0.00  0.00           O 0
+ATOM   2239   OG SER A 427      51.927 131.402 -12.543  0.00  0.00           O 0
+ATOM   1714    O CYS A 363      53.893 128.620 -19.359  0.00  0.00           O 0
+TER
+END

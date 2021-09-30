@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    92:
+HEADER 0  - Pocket Score                      : 0.0642
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9627
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5472
+HEADER 5  - Mean B-factor of pocket residues  : 0.3321
+HEADER 6  - Hydrophobicity Score              : 28.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.9855
+HEADER 10  -Pocket volume (convex hull)       : 5.5593
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1876  CG2 VAL A 330      90.371  94.291  20.192  0.00  0.00           C 0
+ATOM   1875  CG1 VAL A 330      92.645  95.030  19.750  0.00  0.00           C 0
+ATOM   3992  CG1 VAL B  92      95.003  91.494  18.731  0.00  0.00           C 0
+ATOM   3983    O VAL B  91      95.083  91.803  15.220  0.00  0.00           O 0
+ATOM   2028   CA PRO A 351      86.562  91.945  19.217  0.00  0.00           C 0
+ATOM   1987    O GLY A 345      89.962  86.735  19.093  0.00  0.00           O 0
+ATOM   2034    N ASN A 352      87.558  91.489  21.359  0.00  0.00           N 0
+ATOM   2040  OD1 ASN A 352      89.097  89.108  22.314  0.81  1.07           O 0
+ATOM   2018    O TYR A 350      86.040  89.241  19.151  0.48  1.07           O 0
+ATOM   2004    O SER A 348      87.562  87.200  15.804  0.20  7.50           O 0
+ATOM   3985  CG1 VAL B  91      94.048  88.725  15.126  0.00  0.00           C 0
+ATOM   1991    O LYS A 346      91.388  86.122  16.095  0.32  2.14           O 0
+ATOM   1970  CD2 LEU A 342      93.200  91.953  22.689  0.00  0.00           C 0
+ATOM   1966    O LEU A 342      93.686  87.769  21.761  0.50  1.07           O 0
+ATOM   1986    C GLY A 345      90.783  86.360  19.927  0.00  0.00           C 0
+ATOM   1989   CA LYS A 346      92.524  86.303  18.192  0.00  0.00           C 0
+TER
+END

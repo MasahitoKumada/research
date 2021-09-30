@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0899
+HEADER 1  - Drug Score                        : 0.0054
+HEADER 2  - Number of alpha spheres           :    34
+HEADER 3  - Mean alpha-sphere radius          : 3.7814
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4926
+HEADER 5  - Mean B-factor of pocket residues  : 0.7504
+HEADER 6  - Hydrophobicity Score              : 13.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 341.4156
+HEADER 10  -Pocket volume (convex hull)       : 30.5192
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.9000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM    832    O SER C 100      22.292  27.192  62.543  0.65  1.07           O 0
+ATOM    870   CB ASP C 104      23.591  30.601  64.079  0.00  0.00           C 0
+ATOM    834   OG SER C 100      24.391  25.716  60.687  0.55  7.50           O 0
+ATOM    897  CG2 VAL C 107      23.874  32.809  60.727  0.00  0.00           C 0
+ATOM    527   NZ LYS C  64      26.541  30.467  54.045  0.00  0.00           N 1
+ATOM    845   CGAMET C 101      20.887  28.631  58.010  0.00  0.00           C 0
+ATOM    896  CG1 VAL C 107      21.776  32.105  59.563  0.00  0.00           C 0
+ATOM    932   CGAGLN C 111      21.472  35.070  56.926  0.00  0.00           C 0
+ATOM    936  NE2AGLN C 111      22.956  36.797  56.103  0.00  0.00           N 0
+ATOM    525   CD LYS C  64      24.925  30.476  52.111  0.00  0.00           C 0
+ATOM    526   CE LYS C  64      26.375  30.589  52.566  0.00  0.00           C 0
+ATOM    498   CA PRO C  61      23.418  34.747  50.918  0.00  0.00           C 0
+ATOM    484    C THR C  59      28.808  35.223  51.551  0.00  0.00           C 0
+ATOM    497    N PRO C  61      24.728  35.396  50.777  0.00  0.00           N 0
+ATOM    503   CD PRO C  61      24.840  36.598  51.624  0.00  0.00           C 0
+ATOM    837   CAAMET C 101      20.708  28.335  60.552  0.00  0.00           C 0
+ATOM    849   CEAMET C 101      20.387  31.009  56.677  0.00  0.00           C 0
+ATOM    847   SDAMET C 101      20.042  29.258  56.543  0.00  0.00           S 0
+ATOM    964  CD2 LEU C 114      21.498  31.253  53.255  0.00  0.00           C 0
+ATOM    934   CDAGLN C 111      21.845  36.102  55.883  0.00  0.00           C 0
+ATOM    483   CA THR C  59      29.829  34.247  52.134  0.00  0.00           C 0
+ATOM    485    O THR C  59      28.719  36.381  51.967  0.35  9.64           O 0
+ATOM    502   CG PRO C  61      23.655  36.491  52.535  0.00  0.00           C 0
+TER
+END

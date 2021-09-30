@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0930
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5472
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4674
+HEADER 5  - Mean B-factor of pocket residues  : 0.6568
+HEADER 6  - Hydrophobicity Score              : 22.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 126.0225
+HEADER 10  -Pocket volume (convex hull)       : 2.2694
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   1362   CD LYS B  27      14.612  39.484 -10.727  0.00  0.00           C 0
+ATOM   1327    O ALA B  23      10.717  40.350 -13.853  0.63  2.14           O 0
+ATOM   2074  OE2 GLU B 106      13.520  40.956  -7.844  0.00  0.00           O 0
+ATOM   1360   CB LYS B  27      13.960  40.265 -13.066  0.00  0.00           C 0
+ATOM   2050   CB ALA B 103      11.018  37.174 -11.353  0.00  0.00           C 0
+ATOM   2047   CA ALA B 103      11.106  37.106  -9.818  0.00  0.00           C 0
+ATOM   2049    O ALA B 103       9.231  38.135  -8.802  0.79  2.14           O 0
+ATOM   2072   CD GLU B 106      12.712  41.781  -7.474  0.00  0.00           C 0
+ATOM   2073  OE1 GLU B 106      12.828  42.993  -7.850  0.00  0.00           O 0
+ATOM   1328   CB ALA B  23       7.864  40.659 -12.290  0.00  0.00           C 0
+ATOM   2076   CA TYR B 107       6.945  40.547  -6.973  0.00  0.00           C 0
+ATOM   2071   CG GLU B 106      11.624  41.406  -6.454  0.00  0.00           C 0
+ATOM   2069    O GLU B 106       8.670  41.255  -4.969  0.61  2.14           O 0
+ATOM   2110   CB ALA B 110       7.497  44.554  -4.399  0.00  0.00           C 0
+ATOM   2079   CB TYR B 107       6.319  39.927  -8.222  0.00  0.00           C 0
+ATOM   2081  CD1 TYR B 107       4.683  41.473  -9.301  0.00  0.00           C 0
+ATOM   2075    N TYR B 107       8.203  39.887  -6.691  0.00  0.00           N 0
+TER
+END

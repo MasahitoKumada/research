@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1176
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9895
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7100
+HEADER 5  - Mean B-factor of pocket residues  : 0.2647
+HEADER 6  - Hydrophobicity Score              : 15.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.8881
+HEADER 10  -Pocket volume (convex hull)       : 2.3688
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2121    O CYS A1063      16.089 -38.531  29.886  0.75  5.36           O 0
+ATOM   2124    N ASP A1064      13.864 -38.827  29.700  0.00  0.00           N 0
+ATOM   2113    O ASN A1062      13.764 -36.523  32.950  0.63  2.14           O 0
+ATOM   2120    C CYS A1063      14.948 -38.091  29.960  0.00  0.00           C 0
+ATOM   2125   CA ASP A1064      13.960 -40.228  29.282  0.00  0.00           C 0
+ATOM   2472   CB ASN A1104      12.682 -37.389  36.318  0.00  0.00           C 0
+ATOM   2468    N ASN A1104      11.286 -36.650  34.439  0.00  0.00           N 0
+ATOM   2452    O TYR A1102      11.141 -38.436  30.849  0.76  1.07           O 0
+ATOM   2445    O THR A1101       9.699 -41.779  32.977  0.00  0.00           O 0
+ATOM   2130  OD1 ASP A1064      13.012 -43.198  29.978  0.48  5.36           O 0
+ATOM   2128   CB ASP A1064      12.596 -40.924  29.363  0.00  0.00           C 0
+ATOM   2111   CA ASN A1062      15.756 -35.509  33.815  0.00  0.00           C 0
+ATOM   2105    O LEU A1061      18.298 -36.547  33.931  0.00  0.00           O 0
+ATOM   2474  ND2 ASN A1104      13.913 -36.865  38.339  0.58  5.47           N 0
+ATOM   2112    C ASN A1062      14.891 -36.102  32.710  0.00  0.00           C 0
+TER
+END

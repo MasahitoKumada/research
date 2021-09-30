@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   101:
+HEADER 0  - Pocket Score                      : 0.0486
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0211
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6841
+HEADER 5  - Mean B-factor of pocket residues  : 0.6574
+HEADER 6  - Hydrophobicity Score              : 13.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.9901
+HEADER 10  -Pocket volume (convex hull)       : 4.1217
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2800
+ATOM  12231    C VAL D 148      26.516  62.393  40.259  0.00  0.00           C 0
+ATOM  12226   CD LYS D 147      22.592  63.851  35.675  0.00  0.00           C 0
+ATOM  12232    O VAL D 148      25.737  63.335  40.399  0.33  7.50           O 0
+ATOM  12224   CB LYS D 147      24.969  63.237  35.288  0.00  0.00           C 0
+ATOM  12222    C LYS D 147      26.994  62.624  36.744  0.00  0.00           C 0
+ATOM  12223    O LYS D 147      27.370  61.479  36.518  0.00  0.00           O 0
+ATOM  12040    O GLY D 120      27.035  56.758  35.759  0.00  0.00           O 0
+ATOM  12043    C CYS D 121      28.366  58.078  39.033  0.00  0.00           C 0
+ATOM  12036    O GLY D 119      23.949  57.134  34.913  0.52  9.64           O 0
+ATOM  12047    N ASN D 122      28.616  56.928  39.658  0.68  2.19           N 0
+ATOM  12051   CB ASN D 122      28.129  55.401  41.532  0.00  0.00           C 0
+ATOM  13173   OH TYR D 270      29.474  54.419  38.695  0.63  2.14           O 0
+ATOM  12044    O CYS D 121      27.973  59.078  39.577  0.00  0.00           O 0
+ATOM  12041    N CYS D 121      27.592  58.702  36.733  0.00  0.00           N 0
+ATOM  12240   CB ASN D 149      24.962  59.687  42.078  0.00  0.00           C 0
+ATOM  12236    N ASN D 149      26.495  61.336  41.053  0.00  0.00           N 0
+ATOM  12237   CA ASN D 149      25.415  61.160  42.026  0.00  0.00           C 0
+ATOM  12039    C GLY D 120      26.983  57.984  35.784  0.00  0.00           C 0
+ATOM  12038   CA GLY D 120      26.203  58.719  34.679  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0532
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1379
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6620
+HEADER 5  - Mean B-factor of pocket residues  : 0.3176
+HEADER 6  - Hydrophobicity Score              : 13.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 305.7204
+HEADER 10  -Pocket volume (convex hull)       : 6.6667
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM    939  NH1 ARG A 125     -10.220 -13.271   7.694  0.62  5.47           N 1
+ATOM    940  NH2 ARG A 125      -9.303 -14.169   9.606  0.57  7.66           N 0
+ATOM    921  CD2 LEU A 123     -12.217  -9.594  11.016  0.00  0.00           C 0
+ATOM   1204   OH TYR A 157     -15.003 -12.309  14.758  0.00  0.00           O 0
+ATOM    896  ND1 HIS A 120     -15.794 -10.169   6.195  0.47  5.47           N 0
+ATOM    920  CD1 LEU A 123     -12.134 -10.067   8.515  0.00  0.00           C 0
+ATOM    919   CG LEU A 123     -12.388  -9.037   9.571  0.00  0.00           C 0
+ATOM   1201  CE1 TYR A 157     -14.280 -10.133  14.105  0.00  0.00           C 0
+ATOM    910   CB ASN A 122     -15.460  -5.301  12.682  0.00  0.00           C 0
+ATOM    890   CA HIS A 120     -15.514  -7.017   6.669  0.00  0.00           C 0
+ATOM    893   CB HIS A 120     -14.420  -8.069   6.517  0.00  0.00           C 0
+ATOM    908    C ASN A 122     -13.202  -5.723  11.702  0.00  0.00           C 0
+ATOM    914    N LEU A 123     -12.683  -6.105  10.530  0.00  0.00           N 0
+ATOM    906    N ASN A 122     -15.022  -4.625  10.376  0.85  2.19           N 0
+ATOM    905   CD PRO A 121     -17.295  -4.805   7.592  0.00  0.00           C 0
+ATOM    904   CG PRO A 121     -17.703  -3.575   8.325  0.00  0.00           C 0
+TER
+END

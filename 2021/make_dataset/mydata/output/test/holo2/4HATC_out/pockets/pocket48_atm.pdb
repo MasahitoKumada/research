@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0141
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7924
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5726
+HEADER 5  - Mean B-factor of pocket residues  : 0.5455
+HEADER 6  - Hydrophobicity Score              : 29.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.6586
+HEADER 10  -Pocket volume (convex hull)       : 3.4363
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   3718   CB VAL C 480     -41.131  54.853  46.773  0.00  0.00           C 0
+ATOM   3720  CG2 VAL C 480     -41.055  55.652  45.487  0.00  0.00           C 0
+ATOM   4020    O THR C 518     -41.016  51.951  41.808  0.54  4.29           O 0
+ATOM   3719  CG1 VAL C 480     -42.509  54.952  47.407  0.00  0.00           C 0
+ATOM   3684    OAHIS C 477     -39.839  49.962  48.047  0.55  7.50           O 0
+ATOM   3680   CAAHIS C 477     -38.389  50.118  46.161  0.00  0.00           C 0
+ATOM   4061  OG1 THR C 523     -46.686  56.875  42.761  0.00  0.00           O 0
+ATOM   4060  CG2 THR C 523     -44.636  58.116  43.059  0.00  0.00           C 0
+ATOM   3692  ND1AHIS C 477     -40.221  47.712  44.779  0.69  9.84           N 0
+ATOM   4032    N SER C 520     -44.526  53.777  40.359  0.68  3.28           N 0
+ATOM   4036   CB SER C 520     -46.969  53.489  40.370  0.00  0.00           C 0
+ATOM   4037   OG SER C 520     -47.313  54.782  40.864  0.68  3.21           O 0
+ATOM   4059   CB THR C 523     -45.584  57.458  42.058  0.00  0.00           C 0
+ATOM   4025   CA MET C 519     -42.191  54.215  40.797  0.00  0.00           C 0
+TER
+END

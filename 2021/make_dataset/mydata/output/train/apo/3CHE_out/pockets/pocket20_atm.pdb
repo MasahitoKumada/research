@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0986
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9747
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6535
+HEADER 5  - Mean B-factor of pocket residues  : 0.5210
+HEADER 6  - Hydrophobicity Score              : -4.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 144.1434
+HEADER 10  -Pocket volume (convex hull)       : 1.3465
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM    730   CB ASN A 127      84.747  52.597  13.355  0.00  0.00           C 0
+ATOM    732  OD1 ASN A 127      82.755  53.879  13.525  0.52  1.07           O 0
+ATOM   2926  NE2 GLN A 414      79.783  46.719  13.725  0.00  0.00           N 0
+ATOM   2910  OE1 GLN A 412      83.517  53.480  17.192  0.00  0.00           O 0
+ATOM    719   CB ARG A 126      83.684  47.294  12.372  0.00  0.00           C 0
+ATOM   2919   CA GLN A 414      79.575  50.658  11.639  0.00  0.00           C 0
+ATOM   2922   CB GLN A 414      78.862  49.420  12.179  0.00  0.00           C 0
+ATOM   2918    N GLN A 414      79.032  51.854  12.276  0.51  4.37           N 0
+ATOM      1    N ALA A  39      77.383  52.933  18.017  0.00  0.00           N 0
+ATOM   2907   CB GLN A 412      80.898  54.911  17.133  0.00  0.00           C 0
+ATOM    717    C ARG A 126      84.016  49.593  11.448  0.00  0.00           C 0
+ATOM    726    N ASN A 127      84.793  50.525  12.005  0.81  1.09           N 0
+ATOM   2912    N SER A 413      80.111  54.616  13.785  0.68  1.09           N 0
+ATOM    718    O ARG A 126      82.928  49.859  10.949  0.00  0.00           O 0
+ATOM    727   CA ASN A 127      84.337  51.922  12.033  0.00  0.00           C 0
+TER
+END

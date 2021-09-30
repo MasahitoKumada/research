@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0304
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0268
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5775
+HEADER 5  - Mean B-factor of pocket residues  : 0.5926
+HEADER 6  - Hydrophobicity Score              : 10.5455
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.1525
+HEADER 10  -Pocket volume (convex hull)       : 7.6756
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM   1226   CA PRO A1246      15.728  -1.262  58.784  0.00  0.00           C 0
+ATOM   1239    N LYS A1248      17.963  -3.186  62.008  0.00  0.00           N 0
+ATOM   1232    N VAL A1247      17.532  -2.798  59.242  0.66  1.09           N 0
+ATOM   1581  OG1 THR A1289      22.162  -0.119  60.270  0.00  0.00           O 0
+ATOM   1523   CB PRO A1282      18.803   4.455  68.785  0.00  0.00           C 0
+ATOM   1532   CD PRO A1283      16.509   1.168  68.090  0.00  0.00           C 0
+ATOM   1261  CH2 TRP A1249      14.884   1.309  64.725  0.00  0.00           C 0
+ATOM   1245   CD LYS A1248      20.222  -0.864  65.210  0.00  0.00           C 0
+ATOM   1220    O LEU A1245      17.920  -1.018  57.019  0.00  0.00           O 0
+ATOM   1260  CZ3 TRP A1249      15.405   0.553  63.672  0.00  0.00           C 0
+ATOM   1244   CG LYS A1248      19.780  -1.806  64.111  0.00  0.00           C 0
+ATOM   1246   CE LYS A1248      21.611  -0.326  64.944  0.00  0.00           C 0
+ATOM   2164    O LYS A1360      20.080   7.025  66.235  0.22  3.21           O 0
+ATOM   1529    O PRO A1283      20.020   0.226  67.955  0.78  1.07           O 0
+ATOM   1536    O TYR A1284      23.080  -0.150  67.954  0.84  1.07           O 0
+ATOM   1548    O PRO A1285      25.211   2.515  68.414  0.44  7.50           O 0
+ATOM   1546   CA PRO A1285      23.374   1.969  69.901  0.00  0.00           C 0
+ATOM   1247   NZ LYS A1248      22.068  -0.810  63.618  0.68  1.09           N 1
+ATOM   1243   CB LYS A1248      18.272  -1.982  64.121  0.00  0.00           C 0
+TER
+END

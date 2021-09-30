@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0331
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8375
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5884
+HEADER 5  - Mean B-factor of pocket residues  : 0.2239
+HEADER 6  - Hydrophobicity Score              : -6.8750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.9181
+HEADER 10  -Pocket volume (convex hull)       : 7.7840
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1584  ND2 ASN F 214      30.074  94.367   9.769  0.00  0.00           N 0
+ATOM    795    O LEU F 109      30.171  94.526  14.847  0.76  1.07           O 0
+ATOM   1607   OG SER F 217      25.963  92.258  15.098  0.00  0.00           O 0
+ATOM   1597    O ASP F 216      29.907  91.038  12.897  0.59  4.29           O 0
+ATOM   1606   CB SER F 217      26.767  91.157  14.716  0.00  0.00           C 0
+ATOM   1603   CA SER F 217      28.235  91.402  15.082  0.00  0.00           C 0
+ATOM    791   OG SER F 108      26.488  98.991  14.108  0.00  0.00           O 0
+ATOM   1427   OG SER F 194      32.150  97.020  11.156  0.65  3.21           O 0
+ATOM   1458  OE1 GLU F 198      31.200 100.707   7.807  0.00  0.00           O 0
+ATOM   1459  OE2 GLU F 198      31.267 101.761   9.741  0.33  6.43           O 1
+ATOM    789    O SER F 108      29.542  99.273  14.437  0.45  5.36           O 0
+ATOM    793   CA LEU F 109      30.693  96.779  14.250  0.00  0.00           C 0
+ATOM    792    N LEU F 109      29.578  97.130  15.113  0.74  2.19           N 0
+ATOM    790   CB SER F 108      26.598  98.241  15.309  0.00  0.00           C 0
+ATOM    794    C LEU F 109      30.841  95.277  14.147  0.00  0.00           C 0
+ATOM   1426   CB SER F 194      32.855  96.848   9.940  0.00  0.00           C 0
+ATOM   1561   CE LYS F 210      32.868  95.862   6.206  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0357
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9173
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5446
+HEADER 5  - Mean B-factor of pocket residues  : 0.6959
+HEADER 6  - Hydrophobicity Score              : 64.7778
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.8533
+HEADER 10  -Pocket volume (convex hull)       : 12.3721
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7000
+ATOM   1572  CD2 LEU A 195      29.803  35.202  17.694  0.00  0.00           C 0
+ATOM   2069  CD2 TYR A 258      33.087  40.108  14.392  0.00  0.00           C 0
+ATOM   1871  CD2 LEU A 232      33.219  35.833  13.737  0.00  0.00           C 0
+ATOM   1571  CD1 LEU A 195      29.931  34.416  15.327  0.00  0.00           C 0
+ATOM   1591  NE1 TRP A 197      27.583  35.946  12.962  0.77  2.19           N 0
+ATOM   2041    O ALA A 255      29.064  40.833  11.919  0.41  1.07           O 0
+ATOM   2078   CB ILE A 259      31.567  38.708  10.192  0.00  0.00           C 0
+ATOM   1569   CB LEU A 195      27.684  34.842  16.338  0.00  0.00           C 0
+ATOM   2042   CB ALA A 255      26.287  39.663  13.564  0.00  0.00           C 0
+ATOM   1568    O LEU A 195      25.305  36.335  16.729  0.28  5.36           O 0
+ATOM   2020   OG SER A 252      23.532  41.070  14.439  0.29  7.50           O 0
+ATOM   2038    N ALA A 255      26.549  42.072  13.862  0.66  1.09           N 0
+ATOM   2067   CG TYR A 258      33.049  41.503  14.472  0.00  0.00           C 0
+ATOM   2066   CB TYR A 258      31.816  42.270  14.058  0.00  0.00           C 0
+ATOM   1846  CD1 ILE A 229      33.667  38.062  18.369  0.00  0.00           C 0
+ATOM   2039   CA ALA A 255      27.243  40.849  13.502  0.00  0.00           C 0
+ATOM   2033    O SER A 254      28.385  43.369  13.817  0.00  0.00           O 0
+ATOM   2032    C SER A 254      27.168  43.246  13.933  0.00  0.00           C 0
+ATOM   2036   OGASER A 254      26.947  45.283  16.323  0.00  0.00           O 0
+TER
+END

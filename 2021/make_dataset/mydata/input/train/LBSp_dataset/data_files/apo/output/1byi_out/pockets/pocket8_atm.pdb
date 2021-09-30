@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0691
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0676
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5534
+HEADER 5  - Mean B-factor of pocket residues  : 0.6303
+HEADER 6  - Hydrophobicity Score              : 4.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.7213
+HEADER 10  -Pocket volume (convex hull)       : 1.7748
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    136   CE LYS A  15       3.166  27.255  12.482  0.00  0.00           C 0
+ATOM     92    OATHR A  11       1.380  22.332   7.992  0.32  9.64           O 0
+ATOM    133   CB LYS A  15       5.628  25.981  11.141  0.00  0.00           C 0
+ATOM    428  OD2 ASP A  54       1.567  22.354  15.493  0.47  7.50           O 0
+ATOM    151  CG2 VAL A  17       9.929  19.724  12.733  0.00  0.00           C 0
+ATOM    142   CB THR A  16       6.158  23.028  15.365  0.00  0.00           C 0
+ATOM    126   CA GLY A  14       7.525  21.845   9.570  0.00  0.00           C 0
+ATOM    427  OD1 ASP A  54       3.155  20.874  16.013  0.64  5.36           O 0
+ATOM    129    N LYS A  15       6.767  24.003  10.397  0.28  1.09           N 0
+ATOM    125    N GLY A  14       6.682  22.060   8.354  0.00  0.00           N 0
+ATOM    145    N VAL A  17       9.031  22.452  13.762  0.00  0.00           N 0
+ATOM    143  OG1 THR A  16       4.888  23.661  15.237  0.70  2.14           O 0
+ATOM    138    N THR A  16       6.832  24.087  13.241  0.00  0.00           N 0
+TER
+END

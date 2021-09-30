@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1613
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7285
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6256
+HEADER 5  - Mean B-factor of pocket residues  : 0.6786
+HEADER 6  - Hydrophobicity Score              : -22.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.4982
+HEADER 10  -Pocket volume (convex hull)       : 22.5290
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   2044   CG GLN A 255      -8.839  -1.941  38.916  0.00  0.00           C 0
+ATOM   2022    C ASN A 253      -3.255   0.051  36.859  0.00  0.00           C 0
+ATOM   2023    O ASN A 253      -3.551   1.261  36.876  0.44  7.50           O 0
+ATOM   2026  OD1 ASN A 253      -2.313   0.437  40.205  0.00  0.00           O 0
+ATOM   2030    C ARG A 254      -6.348  -1.678  36.153  0.00  0.00           C 0
+ATOM   1554   CG PRO A 195      -7.280   3.093  32.082  0.00  0.00           C 0
+ATOM   2029   CA ARG A 254      -5.332  -0.663  35.660  0.00  0.00           C 0
+ATOM   2033   CG ARG A 254      -4.349   0.470  33.599  0.00  0.00           C 0
+ATOM   2031    O ARG A 254      -5.983  -2.773  36.528  0.59  5.36           O 0
+ATOM   2028    N ARG A 254      -4.031  -0.908  36.265  0.00  0.00           N 0
+ATOM    210   CD ARG A  27      -2.884   4.946  31.412  0.00  0.00           C 0
+ATOM   2039    N GLN A 255      -7.632  -1.243  36.096  0.65  4.37           N 0
+ATOM   2046  OE1 GLN A 255     -10.405  -0.657  40.186  0.63  9.64           O 0
+ATOM   2014    O LYS A 252      -1.976  -3.114  36.694  0.00  0.00           O 0
+ATOM   2021   CA ASN A 253      -1.955  -0.426  37.464  0.00  0.00           C 0
+ATOM   1555   CD PRO A 195      -8.394   2.124  31.877  0.00  0.00           C 0
+ATOM   2064   NZ LYS A 257     -13.031   2.749  37.640  0.54  9.84           N 0
+ATOM   2042    O GLN A 255      -9.934  -1.094  34.526  0.61  2.14           O 0
+ATOM   2043   CB GLN A 255      -9.548  -1.749  37.619  0.00  0.00           C 0
+ATOM   2063   CE LYS A 257     -12.978   1.306  37.253  0.00  0.00           C 0
+TER
+END

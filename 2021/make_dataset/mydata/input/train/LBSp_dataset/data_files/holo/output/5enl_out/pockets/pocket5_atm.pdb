@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.2622
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8813
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6168
+HEADER 5  - Mean B-factor of pocket residues  : 0.1889
+HEADER 6  - Hydrophobicity Score              : 5.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.5512
+HEADER 10  -Pocket volume (convex hull)       : 5.9001
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   3134    N GLU A 418     108.250  33.439  45.948  0.00  0.00           N 0
+ATOM   3135   CA GLU A 418     108.372  32.454  47.009  0.00  0.00           C 0
+ATOM   3130   CG GLU A 417     108.185  37.050  46.422  0.00  0.00           C 0
+ATOM   3132  OE1 GLU A 417     106.057  38.033  47.092  0.87  4.29           O 0
+ATOM   3138   CB GLU A 418     107.159  31.571  47.137  0.00  0.00           C 0
+ATOM   3101    O LEU A 414     105.295  33.609  44.808  0.58  3.21           O 0
+ATOM   1324   CB ALA A 181     103.185  38.123  48.847  0.00  0.00           C 0
+ATOM   3076    O ASN A 411     101.704  32.803  41.418  0.56  1.07           O 0
+ATOM   3111   CG ARG A 415     103.375  30.091  42.187  0.00  0.00           C 0
+ATOM   3102   CB LEU A 414     102.182  34.597  44.247  0.00  0.00           C 0
+ATOM   3104  CD1 LEU A 414      99.916  35.073  45.044  0.00  0.00           C 0
+ATOM   3113   NE ARG A 415     101.646  28.684  41.329  0.00  0.00           N 0
+ATOM   3100    C LEU A 414     104.480  33.627  43.891  0.00  0.00           C 0
+ATOM   3106    N ARG A 415     104.436  32.666  42.980  0.00  0.00           N 0
+ATOM   3141  OE1 GLU A 418     105.028  29.913  48.355  0.00  0.00           O 0
+ATOM   3107   CA ARG A 415     105.277  31.480  43.041  0.00  0.00           C 0
+ATOM   3105  CD2 LEU A 414     101.798  36.533  45.839  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0247
+HEADER 1  - Drug Score                        : 0.0084
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7220
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5864
+HEADER 5  - Mean B-factor of pocket residues  : 0.1360
+HEADER 6  - Hydrophobicity Score              : 23.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.5785
+HEADER 10  -Pocket volume (convex hull)       : 5.5242
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   7481  NH1 ARG E  43      61.794  21.923 135.825  0.67  9.84           N 0
+ATOM   7681  CD1 ILE E  71      64.715  24.761 142.667  0.00  0.00           C 0
+ATOM   7190  NE2 HIS E   5      62.526  25.931 139.306  0.72  4.37           N 0
+ATOM   7188  CD2 HIS E   5      61.264  25.388 139.352  0.00  0.00           C 0
+ATOM   7495  CE1 PHE E  45      58.828  21.816 141.067  0.00  0.00           C 0
+ATOM   7478   CD ARG E  43      59.719  23.522 136.916  0.00  0.00           C 0
+ATOM   7680  CG2 ILE E  71      61.801  25.858 143.211  0.00  0.00           C 0
+ATOM   7497   CZ PHE E  45      59.279  20.817 141.931  0.00  0.00           C 0
+ATOM   7658    O SER E  68      61.743  22.232 145.911  0.00  0.00           O 0
+ATOM   7678   CB ILE E  71      62.793  25.319 144.249  0.00  0.00           C 0
+ATOM   7650    C PRO E  67      65.576  21.544 145.945  0.00  0.00           C 0
+ATOM   7651    O PRO E  67      65.222  22.700 145.691  0.74  2.14           O 0
+ATOM   7652   CB PRO E  67      67.917  20.707 145.423  0.00  0.00           C 0
+ATOM   7655    N SER E  68      64.780  20.488 145.782  0.00  0.00           N 0
+ATOM   7656   CA SER E  68      63.419  20.628 145.269  0.00  0.00           C 0
+ATOM   7659   CB SER E  68      62.873  19.252 144.854  0.00  0.00           C 0
+ATOM   7660   OG SER E  68      61.572  19.355 144.285  0.00  0.00           O 0
+TER
+END

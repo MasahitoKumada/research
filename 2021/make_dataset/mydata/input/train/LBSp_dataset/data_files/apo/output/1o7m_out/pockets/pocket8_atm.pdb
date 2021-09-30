@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.2286
+HEADER 1  - Drug Score                        : 0.0095
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.7383
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4545
+HEADER 5  - Mean B-factor of pocket residues  : 0.4338
+HEADER 6  - Hydrophobicity Score              : 20.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 138.9857
+HEADER 10  -Pocket volume (convex hull)       : 4.0622
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5161
+ATOM   2812   CB ASP A 362       7.602  57.908  78.927  0.00  0.00           C 0
+ATOM   2792  OE1 GLU A 359      12.396  60.209  77.461  0.00  0.00           O 0
+ATOM   1586  CE1 PHE A 202      13.528  57.972  81.598  0.00  0.00           C 0
+ATOM   2814  OD1 ASP A 362       9.488  56.505  78.556  0.00  0.00           O 0
+ATOM   2443  CH2 TRP A 316      13.725  61.568  81.826  0.00  0.00           C 0
+ATOM   1577  ND2 ASN A 201      10.770  55.343  83.190  0.00  0.00           N 0
+ATOM   2813   CG ASP A 362       8.331  56.586  79.038  0.00  0.00           C 0
+ATOM   2791   CD GLU A 359      11.927  61.295  77.033  0.00  0.00           C 0
+ATOM   2793  OE2 GLU A 359      12.168  62.382  77.600  0.54  8.57           O 0
+ATOM   2823  OD1AASN A 363       6.060  64.049  78.389  0.78  1.07           O 0
+ATOM   2788    O GLU A 359       8.030  59.472  76.021  0.72  1.07           O 0
+ATOM   2790   CG GLU A 359      10.989  61.338  75.828  0.00  0.00           C 0
+ATOM   2816    N ASN A 363       5.399  60.057  77.876  0.00  0.00           N 0
+ATOM   2848   CGAMET A 366       6.591  60.446  82.530  0.00  0.00           C 0
+ATOM   2817   CA ASN A 363       4.921  61.393  78.264  0.00  0.00           C 0
+ATOM   1553   CB PRO A 198      11.120  61.681  84.218  0.00  0.00           C 0
+ATOM   2442  CZ3 TRP A 316      13.239  62.880  81.745  0.00  0.00           C 0
+ATOM   1498  CD1 ILE A 191       8.427  65.343  81.402  0.00  0.00           C 0
+ATOM   2850   SDAMET A 366       7.403  59.718  83.834  0.00  0.00           S 0
+ATOM   1550   CA PRO A 198      10.595  60.604  85.164  0.00  0.00           C 0
+ATOM   1575   CG ASN A 201       9.642  55.594  83.847  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1180
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8352
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5880
+HEADER 5  - Mean B-factor of pocket residues  : 0.5658
+HEADER 6  - Hydrophobicity Score              : 18.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.7054
+HEADER 10  -Pocket volume (convex hull)       : 8.3253
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    221    N LEU G  29     -14.492 -37.358  57.353  0.00  0.00           N 0
+ATOM    218   CB PRO G  28     -11.567 -38.209  56.731  0.00  0.00           C 0
+ATOM    216    C PRO G  28     -13.858 -37.245  56.209  0.00  0.00           C 0
+ATOM    235  OG1 THR G  30     -13.558 -33.401  61.088  0.50  6.43           O 0
+ATOM    223    C LEU G  29     -15.387 -36.054  59.118  0.00  0.00           C 0
+ATOM    217    O PRO G  28     -14.163 -36.360  55.377  0.48  6.43           O 0
+ATOM    229    N THR G  30     -15.642 -34.809  59.502  0.75  4.37           N 0
+ATOM    224    O LEU G  29     -15.090 -36.922  59.896  0.00  0.00           O 0
+ATOM   1193    O GLY G 151      -9.917 -40.537  61.657  0.51  9.64           O 0
+ATOM    219   CG PRO G  28     -10.522 -37.504  55.766  0.00  0.00           C 0
+ATOM   1197    O PHE G 152     -10.187 -41.231  58.100  0.69  4.29           O 0
+ATOM   1229  OD2 ASP G 155     -10.673 -35.024  63.901  0.00  0.00           O 1
+ATOM   1201  CD2 PHE G 152      -6.260 -42.673  60.163  0.00  0.00           C 0
+ATOM   1195   CA PHE G 152      -9.263 -42.460  59.959  0.00  0.00           C 0
+ATOM   1226   CB ASP G 155     -12.371 -36.376  63.045  0.00  0.00           C 0
+ATOM   1222    N ASP G 155     -13.818 -38.085  62.262  0.52  1.09           N 0
+TER
+END

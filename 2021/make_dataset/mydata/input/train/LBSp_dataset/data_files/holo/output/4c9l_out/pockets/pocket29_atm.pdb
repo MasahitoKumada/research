@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.1035
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.2879
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5443
+HEADER 5  - Mean B-factor of pocket residues  : 0.2448
+HEADER 6  - Hydrophobicity Score              : 13.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 410.8278
+HEADER 10  -Pocket volume (convex hull)       : 19.8977
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   4442   CG ARG A 291      16.419  28.501  27.952  0.00  0.00           C 0
+ATOM   4443   CD ARG A 291      16.175  28.274  29.425  0.00  0.00           C 0
+ATOM   5399   CZ ARG A 351      25.511  25.734  30.904  0.00  0.00           C 0
+ATOM   5401  NH2 ARG A 351      25.581  26.852  31.610  0.00  0.00           N 0
+ATOM   5394    O ARG A 351      25.181  22.540  28.127  0.49  4.29           O 0
+ATOM   4440    O ARG A 291      18.236  25.707  25.153  0.15  4.29           O 0
+ATOM   5433  CG2 VAL A 353      24.334  23.214  23.108  0.00  0.00           C 0
+ATOM   5370    O ARG A 350      21.831  21.059  27.372  0.49  5.36           O 0
+ATOM   5400  NH1 ARG A 351      25.915  25.720  29.634  0.00  0.00           N 0
+ATOM   5397   CD ARG A 351      24.932  23.365  30.748  0.00  0.00           C 0
+ATOM   4441   CB ARG A 291      16.613  27.195  27.213  0.00  0.00           C 0
+ATOM   5398   NE ARG A 351      25.030  24.626  31.456  0.00  0.00           N 0
+ATOM   5340    O LEU A 348      17.180  21.737  26.683  0.55  5.36           O 0
+ATOM   5359    O SER A 349      19.888  19.962  29.962  0.25  5.36           O 0
+ATOM   5392   CA ARG A 351      23.719  21.079  29.351  0.00  0.00           C 0
+ATOM   5396   CG ARG A 351      24.489  22.186  31.548  0.00  0.00           C 0
+ATOM   5358    C SER A 349      19.193  19.781  28.975  0.00  0.00           C 0
+ATOM   5357   CA SER A 349      17.738  20.206  28.988  0.00  0.00           C 0
+ATOM   5432  CG1 VAL A 353      22.844  21.389  23.952  0.00  0.00           C 0
+ATOM   4488   CB GLU A 294      21.646  25.599  21.293  0.00  0.00           C 0
+TER
+END

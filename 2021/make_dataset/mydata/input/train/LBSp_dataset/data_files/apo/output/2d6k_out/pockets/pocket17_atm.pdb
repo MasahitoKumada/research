@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0349
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7600
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5586
+HEADER 5  - Mean B-factor of pocket residues  : 0.4771
+HEADER 6  - Hydrophobicity Score              : -1.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.7828
+HEADER 10  -Pocket volume (convex hull)       : 8.3370
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM     45    N SER A   8     -20.030  10.113  32.163  0.59  6.56           N 0
+ATOM     50   OG SER A   8     -18.812  12.102  34.406  0.00  0.00           O 0
+ATOM     49   CB SER A   8     -19.734  12.280  33.329  0.00  0.00           C 0
+ATOM    161  NE2 GLN A  22     -22.053   5.777  36.213  0.00  0.00           N 0
+ATOM     41   CG GLN A   7     -18.761   7.105  32.578  0.00  0.00           C 0
+ATOM     44  NE2 GLN A   7     -16.830   6.083  33.666  0.64  4.37           N 0
+ATOM     48    O SER A   8     -17.373  10.163  32.514  0.58  1.07           O 0
+ATOM     68   CZ TYR A  10     -13.869   7.599  35.573  0.00  0.00           C 0
+ATOM     69   OH TYR A  10     -14.537   6.557  36.172  0.79  5.36           O 0
+ATOM     67  CE2 TYR A  10     -13.620   8.791  36.274  0.00  0.00           C 0
+ATOM    143   CG PRO A  20     -15.504   4.201  38.572  0.00  0.00           C 0
+ATOM    153    N GLN A  22     -18.492   2.455  34.002  0.83  1.09           N 0
+ATOM    157   CB GLN A  22     -20.727   3.352  34.145  0.00  0.00           C 0
+ATOM    154   CA GLN A  22     -19.865   2.115  34.346  0.00  0.00           C 0
+ATOM    142   CB PRO A  20     -15.775   2.868  37.907  0.00  0.00           C 0
+ATOM    158   CG GLN A  22     -21.767   3.583  35.212  0.00  0.00           C 0
+TER
+END

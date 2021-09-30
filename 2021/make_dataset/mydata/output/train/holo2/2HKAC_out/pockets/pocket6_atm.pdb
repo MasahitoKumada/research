@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0048
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9876
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4520
+HEADER 5  - Mean B-factor of pocket residues  : 0.1098
+HEADER 6  - Hydrophobicity Score              : -5.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.9823
+HEADER 10  -Pocket volume (convex hull)       : 6.9348
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM    235  CD2 HIS C  31     -10.944 -31.567  47.611  0.00  0.00           C 0
+ATOM    182   CD PRO C  24      -7.503 -38.695  47.506  0.00  0.00           C 0
+ATOM    181   CG PRO C  24      -6.454 -38.282  48.508  0.00  0.00           C 0
+ATOM    238  NE2 HIS C  31     -10.525 -31.703  48.911  0.00  0.00           N 0
+ATOM    168   CG PRO C  22      -9.033 -36.511  42.851  0.00  0.00           C 0
+ATOM    167   CB PRO C  22      -8.134 -37.690  43.066  0.00  0.00           C 0
+ATOM    216   CB LYS C  29     -12.506 -34.874  50.798  0.00  0.00           C 0
+ATOM    189  OG1 THR C  25      -8.445 -38.460  52.528  0.38  9.64           O 0
+ATOM    217   CG LYS C  29     -12.155 -35.399  52.181  0.00  0.00           C 0
+ATOM    212    N LYS C  29     -13.369 -37.024  50.021  0.00  0.00           N 0
+ATOM    215    O LYS C  29     -13.004 -35.118  47.897  0.45  4.29           O 0
+ATOM    166    O PRO C  22     -10.585 -38.210  44.911  0.56  1.07           O 0
+ATOM    186    O THR C  25     -10.582 -40.299  51.095  0.50  1.07           O 0
+ATOM    280   OH TYR C  36     -12.451 -33.378  44.998  0.88  5.36           O 0
+TER
+END

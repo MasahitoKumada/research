@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0085
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7902
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5362
+HEADER 5  - Mean B-factor of pocket residues  : 0.4743
+HEADER 6  - Hydrophobicity Score              : 50.2000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.2628
+HEADER 10  -Pocket volume (convex hull)       : 9.0713
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   3630   CG GLU A 468       0.975  22.575  19.581  0.00  0.00           C 0
+ATOM   3991  CD1 LEU A 515       4.162  21.097  15.231  0.00  0.00           C 0
+ATOM   3629   CB GLU A 468       2.332  21.867  19.542  0.00  0.00           C 0
+ATOM   3989   CB LEU A 515       3.355  18.720  15.297  0.00  0.00           C 0
+ATOM   3661  CD1 ILE A 471       0.677  19.075  24.041  0.00  0.00           C 0
+ATOM   3660  CG2 ILE A 471       2.119  16.303  22.912  0.00  0.00           C 0
+ATOM   3988    O LEU A 515       1.660  16.205  16.088  0.72  6.43           O 0
+ATOM   3628    O GLU A 468       4.389  19.634  20.788  0.58  2.14           O 0
+ATOM   3663   CA PHE A 472       6.181  16.457  20.786  0.00  0.00           C 0
+ATOM   3693   CD ARG A 475       3.747  12.545  20.216  0.00  0.00           C 0
+ATOM   3696  NH1 ARG A 475       4.037  13.125  17.468  0.00  0.00           N 0
+ATOM   3626   CA GLU A 468       2.862  21.481  20.926  0.00  0.00           C 0
+ATOM   3658   CB ILE A 471       2.687  17.645  23.352  0.00  0.00           C 0
+ATOM   3662    N PHE A 472       5.345  17.162  21.750  0.00  0.00           N 0
+ATOM   3666   CB PHE A 472       6.559  17.396  19.649  0.00  0.00           C 0
+TER
+END

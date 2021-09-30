@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0512
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8792
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5924
+HEADER 5  - Mean B-factor of pocket residues  : 0.3669
+HEADER 6  - Hydrophobicity Score              : 13.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 190.0034
+HEADER 10  -Pocket volume (convex hull)       : 4.4544
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM    907    N SER A 116      -1.382  -3.502 -27.694  0.00  0.00           N 0
+ATOM    912   OG SER A 116       1.378  -2.914 -27.165  0.41  1.07           O 0
+ATOM    889    O LYS A 114      -1.732  -7.025 -30.550  0.25  5.36           O 0
+ATOM    896   CA TYR A 115      -2.625  -4.687 -29.427  0.00  0.00           C 0
+ATOM   1166  CG1 VAL A 151       4.108  -2.106 -29.090  0.00  0.00           C 0
+ATOM    800    O ASN A 102       1.765  -5.543 -26.608  0.39  2.14           O 0
+ATOM    812  OE1 GLU A 103       4.157  -8.592 -29.409  0.00  0.00           O 0
+ATOM   1157   CG LYS A 150       0.854  -0.713 -32.882  0.00  0.00           C 0
+ATOM   1159   CE LYS A 150       1.835  -1.498 -35.051  0.00  0.00           C 0
+ATOM   1161    N VAL A 151       1.767  -0.257 -29.494  0.00  0.00           N 0
+ATOM   1160   NZ LYS A 150       3.166  -0.912 -34.743  0.52  8.75           N 0
+ATOM    902  CD2 TYR A 115      -2.454  -3.092 -32.312  0.00  0.00           C 0
+ATOM   1153   CA LYS A 150      -0.300   0.055 -30.723  0.00  0.00           C 0
+ATOM    904  CE2 TYR A 115      -2.494  -3.252 -33.697  0.00  0.00           C 0
+ATOM    884  CG1 VAL A 113      -2.567  -7.468 -34.385  0.00  0.00           C 0
+TER
+END

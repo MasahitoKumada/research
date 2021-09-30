@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0047
+HEADER 1  - Drug Score                        : 0.0065
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0780
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6588
+HEADER 5  - Mean B-factor of pocket residues  : 0.4634
+HEADER 6  - Hydrophobicity Score              : 21.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.0240
+HEADER 10  -Pocket volume (convex hull)       : 5.3853
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7000
+ATOM   2441    N GLU B  51      -0.396 -18.839  30.492  0.00  0.00           N 0
+ATOM   2437  CD2 PHE B  50      -1.967 -19.173  34.827  0.00  0.00           C 0
+ATOM   2425    O ASN B  49       1.216 -21.975  31.080  0.37  8.57           O 0
+ATOM   2431   CA PHE B  50       0.557 -19.696  32.509  0.00  0.00           C 0
+ATOM   2436  CD1 PHE B  50      -0.002 -20.304  35.650  0.00  0.00           C 0
+ATOM   2440   CZ PHE B  50      -2.137 -20.747  36.681  0.00  0.00           C 0
+ATOM   2417    O LEU B  48       1.882 -23.506  34.418  0.00  0.00           O 0
+ATOM   2438  CE1 PHE B  50      -0.766 -20.957  36.629  0.00  0.00           C 0
+ATOM   2445   CB GLU B  51      -0.749 -19.228  28.135  0.00  0.00           C 0
+ATOM   3557  OG1 THR B 182      -6.497 -18.675  30.223  0.64  4.29           O 0
+ATOM   2444    O GLU B  51      -2.853 -17.688  29.261  0.49  1.07           O 0
+ATOM   2439  CE2 PHE B  50      -2.749 -19.847  35.780  0.00  0.00           C 0
+ATOM   3558  CG2 THR B 182      -5.096 -17.701  32.056  0.00  0.00           C 0
+ATOM   2435   CG PHE B  50      -0.589 -19.403  34.757  0.00  0.00           C 0
+ATOM   2073   CE LYS B   5      -7.556 -23.298  32.930  0.00  0.00           C 0
+ATOM   2071   CG LYS B   5      -7.822 -21.344  34.597  0.00  0.00           C 0
+ATOM   2074   NZ LYS B   5      -7.385 -24.793  32.739  0.00  0.00           N 0
+ATOM   2072   CD LYS B   5      -7.608 -22.875  34.420  0.00  0.00           C 0
+TER
+END

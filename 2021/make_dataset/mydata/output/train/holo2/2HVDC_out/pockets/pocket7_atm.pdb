@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.2846
+HEADER 1  - Drug Score                        : 0.0299
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9805
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5411
+HEADER 5  - Mean B-factor of pocket residues  : 0.4842
+HEADER 6  - Hydrophobicity Score              : 29.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.8940
+HEADER 10  -Pocket volume (convex hull)       : 10.9981
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   1083   CB LEU C 139      36.581  87.315   1.903  0.00  0.00           C 0
+ATOM   1057    O PRO C 136      39.482  87.912   0.029  0.00  0.00           O 0
+ATOM   1082    O LEU C 139      38.946  87.091   3.661  0.58  8.57           O 0
+ATOM     38  NH1 ARG C   6      34.551  83.186   0.081  0.00  0.00           N 1
+ATOM   1055   CA PRO C 136      39.353  88.066  -2.351  0.00  0.00           C 0
+ATOM   1058   CB PRO C 136      40.321  87.254  -3.210  0.00  0.00           C 0
+ATOM    979  OE1 GLU C 127      31.545  82.693  -3.942  0.00  0.00           O 0
+ATOM     39  NH2 ARG C   6      33.410  82.975  -1.896  0.36  7.66           N 0
+ATOM   1007    N GLY C 131      32.213  88.326  -5.766  0.00  0.00           N 0
+ATOM   1005  CG2 ILE C 130      32.272  87.311  -2.310  0.00  0.00           C 0
+ATOM   1085  CD1 LEU C 139      35.161  86.703  -0.021  0.00  0.00           C 0
+ATOM   1054    N PRO C 136      39.112  89.249  -3.179  0.62  1.09           N 0
+ATOM   1059   CG PRO C 136      39.883  87.553  -4.597  0.00  0.00           C 0
+ATOM   1008   CA GLY C 131      33.383  88.559  -6.633  0.00  0.00           C 0
+ATOM   1060   CD PRO C 136      39.497  89.005  -4.585  0.00  0.00           C 0
+ATOM   1036    O PHE C 134      35.776  91.086  -4.642  0.39  1.07           O 0
+ATOM    975    O GLU C 127      30.669  85.821  -6.585  0.62  3.21           O 0
+ATOM   1002    O ILE C 130      32.874  89.795  -4.194  0.00  0.00           O 0
+TER
+END

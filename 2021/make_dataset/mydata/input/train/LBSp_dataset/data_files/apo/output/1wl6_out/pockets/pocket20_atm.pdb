@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0010
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7019
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4457
+HEADER 5  - Mean B-factor of pocket residues  : 0.4421
+HEADER 6  - Hydrophobicity Score              : 18.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 131.9530
+HEADER 10  -Pocket volume (convex hull)       : 0.9323
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   2523   CD GLU A 312      56.425  42.764  31.955  0.00  0.00           C 0
+ATOM   2453  CD2 LEU A 303      63.151  39.326  33.219  0.00  0.00           C 0
+ATOM   2525  OE2 GLU A 312      55.859  42.015  31.129  0.00  0.00           O 0
+ATOM   2476  NH2 ARG A 305      61.195  42.771  29.121  0.00  0.00           N 0
+ATOM   2475  NH1 ARG A 305      62.522  42.869  30.977  0.82  5.47           N 0
+ATOM   2522   CG GLU A 312      56.394  42.339  33.425  0.00  0.00           C 0
+ATOM   2550   CGAGLU A 316      58.995  37.392  35.920  0.00  0.00           C 0
+ATOM   2493  OG1 THR A 308      59.044  44.626  32.924  0.54  1.07           O 0
+ATOM   2452  CD1 LEU A 303      62.133  39.357  35.498  0.00  0.00           C 0
+ATOM   2450   CB LEU A 303      63.550  41.293  34.762  0.00  0.00           C 0
+ATOM   2520    O GLU A 312      56.662  40.999  36.547  0.43  1.07           O 0
+ATOM   2527   CA VAL A 313      58.866  42.200  37.595  0.00  0.00           C 0
+ATOM   2532  CG2 VAL A 313      60.626  43.600  36.415  0.00  0.00           C 0
+TER
+END

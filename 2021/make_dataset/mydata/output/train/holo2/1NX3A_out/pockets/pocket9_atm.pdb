@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1077
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9739
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5161
+HEADER 5  - Mean B-factor of pocket residues  : 0.2927
+HEADER 6  - Hydrophobicity Score              : 22.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.4385
+HEADER 10  -Pocket volume (convex hull)       : 7.4230
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2308
+ATOM   1392   OH TYR A 265     -27.258  24.109   8.080  0.85  2.14           O 0
+ATOM    424  CG1 VAL A 146     -23.575  21.624   5.189  0.00  0.00           C 0
+ATOM    426    N ALA A 147     -22.769  24.435   6.511  0.00  0.00           N 0
+ATOM    430   CB ALA A 147     -23.472  25.485   8.629  0.00  0.00           C 0
+ATOM    485    O GLY A 155     -26.598  20.141   6.441  0.00  0.00           O 0
+ATOM    397    O ARG A 143     -20.867  23.196   8.699  0.55  2.14           O 0
+ATOM   1390  CE2 TYR A 265     -26.828  25.085  10.221  0.00  0.00           C 0
+ATOM    403  NH1 ARG A 143     -22.902  17.982  12.889  0.00  0.00           N 1
+ATOM    402   CZ ARG A 143     -21.755  17.868  12.233  0.00  0.00           C 0
+ATOM    183   CB ALA A 115     -20.457  17.835   7.344  0.00  0.00           C 0
+ATOM    404  NH2 ARG A 143     -21.621  16.938  11.287  0.44  2.19           N 0
+ATOM    179    N ALA A 115     -21.860  16.936   5.555  0.48  3.28           N 0
+ATOM    494   NZ LYS A 156     -28.258  15.376   6.582  0.00  0.00           N 1
+ATOM    177   CB SER A 114     -24.006  15.060   4.939  0.00  0.00           C 0
+ATOM    398   CB ARG A 143     -19.676  20.698  10.389  0.00  0.00           C 0
+ATOM    399   CG ARG A 143     -19.499  19.183  10.461  0.00  0.00           C 0
+ATOM    395   CA ARG A 143     -19.537  21.208   8.958  0.00  0.00           C 0
+ATOM    423   CB VAL A 146     -22.064  21.822   5.231  0.00  0.00           C 0
+TER
+END

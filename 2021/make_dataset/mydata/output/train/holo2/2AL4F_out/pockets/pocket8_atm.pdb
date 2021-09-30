@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0706
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0811
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6454
+HEADER 5  - Mean B-factor of pocket residues  : 0.3012
+HEADER 6  - Hydrophobicity Score              : 13.5455
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.9091
+HEADER 9  - Pocket volume (Monte Carlo)       : 364.9432
+HEADER 10  -Pocket volume (convex hull)       : 13.6631
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM    217   CB GLU F  33      39.242 116.926  17.113  0.00  0.00           C 0
+ATOM   1882  CZ2 TRP F 254      35.250 115.423  15.204  0.00  0.00           C 0
+ATOM    258  OD2 ASP F  38      33.211 116.644  19.178  0.54  8.57           O 1
+ATOM   1870   NZ LYS F 253      32.017 117.703  15.579  0.74  9.84           N 1
+ATOM    247    O VAL F  37      34.316 114.669  23.087  0.58  1.07           O 0
+ATOM    249  CG1 VAL F  37      37.126 115.698  21.808  0.00  0.00           C 0
+ATOM    276   CB ALA F  41      31.953 116.945  24.867  0.00  0.00           C 0
+ATOM    355   OH TYR F  51      34.666 116.823  27.055  0.59  2.14           O 0
+ATOM    181   CB ASN F  29      39.693 118.201  26.832  0.00  0.00           C 0
+ATOM    180    O ASN F  29      40.675 118.292  23.880  0.70  3.21           O 0
+ATOM    179    C ASN F  29      41.031 118.936  24.867  0.00  0.00           C 0
+ATOM    185    N GLU F  30      41.362 120.223  24.807  0.00  0.00           N 0
+ATOM    186   CA GLU F  30      41.317 120.964  23.550  0.00  0.00           C 0
+ATOM    214   CA GLU F  33      39.126 115.952  18.289  0.00  0.00           C 0
+ATOM    204    O TYR F  32      39.941 117.582  20.426  0.72  2.14           O 0
+ATOM    129   NZ LYS F  20      39.831 121.724  19.630  0.00  0.00           N 1
+ATOM    128   CE LYS F  20      40.256 120.512  18.869  0.00  0.00           C 0
+ATOM    220  OE1 GLU F  33      39.215 118.244  14.669  0.00  0.00           O 0
+ATOM   1869   CE LYS F 253      32.103 117.179  14.181  0.00  0.00           C 0
+ATOM   1884  CH2 TRP F 254      36.419 115.668  14.528  0.00  0.00           C 0
+TER
+END

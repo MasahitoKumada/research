@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0834
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9023
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5556
+HEADER 5  - Mean B-factor of pocket residues  : 0.7287
+HEADER 6  - Hydrophobicity Score              : -6.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.2599
+HEADER 10  -Pocket volume (convex hull)       : 5.7730
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM    322  CG2 THR A  40      11.033  36.889  53.033  0.00  0.00           C 0
+ATOM    308    N LEU A  39      11.918  32.860  50.328  0.51  3.28           N 0
+ATOM    306    C GLY A  38      11.558  33.651  49.308  0.00  0.00           C 0
+ATOM    305   CA GLY A  38      12.593  34.061  48.277  0.00  0.00           C 0
+ATOM    304    N GLY A  38      13.856  33.384  48.375  0.59  4.37           N 0
+ATOM    311    O LEU A  39      11.588  32.373  53.560  0.59  2.14           O 0
+ATOM    303   SG CYS A  37      14.478  29.600  49.723  0.00  0.00           S 0
+ATOM    298    N CYS A  37      16.259  32.203  49.025  0.45  1.09           N 0
+ATOM   1523    O PRO A 219      12.818  32.371  58.261  0.56  4.29           O 0
+ATOM    317   CA THR A  40      10.509  34.723  54.204  0.00  0.00           C 0
+ATOM    323    N ASP A  41      10.122  34.402  56.550  0.62  4.37           N 0
+ATOM   1528   CA ASP A 220      15.623  32.262  57.695  0.00  0.00           C 0
+ATOM   1530    O ASP A 220      16.473  31.612  55.540  0.50  8.57           O 0
+ATOM    291   CA ASP A  36      18.225  33.254  49.970  0.00  0.00           C 0
+ATOM    290    N ASP A  36      18.154  32.362  51.130  0.51  5.47           N 0
+TER
+END

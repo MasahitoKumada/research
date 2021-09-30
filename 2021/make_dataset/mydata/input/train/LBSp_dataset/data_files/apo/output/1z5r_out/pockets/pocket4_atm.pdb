@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1228
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.6199
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3925
+HEADER 5  - Mean B-factor of pocket residues  : 0.4575
+HEADER 6  - Hydrophobicity Score              : -9.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.5128
+HEADER 10  -Pocket volume (convex hull)       : 8.4567
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    374   CD LYS A  51      23.070  -5.993  42.901  0.00  0.00           C 0
+ATOM    810  OD1 ASP A 104      23.998  -3.194  39.030  0.80  3.21           O 0
+ATOM    387    O GLY A  53      19.594  -2.110  38.537  0.69  3.21           O 0
+ATOM    373   CG LYS A  51      23.143  -4.507  43.219  0.00  0.00           C 0
+ATOM    402   CG PRO A  55      18.375  -5.823  37.809  0.00  0.00           C 0
+ATOM    398   CA PRO A  55      20.334  -5.971  36.488  0.00  0.00           C 0
+ATOM    401   CB PRO A  55      19.156  -6.803  36.995  0.00  0.00           C 0
+ATOM    375   CE LYS A  51      24.249  -6.451  42.088  0.00  0.00           C 0
+ATOM    376   NZ LYS A  51      24.186  -7.926  41.843  0.00  0.00           N 0
+ATOM    404    N GLY A  56      22.043  -7.237  35.362  0.78  1.09           N 0
+ATOM    407    O GLY A  56      24.152  -8.707  35.921  0.00  5.36           O 0
+ATOM    243   OG SER A  34      19.619  -6.230  44.303  0.64  6.43           O 0
+ATOM    242   CB SER A  34      18.242  -6.394  44.534  0.00  0.00           C 0
+ATOM    811  OD2 ASP A 104      25.556  -4.715  39.406  0.50  5.36           O 0
+ATOM    230    N ILE A  33      16.547  -1.823  41.845  0.60  1.09           N 0
+ATOM    371    O LYS A  51      20.333  -2.452  43.399  0.00  0.00           O 0
+ATOM    238    N SER A  34      17.790  -3.939  44.474  0.00  0.00           N 0
+ATOM    232    C ILE A  33      16.790  -3.379  43.800  0.00  0.00           C 0
+ATOM    210    O PRO A  30      14.356  -4.908  40.433  0.71  4.29           O 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0547
+HEADER 1  - Drug Score                        : 0.0035
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2400
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6897
+HEADER 5  - Mean B-factor of pocket residues  : 0.3385
+HEADER 6  - Hydrophobicity Score              : 26.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.3546
+HEADER 10  -Pocket volume (convex hull)       : 12.1642
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM    664   CB THR F  93      34.866  90.771  24.821  0.00  0.00           C 0
+ATOM    675    N VAL F  95      35.052  88.214  28.374  0.00  0.00           N 0
+ATOM    680  CG1 VAL F  95      37.405  86.355  28.212  0.00  0.00           C 0
+ATOM    681  CG2 VAL F  95      37.832  88.701  27.457  0.00  0.00           C 0
+ATOM   1048  OE2 GLU F 145      41.831  86.020  23.511  0.66  6.43           O 1
+ATOM   1044   CB GLU F 145      40.348  87.573  21.805  0.00  0.00           C 0
+ATOM   1086   CB ARG F 149      38.466  81.790  21.439  0.00  0.00           C 0
+ATOM   1021    O SER F 142      38.803  89.693  19.257  0.59  2.14           O 0
+ATOM   1616   NZ LYS F 218      34.889  91.093  17.539  0.00  0.00           N 1
+ATOM   1055  CD1 PHE F 146      35.326  86.303  16.492  0.00  0.00           C 0
+ATOM   1050   CA PHE F 146      38.208  86.121  18.140  0.00  0.00           C 0
+ATOM    667    N LEU F  94      32.939  89.123  26.575  0.70  4.37           N 0
+ATOM    671   CB LEU F  94      32.422  86.909  27.465  0.00  0.00           C 0
+ATOM   1043    O GLU F 145      39.801  84.880  20.046  0.61  1.07           O 0
+ATOM    665  CG2 THR F  93      35.226  91.498  23.532  0.00  0.00           C 0
+ATOM   1022   CB SER F 142      37.889  92.348  20.719  0.00  0.00           C 0
+ATOM   1049    N PHE F 146      39.239  86.765  18.950  0.77  1.09           N 0
+ATOM   1042    C GLU F 145      39.960  86.082  19.838  0.00  0.00           C 0
+ATOM   1053   CB PHE F 146      37.621  87.118  17.137  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0356
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0562
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5789
+HEADER 5  - Mean B-factor of pocket residues  : 0.6827
+HEADER 6  - Hydrophobicity Score              : 6.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 310.3780
+HEADER 10  -Pocket volume (convex hull)       : 11.7644
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM   1930  CD1 LEU A 248       8.020  -0.002  44.366  0.00  0.00           C 0
+ATOM   1904   CB PRO A 245      12.478  -3.982  43.469  0.00  0.00           C 0
+ATOM   1901   CA PRO A 245      11.846  -2.811  42.689  0.00  0.00           C 0
+ATOM   1903    O PRO A 245      13.073  -0.807  43.143  0.66  4.29           O 0
+ATOM   1937   CG GLU A 249      14.929   1.097  45.381  0.00  0.00           C 0
+ATOM   1939  OE1 GLU A 249      15.531   0.966  47.670  0.00  0.00           O 0
+ATOM   1695   CA ASP A 219       5.021   3.693  46.549  0.00  0.00           C 0
+ATOM   1964   CE LYS A 252      12.070   5.670  48.067  0.00  0.00           C 0
+ATOM   1698   CB ASP A 219       4.244   4.247  47.736  0.00  0.00           C 0
+ATOM   1697    O ASP A 219       5.551   1.597  47.607  0.00  0.00           O 0
+ATOM   1689    O LEU A 218       6.394   4.089  44.221  0.39  6.43           O 0
+ATOM   1963   CD LYS A 252      11.927   6.088  46.610  0.00  0.00           C 0
+ATOM   1938   CD GLU A 249      14.992   1.667  46.786  0.00  0.00           C 0
+ATOM   1928   CB LEU A 248      10.138   1.026  43.500  0.00  0.00           C 0
+ATOM   1940  OE2 GLU A 249      14.513   2.796  47.023  0.63  3.21           O 0
+ATOM   1965   NZ LYS A 252      13.044   4.556  48.237  0.00  0.00           N 0
+ATOM   1927    O LEU A 248      11.616   4.011  43.646  0.00  0.00           O 0
+TER
+END

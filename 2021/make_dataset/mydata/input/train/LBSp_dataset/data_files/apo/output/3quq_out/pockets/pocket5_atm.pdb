@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0683
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8115
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4639
+HEADER 5  - Mean B-factor of pocket residues  : 0.5640
+HEADER 6  - Hydrophobicity Score              : 19.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 139.4954
+HEADER 10  -Pocket volume (convex hull)       : 1.5558
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM    753   CA GLU A  88      12.761  -7.434   8.590  0.00  0.00           C 0
+ATOM    736    O TYR A  86       9.803  -4.670  10.677  0.63  2.14           O 0
+ATOM    757   CG GLU A  88      14.928  -6.512   9.605  0.00  0.00           C 0
+ATOM    722    O ASN A  84      10.934  -1.475  10.914  0.50  6.43           O 0
+ATOM    720   CA ASN A  84      10.678  -0.372   8.783  0.00  0.00           C 0
+ATOM    725  OD1 ASN A  84      12.640   0.317   6.853  0.77  2.14           O 0
+ATOM    717  CE2 PHE A  83      11.184  -2.648   4.220  0.00  0.00           C 0
+ATOM   1009   OG SER A 119      15.791  -1.095   4.177  0.82  1.07           O 0
+ATOM   1044  NH1 ARG A 123      15.708  -7.898   5.154  0.00  0.00           N 0
+ATOM   1017  CD2 LEU A 120      14.710  -5.723   2.454  0.00  0.00           C 0
+ATOM   1007    O SER A 119      18.649  -3.781   3.981  0.69  1.07           O 0
+ATOM   1041   CD ARG A 123      18.265  -6.726   5.521  0.00  0.00           C 0
+ATOM   1008   CB SER A 119      16.991  -1.169   4.923  0.00  0.00           C 0
+ATOM    711    O PHE A  83       8.942  -2.202   7.698  0.62  1.07           O 0
+ATOM    748    O PRO A  87      10.078  -6.808   8.592  0.48  2.14           O 0
+ATOM    761    N ALA A  89      12.237  -8.202   6.340  0.71  1.09           N 0
+TER
+END

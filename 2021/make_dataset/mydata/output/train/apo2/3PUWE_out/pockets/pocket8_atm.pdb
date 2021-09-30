@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0824
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0726
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7404
+HEADER 5  - Mean B-factor of pocket residues  : 0.6469
+HEADER 6  - Hydrophobicity Score              : 22.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 327.6980
+HEADER 10  -Pocket volume (convex hull)       : 15.0704
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1866   CA ASP E 236       1.374 166.796  54.200  0.00  0.00           C 0
+ATOM   1868    O ASP E 236       3.552 167.566  53.559  0.61  6.43           O 0
+ATOM   1871  OD1 ASP E 236      -0.402 167.359  56.324  0.60  7.50           O 0
+ATOM   1869   CB ASP E 236       1.417 166.038  55.529  0.00  0.00           C 0
+ATOM   1898    O VAL E 240      -0.966 171.882  52.001  0.51  2.14           O 0
+ATOM   1887   CA LYS E 239       3.251 170.464  51.365  0.00  0.00           C 0
+ATOM   1860    O ILE E 235       0.540 167.887  51.759  0.45  1.07           O 0
+ATOM   1889    O LYS E 239       2.532 172.718  50.884  0.52  9.64           O 0
+ATOM   1888    C LYS E 239       2.275 171.512  50.812  0.00  0.00           C 0
+ATOM   1903   CA ASN E 241      -1.168 174.664  52.154  0.00  0.00           C 0
+ATOM   1909  OD1 ASN E 241      -1.420 176.443  54.311  0.00  0.00           O 0
+ATOM   1910    N TYR E 242      -3.124 173.462  52.948  0.00  0.00           N 0
+ATOM   1916  CD1 TYR E 242      -2.889 170.253  53.860  0.00  0.00           C 0
+ATOM   1913    O TYR E 242      -4.808 173.015  55.215  0.35  8.57           O 0
+ATOM   1906   CB ASN E 241      -0.853 176.157  51.989  0.00  0.00           C 0
+ATOM   1907   CG ASN E 241      -1.198 176.980  53.224  0.00  0.00           C 0
+ATOM   1918  CE1 TYR E 242      -2.627 169.297  54.831  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : 0.0118
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8851
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5808
+HEADER 5  - Mean B-factor of pocket residues  : 0.8483
+HEADER 6  - Hydrophobicity Score              : 25.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 491.1375
+HEADER 10  -Pocket volume (convex hull)       : 43.5151
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5833
+ATOM  11019    O VAL F   8      -0.272  -6.335  79.604  0.32  6.43           O 0
+ATOM  11105  NH1 ARG F  20      -2.977  -5.865  75.929  0.48  7.66           N 0
+ATOM  11124  CG2 VAL F  22       3.097  -4.242  74.759  0.00  0.00           C 0
+ATOM  11021  CG1 VAL F   8       1.978  -6.752  77.236  0.00  0.00           C 0
+ATOM  11123  CG1 VAL F  22       3.710  -2.323  76.249  0.00  0.00           C 0
+ATOM  11110    O ARG F  21       0.270  -2.623  72.801  0.60  6.43           O 0
+ATOM  11119   CA VAL F  22       2.634  -1.894  74.022  0.00  0.00           C 0
+ATOM  11010    O LYS F   7       2.106  -5.300  82.164  0.00  0.00           O 0
+ATOM  11006  CD2 LEU F   6       6.399  -1.415  82.061  0.00  0.00           C 0
+ATOM  11128    O ASN F  23       3.070   1.644  76.885  0.00  0.00           O 0
+ATOM  11003   CB LEU F   6       6.763  -3.728  81.186  0.00  0.00           C 0
+ATOM  11022  CG2 VAL F   8       4.204  -6.728  78.383  0.00  0.00           C 0
+ATOM  11102   CD ARG F  20      -0.802  -6.947  74.491  0.00  0.00           C 0
+ATOM  11005  CD1 LEU F   6       7.395  -1.765  79.781  0.00  0.00           C 0
+ATOM  11138   CG ARG F  24       6.618   1.060  76.769  0.00  0.00           C 0
+ATOM  11137   CB ARG F  24       6.689   2.572  76.893  0.00  0.00           C 0
+ATOM  11134   CA ARG F  24       5.326   3.270  76.932  0.00  0.00           C 0
+ATOM  11017   CA VAL F   8       2.099  -6.659  79.741  0.00  0.00           C 0
+ATOM  11144    N VAL F  25       4.878   5.468  77.878  0.61  3.28           N 0
+ATOM  11147    O VAL F  25       7.264   6.710  78.750  0.00  0.00           O 0
+ATOM  11125    N ASN F  23       2.335   0.471  74.454  0.63  2.19           N 0
+ATOM  11129   CB ASN F  23       1.528   2.792  74.404  0.00  0.00           C 0
+ATOM  11132  ND2 ASN F  23      -0.472   2.470  73.079  0.40  9.84           N 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1100
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0152
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6705
+HEADER 5  - Mean B-factor of pocket residues  : 0.3159
+HEADER 6  - Hydrophobicity Score              : 28.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.8551
+HEADER 10  -Pocket volume (convex hull)       : 2.7070
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   1465   CB PRO B 109      -7.717   8.285   8.764  0.00  0.00           C 0
+ATOM   1463    C PRO B 109      -7.429  10.563   9.866  0.00  0.00           C 0
+ATOM   1462   CA PRO B 109      -8.164   9.763   8.846  0.00  0.00           C 0
+ATOM   1480   CG LYS B 111      -6.255   9.156  14.270  0.00  0.00           C 0
+ATOM   1471    O VAL B 110      -8.793  12.321  13.096  0.45  7.50           O 0
+ATOM   1468    N VAL B 110      -8.109  11.641  10.325  0.00  0.00           N 0
+ATOM    897  CE1 HIS A 185     -12.462   9.356   7.499  0.00  0.00           C 0
+ATOM    895  ND1 HIS A 185     -13.153   8.243   7.647  0.73  8.75           N 0
+ATOM    898  NE2 HIS A 185     -13.254  10.347   7.796  0.79  1.09           N 0
+ATOM    862   CZ PHE A 181     -15.523  11.317  11.401  0.00  0.00           C 0
+ATOM   1649    O ALA B 133     -13.578  12.471  14.184  0.67  4.29           O 0
+ATOM    894   CG HIS A 185     -14.436   8.533   8.069  0.00  0.00           C 0
+ATOM    896  CD2 HIS A 185     -14.500   9.868   8.127  0.00  0.00           C 0
+ATOM    861  CE2 PHE A 181     -14.856  12.339  10.756  0.00  0.00           C 0
+ATOM   1430    O ALA B 105     -12.473  12.873   8.186  0.00  0.00           O 0
+TER
+END

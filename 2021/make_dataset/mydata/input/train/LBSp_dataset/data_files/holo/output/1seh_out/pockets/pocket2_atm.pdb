@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1569
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9701
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5654
+HEADER 5  - Mean B-factor of pocket residues  : 0.3826
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 298.0707
+HEADER 10  -Pocket volume (convex hull)       : 9.4914
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    403   CA GLY A  53      -1.167  20.069   4.322  0.00  0.00           C 0
+ATOM     84   CB LEU A   9      -4.288  17.915   6.440  0.00  0.00           C 0
+ATOM    716  OE1 GLN A  95      -3.749  21.267   2.712  0.84  4.29           O 0
+ATOM     92   CB ASP A  10      -0.544  16.207   3.576  0.00  0.00           C 0
+ATOM     83    O LEU A   9      -3.650  15.031   5.466  0.00  0.00           O 0
+ATOM     95  OD2 ASP A  10      -0.482  15.488   1.276  0.00  0.00           O 0
+ATOM    717  NE2 GLN A  95      -5.957  21.265   2.371  0.00  0.00           N 0
+ATOM    281   SG CYS A  35       0.978  18.606   1.367  0.00  0.00           S 0
+ATOM    392   CB PRO A  51      -2.798  22.135  -0.267  0.00  0.00           C 0
+ATOM    279    O CYS A  35       0.338  20.276  -1.648  0.45  4.29           O 0
+ATOM    393   CG PRO A  51      -2.830  21.926  -1.722  0.00  0.00           C 0
+ATOM    297  ND2 ASN A  37      -1.048  14.791  -5.394  0.00  0.00           N 0
+ATOM    113  NH2 ARG A  12       0.988  15.250  -1.083  0.19  1.09           N 0
+ATOM    289  CD2 LEU A  36       0.605  21.868  -5.089  0.00  0.00           C 0
+ATOM    290    N ASN A  37       1.890  17.299  -4.994  0.00  0.00           N 0
+ATOM    283   CA LEU A  36       2.008  19.351  -3.746  0.00  0.00           C 0
+ATOM    296  OD1 ASN A  37       0.610  14.564  -3.915  0.00  0.00           O 0
+TER
+END

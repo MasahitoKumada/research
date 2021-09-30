@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0524
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0047
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4948
+HEADER 5  - Mean B-factor of pocket residues  : 0.3097
+HEADER 6  - Hydrophobicity Score              : -0.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 313.2736
+HEADER 10  -Pocket volume (convex hull)       : 6.8677
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM    489    O ASP D1065       3.654  33.300 108.723  0.00  0.00           O 0
+ATOM    501   NE ARG D1066       3.349  28.230 108.924  0.76  3.28           N 0
+ATOM    500   CD ARG D1066       4.434  28.983 109.542  0.00  0.00           C 0
+ATOM    529   CG PRO D1069       2.475  34.368 111.400  0.00  0.00           C 0
+ATOM    815  CE1 HIS D1104      -1.237  32.863 112.663  0.00  0.00           C 0
+ATOM    816  NE2 HIS D1104      -1.395  33.661 111.623  0.71  8.75           N 0
+ATOM    806  NE2 HIS D1103      -5.829  30.841 111.017  0.70  5.47           N 0
+ATOM    803  CD2 HIS D1103      -5.411  32.149 111.003  0.00  0.00           C 0
+ATOM    504  NH2 ARG D1066       1.765  26.562 108.850  0.00  0.00           N 0
+ATOM    502   CZ ARG D1066       2.761  27.173 109.480  0.00  0.00           C 0
+ATOM    503  NH1 ARG D1066       3.157  26.732 110.668  0.68  5.47           N 1
+ATOM    528   CB PRO D1069       2.183  34.315 112.872  0.00  0.00           C 0
+ATOM    497    O ARG D1066       6.212  32.003 111.943  0.33  3.21           O 0
+ATOM    538  CD2 LEU D1070       6.319  31.929 115.906  0.00  0.00           C 0
+TER
+END

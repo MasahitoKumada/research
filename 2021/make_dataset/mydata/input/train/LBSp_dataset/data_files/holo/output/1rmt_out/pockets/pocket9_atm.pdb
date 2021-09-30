@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0193
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.3804
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7837
+HEADER 5  - Mean B-factor of pocket residues  : 0.3745
+HEADER 6  - Hydrophobicity Score              : 21.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.6679
+HEADER 10  -Pocket volume (convex hull)       : 1.7680
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    408  CD1 TRP A  82      10.994   5.380   0.492  0.00  0.00           C 0
+ATOM   1494  CG2 THR A 217      16.289   6.814  -1.240  0.00  0.00           C 0
+ATOM    410  NE1 TRP A  82      10.096   6.032  -0.324  0.00  0.00           N 0
+ATOM    409  CD2 TRP A  82      11.874   7.344  -0.062  0.00  0.00           C 0
+ATOM    407   CG TRP A  82      12.064   6.147   0.700  0.00  0.00           C 0
+ATOM    406   CB TRP A  82      13.242   5.817   1.563  0.00  0.00           C 0
+ATOM    414  CZ3 TRP A  82      12.110   9.518  -1.081  0.00  0.00           C 0
+ATOM    415  CH2 TRP A  82      10.854   9.369  -1.694  0.00  0.00           C 0
+ATOM    412  CE3 TRP A  82      12.627   8.506  -0.249  0.00  0.00           C 0
+ATOM    411  CE2 TRP A  82      10.614   7.247  -0.673  0.00  0.00           C 0
+ATOM    413  CZ2 TRP A  82      10.095   8.258  -1.517  0.00  0.00           C 0
+ATOM    381   CA PRO A  79      14.496   1.726   2.886  0.00  0.00           C 0
+ATOM    380    N PRO A  79      15.932   1.946   2.637  0.76  1.09           N 0
+ATOM   1477    O ASN A 215      18.203   3.875  -3.816  0.69  6.43           O 0
+ATOM    377    O SER A  78      15.650   4.162   2.592  0.00  0.00           O 0
+ATOM    366  CE2 PHE A  76      18.225   0.052  -1.110  0.00  0.00           C 0
+ATOM    385   CG PRO A  79      15.518  -0.294   2.163  0.00  0.00           C 0
+ATOM    378   CB SER A  78      18.186   3.664   0.838  0.00  0.00           C 0
+ATOM    367   CZ PHE A  76      18.895   1.035  -1.822  0.00  0.00           C 0
+ATOM    376    C SER A  78      16.395   3.199   2.535  0.00  0.00           C 0
+TER
+END

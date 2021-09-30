@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0298
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0783
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6949
+HEADER 5  - Mean B-factor of pocket residues  : 0.2895
+HEADER 6  - Hydrophobicity Score              : -14.2500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.1441
+HEADER 10  -Pocket volume (convex hull)       : 1.2053
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6842
+ATOM   1866    C VAL B 196     -17.845  -2.707   5.359  0.00  0.00           C 0
+ATOM   1858   CE LYS B 195     -14.240  -1.170   0.786  0.00  0.00           C 0
+ATOM   1867    O VAL B 196     -18.257  -2.079   4.399  0.00  0.00           O 0
+ATOM   1855   CB LYS B 195     -13.631  -0.603   3.815  0.00  0.00           C 0
+ATOM   1854    O LYS B 195     -14.280  -1.552   6.783  0.41  6.43           O 0
+ATOM   1872    N ASP B 197     -18.136  -3.994   5.559  0.64  2.19           N 0
+ATOM   1876   CB ASP B 197     -18.655  -6.249   4.688  0.00  0.00           C 0
+ATOM   1008   CB ASP B 110     -18.169  -1.917   0.646  0.00  0.00           C 0
+ATOM   1859   NZ LYS B 195     -13.965  -1.934  -0.500  0.00  0.00           N 1
+ATOM   1853    C LYS B 195     -14.856  -0.911   5.932  0.00  0.00           C 0
+ATOM   1864    N VAL B 196     -16.135  -1.077   5.648  0.00  0.00           N 0
+ATOM   1877   CG ASP B 197     -19.407  -7.048   3.633  0.00  0.00           C 0
+ATOM   1878  OD1 ASP B 197     -20.039  -6.391   2.819  0.46  5.36           O 0
+ATOM   1009   CG ASP B 110     -17.967  -2.216  -0.818  0.00  0.00           C 0
+ATOM   1010  OD1 ASP B 110     -18.674  -3.100  -1.346  0.62  7.50           O 0
+ATOM   1873   CA ASP B 197     -18.967  -4.754   4.615  0.00  0.00           C 0
+TER
+END

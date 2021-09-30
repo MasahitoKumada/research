@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   120:
+HEADER 0  - Pocket Score                      : 0.0296
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7009
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4488
+HEADER 5  - Mean B-factor of pocket residues  : 0.6327
+HEADER 6  - Hydrophobicity Score              : 19.6250
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 104.0119
+HEADER 10  -Pocket volume (convex hull)       : 1.1188
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM  16941    N ASP E 249      92.633  24.380   1.153  0.55  3.28           N 0
+ATOM  16945   CB ASP E 249      93.232  24.564   3.515  0.00  0.00           C 0
+ATOM  19472   NZ LYS E 587      95.981  30.341  -0.436  0.52  3.28           N 0
+ATOM  15211   NZ LYS D 540      91.740  30.171   0.785  0.60  3.28           N 0
+ATOM  16929    O MET E 247      95.163  25.664  -1.898  0.31  3.21           O 0
+ATOM  17253  CE1 TYR E 292      97.410  23.835   2.012  0.00  0.00           C 0
+ATOM  17279   OG SER E 295      98.259  27.513   5.274  0.56  2.14           O 0
+ATOM  15223   OH TYR D 541      93.854  29.140   5.536  0.41  5.36           O 0
+ATOM  19470   CD LYS E 587      95.262  31.649   1.423  0.00  0.00           C 0
+ATOM  16901  CE1 TYR E 244     100.467  27.580   1.882  0.00  0.00           C 0
+ATOM  16903   CZ TYR E 244     100.098  28.879   2.045  0.00  0.00           C 0
+ATOM  16904   OH TYR E 244      99.605  29.274   3.275  0.62  1.07           O 0
+ATOM  16896    O TYR E 244      98.414  27.086  -2.105  0.00  0.00           O 0
+TER
+END

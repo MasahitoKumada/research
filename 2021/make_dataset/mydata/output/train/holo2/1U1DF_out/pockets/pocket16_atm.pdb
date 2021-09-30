@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1075
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1135
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5875
+HEADER 5  - Mean B-factor of pocket residues  : 0.0672
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.8606
+HEADER 10  -Pocket volume (convex hull)       : 4.9133
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM    515   CG PRO F  72      -0.587 195.681 -17.775  0.00  0.00           C 0
+ATOM    880  CE1 HIS F 122      -5.796 194.643 -11.946  0.00  0.00           C 0
+ATOM    853    N ALA F 119      -1.654 191.246 -13.825  0.59  3.28           N 0
+ATOM    881  NE2 HIS F 122      -5.022 193.848 -11.229  0.50  5.47           N 0
+ATOM    850   CA GLY F 118      -0.262 191.516 -11.857  0.00  0.00           C 0
+ATOM   1145  OD2 ASP F 160       2.642 193.108 -13.695  0.53  6.43           O 1
+ATOM    851    C GLY F 118      -1.609 191.235 -12.494  0.00  0.00           C 0
+ATOM    854   CA ALA F 119      -2.913 191.122 -14.563  0.00  0.00           C 0
+ATOM    857   CB ALA F 119      -2.702 191.411 -16.045  0.00  0.00           C 0
+ATOM    879  ND1 HIS F 122      -6.648 193.895 -12.624  0.00  0.00           N 0
+ATOM    511   CA PRO F  72      -2.250 194.866 -19.243  0.00  0.00           C 0
+ATOM    535   OG SER F  75      -5.623 193.322 -19.568  0.67  8.57           O 0
+ATOM    514   CB PRO F  72      -1.542 196.150 -18.806  0.00  0.00           C 0
+ATOM    513    O PRO F  72      -4.029 194.961 -20.824  0.00  0.00           O 0
+ATOM    543  CD1 ILE F  76      -5.850 197.665 -22.261  0.00  0.00           C 0
+ATOM    541  CG1 ILE F  76      -6.810 196.495 -22.338  0.00  0.00           C 0
+TER
+END

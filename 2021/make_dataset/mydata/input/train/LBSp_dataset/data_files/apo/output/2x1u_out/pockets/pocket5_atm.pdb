@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0778
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5977
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4459
+HEADER 5  - Mean B-factor of pocket residues  : 0.5682
+HEADER 6  - Hydrophobicity Score              : 20.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 109.0596
+HEADER 10  -Pocket volume (convex hull)       : 0.6525
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM    198  ND2 ASN A  34      27.562  -4.423  22.751  0.77  2.19           N 0
+ATOM    191    N ASN A  34      24.573  -4.318  20.816  0.00  0.00           N 0
+ATOM    195   CB ASN A  34      25.380  -3.388  22.957  0.00  0.00           C 0
+ATOM   1783  OE1 GLN A 250      25.672   1.881  19.006  0.00  0.00           O 0
+ATOM    189  CG2 ILE A  33      23.097  -4.634  17.534  0.00  0.00           C 0
+ATOM    184   CA ILE A  33      24.792  -5.811  18.936  0.00  0.00           C 0
+ATOM    205  ND1 HIS A  35      22.962  -0.626  18.741  0.00  0.00           N 0
+ATOM   1760   CG LYS A 247      28.670  -1.219  15.688  0.00  0.00           C 0
+ATOM    207  CE1 HIS A  35      22.937  -0.368  17.444  0.00  0.00           C 0
+ATOM   1763   NZ LYS A 247      30.317  -3.076  17.547  0.53  1.09           N 0
+ATOM    188  CG1 ILE A  33      24.664  -6.267  16.472  0.00  0.00           C 0
+ATOM    180    O SER A  32      27.511  -6.098  18.959  0.53  1.07           O 0
+ATOM   1753  CG2 ILE A 246      24.335  -3.224  13.938  0.00  0.00           C 0
+ATOM   1756   CA LYS A 247      26.702   0.333  15.183  0.00  0.00           C 0
+TER
+END

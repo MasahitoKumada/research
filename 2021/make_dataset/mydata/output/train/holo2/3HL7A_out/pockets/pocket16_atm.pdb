@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0003
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0510
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5784
+HEADER 5  - Mean B-factor of pocket residues  : 0.3543
+HEADER 6  - Hydrophobicity Score              : 34.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.5696
+HEADER 10  -Pocket volume (convex hull)       : 3.7183
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2727
+ATOM   1958   CA GLN A 259      -0.151  14.617  16.325  0.00  0.00           C 0
+ATOM   1960    O GLN A 259      -1.793  13.624  17.759  0.00  0.00           O 0
+ATOM   1975    O LEU A 261      -1.700  15.818  20.925  0.69  6.43           O 0
+ATOM   1991   CB GLN A 263      -4.892  19.801  20.316  0.00  0.00           C 0
+ATOM   1858  CD1 LEU A 246      -1.587  18.539  12.224  0.00  0.00           C 0
+ATOM   1964  NE2 GLN A 259      -2.338  14.384  12.404  0.53  7.66           N 0
+ATOM   1988   CA GLN A 263      -3.630  19.645  21.188  0.00  0.00           C 0
+ATOM   1818  OG1 THR A 240      -1.699  21.508  19.081  0.58  3.21           O 0
+ATOM   1822    O PRO A 241      -1.538  21.805  14.376  0.47  7.50           O 0
+ATOM   1816   CB THR A 240      -0.326  21.263  18.770  0.00  0.00           C 0
+ATOM   1952    O ILE A 258       1.228  16.333  18.033  0.74  1.07           O 0
+ATOM   1961   CB GLN A 259      -0.609  13.988  15.001  0.00  0.00           C 0
+ATOM   1962   CG GLN A 259      -0.381  14.844  13.751  0.00  0.00           C 0
+ATOM   1955  CG2 ILE A 258       2.747  18.046  15.946  0.00  0.00           C 0
+ATOM   1825   CD PRO A 241       1.775  21.312  16.076  0.00  0.00           C 0
+TER
+END

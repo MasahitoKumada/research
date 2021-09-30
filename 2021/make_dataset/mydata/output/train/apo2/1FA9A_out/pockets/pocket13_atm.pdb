@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0231
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7951
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3999
+HEADER 5  - Mean B-factor of pocket residues  : 0.3895
+HEADER 6  - Hydrophobicity Score              : 12.5385
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.1538
+HEADER 9  - Pocket volume (Monte Carlo)       : 152.9445
+HEADER 10  -Pocket volume (convex hull)       : 3.8243
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0800
+ATOM    743   OH TYR A  90      27.906  73.539  42.457  0.68  5.36           O 0
+ATOM   5245  OD1 ASN A 647      25.046  77.703  47.081  0.56  2.14           O 0
+ATOM   5249    O TYR A 648      24.632  75.787  42.523  0.00  0.00           O 0
+ATOM   5262   CB ARG A 649      24.622  73.040  44.352  0.00  0.00           C 0
+ATOM   1323  ND2 ASN A 167      26.776  75.990  49.363  0.50  6.56           N 0
+ATOM   5264   CD ARG A 649      23.819  73.049  46.753  0.00  0.00           C 0
+ATOM   1434  OD2 ASP A 180      30.053  73.617  50.063  0.47  6.43           O 1
+ATOM   1039   CB ASP A 128      25.769  69.703  48.081  0.00  0.00           C 0
+ATOM   1309    O PHE A 166      29.504  78.027  47.654  0.36  2.14           O 0
+ATOM   1063    O GLY A 132      32.332  72.696  44.161  0.57  2.14           O 0
+ATOM   4951   NZ LYS A 608      29.349  78.178  44.837  0.70  4.37           N 1
+ATOM   4950   CE LYS A 608      28.470  78.503  43.688  0.00  0.00           C 0
+ATOM    740  CE1 TYR A  90      29.137  71.598  43.129  0.00  0.00           C 0
+ATOM   1046    O ALA A 129      30.284  69.127  47.460  0.00  0.00           O 0
+ATOM   1049   CA GLY A 130      31.632  70.888  49.097  0.00  0.00           C 0
+ATOM   1304  CG2 ILE A 165      32.207  77.312  45.562  0.00  0.00           C 0
+ATOM   1298    N ILE A 165      33.879  75.980  47.846  0.48  1.09           N 0
+TER
+END

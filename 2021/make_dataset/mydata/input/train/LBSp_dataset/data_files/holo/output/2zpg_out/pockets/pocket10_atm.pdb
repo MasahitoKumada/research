@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0593
+HEADER 1  - Drug Score                        : 0.1619
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1313
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6529
+HEADER 5  - Mean B-factor of pocket residues  : 0.8284
+HEADER 6  - Hydrophobicity Score              : 40.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 421.1764
+HEADER 10  -Pocket volume (convex hull)       : 12.8659
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.3846
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM   1929   CA ALA B  49     117.453  21.374  29.940  0.00  0.00           C 0
+ATOM   2270   CB LYS B  87     121.845  19.295  26.983  0.00  0.00           C 0
+ATOM   2289  CD1AILE B  89     121.130  16.328  30.868  0.00  0.00           C 0
+ATOM   1932   CB ALA B  49     117.528  19.929  29.514  0.00  0.00           C 0
+ATOM   2269    O LYS B  87     124.091  18.301  28.603  0.70  9.64           O 0
+ATOM   1931    O ALA B  49     118.576  22.602  28.200  0.48  7.50           O 0
+ATOM   2272   CD LYS B  87     121.639  21.747  26.351  0.00  0.00           C 0
+ATOM   1922  CD2ALEU B  47     116.353  16.071  31.277  0.00  0.00           C 0
+ATOM   1916   CBALEU B  47     115.232  18.045  32.305  0.00  0.00           C 0
+ATOM   1915    O LEU B  47     116.261  20.521  33.877  0.70  5.36           O 0
+ATOM   1906    O GLU B  46     112.852  19.059  35.586  0.00  0.00           O 0
+ATOM   1920  CD1ALEU B  47     114.034  15.806  32.138  0.00  0.00           C 0
+ATOM    192  CD2 LEU A  35     117.245  12.855  34.218  0.00  0.00           C 0
+ATOM    188    O LEU A  35     112.572  12.931  33.324  0.29  5.36           O 0
+ATOM   1918   CGALEU B  47     115.364  16.518  32.339  0.00  0.00           C 0
+ATOM   1913   CA LEU B  47     114.599  18.855  33.446  0.00  0.00           C 0
+ATOM    184    O GLY A  34     114.114  10.517  36.510  0.00  0.00           O 0
+ATOM    186   CA LEU A  35     114.441  11.561  33.943  0.00  0.00           C 0
+TER
+END

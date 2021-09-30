@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1649
+HEADER 1  - Drug Score                        : 0.3700
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7940
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5204
+HEADER 5  - Mean B-factor of pocket residues  : 0.4625
+HEADER 6  - Hydrophobicity Score              : 34.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 167.5727
+HEADER 10  -Pocket volume (convex hull)       : 1.9955
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 24.0000
+HEADER 13 - Number of apolar alpha sphere     :    25
+HEADER 14 - Proportion of apolar alpha sphere : 0.9615
+ATOM   1979  CG2 VAL X 324       5.608  10.106 -20.255  0.00  0.00           C 0
+ATOM   2158  CE1 PHE X 346       3.509  11.427 -17.479  0.00  0.00           C 0
+ATOM   1958  CD1 PHE X 321      -1.308  10.357 -22.424  0.00  0.00           C 0
+ATOM   2142  CG2 THR X 344       2.568   7.971 -19.899  0.00  0.00           C 0
+ATOM   2144   CA PRO X 345      -1.909   9.716 -18.178  0.00  0.00           C 0
+ATOM   2156  CD1 PHE X 346       2.424  11.211 -16.618  0.00  0.00           C 0
+ATOM   1960  CE1 PHE X 321      -1.845  11.617 -22.153  0.00  0.00           C 0
+ATOM   2150    N PHE X 346      -0.648  10.670 -16.378  0.00  0.00           N 0
+ATOM   2147   CB PRO X 345      -3.366  10.263 -18.019  0.00  0.00           C 0
+ATOM   2155   CG PHE X 346       1.829  12.270 -15.945  0.00  0.00           C 0
+ATOM   1970    O SER X 323       5.927  11.413 -23.389  0.39  7.50           O 0
+ATOM   1965    C GLY X 322       3.589   9.245 -24.449  0.00  0.00           C 0
+ATOM   1964   CA GLY X 322       2.340   9.813 -25.034  0.00  0.00           C 0
+ATOM   2159  CE2 PHE X 346       3.359  13.800 -17.028  0.00  0.00           C 0
+ATOM   2160   CZ PHE X 346       3.965  12.673 -17.728  0.00  0.00           C 0
+ATOM   2157  CD2 PHE X 346       2.325  13.552 -16.147  0.00  0.00           C 0
+ATOM   1966    O GLY X 322       3.570   8.489 -23.513  0.00  0.00           O 0
+ATOM   2140   CB THR X 344       1.113   7.703 -20.140  0.00  0.00           C 0
+TER
+END

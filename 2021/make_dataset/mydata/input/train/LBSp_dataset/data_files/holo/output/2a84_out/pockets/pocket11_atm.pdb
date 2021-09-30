@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.1236
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9471
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5311
+HEADER 5  - Mean B-factor of pocket residues  : 0.5227
+HEADER 6  - Hydrophobicity Score              : 0.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 153.9015
+HEADER 10  -Pocket volume (convex hull)       : 2.7060
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   1395    O SER A 196       4.279  -2.724  23.324  0.60  4.29           O 0
+ATOM   1428   CG ARG A 200       8.427  -2.725  26.324  0.00  0.00           C 0
+ATOM   1430   NE ARG A 200       8.077  -0.292  27.219  0.00  0.00           N 0
+ATOM   1431   CZ ARG A 200       6.868   0.344  27.184  0.00  0.00           C 0
+ATOM   1433  NH2 ARG A 200       6.843   1.648  26.900  0.62  5.47           N 0
+ATOM    321   CB HIS A  44       4.693   3.209  24.279  0.00  0.00           C 0
+ATOM    322   CG HIS A  44       3.492   2.402  23.995  0.00  0.00           C 0
+ATOM   1388   CB MET A 195       3.454   1.052  19.461  0.00  0.00           C 0
+ATOM   1392    N SER A 196       2.925  -1.606  21.275  0.00  0.00           N 0
+ATOM   1353  OE2 GLU A 189       8.005   0.627  18.345  0.00  0.00           O 0
+ATOM   1422  ND2 ASN A 199       5.295  -3.550  19.703  0.81  1.09           N 0
+ATOM   1389   CG MET A 195       4.547   1.607  18.585  0.00  0.00           C 0
+ATOM   1390   SD MET A 195       4.804   3.347  18.967  0.00  0.00           S 0
+ATOM   1419   CB ASN A 199       6.468  -4.478  21.625  0.00  0.00           C 0
+ATOM    324  CD2 HIS A  44       2.978   1.321  24.626  0.00  0.00           C 0
+TER
+END

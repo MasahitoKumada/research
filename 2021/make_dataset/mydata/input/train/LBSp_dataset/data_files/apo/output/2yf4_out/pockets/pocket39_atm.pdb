@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : 0.0423
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.2777
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6172
+HEADER 5  - Mean B-factor of pocket residues  : 0.2147
+HEADER 6  - Hydrophobicity Score              : -9.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 395.4064
+HEADER 10  -Pocket volume (convex hull)       : 17.9627
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   9254   CB PRO E   8      23.091  31.312  62.603  0.00  0.00           C 0
+ATOM   9385  OE1 GLU E  16      20.702  32.942  57.279  0.63  4.29           O 0
+ATOM   9386  OE2 GLU E  16      21.899  32.375  55.539  0.00  0.00           O 0
+ATOM   9255   CG PRO E   8      22.739  30.013  61.978  0.00  0.00           C 0
+ATOM   9384   CD GLU E  16      21.386  33.242  56.275  0.00  0.00           C 0
+ATOM   9199  CD2 LEU E   4      29.949  30.305  60.273  0.00  0.00           C 0
+ATOM   9198  CD1 LEU E   4      28.587  28.555  61.439  0.00  0.00           C 0
+ATOM   9382   CB GLU E  16      21.640  35.674  57.123  0.00  0.00           C 0
+ATOM   9383   CG GLU E  16      21.653  34.706  55.911  0.00  0.00           C 0
+ATOM   9367  CD2 HIS E  15      25.595  39.590  58.546  0.00  0.00           C 0
+ATOM   5162  NH2 ARG C  38      31.914  33.998  55.792  0.32  5.47           N 0
+ATOM   9439  NH1 ARG E  19      27.676  37.941  52.947  0.58  5.47           N 0
+ATOM   9436   CD ARG E  19      25.809  39.603  54.303  0.00  0.00           C 0
+ATOM   5161  NH1 ARG C  38      31.314  34.753  53.717  0.00  0.00           N 0
+ATOM   5090   CG PRO C  34      28.569  31.195  53.454  0.00  0.00           C 0
+ATOM   9369  NE2 HIS E  15      26.388  40.406  57.772  0.73  2.19           N 0
+ATOM   9305    O GLU E  12      22.204  36.778  60.647  0.00  0.00           O 0
+ATOM   9378    N GLU E  16      21.841  38.010  57.864  0.00  0.00           N 0
+ATOM   9379   CA GLU E  16      21.809  37.149  56.693  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0799
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7576
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5059
+HEADER 5  - Mean B-factor of pocket residues  : 0.5103
+HEADER 6  - Hydrophobicity Score              : -16.2500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.0410
+HEADER 10  -Pocket volume (convex hull)       : 5.2363
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1294    O VAL B  69      49.740  40.873   9.731  0.42  3.21           O 0
+ATOM   1488    O ASP B  96      49.727  35.669   5.211  0.61  9.64           O 0
+ATOM   1314   CB ARG B  72      51.115  42.089   6.937  0.00  0.00           C 0
+ATOM   1315   CG ARG B  72      52.383  42.070   7.778  0.00  0.00           C 0
+ATOM   1295   CB VAL B  69      47.683  38.722   9.540  0.00  0.00           C 0
+ATOM   1319    O PRO B  73      48.174  41.926   3.216  0.00  0.00           O 0
+ATOM   1313    O ARG B  72      48.085  42.287   6.887  0.49  1.07           O 0
+ATOM   1479    O GLU B  95      46.154  37.026   2.659  0.53  2.14           O 0
+ATOM   1496    O GLY B  97      49.748  34.058   1.172  0.77  5.36           O 0
+ATOM   1487    C ASP B  96      48.717  35.271   4.627  0.00  0.00           C 0
+ATOM   1296  CG1 VAL B  69      48.275  37.731  10.530  0.00  0.00           C 0
+ATOM   1333   CB ASP B  75      45.988  38.558  -0.985  0.00  0.00           C 0
+ATOM   1329    N ASP B  75      45.636  39.515   1.247  0.72  1.09           N 0
+ATOM   1486   CA ASP B  96      47.375  35.964   4.846  0.00  0.00           C 0
+ATOM   1489   CB ASP B  96      47.072  36.037   6.354  0.00  0.00           C 0
+ATOM   1328   OG SER B  74      45.214  39.281   5.551  0.00  0.00           O 0
+ATOM   1324   CA SER B  74      45.930  40.357   3.503  0.00  0.00           C 0
+TER
+END

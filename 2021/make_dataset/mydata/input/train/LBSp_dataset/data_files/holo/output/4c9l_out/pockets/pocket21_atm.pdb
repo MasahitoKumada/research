@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0557
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9438
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5516
+HEADER 5  - Mean B-factor of pocket residues  : 0.2580
+HEADER 6  - Hydrophobicity Score              : -2.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.4349
+HEADER 10  -Pocket volume (convex hull)       : 14.5159
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6111
+ATOM   2249  CD2 HIS A 149      -3.890  18.020   4.058  0.00  0.00           C 0
+ATOM   6069   NZ LYS A 392      -0.778   9.850   2.409  0.00  0.00           N 0
+ATOM   6067   CD LYS A 392      -0.462  10.861   4.632  0.00  0.00           C 0
+ATOM   6068   CE LYS A 392      -1.412  10.080   3.743  0.00  0.00           C 0
+ATOM   6395  OE2 GLU A 413      -2.860  11.928   7.189  0.52  7.50           O 0
+ATOM   2332  OE2 GLU A 155       0.395  21.327   2.165  0.60  5.36           O 0
+ATOM   2220  NH1 ARG A 147      -2.584  22.068   3.398  0.00  0.00           N 0
+ATOM   2251  NE2 HIS A 149      -5.065  18.348   3.423  0.00  0.00           N 0
+ATOM   2246   CB HIS A 149      -3.330  17.275   6.480  0.00  0.00           C 0
+ATOM   6371    O LEU A 412      -0.377  16.498   7.943  0.00  0.00           O 0
+ATOM   2247   CG HIS A 149      -4.198  17.710   5.339  0.00  0.00           C 0
+ATOM   6358   CB PRO A 411       2.444  13.765   4.490  0.00  0.00           C 0
+ATOM   2263    O CYS A 150       1.582  18.135   5.565  0.00  0.00           O 0
+ATOM   6392   CG GLU A 413      -1.876  13.560   8.590  0.00  0.00           C 0
+ATOM   2262    C CYS A 150       1.170  19.035   4.822  0.00  0.00           C 0
+ATOM   2271    N GLU A 151       1.698  19.305   3.638  0.00  0.00           N 0
+ATOM   2275   CB GLU A 151       3.012  18.404   1.759  0.00  0.00           C 0
+TER
+END

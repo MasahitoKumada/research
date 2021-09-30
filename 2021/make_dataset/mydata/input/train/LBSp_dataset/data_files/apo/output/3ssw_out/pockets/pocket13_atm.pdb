@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0128
+HEADER 1  - Drug Score                        : 0.0067
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8254
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5129
+HEADER 5  - Mean B-factor of pocket residues  : 0.7318
+HEADER 6  - Hydrophobicity Score              : 15.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.5795
+HEADER 10  -Pocket volume (convex hull)       : 9.8397
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM   1337   CG ARG N  69       4.872  -8.484  44.837  0.00  0.00           C 0
+ATOM   1333   CA ARG N  69       5.826  -7.717  42.523  0.00  0.00           C 0
+ATOM   1336   CB ARG N  69       6.094  -8.086  44.021  0.00  0.00           C 0
+ATOM   1330  OE1 GLN N  68       8.807 -11.557  39.453  0.70  2.14           O 0
+ATOM   1366   CD LYS N  72       1.171 -10.227  38.292  0.00  0.00           C 0
+ATOM   1404   CA GLY N  78       3.633 -10.664  34.858  0.00  0.00           C 0
+ATOM   1412  CG1 ILE N  79       7.614 -12.945  36.756  0.00  0.00           C 0
+ATOM   1368   NZ LYS N  72       0.251 -12.206  37.361  0.00  0.00           N 0
+ATOM   1364   CB LYS N  72       2.785  -8.667  39.402  0.00  0.00           C 0
+ATOM   1407    N ILE N  79       5.838 -11.649  34.783  0.00  0.00           N 0
+ATOM   1365   CG LYS N  72       1.643  -9.710  39.570  0.00  0.00           C 0
+ATOM   1414  CD1 ILE N  79       8.141 -14.170  37.499  0.00  0.00           C 0
+ATOM   1367   CE LYS N  72       0.290 -11.399  38.574  0.00  0.00           C 0
+ATOM   1326    O GLN N  68       6.168  -7.213  39.876  0.00  0.00           O 0
+ATOM   1328   CG GLN N  68       8.577  -9.189  39.216  0.00  0.00           C 0
+ATOM   1401    O ALA N  77       3.663  -8.140  35.957  0.59  1.07           O 0
+TER
+END

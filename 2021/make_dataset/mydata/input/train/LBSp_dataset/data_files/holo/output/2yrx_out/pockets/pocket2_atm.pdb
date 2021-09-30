@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.2679
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.5691
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4305
+HEADER 5  - Mean B-factor of pocket residues  : 0.1149
+HEADER 6  - Hydrophobicity Score              : 52.9000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 98.5324
+HEADER 10  -Pocket volume (convex hull)       : 1.7104
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM    571    O VAL A  68       8.325  20.727  32.181  0.59  4.29           O 0
+ATOM   2015  CG2 VAL A 267      13.512  17.488  29.278  0.00  0.00           C 0
+ATOM    731    O PHE A  90      12.270  22.042  34.372  0.71  1.07           O 0
+ATOM    735  CD2 PHE A  90      14.415  19.059  33.846  0.00  0.00           C 0
+ATOM   2172  CD2 PHE A 288      10.071  15.905  30.215  0.00  0.00           C 0
+ATOM   2174  CE2 PHE A 288      11.067  15.306  30.986  0.00  0.00           C 0
+ATOM    566  CG2 ILE A  67      10.009  18.020  35.265  0.00  0.00           C 0
+ATOM    749   CD PRO A  92      12.933  25.087  30.006  0.00  0.00           C 0
+ATOM   2152    O ALA A 286      11.363  23.166  27.282  0.74  1.07           O 0
+ATOM    613  CD1 LEU A  74       9.339  24.965  29.387  0.00  0.00           C 0
+ATOM    740   CA GLY A  91      13.187  24.111  32.785  0.00  0.00           C 0
+ATOM   2165    N PHE A 288       9.606  18.323  27.288  0.00  0.00           N 0
+ATOM   2009    N VAL A 267      14.679  20.213  28.968  0.00  0.00           N 0
+ATOM   2158   CB ARG A 287       9.114  21.218  27.714  0.00  0.00           C 0
+ATOM   2155   CA ARG A 287      10.316  20.625  26.955  0.00  0.00           C 0
+ATOM   2013   CB VAL A 267      13.393  18.317  28.015  0.00  0.00           C 0
+TER
+END

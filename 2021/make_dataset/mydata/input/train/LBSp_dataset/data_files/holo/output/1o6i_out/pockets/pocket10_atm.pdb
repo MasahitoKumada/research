@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0012
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7880
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4864
+HEADER 5  - Mean B-factor of pocket residues  : 0.2344
+HEADER 6  - Hydrophobicity Score              : 1.5000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.5236
+HEADER 10  -Pocket volume (convex hull)       : 6.5190
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   4422   CD PRO B  64      40.319  94.469  53.119  0.00  0.00           C 0
+ATOM   4421   CG PRO B  64      39.722  95.749  53.623  0.00  0.00           C 0
+ATOM   4348   CB ASN B  55      34.821  93.334  56.378  0.00  0.00           C 0
+ATOM   4345   CA ASN B  55      34.945  92.157  57.337  0.00  0.00           C 0
+ATOM   4335  OD2 ASP B  53      39.216  88.860  55.999  0.23  7.50           O 0
+ATOM   4332   CB ASP B  53      37.968  88.128  54.113  0.00  0.00           C 0
+ATOM   4397    O TRP B  62      37.733  92.907  51.073  0.54  2.14           O 0
+ATOM   4409   CA ASP B  63      40.419  92.237  51.181  0.00  0.00           C 0
+ATOM   4392    O ALA B  61      35.951  89.931  51.316  0.00  0.00           O 0
+ATOM   4393   CB ALA B  61      34.148  92.493  52.213  0.00  0.00           C 0
+ATOM   4344    N ASN B  55      34.344  90.972  56.745  0.00  0.00           N 0
+ATOM   4339    O ILE B  54      35.861  89.607  57.725  0.00  0.00           O 0
+ATOM   4749   OG SER B 106      39.865  88.947  58.510  0.62  8.57           O 0
+ATOM   4772  ND2 ASN B 109      36.583  90.712  60.269  0.00  0.00           N 0
+ATOM   4352    N SER B  56      34.863  93.583  59.321  0.62  1.09           N 0
+ATOM   4357   OG SER B  56      35.223  96.182  60.449  0.00  0.00           O 0
+TER
+END

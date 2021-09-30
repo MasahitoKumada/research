@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0681
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8845
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4726
+HEADER 5  - Mean B-factor of pocket residues  : 0.6399
+HEADER 6  - Hydrophobicity Score              : 22.2500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.5698
+HEADER 10  -Pocket volume (convex hull)       : 3.5072
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   2459   CD LYS A 320      41.845  69.099  28.986  0.00  0.00           C 0
+ATOM   2425  CE1 TYR A 316      39.092  69.886  25.402  0.00  0.00           C 0
+ATOM   2436  CD2 LEU A 317      37.521  68.989  30.453  0.00  0.00           C 0
+ATOM   2461   NZ LYS A 320      42.470  71.340  29.861  0.00  0.00           N 0
+ATOM     45  OD1 ASP A   9      37.983  72.939  31.601  0.00  0.00           O 0
+ATOM     40   CA ASP A   9      37.073  75.036  30.007  0.00  0.00           C 0
+ATOM     37    O ALA A   8      38.841  77.268  30.638  0.00  0.00           O 0
+ATOM   2215  NH2 ARG A 290      42.102  73.991  23.879  0.65  4.37           N 0
+ATOM   2213   CZ ARG A 290      40.971  74.694  23.692  0.00  0.00           C 0
+ATOM   2112  OE2 GLU A 276      42.062  71.731  25.401  0.57  2.14           O 0
+ATOM   2111  OE1 GLU A 276      43.685  71.737  26.813  0.52  7.50           O 0
+ATOM   2214  NH1 ARG A 290      40.997  75.972  23.386  0.73  7.66           N 0
+ATOM     42    O ASP A   9      37.071  75.157  27.669  0.49  2.14           O 0
+ATOM   2212   NE ARG A 290      39.837  74.030  23.837  0.00  0.00           N 0
+ATOM     67   CZ PHE A  11      35.380  70.914  27.473  0.00  0.00           C 0
+TER
+END

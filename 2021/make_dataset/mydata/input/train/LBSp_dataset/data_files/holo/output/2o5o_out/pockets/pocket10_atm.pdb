@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0867
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7300
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4496
+HEADER 5  - Mean B-factor of pocket residues  : 0.4870
+HEADER 6  - Hydrophobicity Score              : 25.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 324.3082
+HEADER 10  -Pocket volume (convex hull)       : 16.7253
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1154
+ATOM    242   CA LEU X  33       4.474  -3.663  18.582  0.00  0.00           C 0
+ATOM    278  CD2 HIS X  37       6.656  -5.833  15.156  0.00  0.00           C 0
+ATOM    871   CB ALA X 111       0.422  -5.903  17.640  0.00  0.00           C 0
+ATOM    837    O PHE X 107       1.407  -5.671  14.220  0.54  2.14           O 0
+ATOM    268   CA GLY X  36       8.451  -7.146  18.491  0.00  0.00           C 0
+ATOM    238   CZ ARG X  32       3.642 -11.291  19.691  0.00  0.00           C 0
+ATOM    240  NH2 ARG X  32       3.633 -12.133  18.666  0.00  0.00           N 0
+ATOM    239  NH1 ARG X  32       4.162 -11.673  20.851  0.74  6.56           N 0
+ATOM    863   CB ASP X 110       0.569  -8.930  13.208  0.00  0.00           C 0
+ATOM    280  NE2 HIS X  37       6.444  -6.994  14.449  0.73  4.37           N 0
+ATOM    866  OD2 ASP X 110       1.666  -9.488  11.170  0.00  0.00           O 0
+ATOM    867    N ALA X 111      -0.304  -7.379  15.804  0.00  0.00           N 0
+ATOM    235   CG ARG X  32       2.337  -7.796  20.088  0.00  0.00           C 0
+ATOM    270    O GLY X  36       9.849  -7.132  16.528  0.21  6.43           O 0
+ATOM    233    O ARG X  32       5.324  -6.012  19.799  0.52  1.07           O 0
+ATOM    237   NE ARG X  32       3.149 -10.060  19.538  0.51  3.28           N 0
+ATOM    861    C ASP X 110      -0.813  -8.485  15.242  0.00  0.00           C 0
+ATOM    868   CA ALA X 111      -0.280  -7.201  17.259  0.00  0.00           C 0
+ATOM    862    O ASP X 110      -1.280  -9.424  15.895  0.36  4.29           O 0
+TER
+END

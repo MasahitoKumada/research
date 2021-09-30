@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1273
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.1046
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6099
+HEADER 5  - Mean B-factor of pocket residues  : 0.6316
+HEADER 6  - Hydrophobicity Score              : 4.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 364.6459
+HEADER 10  -Pocket volume (convex hull)       : 15.3722
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1739
+ATOM   1922    N ILE B 256      -3.924  -0.457  18.288  0.60  3.28           N 0
+ATOM   1910  OD1 ASP B 254      -5.127   0.305  22.985  0.00  0.00           O 0
+ATOM   1926   CB ILE B 256      -3.599  -2.814  17.660  0.00  0.00           C 0
+ATOM   1903    O GLY B 253      -1.920  -3.037  22.253  0.33  2.14           O 0
+ATOM   1935   CG GLU B 257      -8.412  -3.248  16.603  0.00  0.00           C 0
+ATOM   1927  CG1 ILE B 256      -2.403  -3.073  18.579  0.00  0.00           C 0
+ATOM   1930    N GLU B 257      -5.926  -1.240  16.445  0.55  1.09           N 0
+ATOM   1934   CB GLU B 257      -8.320  -1.825  16.094  0.00  0.00           C 0
+ATOM   1939    N GLU B 258      -6.612   0.931  14.768  0.85  3.28           N 0
+ATOM   1947  OE2 GLU B 258      -6.333   4.431  17.761  0.00  0.00           O 1
+ATOM   1943   CB GLU B 258      -6.845   3.361  14.557  0.00  0.00           C 0
+ATOM   1913   CA HIS B 255      -3.962   1.710  19.421  0.00  0.00           C 0
+ATOM   1919  ND1 HIS B 255      -4.857   4.781  20.138  0.47  1.09           N 0
+ATOM   2181   CG PRO B 289      -4.534  -2.567  24.849  0.00  0.00           C 0
+ATOM   2166   OGASER B 287      -4.462  -6.701  23.682  0.00  0.00           O 0
+ATOM   2021  CD2 LEU B 266      -4.412  -7.081  18.333  0.00  0.00           C 0
+ATOM   1938  OE2 GLU B 257      -8.368  -5.708  16.673  0.12  5.36           O 1
+ATOM   1912    N HIS B 255      -3.670   0.994  20.641  0.00  0.00           N 0
+TER
+END

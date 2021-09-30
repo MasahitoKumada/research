@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1072
+HEADER 1  - Drug Score                        : 0.0287
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9548
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7134
+HEADER 5  - Mean B-factor of pocket residues  : 0.5732
+HEADER 6  - Hydrophobicity Score              : 8.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.0298
+HEADER 10  -Pocket volume (convex hull)       : 3.1808
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8125
+ATOM   2563   CA ALA A1335       0.997  22.001  50.785  0.00  0.00           C 0
+ATOM   2528  CD1 TYR A1331       1.396  18.019  44.687  0.00  0.00           C 0
+ATOM   2525    O TYR A1331      -0.806  20.163  48.085  0.64  3.21           O 0
+ATOM   2565   CB ALA A1335       0.729  22.897  49.596  0.00  0.00           C 0
+ATOM   2554    C HIS A1334       0.439  19.772  51.558  0.00  0.00           C 0
+ATOM   2562    N ALA A1335       0.117  20.842  50.849  0.00  0.00           N 0
+ATOM   2556   CB HIS A1334       0.212  17.470  50.571  0.00  0.00           C 0
+ATOM   1653  OD1 ASP A1220       3.073  13.655  45.524  0.00  0.00           O 0
+ATOM   1661   CD PRO A1221       4.610  13.267  49.338  0.00  0.00           C 0
+ATOM   1666   CB ALA A1222       0.036  14.906  46.343  0.00  0.00           C 0
+ATOM   1662    N ALA A1222       1.237  13.174  47.661  0.61  1.09           N 0
+ATOM   1651   CB ASP A1220       5.388  13.690  46.161  0.00  0.00           C 0
+ATOM   2530  CE1 TYR A1331       2.300  17.150  44.097  0.00  0.00           C 0
+ATOM   1654  OD2 ASP A1220       4.477  14.457  44.068  0.35  2.14           O 1
+ATOM   1652   CG ASP A1220       4.238  13.933  45.192  0.00  0.00           C 0
+TER
+END

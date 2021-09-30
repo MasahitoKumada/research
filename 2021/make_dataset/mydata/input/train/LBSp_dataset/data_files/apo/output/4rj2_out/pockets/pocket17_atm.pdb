@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.1068
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.5770
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3876
+HEADER 5  - Mean B-factor of pocket residues  : 0.0717
+HEADER 6  - Hydrophobicity Score              : 54.7778
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 91.2835
+HEADER 10  -Pocket volume (convex hull)       : 0.7950
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   6239    O SER D  70      25.087  -4.389  40.979  0.76  1.07           O 0
+ATOM   1306    N TYR A 160      22.217   1.202  43.171  0.00  0.00           N 0
+ATOM   1313  CD2 TYR A 160      25.475  -0.064  43.154  0.00  0.00           C 0
+ATOM   1310   CB TYR A 160      24.122   1.465  41.650  0.00  0.00           C 0
+ATOM   7171  CG2 VAL D 188      23.975  -4.390  37.249  0.00  0.00           C 0
+ATOM   1309    O TYR A 160      21.737   1.789  40.133  0.66  3.21           O 0
+ATOM   7200  CE2 PHE D 192      25.958   0.233  36.687  0.00  0.00           C 0
+ATOM   6637  NH1 ARG D 119      21.081  -2.260  36.547  0.56  2.19           N 0
+ATOM   1294  CD2 LEU A 158      19.238  -2.307  39.829  0.00  0.00           C 0
+ATOM   6280   CB LYS D  74      27.171  -2.097  40.133  0.00  0.00           C 0
+ATOM   6281   CG LYS D  74      27.381  -0.601  39.914  0.00  0.00           C 0
+ATOM   6238    C SER D  70      24.284  -5.100  41.568  0.00  0.00           C 0
+ATOM   6242    N ILE D  71      24.203  -5.160  42.886  0.68  1.09           N 0
+ATOM   1295    N PHE A 159      20.173  -0.298  44.287  0.55  1.09           N 0
+ATOM   6247  CG1 ILE D  71      23.520  -3.668  45.490  0.00  0.00           C 0
+ATOM   6240   CB SER D  70      21.987  -5.202  40.578  0.00  0.00           C 0
+TER
+END

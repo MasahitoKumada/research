@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0257
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7584
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5551
+HEADER 5  - Mean B-factor of pocket residues  : 0.7071
+HEADER 6  - Hydrophobicity Score              : 6.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.9627
+HEADER 10  -Pocket volume (convex hull)       : 3.4308
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM    308   NZ LYS A2532      -3.940   7.968  58.746  0.64  9.84           N 0
+ATOM    262    N ARG A2528      -5.382  13.987  57.838  0.57  3.28           N 0
+ATOM    266   CB ARG A2528      -5.869  11.745  56.974  0.00  0.00           C 0
+ATOM    273    N THR A2529      -6.713  13.145  60.150  0.52  1.09           N 0
+ATOM    255   CA ASP A2527      -4.293  16.151  57.918  0.00  0.00           C 0
+ATOM    260  OD1 ASP A2527      -4.795  15.516  60.621  0.58  4.29           O 0
+ATOM    245  OE1 GLU A2525       1.211  13.793  57.711  0.00  0.00           O 0
+ATOM    250    O VAL A2526      -2.937  14.916  55.842  0.00  0.00           O 0
+ATOM    259   CG ASP A2527      -4.547  16.731  60.437  0.00  0.00           C 0
+ATOM   2001  CD1 ILE A2741       1.639  17.485  58.657  0.00  0.00           C 0
+ATOM    258   CB ASP A2527      -4.359  17.232  59.007  0.00  0.00           C 0
+ATOM    424  NH1 ARG A2547      -2.049  11.150  56.124  0.53  2.19           N 0
+ATOM    278  OG1 THR A2529      -5.241  13.556  62.471  0.00  0.00           O 0
+ATOM    261  OD2 ASP A2527      -4.415  17.548  61.370  0.62  8.57           O 0
+ATOM   2000  CG2 ILE A2741      -1.016  19.104  58.641  0.00  0.00           C 0
+ATOM   1999  CG1 ILE A2741       1.483  18.948  59.124  0.00  0.00           C 0
+TER
+END

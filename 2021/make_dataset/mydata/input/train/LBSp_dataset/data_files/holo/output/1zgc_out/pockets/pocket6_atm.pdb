@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0338
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9476
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6200
+HEADER 5  - Mean B-factor of pocket residues  : 0.5054
+HEADER 6  - Hydrophobicity Score              : -9.5000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.3651
+HEADER 10  -Pocket volume (convex hull)       : 11.8357
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM   7834   CG ARG B 468     105.004  28.366  78.499  0.00  0.00           C 0
+ATOM   7874  CE1 TYR B 472     108.830  32.354  76.199  0.00  0.00           C 0
+ATOM   7877   OH TYR B 472     107.438  31.073  74.659  0.61  5.36           O 0
+ATOM   7876   CZ TYR B 472     107.584  32.064  75.615  0.00  0.00           C 0
+ATOM   7993   NZ LYS B 491     116.088  27.701  73.229  0.43  5.47           N 0
+ATOM   7982    O SER B 490     110.973  29.323  72.779  0.31  5.36           O 0
+ATOM   7979    N SER B 490     111.778  26.433  72.687  0.36  8.75           N 0
+ATOM   7966    O GLU B 484     117.003  29.727  76.832  0.00  0.00           O 0
+ATOM   7963    N GLU B 484     115.252  31.837  77.934  0.53  3.28           N 0
+ATOM   7863  CD2 HIS B 471     111.487  31.871  82.618  0.00  0.00           C 0
+ATOM   7951    O PRO B 482     112.066  34.323  78.209  0.00  0.00           O 0
+ATOM   7956   CA ASN B 483     114.042  33.334  76.471  0.00  0.00           C 0
+ATOM   7961  OD1 ASN B 483     112.717  32.933  73.833  0.71  1.07           O 0
+ATOM   7872  CD1 TYR B 472     108.941  33.380  77.173  0.00  0.00           C 0
+ATOM   7991   CD LYS B 491     115.096  30.054  72.630  0.00  0.00           C 0
+ATOM   7860   CB HIS B 471     108.873  31.577  82.833  0.00  0.00           C 0
+ATOM   7861   CG HIS B 471     110.364  31.344  83.148  0.00  0.00           C 0
+ATOM   7830   CA ARG B 468     105.246  30.204  80.294  0.00  0.00           C 0
+ATOM   7832    O ARG B 468     106.280  32.362  79.977  0.00  0.00           O 0
+ATOM   7833   CB ARG B 468     104.868  29.821  78.863  0.00  0.00           C 0
+TER
+END

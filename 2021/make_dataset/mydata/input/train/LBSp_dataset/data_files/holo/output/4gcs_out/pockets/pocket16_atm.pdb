@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0957
+HEADER 1  - Drug Score                        : 0.0118
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0413
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7311
+HEADER 5  - Mean B-factor of pocket residues  : 0.4434
+HEADER 6  - Hydrophobicity Score              : 23.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.2205
+HEADER 10  -Pocket volume (convex hull)       : 4.4940
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   2037   CB PRO A 293      75.691  -3.657   0.372  0.00  0.00           C 0
+ATOM   2052  CG2 ILE A 295      74.559  -0.230   5.836  0.00  0.00           C 0
+ATOM   2053  CD1 ILE A 295      73.038   2.460   4.926  0.00  0.00           C 0
+ATOM   2051  CG1 ILE A 295      72.420   1.014   5.081  0.00  0.00           C 0
+ATOM   2040    N SER A 294      73.495  -4.183   2.659  0.00  0.00           N 0
+ATOM   2035    C PRO A 293      73.419  -4.210   1.325  0.00  0.00           C 0
+ATOM   2036    O PRO A 293      72.437  -3.733   0.658  0.82  1.07           O 0
+ATOM   2038   CG PRO A 293      75.529  -3.391  -1.126  0.00  0.00           C 0
+ATOM   1963   CB TYR A 285      72.435  -0.972  -3.468  0.00  0.00           C 0
+ATOM   2046    N ILE A 295      72.177  -1.914   4.970  0.00  0.00           N 0
+ATOM   1949   CB ALA A 283      69.291   1.898   2.850  0.00  0.00           C 0
+ATOM   1952    C GLN A 284      70.002  -1.554  -1.153  0.00  0.00           C 0
+ATOM   1953    O GLN A 284      69.174  -0.799  -1.706  0.81  3.21           O 0
+ATOM   1959    N TYR A 285      71.000  -2.148  -1.781  0.00  0.00           N 0
+ATOM   1950    N GLN A 284      69.107  -0.916   0.947  0.00  0.00           N 0
+ATOM   1947    C ALA A 283      69.390  -0.527   2.208  0.00  0.00           C 0
+ATOM   1948    O ALA A 283      70.359  -0.972   2.882  0.00  0.00           O 0
+ATOM   1951   CA GLN A 284      69.845  -1.940   0.278  0.00  0.00           C 0
+ATOM   2042    C SER A 294      72.903  -2.988   4.641  0.00  0.00           C 0
+TER
+END

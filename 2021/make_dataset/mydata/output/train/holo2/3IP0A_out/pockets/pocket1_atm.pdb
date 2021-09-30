@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.7216
+HEADER 1  - Drug Score                        : 0.7753
+HEADER 2  - Number of alpha spheres           :    63
+HEADER 3  - Mean alpha-sphere radius          : 3.7655
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4410
+HEADER 5  - Mean B-factor of pocket residues  : 0.0144
+HEADER 6  - Hydrophobicity Score              : 24.8000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.5333
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.7849
+HEADER 10  -Pocket volume (convex hull)       : 39.4673
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 29.0000
+HEADER 13 - Number of apolar alpha sphere     :    30
+HEADER 14 - Proportion of apolar alpha sphere : 0.4762
+ATOM   1516  CD1ATRP A  89      -5.435   6.046   2.236  0.00  0.00           C 0
+ATOM   1512   CBATRP A  89      -5.324   8.630   2.312  0.00  0.00           C 0
+ATOM   1506   CAATRP A  89      -6.838   8.663   2.402  0.00  0.00           C 0
+ATOM   1593  NH2AARG A  92      -9.483   7.239   4.990  0.80  1.09           N 0
+ATOM    804   OH TYR A  53      -7.632  10.059   7.362  0.00  0.00           O 0
+ATOM   1591  NH1AARG A  92      -9.643   5.790   6.740  0.00  0.00           N 1
+ATOM   2168   CZ PHE A 123      -1.695   5.264   8.757  0.00  0.00           C 0
+ATOM    802  CE2 TYR A  53      -7.624   9.086   9.510  0.00  0.00           C 0
+ATOM   1514   CGATRP A  89      -4.753   7.222   2.108  0.00  0.00           C 0
+ATOM   1589   CZAARG A  92      -9.773   7.034   6.263  0.00  0.00           C 0
+ATOM    799  CD1 TYR A  53      -5.729  10.866  10.399  0.00  0.00           C 0
+ATOM    800  CD2 TYR A  53      -7.164   9.026  10.829  0.00  0.00           C 0
+ATOM    798   CG TYR A  53      -6.217   9.917  11.294  0.00  0.00           C 0
+ATOM    801  CE1 TYR A  53      -6.188  10.927   9.083  0.00  0.00           C 0
+ATOM    803   CZ TYR A  53      -7.140  10.032   8.651  0.00  0.00           C 0
+ATOM    839  ND2 ASN A  55      -5.040   5.190  13.291  0.57  3.28           N 0
+ATOM   1661  OD2 ASP A  95      -8.836   2.949   8.149  0.47  1.07           O 1
+ATOM    113   CA GLY A   8      -8.672   5.347  13.102  0.00  0.00           C 0
+ATOM    112    N GLY A   8      -9.004   3.965  13.367  0.53  2.19           N 0
+ATOM    681    N LEU A  45      -1.564  10.663   7.067  0.00  0.00           N 0
+ATOM     87   CB ALA A   6      -5.707  -0.573  12.519  0.00  0.00           C 0
+ATOM   1692  OD2 ASP A  97      -7.197   0.558   7.508  0.00  0.00           O 1
+ATOM   2192   CEAMET A 124      -3.894  -0.508   9.522  0.00  0.00           C 0
+ATOM   2188   CGAMET A 124      -1.904   1.117  10.659  0.00  0.00           C 0
+ATOM     95    C ILE A   7      -8.356   3.247  14.269  0.00  0.00           C 0
+ATOM     86    O ALA A   6      -8.818  -0.333  12.845  0.00  0.00           O 0
+ATOM    635  OG1 THR A  42      -2.435   9.293  13.607  0.00  0.00           O 0
+ATOM    840  OD1 ASN A  55      -3.680   6.953  13.442  0.00  0.00           O 0
+ATOM   2166  CE1 PHE A 123      -2.371   4.549   9.749  0.00  0.00           C 0
+ATOM   2136  NH1 ARG A 121      -3.260   2.497   6.442  0.00  0.00           N 1
+ATOM    688  CD2 LEU A  45      -0.858   6.399   4.791  0.00  0.00           C 0
+ATOM   2137  NH2 ARG A 121      -2.657   3.130   4.333  0.00  0.00           N 0
+ATOM   2167  CE2 PHE A 123      -0.652   6.050   9.063  0.00  0.00           C 0
+ATOM   2165  CD2 PHE A 123      -0.271   6.200  10.385  0.00  0.00           C 0
+ATOM    647    O PRO A  43      -0.852  11.433  10.284  0.00  0.00           O 0
+ATOM    685   CB LEU A  45      -1.030   8.599   5.903  0.00  0.00           C 0
+ATOM   1510    OATRP A  89      -6.423  10.774   3.555  0.68  1.07           O 0
+TER
+END

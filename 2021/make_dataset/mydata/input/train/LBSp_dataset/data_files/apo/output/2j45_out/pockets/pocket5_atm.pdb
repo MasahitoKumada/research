@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1232
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.2251
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6511
+HEADER 5  - Mean B-factor of pocket residues  : 0.0553
+HEADER 6  - Hydrophobicity Score              : 17.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 323.1558
+HEADER 10  -Pocket volume (convex hull)       : 15.4322
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   3953   CB LYS A 175      79.343  18.190  -6.166  0.00  0.00           C 0
+ATOM   3954   CG LYS A 175      79.833  17.481  -4.944  0.00  0.00           C 0
+ATOM   3950   CA LYS A 175      79.034  17.265  -7.343  0.00  0.00           C 0
+ATOM   4032  CD1 LEU A 178      82.100  14.770 -10.364  0.00  0.00           C 0
+ATOM   4053  OE2 GLU A 179      81.687  14.753  -4.000  0.69  9.64           O 0
+ATOM   3957   NZ LYS A 175      82.189  17.238  -2.892  0.40  9.84           N 0
+ATOM   3955   CD LYS A 175      80.245  18.452  -3.846  0.00  0.00           C 0
+ATOM   3858  NH1 ARG A 171      83.296  24.639  -6.071  0.00  0.00           N 0
+ATOM   3560  CD1ALEU A 157      79.880  22.206  -4.962  0.00  0.00           C 0
+ATOM   3933  OE1AGLU A 174      82.338  19.914 -10.970  0.00  0.00           O 0
+ATOM   3853   CB ARG A 171      80.239  23.965  -8.550  0.00  0.00           C 0
+ATOM   3855   CD ARG A 171      82.435  25.194  -8.779  0.00  0.00           C 0
+ATOM   3852    O ARG A 171      78.851  21.069  -8.169  0.00  0.00           O 0
+ATOM   3558   CGALEU A 157      80.205  22.875  -3.621  0.00  0.00           C 0
+ATOM   3550   CAALEU A 157      80.441  22.104  -1.139  0.00  0.00           C 0
+ATOM   3535    O VAL A 156      81.874  20.337   0.530  0.37  1.07           O 0
+ATOM   3586    N GLU A 158      81.588  24.203  -0.694  0.00  0.00           N 0
+TER
+END

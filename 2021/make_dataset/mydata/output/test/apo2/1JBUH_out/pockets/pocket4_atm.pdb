@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0854
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7599
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4476
+HEADER 5  - Mean B-factor of pocket residues  : 0.5901
+HEADER 6  - Hydrophobicity Score              : 22.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.8880
+HEADER 10  -Pocket volume (convex hull)       : 9.9751
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1279   OH TYR H 179      26.703  -9.790  -5.728  0.00  0.00           O 0
+ATOM   1920   CD PRO H 257      28.299  -7.791 -11.566  0.00  0.00           C 0
+ATOM   1918   CB PRO H 257      29.804  -6.175 -10.808  0.00  0.00           C 0
+ATOM   1919   CG PRO H 257      29.771  -7.455 -11.592  0.00  0.00           C 0
+ATOM   1912  CE2 PHE H 256      25.956  -6.379  -7.777  0.00  0.00           C 0
+ATOM    852  NH2 ARG H 126      32.174  -6.137  -2.907  0.00  0.00           N 0
+ATOM   1913   CZ PHE H 256      26.761  -5.403  -7.196  0.00  0.00           C 0
+ATOM   1707  OE1 GLN H 233      29.742  -6.820  -1.941  0.47  3.21           O 0
+ATOM   1702    O GLN H 233      28.713  -3.646  -4.641  0.52  2.14           O 0
+ATOM    851  NH1 ARG H 126      32.853  -4.557  -4.421  0.38  6.56           N 1
+ATOM   1735  OE1 GLU H 236      34.557  -3.231  -7.871  0.52  7.50           O 0
+ATOM   1911  CE1 PHE H 256      26.919  -4.179  -7.821  0.00  0.00           C 0
+ATOM   1732   CB GLU H 236      33.174  -0.785  -7.588  0.00  0.00           C 0
+ATOM   1917    O PRO H 257      29.620  -3.443 -12.253  0.68  4.29           O 0
+ATOM   1737    N TRP H 237      30.319   0.235  -8.335  0.00  0.00           N 0
+ATOM   1741   CB TRP H 237      28.067  -0.494  -8.961  0.00  0.00           C 0
+ATOM   1276  CE1 TYR H 179      26.032  -7.948  -4.351  0.00  0.00           C 0
+TER
+END

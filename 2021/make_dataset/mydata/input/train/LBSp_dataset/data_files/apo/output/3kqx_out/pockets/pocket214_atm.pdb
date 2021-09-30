@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   214:
+HEADER 0  - Pocket Score                      : -0.0600
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9256
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6492
+HEADER 5  - Mean B-factor of pocket residues  : 0.7561
+HEADER 6  - Hydrophobicity Score              : 26.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.6214
+HEADER 10  -Pocket volume (convex hull)       : 5.7245
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM  44168  CD2 TYR L 263     125.398  50.079 165.414  0.00  0.00           C 0
+ATOM  44160   CB GLU L 262     129.349  49.527 162.838  0.00  0.00           C 0
+ATOM  44170  CE2 TYR L 263     124.370  49.707 164.520  0.00  0.00           C 0
+ATOM  44159    O GLU L 262     129.643  52.175 164.462  0.59  6.43           O 0
+ATOM  43805    O LEU L 214     127.952  57.275 161.387  0.33  4.29           O 0
+ATOM  43831    O ASN L 217     131.033  56.735 162.232  0.41  3.21           O 0
+ATOM  43813    O HIS L 215     127.707  55.859 157.909  0.48  6.43           O 0
+ATOM  43817  CD2 HIS L 215     123.659  55.440 160.361  0.00  0.00           C 0
+ATOM  43811   CA HIS L 215     126.168  56.915 159.324  0.00  0.00           C 0
+ATOM  44162   CA TYR L 263     127.686  52.166 166.464  0.00  0.00           C 0
+ATOM  44166   CG TYR L 263     125.314  51.280 166.158  0.00  0.00           C 0
+ATOM  44086   OH TYR L 246     126.623  55.290 165.672  0.62  1.07           O 0
+ATOM  44172   OH TYR L 263     122.247  50.346 163.467  0.71  1.07           O 0
+ATOM  44100  OG1 THR L 248     120.773  49.770 160.291  0.65  2.14           O 0
+ATOM  44101  CG2 THR L 248     120.451  52.061 160.112  0.00  0.00           C 0
+ATOM  44171   CZ TYR L 263     123.297  50.602 164.330  0.00  0.00           C 0
+ATOM  44083  CE1 TYR L 246     124.714  55.762 164.269  0.00  0.00           C 0
+ATOM  44169  CE1 TYR L 263     123.229  51.782 165.066  0.00  0.00           C 0
+ATOM  44167  CD1 TYR L 263     124.217  52.103 165.963  0.00  0.00           C 0
+TER
+END

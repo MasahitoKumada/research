@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.1067
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0222
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5443
+HEADER 5  - Mean B-factor of pocket residues  : 0.2848
+HEADER 6  - Hydrophobicity Score              : 46.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 166.0554
+HEADER 10  -Pocket volume (convex hull)       : 2.3897
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   4381  CD1 LEU B  31      98.125  43.012 101.869  0.00  0.00           C 0
+ATOM   5185  OD1 ASN B 131      98.125  38.414  95.732  0.68  3.21           O 0
+ATOM   4299  CG1 VAL B  20      99.708  37.612 102.826  0.00  0.00           C 0
+ATOM   5186  ND2 ASN B 131      96.031  37.450  95.751  0.33  9.84           N 0
+ATOM   4944  NE1 TRP B 100     100.884  39.983  97.558  0.75  4.37           N 0
+ATOM   4363   CB ALA B  29     101.977  40.656 101.461  0.00  0.00           C 0
+ATOM   4298   CB VAL B  20      99.952  36.262 102.109  0.00  0.00           C 0
+ATOM   5199   NZ LYS B 133      96.799  33.922  98.069  0.64  9.84           N 0
+ATOM   4300  CG2 VAL B  20     100.911  36.353 100.974  0.00  0.00           C 0
+ATOM   5197   CD LYS B 133      98.788  35.284  97.098  0.00  0.00           C 0
+ATOM   4639   OH TYR B  63      96.333  42.345  96.547  0.73  1.07           O 0
+ATOM   4637  CE2 TYR B  63      94.493  43.008  97.978  0.00  0.00           C 0
+ATOM   4638   CZ TYR B  63      95.765  43.181  97.423  0.00  0.00           C 0
+ATOM   4947  CZ2 TRP B 100      99.786  41.893  96.392  0.00  0.00           C 0
+TER
+END

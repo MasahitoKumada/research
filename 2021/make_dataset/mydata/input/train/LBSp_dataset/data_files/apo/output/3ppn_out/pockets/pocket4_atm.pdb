@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : -0.0450
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8527
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5450
+HEADER 5  - Mean B-factor of pocket residues  : 0.4530
+HEADER 6  - Hydrophobicity Score              : 31.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.3161
+HEADER 10  -Pocket volume (convex hull)       : 9.8294
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   2849  NH1 ARG B 122       0.144 -13.408 -34.242  0.33  6.56           N 0
+ATOM   2859  CE1 PHE B 123      -2.509 -13.419 -39.774  0.00  0.00           C 0
+ATOM   2861   CZ PHE B 123      -2.235 -14.569 -39.076  0.00  0.00           C 0
+ATOM   2846   CD ARG B 122      -2.392 -12.617 -35.249  0.00  0.00           C 0
+ATOM   2662  CG2 THR B  99       0.689 -17.672 -38.768  0.00  0.00           C 0
+ATOM   2467  CD1 TYR B  73       6.298 -18.218 -42.831  0.00  0.00           C 0
+ATOM   2496  CD2 HIS B  76       0.420 -16.988 -42.471  0.00  0.00           C 0
+ATOM   2469  CE1 TYR B  73       6.488 -16.913 -43.122  0.00  0.00           C 0
+ATOM   2498  NE2 HIS B  76      -0.624 -16.312 -41.890  0.71  1.09           N 0
+ATOM   2507  NE2 GLN B  77       3.494 -15.441 -45.029  0.73  7.66           N 0
+ATOM   2527  CD1 LEU B  80       0.103 -14.077 -45.156  0.00  0.00           C 0
+ATOM   2659    O THR B  99       2.405 -15.899 -36.679  0.52  7.50           O 0
+ATOM   2657   CA THR B  99       2.778 -18.144 -37.428  0.00  0.00           C 0
+ATOM   2653    O SER B  98       5.536 -18.132 -36.973  0.35  7.50           O 0
+ATOM   2661  OG1 THR B  99       1.824 -19.777 -38.999  0.76  4.29           O 0
+TER
+END

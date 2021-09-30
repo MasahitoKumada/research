@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1419
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1957
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5581
+HEADER 5  - Mean B-factor of pocket residues  : 0.2368
+HEADER 6  - Hydrophobicity Score              : 50.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.6770
+HEADER 10  -Pocket volume (convex hull)       : 2.3828
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM   3249   CB TYR B 214      13.884 -60.021 -18.366  0.00  0.00           C 0
+ATOM   3237    O PHE B 213      16.419 -58.573 -20.525  0.55  6.43           O 0
+ATOM   3058    O ASN B 192      19.393 -54.608 -13.773  0.00  0.00           O 0
+ATOM   3062  ND2 ASN B 192      21.931 -58.056 -14.270  0.00  0.00           N 0
+ATOM   3166   CE MET B 204      12.818 -58.363 -15.065  0.00  0.00           C 0
+ATOM   3165   SD MET B 204      12.651 -56.683 -15.663  0.00  0.00           S 0
+ATOM   3076  CG1 VAL B 194      14.160 -53.749 -17.449  0.00  0.00           C 0
+ATOM   3066    O ILE B 193      18.627 -53.073 -17.842  0.76  2.14           O 0
+ATOM   3075   CB VAL B 194      15.181 -53.395 -18.530  0.00  0.00           C 0
+ATOM   2962   CG ASN B 178      20.891 -55.633 -20.202  0.00  0.00           C 0
+ATOM   2964  ND2 ASN B 178      21.425 -56.838 -20.109  0.42  7.66           N 0
+ATOM   3065    C ILE B 193      17.987 -52.693 -16.859  0.00  0.00           C 0
+ATOM   3071    N VAL B 194      16.706 -52.371 -16.891  0.66  2.19           N 0
+ATOM   3057    C ASN B 192      20.183 -54.228 -14.637  0.00  0.00           C 0
+ATOM   3056   CA ASN B 192      21.550 -54.855 -14.784  0.00  0.00           C 0
+ATOM   2961   CB ASN B 178      21.313 -54.636 -19.132  0.00  0.00           C 0
+TER
+END

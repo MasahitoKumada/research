@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0273
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0832
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7347
+HEADER 5  - Mean B-factor of pocket residues  : 0.3322
+HEADER 6  - Hydrophobicity Score              : 11.8000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.4068
+HEADER 10  -Pocket volume (convex hull)       : 5.8174
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   2307  OE2 GLU B 354      15.556  26.741  -3.292  0.40  8.57           O 0
+ATOM   2311    O PHE B 355      17.476  27.838   2.564  0.79  3.21           O 0
+ATOM   2319  OXT PHE B 355      16.105  27.011   4.068  0.69  8.57           O 0
+ATOM   2310    C PHE B 355      16.962  26.870   3.176  0.00  0.00           C 0
+ATOM   1640    C GLY B 266      14.886  20.839  -0.091  0.00  0.00           C 0
+ATOM   1639   CA GLY B 266      15.123  21.267   1.342  0.00  0.00           C 0
+ATOM   1649  OE1 GLN B 267      12.191  23.240  -3.901  0.68  8.57           O 0
+ATOM   1637    O GLY B 265      13.517  21.389   3.548  0.52  6.43           O 0
+ATOM   2304   CG GLU B 354      17.274  25.455  -2.268  0.00  0.00           C 0
+ATOM   2302    O GLU B 354      17.178  23.860   0.496  0.00  0.00           O 0
+ATOM   2309   CA PHE B 355      17.392  25.439   2.815  0.00  0.00           C 0
+ATOM   1641    O GLY B 266      13.983  20.050  -0.367  0.00  0.00           O 0
+ATOM   1647   CG GLN B 267      14.566  23.145  -3.474  0.00  0.00           C 0
+ATOM   1642    N GLN B 267      15.698  21.357  -1.002  0.00  0.00           N 0
+ATOM   1648   CD GLN B 267      13.306  23.717  -4.133  0.00  0.00           C 0
+TER
+END

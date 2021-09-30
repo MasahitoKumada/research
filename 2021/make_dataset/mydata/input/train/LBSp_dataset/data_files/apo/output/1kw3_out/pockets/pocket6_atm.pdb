@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0338
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9187
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6737
+HEADER 5  - Mean B-factor of pocket residues  : 0.4237
+HEADER 6  - Hydrophobicity Score              : -11.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 309.0123
+HEADER 10  -Pocket volume (convex hull)       : 9.3918
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   1965    O PRO B 253     103.203  42.390  14.257  0.52  5.36           O 0
+ATOM   1975    N PRO B 255     101.620  40.083  16.576  0.00  0.00           N 0
+ATOM   1976   CA PRO B 255     101.057  38.737  16.523  0.00  0.00           C 0
+ATOM   1980   CG PRO B 255     103.429  38.620  16.429  0.00  0.00           C 0
+ATOM   1979   CB PRO B 255     102.243  37.843  16.896  0.00  0.00           C 0
+ATOM   1954  OD2 ASP B 251      97.857  37.008  10.624  0.00  0.00           O 0
+ATOM   1982    N MET B 256      98.869  37.842  16.924  0.00  0.00           N 0
+ATOM   1953  OD1 ASP B 251      96.740  37.797  12.294  0.36  4.29           O 0
+ATOM   1952   CG ASP B 251      97.403  37.989  11.255  0.00  0.00           C 0
+ATOM   1958    O THR B 252      99.701  41.860  12.571  0.56  3.21           O 0
+ATOM   1951   CB ASP B 251      97.670  39.415  10.799  0.00  0.00           C 0
+ATOM   1802  NH2 ARG B 232     100.669  42.368   9.397  0.71  7.66           N 0
+ATOM   1963   CA PRO B 253     101.810  43.537  12.717  0.00  0.00           C 0
+ATOM   1801  NH1 ARG B 232     102.373  43.594   8.457  0.04  9.84           N 0
+ATOM   1966   CB PRO B 253     102.597  44.813  12.459  0.00  0.00           C 0
+ATOM    109  OD1 ASP B  14     108.287  45.542  11.782  0.73  9.64           O 0
+ATOM    129   CB ALA B  17     105.342  46.827  10.533  0.00  0.00           C 0
+TER
+END

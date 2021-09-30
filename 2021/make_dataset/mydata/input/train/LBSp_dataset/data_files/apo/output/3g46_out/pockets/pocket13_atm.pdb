@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0377
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8385
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5784
+HEADER 5  - Mean B-factor of pocket residues  : 0.4504
+HEADER 6  - Hydrophobicity Score              : -6.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 368.6440
+HEADER 10  -Pocket volume (convex hull)       : 19.7238
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   1183   CBAPRO B   1      29.460  23.109   5.673  0.00  0.00           C 0
+ATOM   2411   CB ALA B 144      29.701  16.724   7.318  0.00  0.00           C 0
+ATOM   1185   CGAPRO B   1      28.706  22.877   4.411  0.00  0.00           C 0
+ATOM   1181    OAPRO B   1      31.948  21.035   5.362  0.39  8.57           O 0
+ATOM   1187   CDAPRO B   1      29.697  22.441   3.369  0.00  0.00           C 0
+ATOM   2408   CA ALA B 144      29.933  15.663   6.252  0.00  0.00           C 0
+ATOM   2410    O ALA B 144      32.282  15.868   5.814  0.33  7.50           O 0
+ATOM   1195    OASER B   2      30.677  20.647   8.805  0.00  0.00           O 0
+ATOM   1263   CBAALA B   6      27.320  18.803   9.581  0.00  0.00           C 0
+ATOM   2400    C GLN B 143      28.913  13.573   5.530  0.00  0.00           C 0
+ATOM   2407    N ALA B 144      28.984  14.569   6.396  0.00  0.00           N 0
+ATOM   2401    O GLN B 143      29.621  13.534   4.516  0.00  0.00           O 0
+ATOM   2402   CB GLN B 143      26.576  12.734   5.166  0.00  0.00           C 0
+ATOM   1257   CAAALA B   6      26.901  20.127  10.198  0.00  0.00           C 0
+ATOM   1245    OAASP B   5      26.731  22.733  10.984  0.63  5.36           O 0
+ATOM   1299  OE1AGLN B   9      21.471  23.130   9.710  0.00  0.00           O 0
+ATOM   1295   CGAGLN B   9      22.012  20.983  10.594  0.00  0.00           C 0
+ATOM   1255    NAALA B   6      28.029  21.052  10.271  0.00  0.00           N 0
+ATOM   1243    CAASP B   5      27.842  22.311  10.666  0.00  0.00           C 0
+ATOM   1247   CBAASP B   5      29.458  23.690   9.313  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1858
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0981
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7158
+HEADER 5  - Mean B-factor of pocket residues  : 0.6571
+HEADER 6  - Hydrophobicity Score              : 17.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 266.9170
+HEADER 10  -Pocket volume (convex hull)       : 5.5049
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM    172   CA ASN A  24       9.234  32.794  28.055  0.00  0.00           C 0
+ATOM   1013   NE ARG A 128       8.813  30.977  34.489  0.51  7.66           N 0
+ATOM    179    N SER A  25       7.461  34.192  27.195  0.53  2.19           N 0
+ATOM    184   OG SER A  25       4.915  35.160  27.684  0.00  0.00           O 0
+ATOM    648    O GLY A  83       3.537  29.687  28.890  0.28  5.36           O 0
+ATOM    162  CG1 VAL A  22       6.408  28.857  31.031  0.00  0.00           C 0
+ATOM    646   CA GLY A  83       4.636  31.022  27.242  0.00  0.00           C 0
+ATOM    167    O VAL A  23       7.589  30.714  28.131  0.65  3.21           O 0
+ATOM    178  ND2 ASN A  24      11.058  32.737  30.329  0.56  3.28           N 0
+ATOM    175   CB ASN A  24      10.393  33.742  28.105  0.00  0.00           C 0
+ATOM    176   CG ASN A  24      11.285  33.588  29.330  0.00  0.00           C 0
+ATOM    182    O SER A  25       8.748  36.262  26.114  0.69  5.36           O 0
+ATOM    183   CB SER A  25       5.669  35.819  26.679  0.00  0.00           C 0
+ATOM    177  OD1 ASN A  24      12.299  34.272  29.388  0.69  5.36           O 0
+TER
+END

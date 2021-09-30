@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1128
+HEADER 1  - Drug Score                        : 0.0294
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9253
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6837
+HEADER 5  - Mean B-factor of pocket residues  : 0.6720
+HEADER 6  - Hydrophobicity Score              : 84.1250
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.6932
+HEADER 10  -Pocket volume (convex hull)       : 17.9272
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 19.7143
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.8400
+ATOM   2304  CD1 PHE A 296      71.041  -1.831   0.463  0.00  0.00           C 0
+ATOM   2302   CB PHE A 296      71.123  -1.114  -1.941  0.00  0.00           C 0
+ATOM   2303   CG PHE A 296      71.630  -1.060  -0.530  0.00  0.00           C 0
+ATOM   2110  CZ2 TRP A 272      69.235  -6.741  -2.859  0.00  0.00           C 0
+ATOM   2271  CG1 ILE A 293      75.538  -2.613  -5.883  0.00  0.00           C 0
+ATOM   2305  CD2 PHE A 296      72.694  -0.224  -0.191  0.00  0.00           C 0
+ATOM    560  CG2 ILE A  71      80.378  -1.181  -4.728  0.00  0.00           C 0
+ATOM    558   CB ILE A  71      80.232   0.124  -3.948  0.00  0.00           C 0
+ATOM    559  CG1 ILE A  71      80.478  -0.152  -2.463  0.00  0.00           C 0
+ATOM   2272  CG2 ILE A 293      75.332  -0.121  -5.715  0.00  0.00           C 0
+ATOM    539   CA ALA A  68      77.185   2.181  -1.598  0.00  0.00           C 0
+ATOM   2265   CB ALA A 292      71.358  -5.586  -6.213  0.00  0.00           C 0
+ATOM   2241    O ILE A 289      74.031  -4.230  -7.972  0.00  0.00           O 0
+ATOM   2244  CG2 ILE A 289      76.818  -6.049  -7.472  0.00  0.00           C 0
+ATOM   2109  NE1 TRP A 272      68.955  -4.254  -3.078  0.64  1.09           N 0
+ATOM   2264    O ALA A 292      70.831  -2.664  -4.895  0.00  0.00           O 0
+ATOM   2107  CE2 TRP A 272      68.582  -5.515  -2.693  0.00  0.00           C 0
+ATOM   2263    C ALA A 292      71.406  -3.118  -5.883  0.00  0.00           C 0
+ATOM   2307  CE2 PHE A 296      73.166  -0.160   1.120  0.00  0.00           C 0
+ATOM    542   CB ALA A  68      75.680   2.105  -1.460  0.00  0.00           C 0
+ATOM    536  CD1 LEU A  67      79.605   0.123   1.381  0.00  0.00           C 0
+ATOM   2267   CA ILE A 293      73.261  -1.562  -5.664  0.00  0.00           C 0
+ATOM   2266    N ILE A 293      72.572  -2.657  -6.321  0.00  0.00           N 0
+TER
+END

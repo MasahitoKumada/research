@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0562
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8065
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5751
+HEADER 5  - Mean B-factor of pocket residues  : 0.1509
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.7919
+HEADER 10  -Pocket volume (convex hull)       : 10.3387
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   2211   CB ILE A1110      18.807  24.395  69.222  0.00  0.00           C 0
+ATOM   2182   CG GLU A1107      20.549  29.682  67.785  0.00  0.00           C 0
+ATOM   2213  CG2 ILE A1110      17.387  24.488  69.814  0.00  0.00           C 0
+ATOM   2214  CD1 ILE A1110      19.934  25.200  71.372  0.00  0.00           C 0
+ATOM   1591  CG2 VAL A1031      17.873  30.240  65.246  0.00  0.00           C 0
+ATOM   1595    O PRO A1032      14.544  30.815  64.153  0.64  1.07           O 0
+ATOM   2251  OD2 ASP A1114      13.270  25.590  68.127  0.00  0.00           O 0
+ATOM   1602    O GLU A1033      11.613  30.547  66.222  0.51  7.50           O 0
+ATOM   1600   CA GLU A1033      12.611  32.469  65.180  0.00  0.00           C 0
+ATOM   1588    O VAL A1031      16.982  32.708  63.664  0.20  4.29           O 0
+ATOM   2185  OE2 GLU A1107      19.684  31.904  67.854  0.50  9.64           O 0
+ATOM   2180    O GLU A1107      19.981  26.432  66.513  0.66  1.07           O 0
+ATOM   2215    N PHE A1111      17.991  24.321  66.165  0.00  0.00           N 0
+ATOM   2216   CA PHE A1111      16.973  24.627  65.169  0.00  0.00           C 0
+ATOM   2219   CB PHE A1111      17.473  25.731  64.235  0.00  0.00           C 0
+ATOM   2221  CD1 PHE A1111      15.344  26.991  63.785  0.00  0.00           C 0
+TER
+END

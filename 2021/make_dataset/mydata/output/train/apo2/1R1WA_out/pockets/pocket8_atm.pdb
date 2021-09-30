@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1021
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6151
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4385
+HEADER 5  - Mean B-factor of pocket residues  : 0.2373
+HEADER 6  - Hydrophobicity Score              : 14.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 85.2977
+HEADER 10  -Pocket volume (convex hull)       : 0.8251
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   1884   CA THR A1278       7.020  20.258 156.394  0.00  0.00           C 0
+ATOM   2076  OE2 GLU A1306       3.232  19.306 162.861  0.40  3.21           O 1
+ATOM   2068    N GLU A1306       4.889  23.685 161.508  0.60  3.28           N 0
+ATOM   2461   CB ASN A1353       1.532  18.846 159.493  0.00  0.00           C 0
+ATOM   2073   CG GLU A1306       3.022  21.726 162.867  0.00  0.00           C 0
+ATOM   2065   CB PRO A1305       6.394  24.336 158.630  0.00  0.00           C 0
+ATOM   1878    O MET A1277       8.755  21.095 158.446  0.35  2.14           O 0
+ATOM   2443    O HIS A1351       6.520  17.086 161.183  0.51  2.14           O 0
+ATOM   2457    N ASN A1353       3.044  16.945 159.639  0.45  1.09           N 0
+ATOM   2072   CB GLU A1306       4.474  22.004 163.242  0.00  0.00           C 0
+ATOM   2084  CD2 TYR A1307       7.619  19.762 163.241  0.00  0.00           C 0
+ATOM   2463  ND2 ASN A1353       0.373  20.865 160.204  0.12  4.37           N 0
+ATOM   2485  CE1 TYR A1356       1.325  21.521 156.232  0.00  0.00           C 0
+ATOM   2062   CA PRO A1305       5.200  24.872 159.436  0.00  0.00           C 0
+ATOM   1888  CG2 THR A1278       5.349  22.083 155.701  0.00  0.00           C 0
+TER
+END

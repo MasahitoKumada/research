@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0251
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9799
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6435
+HEADER 5  - Mean B-factor of pocket residues  : 0.3868
+HEADER 6  - Hydrophobicity Score              : 18.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 297.4814
+HEADER 10  -Pocket volume (convex hull)       : 7.2441
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    237   CB ARG A  29     -13.137  -2.311  15.990  0.00  0.00           C 0
+ATOM    273  OG1 THR A  33     -13.511   2.605  17.456  0.00  0.00           O 0
+ATOM   2019  CD2 LEU A 254     -12.711   2.087  14.569  0.00  0.00           C 0
+ATOM    348   CG PRO A  43     -16.486   3.940  13.897  0.00  0.00           C 0
+ATOM   2010    O ALA A 253     -15.009   2.342  11.565  0.63  3.21           O 0
+ATOM   1445  OE1 GLN A 182     -18.471  -2.348   8.574  0.00  0.00           O 0
+ATOM   1444  NE2 GLN A 182     -17.437  -0.534   7.905  0.00  0.00           N 0
+ATOM   1979    O ILE A 249     -19.211   1.742   5.955  0.54  6.43           O 0
+ATOM    329    O GLU A  41     -20.691   5.114   9.980  0.35  8.57           O 0
+ATOM    349   CD PRO A  43     -17.414   4.400  12.763  0.00  0.00           C 0
+ATOM    240   NE ARG A  29     -13.804  -3.423  12.937  0.00  0.00           N 0
+ATOM    243  NH2 ARG A  29     -14.688  -4.797  11.416  0.59  4.37           N 0
+ATOM    241   CZ ARG A  29     -13.805  -3.881  11.694  0.00  0.00           C 0
+ATOM   2011   CB ALA A 253     -14.098  -0.249  10.109  0.00  0.00           C 0
+ATOM   1443   CD GLN A 182     -17.432  -1.830   8.189  0.00  0.00           C 0
+ATOM    239   CD ARG A  29     -12.901  -2.399  13.395  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0233
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9082
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5987
+HEADER 5  - Mean B-factor of pocket residues  : 0.2924
+HEADER 6  - Hydrophobicity Score              : -35.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 327.9530
+HEADER 10  -Pocket volume (convex hull)       : 12.0676
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.4286
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    745   CB ASP A 114      28.733  25.781  22.232  0.00  0.00           C 0
+ATOM    447   CB ARG A  79      24.419  20.313  24.046  0.00  0.00           C 0
+ATOM    754   CG GLU A 115      26.395  23.992  26.057  0.00  0.00           C 0
+ATOM    757  OE2 GLU A 115      24.682  25.490  25.403  0.52  8.57           O 1
+ATOM    381    O ASP A  72      29.592  13.050  17.681  0.00  0.00           O 0
+ATOM    407   CB ARG A  75      29.674  14.897  20.761  0.00  0.00           C 0
+ATOM    419   CG PRO A  76      25.760  16.068  17.967  0.00  0.00           C 0
+ATOM    420   CD PRO A  76      26.580  15.046  18.734  0.00  0.00           C 0
+ATOM    414    N PRO A  76      26.410  15.528  20.136  0.00  0.00           N 0
+ATOM    740  OE2 GLU A 113      31.284  18.502  22.357  0.35  8.57           O 1
+ATOM    415   CA PRO A  76      25.263  16.459  20.204  0.00  0.00           C 0
+ATOM    405    C ARG A  75      27.209  15.287  21.179  0.00  0.00           C 0
+ATOM    406    O ARG A  75      27.096  15.898  22.237  0.00  0.00           O 0
+ATOM    449   CD ARG A  79      23.056  20.257  21.830  0.00  0.00           C 0
+ATOM    739  OE1 GLU A 113      29.822  19.923  23.285  0.00  0.00           O 0
+ATOM    749    N GLU A 115      29.129  24.952  25.119  0.63  1.09           N 0
+ATOM    741    N ASP A 114      30.620  24.343  22.764  0.00  0.00           N 0
+TER
+END

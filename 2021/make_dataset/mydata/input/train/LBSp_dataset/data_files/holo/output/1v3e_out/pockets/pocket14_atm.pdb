@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0156
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8713
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6026
+HEADER 5  - Mean B-factor of pocket residues  : 0.6008
+HEADER 6  - Hydrophobicity Score              : 16.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.0891
+HEADER 10  -Pocket volume (convex hull)       : 11.7904
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   1282   CA ASN A 307      69.275 107.853  -3.295  0.00  0.00           C 0
+ATOM   1300    O ILE A 309      64.806 106.570  -5.280  0.89  4.29           O 0
+ATOM   1287  OD1 ASN A 307      71.038 109.390  -4.934  0.00  0.00           O 0
+ATOM   1284    O ASN A 307      68.520 105.583  -3.376  0.00  0.00           O 0
+ATOM   1276    O ASN A 306      66.881 109.190  -3.756  0.42  2.14           O 0
+ATOM   1343   CB PRO A 314      66.495 112.878 -11.406  0.00  0.00           C 0
+ATOM   1315   CB PHE A 311      62.821 109.420  -8.856  0.00  0.00           C 0
+ATOM   1345   CD PRO A 314      65.437 111.883 -13.223  0.00  0.00           C 0
+ATOM   1314    O PHE A 311      62.570 107.137 -10.882  0.00  0.00           O 0
+ATOM   1349    O TYR A 315      66.060 116.179  -7.784  0.43  1.07           O 0
+ATOM   1102   CA GLY A 284      68.763 115.848  -5.683  0.00  0.00           C 0
+ATOM   1280  ND2 ASN A 306      68.809 111.638  -5.317  0.00  0.00           N 0
+ATOM   1551  OE1 GLU A 341      68.829 115.274 -11.287  0.43  3.21           O 0
+ATOM   1101    N GLY A 284      68.920 116.679  -6.857  0.00  0.00           N 0
+ATOM   1339    N PRO A 314      64.453 112.065 -12.142  0.00  0.00           N 0
+ATOM   1340   CA PRO A 314      65.029 112.817 -11.045  0.00  0.00           C 0
+ATOM   1279  OD1 ASN A 306      66.992 112.911  -4.853  0.53  1.07           O 0
+ATOM   1317  CD1 PHE A 311      64.122 109.653  -6.722  0.00  0.00           C 0
+ATOM   1311    N PHE A 311      62.600 107.124  -7.950  0.24  3.28           N 0
+TER
+END

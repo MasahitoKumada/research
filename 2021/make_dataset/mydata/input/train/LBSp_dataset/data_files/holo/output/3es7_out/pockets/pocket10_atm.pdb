@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0230
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0109
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5834
+HEADER 5  - Mean B-factor of pocket residues  : 0.6513
+HEADER 6  - Hydrophobicity Score              : 11.8750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.3221
+HEADER 10  -Pocket volume (convex hull)       : 11.2705
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1739
+ATOM   5060   CG ASP B 240     -55.107  68.768  46.014  0.00  0.00           C 0
+ATOM   5055    N ASP B 240     -52.792  67.990  44.028  0.61  1.09           N 0
+ATOM   5059   CB ASP B 240     -53.788  69.455  45.733  0.00  0.00           C 0
+ATOM   5061  OD1 ASP B 240     -55.518  68.757  47.193  0.00  0.00           O 0
+ATOM   5042    O LYS B 238     -53.445  63.978  43.118  0.00  0.00           O 0
+ATOM   4823  OG1 THR B 211     -48.460  65.084  49.889  0.59  6.43           O 0
+ATOM   4798   NZ LYS B 208     -52.750  60.086  47.470  0.00  0.00           N 0
+ATOM   4791   CA LYS B 208     -48.609  61.431  48.848  0.00  0.00           C 0
+ATOM   4795   CG LYS B 208     -50.635  60.008  49.494  0.00  0.00           C 0
+ATOM   5072  CE2 TYR B 241     -49.429  69.158  48.375  0.00  0.00           C 0
+ATOM   5070  CD2 TYR B 241     -49.193  69.179  47.002  0.00  0.00           C 0
+ATOM   4788  CG2 ILE B 207     -47.334  64.374  45.702  0.00  0.00           C 0
+ATOM   4764  CE1 HIS B 204     -51.811  60.530  43.832  0.00  0.00           C 0
+ATOM   4790    N LYS B 208     -47.594  61.587  47.820  0.00  0.00           N 0
+ATOM   4762  ND1 HIS B 204     -50.575  60.603  43.371  0.45  1.09           N 0
+ATOM   5062  OD2 ASP B 240     -55.733  68.247  45.062  0.69  4.29           O 0
+ATOM   5054  CG2 THR B 239     -49.667  66.887  43.355  0.00  0.00           C 0
+ATOM   5049   CA THR B 239     -51.955  66.213  42.585  0.00  0.00           C 0
+TER
+END

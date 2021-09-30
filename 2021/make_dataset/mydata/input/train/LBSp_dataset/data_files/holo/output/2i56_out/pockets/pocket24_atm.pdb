@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0661
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9706
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6261
+HEADER 5  - Mean B-factor of pocket residues  : 0.0239
+HEADER 6  - Hydrophobicity Score              : -6.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 156.6733
+HEADER 10  -Pocket volume (convex hull)       : 2.4813
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   2591    O GLU A 337      27.911  30.571  51.277  0.59  1.07           O 0
+ATOM   2602   OG SER A 338      27.984  33.299  55.293  0.51  2.14           O 0
+ATOM   2598   CA SER A 338      27.137  31.680  53.675  0.00  0.00           C 0
+ATOM   2626  ND2 ASN A 341      31.768  28.498  51.684  0.00  0.00           N 0
+ATOM   2597    N SER A 338      27.161  32.377  52.384  0.68  1.09           N 0
+ATOM   2250  OD2 ASP A 293      28.845  31.148  56.729  0.31  5.36           O 0
+ATOM   2590    C GLU A 337      27.542  31.745  51.276  0.00  0.00           C 0
+ATOM   3103  CG1 VAL A 403      31.943  31.423  47.377  0.00  0.00           C 0
+ATOM   2595  OE1 GLU A 337      30.969  35.070  49.332  0.52  3.21           O 0
+ATOM   3138  NH1 ARG A 407      33.833  35.395  48.935  0.54  6.56           N 0
+ATOM   2592   CB GLU A 337      28.792  33.382  49.839  0.00  0.00           C 0
+ATOM   2564  CG2 THR A 333      30.789  36.020  55.758  0.00  0.00           C 0
+ATOM   2562   CB THR A 333      29.578  36.342  54.903  0.00  0.00           C 0
+ATOM   3104  CG2 VAL A 403      30.341  29.780  48.348  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.1715
+HEADER 1  - Drug Score                        : 0.0230
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7555
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5544
+HEADER 5  - Mean B-factor of pocket residues  : 0.7922
+HEADER 6  - Hydrophobicity Score              : 5.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.9881
+HEADER 10  -Pocket volume (convex hull)       : 4.9487
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM   2307    O SER A 308     108.501  67.551  25.185  0.00  0.00           O 0
+ATOM   2529    O LYS A 337     111.559  64.319  21.582  0.60  5.36           O 0
+ATOM   2308   CB SER A 308     108.577  66.841  21.967  0.00  0.00           C 0
+ATOM   2349   CE LYS A 312     111.344  70.407  24.830  0.00  0.00           C 0
+ATOM   2538    O LYS A 338     110.521  63.856  24.488  0.00  0.00           O 0
+ATOM   2347   CG LYS A 312     111.022  69.633  27.186  0.00  0.00           C 0
+ATOM   2539   CB LYS A 338     113.214  63.736  24.332  0.00  0.00           C 0
+ATOM   2541   CD LYS A 338     115.378  64.697  23.826  0.00  0.00           C 0
+ATOM   2542   CE LYS A 338     116.652  65.115  24.566  0.00  0.00           C 0
+ATOM   2540   CG LYS A 338     114.713  63.478  24.436  0.00  0.00           C 0
+ATOM   2338  CD2 PHE A 311     110.886  63.961  27.870  0.00  0.00           C 0
+ATOM   2340  CE2 PHE A 311     111.785  63.157  28.581  0.00  0.00           C 0
+ATOM   2343   CA LYS A 312     109.688  68.484  28.978  0.00  0.00           C 0
+ATOM   2334    O PHE A 311     109.164  65.945  29.952  0.59  4.29           O 0
+ATOM   2345    O LYS A 312     110.204  69.162  31.194  0.00  0.00           O 0
+TER
+END

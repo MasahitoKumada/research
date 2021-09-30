@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1366
+HEADER 1  - Drug Score                        : 0.0072
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7152
+HEADER 5  - Mean B-factor of pocket residues  : 0.5981
+HEADER 6  - Hydrophobicity Score              : 62.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 332.3357
+HEADER 10  -Pocket volume (convex hull)       : 16.9156
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.2308
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM    367    O ARG B 274     -17.969  57.600  27.915  0.79  1.07           O 0
+ATOM    405  CG2 VAL B 278     -18.987  59.283  24.848  0.00  0.00           C 0
+ATOM    396   CB VAL B 277     -19.473  54.532  26.353  0.00  0.00           C 0
+ATOM    397  CG1 VAL B 277     -20.672  54.341  25.432  0.00  0.00           C 0
+ATOM    368   CB ARG B 274     -18.811  58.123  31.023  0.00  0.00           C 0
+ATOM    184  CG1 ILE B 249     -18.016  62.441  27.906  0.00  0.00           C 0
+ATOM    365   CA ARG B 274     -18.144  56.991  30.225  0.00  0.00           C 0
+ATOM    369   CG ARG B 274     -20.006  57.638  31.860  0.00  0.00           C 0
+ATOM    398  CG2 VAL B 277     -19.555  53.570  27.528  0.00  0.00           C 0
+ATOM    185  CG2 ILE B 249     -17.893  62.271  30.408  0.00  0.00           C 0
+ATOM    370   CD ARG B 274     -20.711  58.771  32.619  0.00  0.00           C 0
+ATOM    373  NH1 ARG B 274     -19.881  61.438  32.952  0.76  6.56           N 1
+ATOM    180   CA ILE B 249     -17.988  64.521  29.286  0.00  0.00           C 0
+ATOM    186  CD1 ILE B 249     -17.352  61.148  27.535  0.00  0.00           C 0
+ATOM    187    N TYR B 250     -18.468  64.941  31.638  0.60  1.09           N 0
+ATOM    193  CD1 TYR B 250     -20.164  67.401  31.054  0.00  0.00           C 0
+ATOM    210   SD MET B 252     -22.997  64.717  35.667  0.00  0.00           S 0
+ATOM    191   CB TYR B 250     -19.277  66.562  33.265  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0815
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8286
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6468
+HEADER 5  - Mean B-factor of pocket residues  : 0.0956
+HEADER 6  - Hydrophobicity Score              : -4.5556
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.0099
+HEADER 10  -Pocket volume (convex hull)       : 3.4716
+HEADER 11 - Charge Score                      :    -4
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM     90    C ASP A  12      90.063  33.771  25.318  0.00  0.00           C 0
+ATOM     97   CA SER A  13      89.598  35.135  27.306  0.00  0.00           C 0
+ATOM     91    O ASP A  12      88.894  33.305  25.249  0.00  0.00           O 0
+ATOM     79    O TYR A  11      91.162  30.633  24.983  0.52  4.29           O 0
+ATOM   3030  OE1 GLU A 404      90.467  35.929  31.872  0.00  0.00           O 0
+ATOM   2847  OE1 GLU A 379      93.863  29.536  28.311  0.00  0.00           O 0
+ATOM    100   CB SER A  13      90.496  35.904  28.277  0.00  0.00           C 0
+ATOM   3027   CB GLU A 404      93.075  35.505  30.999  0.00  0.00           C 0
+ATOM   2834   CA THR A 378      94.895  33.154  27.762  0.00  0.00           C 0
+ATOM   3023    N GLU A 404      92.605  34.885  33.387  0.19  2.19           N 0
+ATOM   2844   CB GLU A 379      95.067  29.554  30.955  0.00  0.00           C 0
+ATOM   3024   CA GLU A 404      93.655  35.078  32.365  0.00  0.00           C 0
+ATOM   2841   CA GLU A 379      95.746  30.904  30.713  0.00  0.00           C 0
+ATOM     96    N SER A  13      90.469  34.648  26.221  0.59  1.09           N 0
+ATOM   2827    O GLU A 377      93.116  34.974  26.707  0.00  0.00           O 0
+ATOM   2840    N GLU A 379      95.281  31.527  29.484  0.00  0.00           N 0
+ATOM   2835    C THR A 378      95.405  32.776  29.173  0.00  0.00           C 0
+ATOM   3019    C SER A 403      92.967  34.347  34.513  0.00  0.00           C 0
+ATOM   3021   CB SER A 403      91.746  32.675  36.041  0.00  0.00           C 0
+ATOM   3020    O SER A 403      94.141  33.919  34.732  0.76  2.14           O 0
+ATOM   3055   CB ALA A 407      97.033  32.652  34.819  0.00  0.00           C 0
+TER
+END

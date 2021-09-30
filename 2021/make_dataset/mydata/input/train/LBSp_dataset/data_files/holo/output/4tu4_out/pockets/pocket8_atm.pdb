@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1809
+HEADER 1  - Drug Score                        : 0.0824
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9559
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5994
+HEADER 5  - Mean B-factor of pocket residues  : 0.6581
+HEADER 6  - Hydrophobicity Score              : 5.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 310.9836
+HEADER 10  -Pocket volume (convex hull)       : 4.1554
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM    253   CG ARG A1007     -12.879  21.326  -0.325  0.00  0.00           C 0
+ATOM    222   CG LYS A1004     -11.415  25.357  -6.084  0.00  0.00           C 0
+ATOM    254   CD ARG A1007     -11.420  20.902  -0.516  0.00  0.00           C 0
+ATOM    223   CD LYS A1004     -10.153  24.590  -6.444  0.00  0.00           C 0
+ATOM    220    O LYS A1004     -12.023  26.028  -1.689  0.13  6.43           O 0
+ATOM    221   CB LYS A1004     -11.304  26.171  -4.790  0.00  0.00           C 0
+ATOM    224   CE LYS A1004      -8.978  25.544  -6.622  0.00  0.00           C 0
+ATOM    846  NH2 ARG A1077      -8.382  28.376   1.505  0.00  0.00           N 0
+ATOM    218   CA LYS A1004     -12.627  26.108  -3.983  0.00  0.00           C 0
+ATOM    252   CB ARG A1007     -12.994  22.834  -0.135  0.00  0.00           C 0
+ATOM    212    O ASP A1003     -15.246  26.179  -3.191  0.59  1.07           O 0
+ATOM    199    O ALA A1001     -17.958  22.934  -3.814  0.00  0.00           O 0
+ATOM    204    O ILE A1002     -15.783  24.925  -6.972  0.62  6.43           O 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0370
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8572
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4531
+HEADER 5  - Mean B-factor of pocket residues  : 0.4215
+HEADER 6  - Hydrophobicity Score              : 42.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.4117
+HEADER 10  -Pocket volume (convex hull)       : 8.1666
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1090    O LEU A 140       9.262   1.745 -11.994  0.67  1.07           O 0
+ATOM    590    O ALA A  76      13.394   2.626 -14.059  0.00  0.00           O 0
+ATOM    596   CB LEU A  77      12.108   2.309 -16.972  0.00  0.00           C 0
+ATOM    612  OG1 THR A  79      13.296   6.959 -13.158  0.29  5.36           O 0
+ATOM    631   OH TYR A  81      11.713   4.833  -9.868  0.32  2.14           O 0
+ATOM    797  NH2 ARG A 101      10.730   8.637 -11.587  0.00  0.00           N 0
+ATOM   1102  CD2 HIS A 141       6.288   3.092 -13.033  0.00  0.00           C 0
+ATOM    600    N THR A  78      14.255   4.054 -16.790  0.00  0.00           N 0
+ATOM    605  OG1 THR A  78      13.545   6.735 -17.559  0.56  2.14           O 0
+ATOM   1096   CA HIS A 141       7.557   2.660 -10.037  0.00  0.00           C 0
+ATOM    599  CD2 LEU A  77      10.423   3.412 -18.519  0.00  0.00           C 0
+ATOM   1104  NE2 HIS A 141       5.863   2.313 -14.078  0.86  9.84           N 0
+ATOM   1105    N TYR A 142       8.279   4.292  -8.422  0.71  5.47           N 0
+TER
+END

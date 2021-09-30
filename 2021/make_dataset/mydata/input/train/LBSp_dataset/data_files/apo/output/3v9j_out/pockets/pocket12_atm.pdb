@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0695
+HEADER 1  - Drug Score                        : 0.0046
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0585
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7206
+HEADER 5  - Mean B-factor of pocket residues  : 0.3214
+HEADER 6  - Hydrophobicity Score              : 9.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.2518
+HEADER 10  -Pocket volume (convex hull)       : 1.1732
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   2920  CH2 TRP A 403      17.929 -19.459  -6.014  0.00  0.00           C 0
+ATOM   2942   CB HIS A 406      21.601 -23.339  -8.638  0.00  0.00           C 0
+ATOM   2944  ND1 HIS A 406      19.415 -24.503  -9.093  0.50  2.19           N 0
+ATOM   2943   CG HIS A 406      20.200 -23.370  -9.148  0.00  0.00           C 0
+ATOM   2919  CZ3 TRP A 403      18.638 -19.734  -7.191  0.00  0.00           C 0
+ATOM   2946  CE1 HIS A 406      18.235 -24.241  -9.629  0.00  0.00           C 0
+ATOM   3228   CB PRO A 442      14.475 -21.254  -7.810  0.00  0.00           C 0
+ATOM   2917  CE3 TRP A 403      19.990 -19.471  -7.288  0.00  0.00           C 0
+ATOM   2914  CD2 TRP A 403      20.650 -18.921  -6.180  0.00  0.00           C 0
+ATOM   2904    C LYS A 402      24.701 -21.801  -5.711  0.00  0.00           C 0
+ATOM   2905    O LYS A 402      24.239 -22.690  -6.429  0.00  0.00           O 0
+ATOM   2906   CB LYS A 402      24.819 -22.166  -3.233  0.00  0.00           C 0
+ATOM   2907    N TRP A 403      24.427 -20.515  -5.904  0.00  0.00           N 0
+ATOM   2918  CZ2 TRP A 403      18.547 -18.923  -4.913  0.00  0.00           C 0
+ATOM   2916  CE2 TRP A 403      19.912 -18.656  -5.011  0.00  0.00           C 0
+TER
+END

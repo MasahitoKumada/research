@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1565
+HEADER 1  - Drug Score                        : 0.0181
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7687
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5007
+HEADER 5  - Mean B-factor of pocket residues  : 0.6145
+HEADER 6  - Hydrophobicity Score              : 17.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.3817
+HEADER 10  -Pocket volume (convex hull)       : 13.7748
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.7727
+ATOM    660  CG2 VAL A 165       5.969  -0.943  24.677  0.00  0.00           C 0
+ATOM    815  OE1 GLN A 185       2.173  -1.499  21.105  0.00  0.00           O 0
+ATOM    813   CG GLN A 185       2.193   0.393  22.562  0.00  0.00           C 0
+ATOM    956   CA ARG A 205       5.205   4.089  20.021  0.00  0.00           C 0
+ATOM    811    O GLN A 185       2.667   3.436  23.703  0.39  1.07           O 0
+ATOM    958    O ARG A 205       6.313   5.036  21.931  0.40  1.07           O 0
+ATOM    964   CB LEU A 206       9.662   6.099  19.576  0.00  0.00           C 0
+ATOM    961   CA LEU A 206       8.511   5.915  20.576  0.00  0.00           C 0
+ATOM    960    N LEU A 206       7.366   5.245  19.966  0.73  1.09           N 0
+ATOM    677  CE2 PHE A 167      13.319   1.998  22.175  0.00  0.00           C 0
+ATOM    966  CD1 LEU A 206      11.530   5.825  21.282  0.00  0.00           C 0
+ATOM    957    C ARG A 205       6.351   4.835  20.719  0.00  0.00           C 0
+ATOM    675  CD2 PHE A 167      12.577   1.079  22.920  0.00  0.00           C 0
+ATOM    984   CB ARG A 209       8.840   5.004  24.701  0.00  0.00           C 0
+ATOM    804    O PRO A 184       3.798   2.501  27.127  0.47  2.14           O 0
+ATOM    987   NE ARG A 209       9.108   2.829  26.644  0.67  1.09           N 0
+ATOM    990  NH2 ARG A 209       8.483   0.661  27.051  0.00  0.00           N 0
+ATOM    672   CB PHE A 167      11.644   0.229  25.100  0.00  0.00           C 0
+ATOM    673   CG PHE A 167      12.456   1.212  24.300  0.00  0.00           C 0
+ATOM    664    O PRO A 166      10.222  -2.725  24.465  0.61  8.57           O 0
+TER
+END

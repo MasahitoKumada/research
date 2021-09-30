@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    46:
+HEADER 0  - Pocket Score                      : -0.1180
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1454
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5660
+HEADER 5  - Mean B-factor of pocket residues  : 0.4607
+HEADER 6  - Hydrophobicity Score              : 4.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.8306
+HEADER 10  -Pocket volume (convex hull)       : 3.0142
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM    747   OG SER A  90      21.737   0.979  58.767  0.00  0.00           O 0
+ATOM   1825  CD1 PHE A 221      22.203  -2.471  63.415  0.00  0.00           C 0
+ATOM    740    C GLY A  89      18.497  -0.608  58.951  0.00  0.00           C 0
+ATOM   1827  CE1 PHE A 221      21.889  -3.799  63.175  0.00  0.00           C 0
+ATOM    739   CA GLY A  89      17.972  -2.008  58.868  0.00  0.00           C 0
+ATOM    742    N SER A  90      19.167  -0.207  57.880  0.49  3.28           N 0
+ATOM    148    N GLY A  20      19.718  -7.162  57.313  0.39  5.47           N 0
+ATOM   6036  NH2 ARG D  43      24.027  -4.307  54.216  0.00  0.00           N 0
+ATOM    193   CGAARG A  24      24.821  -6.216  61.065  0.00  0.00           C 0
+ATOM    156   CB ASP A  21      24.623  -7.779  57.481  0.00  0.00           C 0
+ATOM    195   CDAARG A  24      25.458  -5.424  62.177  0.00  0.00           C 0
+ATOM    145   CB PRO A  19      20.167  -7.364  60.481  0.00  0.00           C 0
+ATOM    734    O VAL A  88      18.096  -4.321  60.318  0.63  2.14           O 0
+ATOM    152    N ASP A  21      22.302  -8.214  56.972  0.71  1.09           N 0
+TER
+END

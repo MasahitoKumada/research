@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.1171
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9867
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5315
+HEADER 5  - Mean B-factor of pocket residues  : 0.7689
+HEADER 6  - Hydrophobicity Score              : -7.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.3452
+HEADER 10  -Pocket volume (convex hull)       : 13.0871
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM  12882    N VAL D 397     -17.061 -41.234  -4.106  0.70  4.37           N 0
+ATOM  12885    O VAL D 397     -17.468 -41.959  -1.330  0.84  1.07           O 0
+ATOM  12886   CB VAL D 397     -19.318 -42.229  -3.873  0.00  0.00           C 0
+ATOM  12755   CG PRO D 379     -18.648 -46.184  -0.085  0.00  0.00           C 0
+ATOM   7256  ND2 ASN C  90     -12.495 -48.593  -3.834  0.00  0.00           N 0
+ATOM   7298    O PRO C  96     -12.077 -42.705  -1.030  0.00  0.00           O 0
+ATOM   7308  OD1 ASP C  97     -14.395 -46.101   2.164  0.47  1.07           O 0
+ATOM  12881   CB ALA D 396     -13.965 -41.046  -4.154  0.00  0.00           C 0
+ATOM   7292   CD LYS C  95     -10.783 -41.574  -6.983  0.00  0.00           C 0
+ATOM  12876    O GLY D 395     -13.799 -40.330  -7.681  0.00  0.00           O 0
+ATOM   7281  CG2 THR C  93     -10.871 -46.618  -7.925  0.00  0.00           C 0
+ATOM   7307   CG ASP C  97     -13.319 -46.658   1.834  0.00  0.00           C 0
+ATOM   7309  OD2 ASP C  97     -13.178 -47.899   1.825  0.00  0.00           O 0
+ATOM   7306   CB ASP C  97     -12.121 -45.833   1.455  0.00  0.00           C 0
+ATOM   7303   CA ASP C  97     -12.421 -44.338   1.332  0.00  0.00           C 0
+ATOM   7253   CB ASN C  90     -10.695 -47.126  -3.165  0.00  0.00           C 0
+ATOM  12878   CA ALA D 396     -14.991 -40.496  -5.130  0.00  0.00           C 0
+ATOM   7280  OG1 THR C  93     -10.002 -45.476  -5.975  0.83  1.07           O 0
+ATOM   7290   CB LYS C  95      -9.921 -42.216  -4.729  0.00  0.00           C 0
+TER
+END

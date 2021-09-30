@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0617
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0044
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5287
+HEADER 5  - Mean B-factor of pocket residues  : 0.5320
+HEADER 6  - Hydrophobicity Score              : 19.8571
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.1460
+HEADER 10  -Pocket volume (convex hull)       : 7.0626
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3600
+ATOM   1462   CB GLU A 187       6.121 -14.767   4.541  0.00  0.00           C 0
+ATOM   1642  CG1 VAL A 209       1.040 -16.130   2.578  0.00  0.00           C 0
+ATOM   1647    O THR A 210      -1.360 -17.734   5.824  0.00  0.00           O 0
+ATOM   1465  OE1 GLU A 187       3.758 -13.794   3.317  0.00  0.00           O 0
+ATOM   1643  CG2 VAL A 209       3.303 -16.705   1.673  0.00  0.00           C 0
+ATOM   1644    N THR A 210      -0.124 -19.168   3.650  0.00  0.00           N 0
+ATOM   1638   CA VAL A 209       1.638 -18.570   2.046  0.00  0.00           C 0
+ATOM   1444    O LEU A 185       7.053 -19.104   7.957  0.00  0.00           O 0
+ATOM   1458    N GLU A 187       7.444 -15.715   6.390  0.00  0.00           N 0
+ATOM    562   CG PRO A  70       3.248 -21.618   9.639  0.00  0.00           C 0
+ATOM    544    O PRO A  68       3.969 -23.531   5.682  0.61  5.36           O 0
+ATOM   1649  OG1 THR A 210      -0.982 -21.666   4.483  0.67  4.29           O 0
+ATOM    563   CD PRO A  70       2.988 -22.949   8.957  0.00  0.00           C 0
+ATOM   1648   CB THR A 210      -1.578 -20.527   5.111  0.00  0.00           C 0
+ATOM    546   CG PRO A  68       6.306 -20.943   4.706  0.00  0.00           C 0
+ATOM   1633    O VAL A 208       3.597 -20.584   1.953  0.00  0.00           O 0
+ATOM    545   CB PRO A  68       6.317 -21.678   5.992  0.00  0.00           C 0
+TER
+END

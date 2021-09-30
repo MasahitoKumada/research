@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1630
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9951
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6195
+HEADER 5  - Mean B-factor of pocket residues  : 0.3374
+HEADER 6  - Hydrophobicity Score              : -23.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 2.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.0640
+HEADER 10  -Pocket volume (convex hull)       : 4.6133
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1818
+ATOM    726  OD1 ASP A  90     -22.536  -7.365 -37.887  0.00  0.00           O 0
+ATOM   1120    N ASP A 135     -24.819  -4.095 -42.850  0.00  0.00           N 0
+ATOM   1124   CB ASP A 135     -24.423  -6.411 -42.146  0.00  0.00           C 0
+ATOM   1128    N SER A 136     -27.346  -4.817 -41.975  0.73  2.19           N 0
+ATOM   1118  ND2AASN A 134     -26.969  -0.116 -40.980  0.00  0.00           N 0
+ATOM   1112   CBAASN A 134     -25.056  -1.168 -41.987  0.00  0.00           C 0
+ATOM    723    O ASP A  90     -20.543  -3.319 -37.562  0.27  9.64           O 0
+ATOM   1114   CGAASN A 134     -26.538  -1.137 -41.691  0.00  0.00           C 0
+ATOM    742  CE1 HIS A  92     -23.944   2.519 -37.481  0.00  0.00           C 0
+ATOM    740  ND1 HIS A  92     -23.522   2.606 -38.729  0.00  0.00           N 0
+ATOM    731    O SER A  91     -21.260  -1.294 -41.367  0.56  1.07           O 0
+ATOM    722    C ASP A  90     -20.409  -3.811 -38.673  0.00  0.00           C 0
+ATOM   1132   CB SER A 136     -29.199  -4.133 -40.502  0.00  0.00           C 0
+ATOM   1133   OG SER A 136     -29.081  -2.750 -40.781  0.00  0.00           O 0
+ATOM    721   CA ASP A  90     -20.760  -5.285 -38.929  0.00  0.00           C 0
+ATOM    734    N HIS A  92     -20.684   0.418 -40.015  0.00  0.00           N 0
+ATOM    743  NE2 HIS A  92     -22.892   2.525 -36.684  0.58  4.37           N 0
+ATOM    730    C SER A  91     -20.615  -0.844 -40.415  0.00  0.00           C 0
+TER
+END

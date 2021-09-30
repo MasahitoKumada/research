@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0855
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5375
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3599
+HEADER 5  - Mean B-factor of pocket residues  : 0.1840
+HEADER 6  - Hydrophobicity Score              : 3.6667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 72.7386
+HEADER 10  -Pocket volume (convex hull)       : 0.1779
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   8121    O THR E 129      62.997  23.871 163.412  0.46  1.07           O 0
+ATOM   8652    O TRP E 195      59.062  29.264 160.513  0.67  6.43           O 0
+ATOM   8618   CB SER E 190      61.163  27.116 158.521  0.00  0.00           C 0
+ATOM   8132    N ASP E 131      58.973  24.379 164.573  0.58  1.09           N 0
+ATOM   8672    N SER E 197      57.140  26.011 160.744  0.00  0.00           N 0
+ATOM   8675    O SER E 197      57.581  23.604 162.220  0.00  0.00           O 0
+ATOM   8676   CB SER E 197      58.095  24.538 159.054  0.00  0.00           C 0
+ATOM   8627   CE LYS E 191      63.410  26.870 164.601  0.00  0.00           C 0
+ATOM   8626   CD LYS E 191      63.936  27.972 163.694  0.00  0.00           C 0
+ATOM   8133   CA ASP E 131      58.403  25.352 165.492  0.00  0.00           C 0
+ATOM   8628   NZ LYS E 191      62.732  27.407 165.820  0.50  9.84           N 0
+ATOM   8136   CB ASP E 131      57.263  26.121 164.827  0.00  0.00           C 0
+ATOM   8138  OD1 ASP E 131      57.361  28.215 165.954  0.46  5.36           O 0
+TER
+END

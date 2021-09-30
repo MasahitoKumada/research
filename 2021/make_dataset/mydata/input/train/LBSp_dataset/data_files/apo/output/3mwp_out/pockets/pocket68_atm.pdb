@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    68:
+HEADER 0  - Pocket Score                      : -0.0943
+HEADER 1  - Drug Score                        : 0.0036
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.8042
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4665
+HEADER 5  - Mean B-factor of pocket residues  : 0.4972
+HEADER 6  - Hydrophobicity Score              : 9.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 307.1057
+HEADER 10  -Pocket volume (convex hull)       : 11.4990
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5185
+ATOM   9690   CD PRO C 227     -21.999 -44.039   1.807  0.00  0.00           C 0
+ATOM   9425  CG1 VAL C 193     -22.202 -37.274   2.396  0.00  0.00           C 0
+ATOM   9688   CB PRO C 227     -22.097 -42.828  -0.228  0.00  0.00           C 0
+ATOM   9689   CG PRO C 227     -22.854 -43.848   0.587  0.00  0.00           C 0
+ATOM   9458  OD2 ASP C 197     -24.163 -38.692   6.089  0.00  0.00           O 0
+ATOM   9691    N ILE C 228     -19.504 -41.297   0.978  0.76  2.19           N 0
+ATOM   9455   CB ASP C 197     -21.899 -38.927   6.850  0.00  0.00           C 0
+ATOM   9680  ND1 HIS C 226     -19.141 -45.116   6.454  0.54  5.47           N 0
+ATOM   9454    O ASP C 197     -18.946 -40.332   7.673  0.64  1.07           O 0
+ATOM   9675   CA HIS C 226     -19.631 -45.026   3.185  0.00  0.00           C 0
+ATOM   9671    O SER C 225     -21.478 -46.583   4.524  0.00  0.00           O 0
+ATOM   9456   CG ASP C 197     -23.420 -39.126   7.009  0.00  0.00           C 0
+ATOM   9457  OD1 ASP C 197     -23.873 -39.708   8.021  0.00  0.00           O 0
+ATOM   9452   CA ASP C 197     -21.088 -39.282   8.112  0.00  0.00           C 0
+ATOM   9475   CB GLN C 200     -19.086 -42.603  10.751  0.00  0.00           C 0
+ATOM   9697  CG2 ILE C 228     -17.964 -40.273   3.425  0.00  0.00           C 0
+ATOM   9695   CB ILE C 228     -18.617 -39.374   2.340  0.00  0.00           C 0
+ATOM   9678   CB HIS C 226     -18.404 -44.767   4.064  0.00  0.00           C 0
+ATOM   9682  CE1 HIS C 226     -18.953 -45.969   7.446  0.00  0.00           C 0
+TER
+END

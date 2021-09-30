@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0684
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8746
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6027
+HEADER 5  - Mean B-factor of pocket residues  : 0.1717
+HEADER 6  - Hydrophobicity Score              : 24.8889
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 351.5614
+HEADER 10  -Pocket volume (convex hull)       : 18.5927
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   1883    N SER A1583      -1.608 -17.892   5.173  0.00  0.00           N 0
+ATOM   1888   OG SER A1583       1.000 -16.855   4.821  0.00  0.00           O 0
+ATOM   1887   CB SER A1583      -0.111 -16.012   4.684  0.00  0.00           C 0
+ATOM   1819    O GLU A1579      -3.745 -14.233  10.190  0.00  0.00           O 0
+ATOM   1834    O THR A1580      -5.334 -18.064   9.731  0.63  8.57           O 0
+ATOM   1848    O TRP A1581      -4.283 -17.047   6.780  0.50  3.21           O 0
+ATOM   1870   CA PRO A1582      -3.146 -19.436   6.262  0.00  0.00           C 0
+ATOM   2260   CA THR A1606      -2.481  -7.763   5.886  0.00  0.00           C 0
+ATOM   2265  CG2 THR A1606      -4.724  -8.106   6.945  0.00  0.00           C 0
+ATOM   1824  OE2 GLU A1579      -5.353  -7.872  11.327  0.00  0.00           O 0
+ATOM   2243    O LEU A1605      -1.586  -5.303   6.835  0.46  5.36           O 0
+ATOM   2262    O THR A1606      -0.989  -9.539   5.261  0.00  0.00           O 0
+ATOM   2310   CD ARG A1608      -3.996 -12.914   2.669  0.00  0.00           C 0
+ATOM   2308   CB ARG A1608      -1.847 -11.866   1.927  0.00  0.00           C 0
+ATOM   1799    O PHE A1578      -4.877 -12.949   6.726  0.31  3.21           O 0
+ATOM   1817   CA GLU A1579      -4.994 -12.349   9.412  0.00  0.00           C 0
+ATOM   1821   CG GLU A1579      -5.016 -10.012  10.362  0.00  0.00           C 0
+ATOM   2263   CB THR A1606      -3.699  -8.702   6.020  0.00  0.00           C 0
+ATOM   1820   CB GLU A1579      -5.222 -11.472  10.645  0.00  0.00           C 0
+TER
+END

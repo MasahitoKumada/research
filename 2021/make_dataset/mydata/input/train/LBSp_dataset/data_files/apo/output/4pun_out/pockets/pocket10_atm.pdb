@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0302
+HEADER 1  - Drug Score                        : 0.0040
+HEADER 2  - Number of alpha spheres           :    37
+HEADER 3  - Mean alpha-sphere radius          : 3.9169
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5340
+HEADER 5  - Mean B-factor of pocket residues  : 0.3041
+HEADER 6  - Hydrophobicity Score              : 1.3636
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3636
+HEADER 9  - Pocket volume (Monte Carlo)       : 289.3607
+HEADER 10  -Pocket volume (convex hull)       : 19.3112
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.5135
+ATOM   1862  OD1 ASP A 253     120.747  -0.907  25.829  0.00  0.00           O 0
+ATOM   1827   CA PRO A 249     122.841   5.673  26.273  0.00  0.00           C 0
+ATOM    122   CG LYS A  24     125.011   2.658  20.305  0.00  0.00           C 0
+ATOM    121   CB LYS A  24     123.767   2.136  19.595  0.00  0.00           C 0
+ATOM    120    O LYS A  24     121.262   0.583  19.663  0.45  2.14           O 0
+ATOM    100  NH1AARG A  21     121.068  -2.284  23.476  0.33  4.37           N 0
+ATOM    140  NH1 ARG A  26     118.210  -0.845  23.838  0.50  1.09           N 0
+ATOM   1824  CG1 VAL A 248     119.219   5.811  22.929  0.00  0.00           C 0
+ATOM    118   CA LYS A  24     123.663   0.622  19.507  0.00  0.00           C 0
+ATOM    116    O GLY A  23     124.757  -1.891  19.707  0.40  7.50           O 0
+ATOM   1829    O PRO A 249     122.670   5.122  28.572  0.44  9.64           O 0
+ATOM   1844    O LEU A 251     119.311   3.870  29.092  0.56  2.14           O 0
+ATOM   1860   CB ASP A 253     119.958  -0.765  28.068  0.00  0.00           C 0
+ATOM   2021    O ARG A 274     121.238   5.543  20.064  0.00  0.00           O 0
+ATOM   1830   CB PRO A 249     124.324   5.835  26.021  0.00  0.00           C 0
+ATOM   1822    O VAL A 248     120.175   6.025  25.943  0.53  1.07           O 0
+ATOM    123   CD LYS A  24     124.968   4.183  20.351  0.00  0.00           C 0
+ATOM   1896  CE1 HIS A 257     117.494   2.698  24.642  0.00  0.00           C 0
+ATOM    137   CD ARG A  26     118.551  -0.688  21.011  0.00  0.00           C 0
+ATOM   1826    N PRO A 249     122.257   6.623  25.330  0.00  0.00           N 0
+ATOM   2030   CA GLY A 275     119.643   3.296  19.742  0.00  0.00           C 0
+ATOM   1831   CG PRO A 249     124.449   6.306  24.598  0.00  0.00           C 0
+ATOM    124   CE LYS A  24     126.064   4.757  21.235  0.00  0.00           C 0
+TER
+END

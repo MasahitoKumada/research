@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0431
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9874
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5963
+HEADER 5  - Mean B-factor of pocket residues  : 0.3050
+HEADER 6  - Hydrophobicity Score              : -5.1111
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 324.2850
+HEADER 10  -Pocket volume (convex hull)       : 11.5227
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    787   CB SER E 108       9.457 -21.038   0.173  0.00  0.00           C 0
+ATOM   1642   OG SER E 217      16.247 -23.874   0.620  0.00  0.00           O 0
+ATOM   1641   CB SER E 217      16.426 -22.561   0.118  0.00  0.00           C 0
+ATOM    788   OG SER E 108       9.533 -19.935   1.059  0.00  0.00           O 0
+ATOM   1462   OG SER E 194      10.252 -25.759  -5.447  0.68  2.14           O 0
+ATOM   1461   CB SER E 194      10.337 -27.059  -6.006  0.00  0.00           C 0
+ATOM   1597   NZ LYS E 210       9.054 -31.502  -3.695  0.00  0.00           N 1
+ATOM   1494  OE2 GLU E 198       5.331 -28.573  -4.556  0.00  0.00           O 1
+ATOM   1619  ND2 ASN E 214      12.413 -27.274  -2.532  0.00  0.00           N 0
+ATOM    792    O LEU E 109      13.248 -22.770  -3.051  0.69  3.21           O 0
+ATOM    789    N LEU E 109      10.653 -21.934  -2.671  0.00  0.00           N 0
+ATOM    790   CA LEU E 109      10.928 -22.931  -3.700  0.00  0.00           C 0
+ATOM    786    O SER E 108       8.441 -22.349  -2.628  0.00  0.00           O 0
+ATOM   1646    O LYS E 218      12.786 -19.749  -2.086  0.70  7.50           O 0
+ATOM   1888   NZ LYS E 251       3.556 -25.421  -3.581  0.00  0.00           N 1
+ATOM   1493  OE1 GLU E 198       5.363 -26.459  -5.129  0.51  3.21           O 0
+ATOM   1596   CE LYS E 210       9.153 -30.833  -5.012  0.00  0.00           C 0
+ATOM    785    C SER E 108       9.416 -21.697  -2.247  0.00  0.00           C 0
+TER
+END

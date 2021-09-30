@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1026
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6370
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3842
+HEADER 5  - Mean B-factor of pocket residues  : 0.1753
+HEADER 6  - Hydrophobicity Score              : 4.6667
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 120.4619
+HEADER 10  -Pocket volume (convex hull)       : 2.0828
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    369   CA ARG A  51      19.292   4.370  14.561  0.00  0.00           C 0
+ATOM    355  OG1 THR A  49      16.877   3.709  19.756  0.47  3.21           O 0
+ATOM    373   CG ARG A  51      17.393   6.106  14.806  0.00  0.00           C 0
+ATOM   1029    O GLU A 135      18.151   1.176  13.738  0.79  4.29           O 0
+ATOM    661  OE1 GLU A  87      13.032   0.542  16.227  0.59  6.43           O 0
+ATOM   1041  CG2 VAL A 136      17.606  -0.593  17.065  0.00  0.00           C 0
+ATOM   1033  OE1 GLU A 135      14.227   0.116  11.908  0.00  0.00           O 0
+ATOM    377  NH1 ARG A  51      14.294   5.935  13.743  0.40  5.47           N 0
+ATOM    473  CG2 THR A  63      16.263   7.066  18.320  0.00  0.00           C 0
+ATOM    485    O SER A  65      14.082   2.430  20.422  0.41  2.14           O 0
+ATOM    495    N CYS A  67      10.418   3.808  17.732  0.50  2.19           N 0
+ATOM    500   SG CYS A  67      10.390   7.121  17.835  0.00  0.00           S 0
+ATOM    499   CB CYS A  67       9.955   5.944  16.553  0.00  0.00           C 0
+ATOM    477    O ASN A  64      14.387   5.680  20.603  0.00  0.00           O 0
+TER
+END

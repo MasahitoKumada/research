@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : 0.0027
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8232
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4682
+HEADER 5  - Mean B-factor of pocket residues  : 0.3742
+HEADER 6  - Hydrophobicity Score              : 6.3000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.6677
+HEADER 10  -Pocket volume (convex hull)       : 21.4261
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   5559   CA GLY C3192     136.301   4.081 175.883  0.00  0.00           C 0
+ATOM   5558    N GLY C3192     135.986   5.212 176.749  0.73  3.28           N 0
+ATOM   5555    O SER C3191     135.329   6.517 175.012  0.67  2.14           O 0
+ATOM   5262  OD1 ASP C3153     129.052   5.986 177.310  0.00  0.00           O 0
+ATOM   5554    C SER C3191     135.532   6.354 176.231  0.00  0.00           C 0
+ATOM   5548    O VAL C3190     134.108   7.021 179.633  0.57  7.50           O 0
+ATOM   5561    O GLY C3192     137.426   4.061 173.754  0.79  3.21           O 0
+ATOM   4117   NZ LYS C3004     133.118   5.282 169.201  0.75  3.28           N 0
+ATOM   4115   CD LYS C3004     135.510   5.113 169.495  0.00  0.00           C 0
+ATOM   5290   CD LYS C3156     127.417   3.473 172.731  0.00  0.00           C 0
+ATOM   5325  OE1 GLU C3161     130.220   2.862 169.215  0.61  6.43           O 0
+ATOM   5254  CG1 VAL C3152     131.508   8.520 173.940  0.00  0.00           C 0
+ATOM   5319   CA GLU C3161     129.995   6.980 167.846  0.00  0.00           C 0
+ATOM   5340   CB VAL C3163     132.204  11.435 170.336  0.00  0.00           C 0
+ATOM   5288   CB LYS C3156     126.745   5.857 172.371  0.00  0.00           C 0
+ATOM   5313    O ASN C3160     127.847   8.320 168.965  0.48  1.07           O 0
+ATOM   5252    O VAL C3152     128.383   8.881 173.795  0.00  0.00           O 0
+ATOM   5323   CG GLU C3161     128.961   4.798 168.649  0.00  0.00           C 0
+TER
+END

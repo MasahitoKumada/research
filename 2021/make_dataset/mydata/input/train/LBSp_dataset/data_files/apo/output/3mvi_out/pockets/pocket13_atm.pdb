@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0567
+HEADER 1  - Drug Score                        : 0.0040
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.1642
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7037
+HEADER 5  - Mean B-factor of pocket residues  : 0.3447
+HEADER 6  - Hydrophobicity Score              : 6.7143
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 363.7414
+HEADER 10  -Pocket volume (convex hull)       : 11.1726
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.5714
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6087
+ATOM   3392   CB LYS B  80     -40.437  -0.331  -6.212  0.00  0.00           C 0
+ATOM   3367   CA GLU B  77     -40.977   4.484  -7.234  0.00  0.00           C 0
+ATOM   3394   CD LYS B  80     -42.151  -1.797  -7.283  0.00  0.00           C 0
+ATOM   3358    O ARG B  76     -41.289   3.055  -4.850  0.74  1.07           O 0
+ATOM   3369    O GLU B  77     -38.987   3.158  -7.363  0.49  2.14           O 0
+ATOM   3814  CD2 LEU B 132     -43.913   0.464  -3.463  0.00  0.00           C 0
+ATOM   3359   CB ARG B  76     -43.920   4.689  -3.916  0.00  0.00           C 0
+ATOM   3366    N GLU B  77     -41.627   4.982  -6.016  0.79  1.09           N 0
+ATOM   3371   CG GLU B  77     -42.407   5.863  -8.894  0.00  0.00           C 0
+ATOM   3357    C ARG B  76     -41.707   4.226  -4.918  0.00  0.00           C 0
+ATOM   3393   CG LYS B  80     -40.665  -1.614  -6.994  0.00  0.00           C 0
+ATOM   3397    N ARG B  81     -37.533   0.629  -7.092  0.00  0.00           N 0
+ATOM   3396   NZ LYS B  80     -42.796  -2.728  -9.523  0.00  0.00           N 0
+ATOM   3370   CB GLU B  77     -41.044   5.500  -8.370  0.00  0.00           C 0
+ATOM   3867  OE1 GLU B 139     -40.995  -4.980 -10.791  0.00  0.00           O 0
+ATOM   3398   CA ARG B  81     -36.507   0.596  -8.135  0.00  0.00           C 0
+ATOM   3425   CB TYR B  84     -35.875  -3.771  -9.473  0.00  0.00           C 0
+ATOM   3391    O LYS B  80     -37.378  -1.591  -6.631  0.00  0.00           O 0
+ATOM   3401   CB ARG B  81     -36.426   1.941  -8.865  0.00  0.00           C 0
+ATOM   3426   CG TYR B  84     -35.666  -4.414 -10.828  0.00  0.00           C 0
+ATOM   3427  CD1 TYR B  84     -34.807  -3.823 -11.772  0.00  0.00           C 0
+ATOM   3402   CG ARG B  81     -35.371   1.988  -9.963  0.00  0.00           C 0
+TER
+END

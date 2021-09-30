@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1104
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8528
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4319
+HEADER 5  - Mean B-factor of pocket residues  : 0.5187
+HEADER 6  - Hydrophobicity Score              : 37.3636
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5455
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.1096
+HEADER 10  -Pocket volume (convex hull)       : 7.7188
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2800
+ATOM   2082  CD2 LEU A1089      25.288  12.721  70.440  0.00  0.00           C 0
+ATOM     12    O GLU A 826      20.406   6.899  69.260  0.44  4.29           O 0
+ATOM      2   CA MET A 825      24.352   6.917  70.486  0.00  0.00           C 0
+ATOM     26  CD1 ILE A 828      17.579  10.926  70.976  0.00  0.00           C 0
+ATOM     91  NE2 HIS A 836      18.439  13.932  72.769  0.79  5.47           N 0
+ATOM     90  CE1 HIS A 836      18.502  13.448  73.996  0.00  0.00           C 0
+ATOM   2066  OD1 ASN A1087      21.898   9.530  66.405  0.56  3.21           O 0
+ATOM      6   CG MET A 825      25.443   8.609  68.896  0.00  0.00           C 0
+ATOM    211  OD2 ASP A 851      22.684  15.994  71.654  0.52  4.29           O 0
+ATOM   2075    N LEU A1089      22.459  13.627  66.500  0.54  1.09           N 0
+ATOM   2297  NE2 HIS A1113      18.633  17.362  68.991  0.71  1.09           N 0
+ATOM   2260   OH TYR A1109      22.873  16.811  68.989  0.63  1.07           O 0
+ATOM    210  OD1 ASP A 851      24.104  15.623  73.293  0.57  8.57           O 0
+ATOM   2079   CB LEU A1089      23.965  13.311  68.409  0.00  0.00           C 0
+ATOM   2068    N VAL A1088      19.932  12.802  65.349  0.65  1.09           N 0
+ATOM   2061   CA ASN A1087      19.515  10.406  65.242  0.00  0.00           C 0
+ATOM   2072   CB VAL A1088      19.996  15.255  65.763  0.00  0.00           C 0
+ATOM     63  CE1 PHE A 833      15.679  13.944  68.632  0.00  0.00           C 0
+TER
+END

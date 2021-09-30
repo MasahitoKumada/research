@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1089
+HEADER 1  - Drug Score                        : 0.0072
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7028
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4591
+HEADER 5  - Mean B-factor of pocket residues  : 0.4562
+HEADER 6  - Hydrophobicity Score              : 10.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.2612
+HEADER 10  -Pocket volume (convex hull)       : 6.6783
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5417
+ATOM   1551   CG GLU A1565     -25.575 -19.394   8.727  0.00  0.00           C 0
+ATOM   1540   CB SER A1564     -28.428 -15.552   8.621  0.00  0.00           C 0
+ATOM   1536    N SER A1564     -27.808 -15.177   6.275  0.00  0.00           N 0
+ATOM    694  NH1 ARG A1507     -30.128 -21.121   3.818  0.38  4.37           N 0
+ATOM   1530   CB PHE A1563     -27.979 -16.665   3.581  0.00  0.00           C 0
+ATOM    674    O THR A1506     -25.759 -23.572   2.804  0.00  0.00           O 0
+ATOM    660    O ASN A1505     -25.499 -21.866  -0.261  0.65  4.29           O 0
+ATOM   1567  CD1 LEU A1566     -22.296 -18.393   2.509  0.00  0.00           C 0
+ATOM   1546    N GLU A1565     -25.641 -16.682   7.427  0.53  1.09           N 0
+ATOM   1554  OE2 GLU A1565     -26.836 -17.858  10.039  0.66  3.21           O 0
+ATOM    658   CA ASN A1505     -23.288 -21.190   0.384  0.00  0.00           C 0
+ATOM   1550   CB GLU A1565     -24.526 -18.867   7.783  0.00  0.00           C 0
+ATOM    728   CG PRO A1509     -24.003 -22.332   6.338  0.00  0.00           C 0
+ATOM    659    C ASN A1505     -24.418 -22.194   0.228  0.00  0.00           C 0
+ATOM   1561    N LEU A1566     -23.083 -16.429   5.969  0.00  0.00           N 0
+ATOM    727   CB PRO A1509     -23.285 -22.292   5.023  0.00  0.00           C 0
+ATOM    729   CD PRO A1509     -24.926 -23.507   6.269  0.00  0.00           C 0
+ATOM    661   CB ASN A1505     -23.660 -19.876  -0.307  0.00  0.00           C 0
+TER
+END

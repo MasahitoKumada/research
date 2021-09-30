@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0800
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9715
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6478
+HEADER 5  - Mean B-factor of pocket residues  : 0.5578
+HEADER 6  - Hydrophobicity Score              : -6.7143
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 350.1785
+HEADER 10  -Pocket volume (convex hull)       : 14.9102
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2873  NH1AARG A 378     125.407   5.410   7.934  0.00  0.00           N 0
+ATOM   2028  NH2 ARG A 274     125.626   9.716  13.886  0.00  0.00           N 0
+ATOM   2016  OE1 GLU A 273     123.481   5.502  10.811  0.68  2.14           O 0
+ATOM   2017  OE2 GLU A 273     124.821   3.795  10.604  0.20  9.64           O 0
+ATOM   2875  NH2AARG A 378     123.376   6.450   8.038  0.65  5.47           N 0
+ATOM   2026   CZ ARG A 274     124.517   9.219  14.415  0.00  0.00           C 0
+ATOM   2012    O GLU A 273     123.647   3.640  16.493  0.58  5.36           O 0
+ATOM   2013   CB GLU A 273     123.050   4.252  13.516  0.00  0.00           C 0
+ATOM   2871   CZAARG A 378     124.498   6.205   7.384  0.00  0.00           C 0
+ATOM   1766  CE2 PHE A 241     122.340  11.128  11.358  0.00  0.00           C 0
+ATOM   2869   NEAARG A 378     124.727   6.758   6.199  0.00  0.00           N 0
+ATOM   1800  OD1 ASP A 245     125.827   9.687  17.913  0.34  7.50           O 0
+ATOM   2023   CG ARG A 274     123.201   7.557  16.836  0.00  0.00           C 0
+ATOM   2867   CDAARG A 378     123.799   7.654   5.500  0.00  0.00           C 0
+ATOM   2027  NH1 ARG A 274     123.706   8.487  13.656  0.00  0.00           N 0
+ATOM   2015   CD GLU A 273     123.828   4.353  11.120  0.00  0.00           C 0
+ATOM    123   CD LYS A  24     124.968   4.183  20.351  0.00  0.00           C 0
+ATOM    125   NZ LYS A  24     126.004   6.250  21.229  0.68  4.37           N 0
+ATOM   1730  OE1 GLN A 237     122.140  13.522   8.757  0.00  0.00           O 0
+TER
+END

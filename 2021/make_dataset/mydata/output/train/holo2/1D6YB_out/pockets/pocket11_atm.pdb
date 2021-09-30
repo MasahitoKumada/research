@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0882
+HEADER 1  - Drug Score                        : 0.0102
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.5891
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3832
+HEADER 5  - Mean B-factor of pocket residues  : 0.7416
+HEADER 6  - Hydrophobicity Score              : 47.7500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.8072
+HEADER 10  -Pocket volume (convex hull)       : 7.2672
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.5714
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5833
+ATOM   1534   CB ASN B 200      27.471  22.634  16.718  0.00  0.00           C 0
+ATOM   1533    O ASN B 200      27.508  19.922  18.419  0.00  9.64           O 0
+ATOM   1669   CG LYS B 218      24.807  25.502  22.733  0.00  0.00           C 0
+ATOM   1671   CE LYS B 218      24.428  23.280  23.848  0.00  0.00           C 0
+ATOM   1665   CA LYS B 218      27.109  26.577  22.244  0.00  0.00           C 0
+ATOM   1535   CG ASN B 200      27.852  24.103  16.810  0.00  0.00           C 0
+ATOM   1537  OD1 ASN B 200      27.095  24.972  16.379  0.60  7.50           O 0
+ATOM   1662    O ALA B 217      29.590  25.477  21.875  0.70  3.21           O 0
+ATOM   1531   CA ASN B 200      28.573  21.700  17.217  0.00  0.00           C 0
+ATOM   1686   CB VAL B 220      32.673  26.811  20.940  0.00  0.00           C 0
+ATOM   1578  CE1 PHE B 205      35.343  22.604  19.688  0.00  0.00           C 0
+ATOM   1688  CG2 VAL B 220      32.840  26.347  22.377  0.00  0.00           C 0
+ATOM   1576  CD1 PHE B 205      34.752  21.346  19.676  0.00  0.00           C 0
+ATOM   1528  CG2 ILE B 199      32.627  23.083  17.228  0.00  0.00           C 0
+ATOM   1663   CB ALA B 217      29.809  23.068  23.727  0.00  0.00           C 0
+ATOM   1525    O ILE B 199      31.051  20.599  17.725  0.45  3.21           O 0
+ATOM   1585   CB ALA B 206      30.959  18.589  22.927  0.00  0.00           C 0
+ATOM   1602  CG2 VAL B 209      35.576  22.624  22.757  0.00  0.00           C 0
+ATOM   1536  ND2 ASN B 200      29.018  24.389  17.379  0.00  0.00           N 0
+ATOM   1582   CA ALA B 206      32.421  19.014  22.954  0.00  0.00           C 0
+TER
+END

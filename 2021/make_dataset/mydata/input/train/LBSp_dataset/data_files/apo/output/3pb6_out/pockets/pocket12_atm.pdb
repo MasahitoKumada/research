@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1256
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8155
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6226
+HEADER 5  - Mean B-factor of pocket residues  : 0.4574
+HEADER 6  - Hydrophobicity Score              : 16.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.7519
+HEADER 10  -Pocket volume (convex hull)       : 2.5012
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    536    C PHE X 137      28.605  49.658  30.381  0.00  0.00           C 0
+ATOM    534    N PHE X 137      28.658  47.325  30.986  0.00  0.00           N 0
+ATOM    535   CA PHE X 137      29.222  48.316  30.075  0.00  0.00           C 0
+ATOM    550  OG1 THR X 138      30.080  52.455  31.999  0.00  0.00           O 0
+ATOM    537    O PHE X 137      27.587  49.747  31.048  0.00  0.00           O 0
+ATOM    530    O PRO X 136      30.348  45.867  30.661  0.00  0.00           O 0
+ATOM    531   CB PRO X 136      29.273  45.241  33.472  0.00  0.00           C 0
+ATOM    529    C PRO X 136      29.245  46.176  31.184  0.00  0.00           C 0
+ATOM    608   CG ASP X 147      27.586  52.039  34.879  0.00  0.00           C 0
+ATOM    610  OD2 ASP X 147      27.949  51.881  36.103  0.00  0.00           O 0
+ATOM    609  OD1 ASP X 147      28.287  52.733  34.038  0.64  7.50           O 0
+ATOM    607   CB ASP X 147      26.481  51.369  34.507  0.00  0.00           C 0
+ATOM    371  NH1 ARG X 116      24.773  46.465  37.019  0.81  3.28           N 0
+ATOM    614    O PHE X 148      26.008  47.145  32.115  0.00  0.00           O 0
+TER
+END

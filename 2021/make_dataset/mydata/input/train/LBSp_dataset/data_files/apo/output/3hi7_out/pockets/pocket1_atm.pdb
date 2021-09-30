@@ -1,0 +1,61 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.3800
+HEADER 1  - Drug Score                        : 0.3210
+HEADER 2  - Number of alpha spheres           :    65
+HEADER 3  - Mean alpha-sphere radius          : 3.6785
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4256
+HEADER 5  - Mean B-factor of pocket residues  : 0.3778
+HEADER 6  - Hydrophobicity Score              : 29.3636
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 289.7477
+HEADER 10  -Pocket volume (convex hull)       : 45.6941
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 32.9714
+HEADER 13 - Number of apolar alpha sphere     :    35
+HEADER 14 - Proportion of apolar alpha sphere : 0.5385
+ATOM   3350  CG1 VAL A 458     -31.994 -11.429  70.464  0.00  0.00           C 0
+ATOM   2693  NE1 TRP A 376     -32.879 -16.799  71.091  0.00  0.00           N 0
+ATOM   2691  CD1 TRP A 376     -33.735 -16.031  70.348  0.00  0.00           C 0
+ATOM   2672  OD1 ASP A 373     -31.193 -14.702  66.317  0.52  4.29           O 0
+ATOM   2551   CB ALA A 357     -25.882 -18.012  64.688  0.00  0.00           C 0
+ATOM   2650   CB TYR A 371     -28.687 -18.387  68.409  0.00  0.00           C 0
+HETATM 3379   O2 TPQ A 461     -25.579 -13.187  65.970  0.62  3.21           O 0
+HETATM 3374   CB TPQ A 461     -25.909 -10.437  65.316  0.00  0.00           C 0
+ATOM   2673  OD2 ASP A 373     -31.376 -13.933  64.277  0.54  1.07           O 0
+ATOM   2698  CH2 TRP A 376     -31.408 -15.511  74.224  0.00  0.00           C 0
+ATOM   2696  CZ2 TRP A 376     -31.639 -16.446  73.241  0.00  0.00           C 0
+ATOM   2654  CE1 TYR A 371     -28.040 -17.577  72.127  0.00  0.00           C 0
+ATOM   3356   CB TYR A 459     -28.309 -10.177  71.961  0.00  0.00           C 0
+ATOM   2697  CZ3 TRP A 376     -32.019 -14.260  74.201  0.00  0.00           C 0
+ATOM   2653  CD2 TYR A 371     -26.736 -17.431  69.678  0.00  0.00           C 0
+ATOM   3370  OD1 ASN A 460     -25.494 -11.792  69.969  0.89  2.14           O 0
+ATOM   2651   CG TYR A 371     -28.005 -17.983  69.707  0.00  0.00           C 0
+ATOM   2652  CD1 TYR A 371     -28.672 -18.031  70.938  0.00  0.00           C 0
+ATOM   3335    O SER A 456     -30.671  -7.435  64.158  0.56  1.07           O 0
+ATOM   3351  CG2 VAL A 458     -32.696 -11.161  68.024  0.00  0.00           C 0
+ATOM   3337   OG SER A 456     -32.530  -9.238  62.735  0.68  1.07           O 0
+ATOM   2692  CD2 TRP A 376     -33.140 -14.833  72.141  0.00  0.00           C 0
+ATOM   2695  CE3 TRP A 376     -32.900 -13.899  73.164  0.00  0.00           C 0
+ATOM   3401  CD2 TYR A 463     -29.749 -11.749  61.348  0.00  0.00           C 0
+ATOM   2694  CE2 TRP A 376     -32.504 -16.091  72.202  0.00  0.00           C 0
+HETATM 3376    O TPQ A 461     -27.816  -8.086  66.112  0.56  1.07           O 0
+ATOM   3403  CE2 TYR A 463     -29.120 -12.882  61.834  0.00  0.00           C 0
+ATOM   3357   CG TYR A 459     -27.531 -10.177  73.257  0.00  0.00           C 0
+ATOM   3359  CD2 TYR A 459     -26.302 -10.864  73.367  0.00  0.00           C 0
+ATOM   3345    N VAL A 458     -31.263  -8.517  68.095  0.60  2.19           N 0
+ATOM   3349   CB VAL A 458     -31.702 -10.754  69.115  0.00  0.00           C 0
+ATOM   2657   OH TYR A 371     -26.092 -16.581  73.166  0.00  0.00           O 0
+ATOM   1286    O ASP A 186     -27.364 -16.653  75.723  0.00  0.00           O 0
+ATOM   2656   CZ TYR A 371     -26.766 -17.044  72.052  0.00  0.00           C 0
+ATOM   2655  CE2 TYR A 371     -26.111 -16.976  70.836  0.00  0.00           C 0
+ATOM   1289  OD1 ASP A 186     -29.297 -14.763  77.631  0.23  3.21           O 0
+ATOM   3358  CD1 TYR A 459     -28.026  -9.535  74.382  0.00  0.00           C 0
+HETATM 3372    N TPQ A 461     -25.682  -9.231  67.490  0.00  0.00           N 0
+ATOM   3352    N TYR A 459     -29.481  -8.955  70.216  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0791
+HEADER 1  - Drug Score                        : 0.0052
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8983
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5194
+HEADER 5  - Mean B-factor of pocket residues  : 0.5649
+HEADER 6  - Hydrophobicity Score              : 23.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 340.0983
+HEADER 10  -Pocket volume (convex hull)       : 14.6373
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM    122   CG GLN A  18      22.115  18.820   5.428  0.00  0.00           C 0
+ATOM    123   CD GLN A  18      21.714  18.301   4.076  0.00  0.00           C 0
+ATOM    124  OE1 GLN A  18      21.117  19.024   3.305  0.00  0.00           O 0
+ATOM    347  CD2 HIS A  47      25.883  22.166   6.187  0.00  0.00           C 0
+ATOM    349  NE2 HIS A  47      26.269  21.247   7.096  0.00  0.00           N 0
+ATOM    110    O GLY A  16      26.275  19.306  10.595  0.00  0.00           O 0
+ATOM    112   CA SER A  17      23.619  19.007  10.227  0.00  0.00           C 0
+ATOM    117    N GLN A  18      22.255  19.400   8.261  0.50  1.09           N 0
+ATOM    115   CB SER A  17      23.001  17.821  10.939  0.00  0.00           C 0
+ATOM    338  CG1 VAL A  46      28.600  20.561   3.256  0.00  0.00           C 0
+ATOM    125  NE2 GLN A  18      21.999  17.039   3.790  0.00  0.00           N 0
+ATOM    369   SD MET A  50      21.266  23.752   5.704  0.00  0.00           S 0
+ATOM    367   CB MET A  50      21.958  24.922   3.367  0.00  0.00           C 0
+ATOM    336    O VAL A  46      27.426  22.926   2.053  0.17  7.50           O 0
+ATOM    341   CA HIS A  47      26.553  24.601   4.354  0.00  0.00           C 0
+ATOM    363    N MET A  50      23.029  26.078   1.484  0.00  0.00           N 0
+TER
+END

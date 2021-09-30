@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0705
+HEADER 1  - Drug Score                        : 0.0072
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0705
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6656
+HEADER 5  - Mean B-factor of pocket residues  : 0.7510
+HEADER 6  - Hydrophobicity Score              : 27.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.5231
+HEADER 10  -Pocket volume (convex hull)       : 3.3309
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   1404   CB PRO A 178      31.534 -42.356 -33.746  0.00  0.00           C 0
+ATOM   1411   CB ALA A 179      27.210 -42.426 -30.690  0.00  0.00           C 0
+ATOM   1407    N ALA A 179      28.887 -41.295 -32.059  0.00  0.00           N 0
+ATOM   1402    C PRO A 178      29.374 -41.134 -33.285  0.00  0.00           C 0
+ATOM   1125   CG GLU A 143      29.621 -44.445 -28.818  0.00  0.00           C 0
+ATOM   1124   CB GLU A 143      29.322 -45.934 -28.750  0.00  0.00           C 0
+ATOM   1405   CG PRO A 178      32.837 -42.323 -33.014  0.00  0.00           C 0
+ATOM   1168  CD1 ILE A 148      24.111 -42.233 -35.291  0.00  0.00           C 0
+ATOM   1403    O PRO A 178      28.661 -41.089 -34.287  0.75  5.36           O 0
+ATOM   1408   CA ALA A 179      27.454 -41.439 -31.827  0.00  0.00           C 0
+ATOM   1150   CA GLY A 146      24.757 -48.497 -32.225  0.00  0.00           C 0
+ATOM   1123    O GLU A 143      27.643 -48.432 -30.276  0.00  0.00           O 0
+ATOM   1121   CA GLU A 143      27.897 -46.331 -29.137  0.00  0.00           C 0
+ATOM   1156    O ILE A 147      23.817 -43.984 -30.978  0.00  0.00           O 0
+ATOM   1151    C GLY A 146      23.596 -47.541 -32.424  0.00  0.00           C 0
+ATOM   1152    O GLY A 146      22.928 -47.553 -33.457  0.43  7.50           O 0
+TER
+END

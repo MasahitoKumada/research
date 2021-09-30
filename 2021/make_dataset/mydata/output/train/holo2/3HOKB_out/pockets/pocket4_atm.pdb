@@ -1,0 +1,54 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0157
+HEADER 1  - Drug Score                        : 0.0048
+HEADER 2  - Number of alpha spheres           :    51
+HEADER 3  - Mean alpha-sphere radius          : 3.9601
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5904
+HEADER 5  - Mean B-factor of pocket residues  : 0.6882
+HEADER 6  - Hydrophobicity Score              : 3.5000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 366.3432
+HEADER 10  -Pocket volume (convex hull)       : 36.2894
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 30.0000
+HEADER 13 - Number of apolar alpha sphere     :    31
+HEADER 14 - Proportion of apolar alpha sphere : 0.6078
+ATOM    130  CD2 HIS B  25      13.847  -0.501  41.239  0.00  0.00           C 0
+ATOM    128   CB HIS B  25      13.678  -2.801  42.438  0.00  0.00           C 0
+ATOM     72    O LYS B  18       9.297  -0.032  46.584  0.55  4.29           O 0
+ATOM     98  OG1 THR B  21       8.684  -1.331  43.040  0.58  3.21           O 0
+ATOM     76   CE LYS B  18      11.673   4.522  47.054  0.00  0.00           C 0
+ATOM     74   CG LYS B  18       9.807   3.058  46.188  0.00  0.00           C 0
+ATOM    107   NZ LYS B  22      12.370  -0.795  49.855  0.62  8.75           N 1
+HETATM 1833  CHA HEM B 300      14.779   3.861  40.532  0.00  0.00           C 0
+ATOM    133  NE2 HIS B  25      14.911   0.251  40.799  0.82  1.09           N 0
+HETATM 1860  C4D HEM B 300      13.798   3.207  39.824  0.00  0.00           C 0
+HETATM 1825  CBA HEM B 300      16.357   5.700  43.017  0.00  0.00           C 0
+HETATM 1841  C1A HEM B 300      16.108   3.523  40.554  0.00  0.00           C 0
+ATOM   1047   OH TYR B 134       8.196   2.649  42.035  0.71  3.21           O 0
+HETATM 1846  O1D HEM B 300       9.296   4.656  42.754  0.76  1.07           O 0
+HETATM 1856  C3D HEM B 300      12.446   3.681  39.676  0.00  0.00           C 0
+ATOM     95    O THR B  21      11.065  -3.691  43.543  0.00  0.00           O 0
+HETATM 1852  O2D HEM B 300      10.778   6.265  42.455  0.59  2.14           O 0
+ATOM    162  OE1 GLU B  29      19.603  -1.835  43.492  0.60  6.43           O 0
+HETATM 1837  CMA HEM B 300      19.733   4.163  41.310  0.00  0.00           C 0
+HETATM 1853  C3A HEM B 300      18.329   3.664  40.903  0.00  0.00           C 0
+ATOM    100   CA LYS B  22      11.688  -3.463  46.230  0.00  0.00           C 0
+ATOM    129   CG HIS B  25      14.354  -1.626  41.798  0.00  0.00           C 0
+ATOM    104   CG LYS B  22      12.967  -3.279  48.455  0.00  0.00           C 0
+HETATM 1831  CGD HEM B 300      10.149   5.252  42.051  0.00  0.00           C 0
+ATOM    132  CE1 HIS B  25      16.033  -0.382  41.092  0.00  0.00           C 0
+HETATM 1824   NA HEM B 300      16.653   2.340  40.096  0.00  0.00           N 0
+HETATM 1857  C4A HEM B 300      18.020   2.386  40.299  0.00  0.00           C 0
+HETATM 1847  C2A HEM B 300      17.186   4.339  41.059  0.00  0.00           C 0
+ATOM    102    O LYS B  22      13.495  -4.784  45.347  0.00  0.00           O 0
+ATOM    163  OE2 GLU B  29      17.434  -1.948  43.213  0.68  4.29           O 1
+ATOM    140  OG1 THR B  26      15.946  -5.202  46.076  0.72  4.29           O 0
+ATOM    131  ND1 HIS B  25      15.723  -1.514  41.700  0.00  0.00           N 0
+TER
+END

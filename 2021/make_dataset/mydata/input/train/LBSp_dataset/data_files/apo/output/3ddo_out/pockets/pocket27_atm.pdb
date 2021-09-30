@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : 0.0383
+HEADER 1  - Drug Score                        : 0.0054
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7887
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4731
+HEADER 5  - Mean B-factor of pocket residues  : 0.5821
+HEADER 6  - Hydrophobicity Score              : 19.7273
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 301.6676
+HEADER 10  -Pocket volume (convex hull)       : 13.5882
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM  10682  OE1 GLU F6185      25.100  10.211  -7.410  0.25  3.21           O 0
+ATOM   6878   CD ARG D4175      29.152  15.613  -6.032  0.00  0.00           C 0
+ATOM  10720   CB ALA F6189      26.992  14.298  -9.422  0.00  0.00           C 0
+ATOM  10683  OE2 GLU F6185      23.925  11.929  -8.110  0.00  0.00           O 0
+ATOM   6877   CG ARG D4175      28.725  15.930  -4.564  0.00  0.00           C 0
+ATOM  10685   CA GLU F6186      28.576   9.940  -8.827  0.00  0.00           C 0
+ATOM  10689   CG GLU F6186      28.787   8.795  -6.563  0.00  0.00           C 0
+ATOM  10688   CB GLU F6186      29.454   9.096  -7.894  0.00  0.00           C 0
+ATOM  10687    O GLU F6186      29.668  11.764  -9.948  0.00  0.00           O 0
+ATOM  10728   CE MET F6190      33.105  12.352  -7.217  0.00  0.00           C 0
+ATOM   6881  NH1 ARG D4175      31.820  14.944  -5.263  0.66  1.09           N 0
+ATOM   6876   CB ARG D4175      27.730  17.108  -4.424  0.00  0.00           C 0
+ATOM   6831  CE1 TYR D4169      25.481  15.981   1.585  0.00  0.00           C 0
+ATOM   6936   CD LYS D4181      26.468  11.112  -0.170  0.00  0.00           C 0
+ATOM   6871    O GLY D4174      24.808  18.450  -1.950  0.00  0.00           O 0
+ATOM   6883    N VAL D4176      28.331  15.935  -1.411  0.69  1.09           N 0
+ATOM   6873   CA ARG D4175      27.231  17.418  -2.994  0.00  0.00           C 0
+ATOM   6886    O VAL D4176      29.128  13.220  -1.447  0.59  4.29           O 0
+ATOM   6897    N ARG D4178      31.390  10.393  -1.838  0.58  3.28           N 0
+ATOM  10692  OE2 GLU F6186      29.311   7.598  -4.575  0.70  1.07           O 0
+ATOM   6891   CA VAL D4177      31.806  12.792  -2.086  0.00  0.00           C 0
+TER
+END

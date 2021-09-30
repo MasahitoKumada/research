@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    61:
+HEADER 0  - Pocket Score                      : 0.0250
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7963
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4944
+HEADER 5  - Mean B-factor of pocket residues  : 0.7100
+HEADER 6  - Hydrophobicity Score              : 46.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.1381
+HEADER 10  -Pocket volume (convex hull)       : 3.3925
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  30395    O GLY I 388     106.041-184.447   3.169  0.69  3.21           O 0
+ATOM  30415   CG GLU I 390     103.222-187.594   5.842  0.00  0.00           C 0
+ATOM  30417  OE1 GLU I 390     102.493-189.564   4.726  0.75  8.57           O 0
+ATOM  24684   CB ALA H 108     106.272-188.069   2.979  0.00  0.00           C 0
+ATOM  27229   CB SER I   2      98.445-188.568   6.480  0.00  0.00           C 0
+ATOM  30411   CA GLU I 390     103.715-185.675   7.449  0.00  0.00           C 0
+ATOM  27234    O ILE I   3      97.080-184.314   5.247  0.56  7.50           O 0
+ATOM  30376  CD1 LEU I 385     101.073-182.100   7.295  0.00  0.00           C 0
+ATOM  30373    O LEU I 385     102.215-180.949   2.904  0.34  7.50           O 0
+ATOM  30393   CA GLY I 388     105.429-182.551   1.862  0.00  0.00           C 0
+ATOM  30394    C GLY I 388     105.718-183.263   3.172  0.00  0.00           C 0
+ATOM  30399    O TRP I 389     103.500-183.412   5.910  0.72  3.21           O 0
+ATOM  30375   CG LEU I 385     100.044-181.440   6.406  0.00  0.00           C 0
+ATOM  27231    N ILE I   3      96.884-186.376   7.352  0.83  1.09           N 0
+ATOM  30419    N VAL I 391     102.644-184.756   9.415  0.80  1.09           N 0
+TER
+END

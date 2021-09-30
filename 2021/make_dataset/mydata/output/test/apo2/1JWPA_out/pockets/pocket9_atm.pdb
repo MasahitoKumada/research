@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0448
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9388
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6546
+HEADER 5  - Mean B-factor of pocket residues  : 0.3525
+HEADER 6  - Hydrophobicity Score              : -9.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.7451
+HEADER 10  -Pocket volume (convex hull)       : 8.3644
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1953    O GLU A 281       6.210  11.156  14.742  0.00  0.00           O 0
+ATOM   1976    N SER A 285       3.519  10.353  13.670  0.00  0.00           N 0
+ATOM   1975   CB ALA A 284       3.254  13.329  14.758  0.00  0.00           C 0
+ATOM   1957  OE1 GLU A 281       7.042  15.125  13.964  0.69  4.29           O 0
+ATOM   2016  NE2 HIS A 289       2.749   8.061   7.368  0.81  1.09           N 0
+ATOM   1981   OG SER A 285       4.929   8.055  11.107  0.69  3.21           O 0
+ATOM     30  OE1 GLU A  28       6.935   7.901   4.923  0.70  5.36           O 0
+ATOM   2006   NZ LYS A 288       2.470  12.696   6.319  0.00  0.00           N 1
+ATOM   1980   CB SER A 285       4.937   8.962  12.201  0.00  0.00           C 0
+ATOM     26    O GLU A  28       7.604   6.624   8.977  0.00  0.00           O 0
+ATOM     27   CB GLU A  28       5.443   6.330   6.670  0.00  0.00           C 0
+ATOM     60   CD LYS A  32      10.205  10.886  13.033  0.00  0.00           C 0
+ATOM     58   CB LYS A  32       9.201   8.726  12.245  0.00  0.00           C 0
+ATOM     59   CG LYS A  32       9.258   9.738  13.384  0.00  0.00           C 0
+ATOM   1977   CA SER A 285       3.524   9.455  12.508  0.00  0.00           C 0
+ATOM   2004   CD LYS A 288       1.204  11.811   8.272  0.00  0.00           C 0
+ATOM   1974    O ALA A 284       1.398  11.006  13.282  0.62  3.21           O 0
+ATOM   1973    C ALA A 284       2.442  11.084  13.943  0.00  0.00           C 0
+TER
+END

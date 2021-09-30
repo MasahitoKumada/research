@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0107
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8702
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6565
+HEADER 5  - Mean B-factor of pocket residues  : 0.3064
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.3849
+HEADER 10  -Pocket volume (convex hull)       : 6.6514
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM    397  NH2 ARG E 279      30.143  52.514  -2.485  0.00  0.00           N 0
+ATOM    403  OG1 THR E 280      25.031  49.152  -4.944  0.00  0.00           O 0
+ATOM    414  CG2ATHR E 281      29.849  47.588  -5.739  0.00  0.00           C 0
+ATOM    394   NE ARG E 279      30.002  50.676  -1.115  0.66  1.09           N 0
+ATOM    898   CD GLN E 340      22.914  52.858   4.004  0.00  0.00           C 0
+ATOM    897   CG GLN E 340      22.421  51.502   3.526  0.00  0.00           C 0
+ATOM    891   OG SER E 339      20.650  49.559  -0.903  0.00  0.00           O 0
+ATOM    900  NE2 GLN E 340      24.149  53.199   3.662  0.39  7.66           N 0
+ATOM    896   CB GLN E 340      20.903  51.432   3.454  0.00  0.00           C 0
+ATOM    398    N THR E 280      25.979  47.731  -2.680  0.67  2.19           N 0
+ATOM    391   CB ARG E 279      27.929  48.536  -0.596  0.00  0.00           C 0
+ATOM    395   CZ ARG E 279      30.021  52.000  -1.269  0.00  0.00           C 0
+ATOM    388   CA ARG E 279      26.445  48.256  -0.353  0.00  0.00           C 0
+ATOM    404  CG2 THR E 280      23.184  48.463  -3.521  0.00  0.00           C 0
+ATOM    392   CG ARG E 279      28.441  49.580   0.408  0.00  0.00           C 0
+ATOM    378    O TYR E 278      24.769  49.305   1.541  0.32  2.14           O 0
+ATOM    396  NH1 ARG E 279      29.924  52.809  -0.221  0.64  9.84           N 0
+TER
+END

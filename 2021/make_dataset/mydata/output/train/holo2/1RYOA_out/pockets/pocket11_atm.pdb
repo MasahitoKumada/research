@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0005
+HEADER 1  - Drug Score                        : 0.0534
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6854
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5286
+HEADER 5  - Mean B-factor of pocket residues  : 0.6881
+HEADER 6  - Hydrophobicity Score              : 38.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.8135
+HEADER 10  -Pocket volume (convex hull)       : 2.9622
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM   2436  CD1 TYR A 317      52.943  56.993  70.322  0.00  0.00           C 0
+ATOM   2469  CG2 VAL A 320      49.116  55.124  65.808  0.00  0.00           C 0
+ATOM   2467   CB VAL A 320      49.765  56.491  65.946  0.00  0.00           C 0
+ATOM   2431   CA TYR A 317      53.439  54.977  67.905  0.00  0.00           C 0
+ATOM   2468  CG1 VAL A 320      48.790  57.461  66.599  0.00  0.00           C 0
+ATOM   2405   CE MET A 313      48.167  52.283  71.554  0.00  0.00           C 0
+ATOM   2434   CB TYR A 317      54.263  55.165  69.182  0.00  0.00           C 0
+ATOM   2430    N TYR A 317      53.319  53.556  67.599  0.40  5.47           N 0
+ATOM   2404   SD MET A 313      48.618  50.677  72.215  0.00  0.00           S 0
+ATOM   2392    O LYS A 312      48.789  51.971  67.595  0.60  1.07           O 0
+ATOM   2401    O MET A 313      50.166  48.747  68.008  0.61  7.50           O 0
+ATOM   2393   CB LYS A 312      46.114  53.599  68.519  0.00  0.00           C 0
+ATOM   2395   CD LYS A 312      45.078  55.830  69.039  0.00  0.00           C 0
+ATOM   2399   CA MET A 313      48.346  49.780  69.180  0.00  0.00           C 0
+ATOM   2427   CA GLY A 316      52.523  51.616  66.403  0.00  0.00           C 0
+TER
+END

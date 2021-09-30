@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0022
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6170
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4675
+HEADER 5  - Mean B-factor of pocket residues  : 0.3425
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.6692
+HEADER 10  -Pocket volume (convex hull)       : 2.0470
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   5867   CD ARG B 259      56.360  27.161  -1.203  0.00  0.00           C 0
+ATOM   8472    O HIS B 588      50.599  28.565   0.028  0.43  2.14           O 0
+ATOM   8496    N LEU B 592      52.979  28.552   2.056  0.00  0.00           N 0
+ATOM   5865   CB ARG B 259      56.844  29.097  -2.714  0.00  0.00           C 0
+ATOM   8475  ND1 HIS B 588      50.472  29.898  -3.892  0.29  3.28           N 0
+ATOM   8477  CE1 HIS B 588      51.150  31.028  -3.798  0.00  0.00           C 0
+ATOM   5861    N ARG B 259      57.318  31.526  -2.634  0.14  1.09           N 0
+ATOM   8502  CD1 LEU B 592      54.375  32.773   1.648  0.00  0.00           C 0
+ATOM   5843    O VAL B 256      52.525  33.688  -1.950  0.00  0.00           O 0
+ATOM   8500   CB LEU B 592      52.635  30.985   1.912  0.00  0.00           C 0
+ATOM   8478  NE2 HIS B 588      50.693  31.703  -2.758  0.00  0.00           N 0
+ATOM   8463    O GLU B 587      49.811  25.269  -0.271  0.64  7.50           O 0
+ATOM   8493   CA GLY B 591      53.099  26.213   1.427  0.00  0.00           C 0
+ATOM   8530  OE1 GLU B 595      54.038  22.604   1.629  0.00  0.00           O 0
+ATOM   8470   CA HIS B 588      49.285  27.597  -1.723  0.00  0.00           C 0
+TER
+END

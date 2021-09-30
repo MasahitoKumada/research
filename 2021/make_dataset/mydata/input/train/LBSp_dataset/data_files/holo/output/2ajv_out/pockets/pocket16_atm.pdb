@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1237
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2344
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5824
+HEADER 5  - Mean B-factor of pocket residues  : 0.4536
+HEADER 6  - Hydrophobicity Score              : 11.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.6542
+HEADER 10  -Pocket volume (convex hull)       : 0.9115
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   2054  ND2 ASN H  43      27.684  44.482   4.097  0.00  0.00           N 0
+ATOM    833    O SER L 100      27.302  40.316  -1.921  0.00  0.00           O 0
+ATOM   2046    O GLY H  42      29.125  45.334   0.449  0.00  0.00           O 0
+ATOM   2051   CB ASN H  43      29.312  43.471   2.651  0.00  0.00           C 0
+ATOM    700  CG2 VAL L  85      23.996  40.409   3.831  0.00  0.00           C 0
+ATOM    724   OH TYR L  87      28.502  40.048   2.582  0.64  1.07           O 0
+ATOM    854   CE LYS L 103      21.332  43.591   3.540  0.00  0.00           C 0
+ATOM    855   NZ LYS L 103      21.351  45.086   3.716  0.00  0.00           N 0
+ATOM    699  CG1 VAL L  85      25.050  38.979   2.091  0.00  0.00           C 0
+ATOM    839    O GLY L 101      24.136  39.032  -2.672  0.43  6.43           O 0
+ATOM    851   CB LYS L 103      20.341  41.151   1.827  0.00  0.00           C 0
+ATOM    847    N LYS L 103      20.958  39.258   0.326  0.82  3.28           N 0
+TER
+END

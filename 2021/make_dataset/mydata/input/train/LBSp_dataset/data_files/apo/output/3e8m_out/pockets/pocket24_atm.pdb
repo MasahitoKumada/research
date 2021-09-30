@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0225
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9197
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6389
+HEADER 5  - Mean B-factor of pocket residues  : 0.1813
+HEADER 6  - Hydrophobicity Score              : -12.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 375.3277
+HEADER 10  -Pocket volume (convex hull)       : 20.7378
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   6301    O LYS C  57     -26.648  30.002 -31.857  0.41  8.57           O 0
+ATOM   6322    C THR C  58     -23.738  27.270 -32.855  0.00  0.00           C 0
+ATOM   6334    N GLU C  59     -22.562  27.520 -32.295  0.00  0.00           N 0
+ATOM   6321   CA THR C  58     -24.963  27.782 -32.108  0.00  0.00           C 0
+ATOM   6342  OE2 GLU C  59     -20.072  28.677 -34.964  0.76  1.07           O 0
+ATOM   6303   CG LYS C  57     -26.712  31.083 -35.130  0.00  0.00           C 0
+ATOM   6339   CG GLU C  59     -19.925  28.836 -32.568  0.00  0.00           C 0
+ATOM   8488  NE2 GLN D  24     -23.650  28.497 -27.933  0.62  8.75           N 0
+ATOM   8487  OE1 GLN D  24     -22.430  27.253 -29.357  0.00  0.00           O 0
+ATOM   8486   CD GLN D  24     -22.625  27.722 -28.221  0.00  0.00           C 0
+ATOM   6657  NE2 GLN C  75     -25.236  27.239 -36.610  0.65  3.28           N 0
+ATOM   6323    O THR C  58     -23.851  26.628 -33.918  0.00  0.00           O 0
+ATOM   6390   CD ARG C  62     -19.569  27.015 -37.916  0.00  0.00           C 0
+ATOM   6389   CG ARG C  62     -20.766  26.102 -37.999  0.00  0.00           C 0
+ATOM   8484   CB GLN D  24     -20.245  27.535 -27.406  0.00  0.00           C 0
+ATOM   6305   CE LYS C  57     -25.604  32.733 -36.634  0.00  0.00           C 0
+ATOM   6304   CD LYS C  57     -26.855  32.412 -35.866  0.00  0.00           C 0
+TER
+END

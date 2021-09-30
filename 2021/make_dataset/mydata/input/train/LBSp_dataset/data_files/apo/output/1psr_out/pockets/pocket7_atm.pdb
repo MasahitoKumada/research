@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0891
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7175
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4390
+HEADER 5  - Mean B-factor of pocket residues  : 0.6826
+HEADER 6  - Hydrophobicity Score              : -2.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 130.3286
+HEADER 10  -Pocket volume (convex hull)       : 2.6525
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   1335   CDALYS B  60      24.361  30.444  28.603  0.00  0.00           C 0
+ATOM   1276  CE1 TYR B  53      19.705  25.441  31.768  0.00  0.00           C 0
+ATOM   1278   CZ TYR B  53      19.675  26.371  32.762  0.00  0.00           C 0
+ATOM   1279   OH TYR B  53      18.767  27.428  32.615  0.79  4.29           O 0
+ATOM   1299  OD1 ASP B  56      25.925  27.214  29.862  0.00  0.00           O 0
+ATOM   1271    O TYR B  53      24.673  25.379  32.866  0.61  1.07           O 0
+ATOM   1274  CD1 TYR B  53      20.597  24.399  31.872  0.00  0.00           C 0
+ATOM   1302   CA VAL B  57      24.886  29.146  33.493  0.00  0.00           C 0
+ATOM   1277  CE2 TYR B  53      20.511  26.326  33.843  0.00  0.00           C 0
+ATOM   1307  CG2 VAL B  57      22.863  28.998  35.016  0.00  0.00           C 0
+ATOM   1351   NZALYS B  61      19.671  33.787  31.379  0.00  0.00           N 0
+ATOM   1349   CEALYS B  61      20.883  33.491  32.203  0.00  0.00           C 0
+ATOM   1509  OD2 ASP B  80      18.046  31.706  32.047  0.70  3.21           O 0
+ATOM   1332   CB LYS B  60      24.317  32.362  30.240  0.00  0.00           C 0
+TER
+END

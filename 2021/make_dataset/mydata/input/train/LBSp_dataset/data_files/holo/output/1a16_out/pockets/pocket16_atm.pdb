@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0334
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0446
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5455
+HEADER 5  - Mean B-factor of pocket residues  : 0.6114
+HEADER 6  - Hydrophobicity Score              : 18.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.3675
+HEADER 10  -Pocket volume (convex hull)       : 2.4119
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM    489  OE1 GLU A  60      64.177  82.497  60.985  0.00  0.00           O 0
+ATOM    892  CD2 PHE A 111      61.328  84.383  57.819  0.00  0.00           C 0
+ATOM    490  OE2 GLU A  60      62.079  81.971  61.359  0.00  0.00           O 0
+ATOM    900   CB SER A 112      62.502  89.904  59.141  0.00  0.00           C 0
+ATOM    897   CA SER A 112      61.572  89.089  58.234  0.00  0.00           C 0
+ATOM    763  NH1 ARG A  93      69.460  85.640  61.473  0.00  0.00           N 0
+ATOM    645   CG ARG A  80      67.085  83.362  58.964  0.00  0.00           C 0
+ATOM    896    N SER A 112      62.348  88.265  57.318  0.46  2.19           N 0
+ATOM    889   CB PHE A 111      63.076  85.297  56.222  0.00  0.00           C 0
+ATOM    641   CA ARG A  80      67.598  85.058  57.187  0.00  0.00           C 0
+ATOM    656  CG1 VAL A  81      68.484  89.643  59.492  0.00  0.00           C 0
+ATOM    651    N VAL A  81      68.440  87.252  57.542  0.53  1.09           N 0
+ATOM    901   OG SER A 112      63.458  90.641  58.395  0.70  3.21           O 0
+TER
+END

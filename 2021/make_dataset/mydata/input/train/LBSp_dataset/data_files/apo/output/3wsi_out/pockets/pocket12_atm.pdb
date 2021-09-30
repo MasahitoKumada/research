@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0359
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.2159
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5188
+HEADER 5  - Mean B-factor of pocket residues  : 0.3898
+HEADER 6  - Hydrophobicity Score              : 18.4545
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.7273
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.6491
+HEADER 10  -Pocket volume (convex hull)       : 4.9422
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM   8607  OD2 ASP E 107      17.811  45.286  24.379  0.71  4.29           O 0
+ATOM   9531  OE2 GLU E 225      20.091  42.405  21.387  0.00  0.00           O 0
+HETATM11690   FE FE2 E 301      20.271  40.088  22.365  0.00  0.00          FE 0
+ATOM   9170    N TYR E 179      16.564  39.889  19.178  0.00  0.00           N 0
+ATOM   8576  NE2 HIS E 103      18.842  41.482  26.646  0.00  0.00           N 0
+ATOM   8583  CG2 THR E 104      15.712  44.558  27.356  0.00  0.00           C 0
+ATOM   8816  CD1 LEU E 134      11.877  45.438  24.266  0.00  0.00           C 0
+ATOM   8817  CD2 LEU E 134      13.852  46.937  23.927  0.00  0.00           C 0
+ATOM   9173    O TYR E 179      13.593  39.972  19.939  0.54  7.50           O 0
+ATOM   9174   CB TYR E 179      15.476  37.803  19.897  0.00  0.00           C 0
+ATOM   5482  NE2 HIS C 204      19.571  35.992  24.240  0.00  0.00           N 0
+ATOM   8575  CE1 HIS E 103      18.094  41.166  27.691  0.00  0.00           C 0
+ATOM   9177  CD2 TYR E 179      13.514  36.591  20.942  0.00  0.00           C 0
+ATOM   9496  CE1 HIS E 221      19.183  37.661  20.832  0.00  0.00           C 0
+ATOM   9158  CD1 LEU E 176      14.163  43.644  18.969  0.00  0.00           C 0
+ATOM   9163    O SER E 177      17.359  43.687  19.567  0.67  1.07           O 0
+TER
+END

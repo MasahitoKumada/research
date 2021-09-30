@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0347
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9833
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5177
+HEADER 5  - Mean B-factor of pocket residues  : 0.5737
+HEADER 6  - Hydrophobicity Score              : 13.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.7421
+HEADER 10  -Pocket volume (convex hull)       : 8.0720
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4583
+ATOM    175  OD2 ASP A  22      66.426   6.152   6.449  0.80  9.64           O 1
+ATOM    172   CB ASP A  22      64.118   5.863   7.105  0.00  0.00           C 0
+ATOM    213  OE2 GLU A  26      63.428   3.540  11.022  0.00  0.00           O 1
+ATOM   2009   NZ LYS A 247      66.497   9.883  12.789  0.62  9.84           N 1
+ATOM   2008   CE LYS A 247      65.156   9.676  13.386  0.00  0.00           C 0
+ATOM    181  CG1 ILE A  23      60.531   8.255  10.391  0.00  0.00           C 0
+ATOM   2005   CB LYS A 247      62.299   9.636  14.257  0.00  0.00           C 0
+ATOM   1991  OD1 ASP A 245      63.964   9.557  17.930  0.60  5.36           O 0
+ATOM   1992  OD2 ASP A 245      65.033   8.126  19.219  0.63  5.36           O 1
+ATOM   2040  CD1 LEU A 251      60.210   4.684  13.968  0.00  0.00           C 0
+ATOM    212  OE1 GLU A  26      62.326   2.478  12.627  0.69  7.50           O 0
+ATOM   2017   CE LYS A 248      63.337   4.639  19.738  0.00  0.00           C 0
+ATOM    142    O ILE A  19      62.816   9.174   7.630  0.63  1.07           O 0
+ATOM   2007   CD LYS A 247      64.103  10.492  12.650  0.00  0.00           C 0
+ATOM   2010    N LYS A 248      60.942   8.482  16.936  0.00  0.00           N 0
+ATOM   2011   CA LYS A 248      60.423   7.394  17.765  0.00  0.00           C 0
+ATOM   2014   CB LYS A 248      61.356   7.134  18.955  0.00  0.00           C 0
+ATOM    146  CD1 ILE A  19      67.275  10.767   8.664  0.00  0.00           C 0
+TER
+END

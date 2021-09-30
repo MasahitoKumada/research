@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1390
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.7842
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4377
+HEADER 5  - Mean B-factor of pocket residues  : 0.7070
+HEADER 6  - Hydrophobicity Score              : 22.8889
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 256.0564
+HEADER 10  -Pocket volume (convex hull)       : 10.5311
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   1330    O GLU A 206      22.993  19.829  -1.858  0.00  0.00           O 0
+ATOM   1334  OE1 GLU A 206      23.613  19.433   2.412  0.65  2.14           O 0
+ATOM   1617   CB HIS A 243      25.591  16.632   2.863  0.00  0.00           C 0
+ATOM   1619  ND1 HIS A 243      26.488  17.972   0.923  0.69  1.09           N 0
+ATOM   1635   CB ASN A 245      20.393  14.802   3.443  0.00  0.00           C 0
+ATOM   1618   CG HIS A 243      26.591  16.900   1.782  0.00  0.00           C 0
+ATOM   1632   CA ASN A 245      19.962  16.003   4.304  0.00  0.00           C 0
+ATOM   1352  OD2 ASP A 208      19.033  20.166  -0.994  0.78  4.29           O 0
+ATOM   1659  CZ3 TRP A 247      14.984  18.011   1.772  0.00  0.00           C 0
+ATOM   1626    O ILE A 244      21.122  18.564   4.540  0.69  3.21           O 0
+ATOM   1292   SDAMET A 202      17.193  22.598   3.336  0.00  0.00           S 0
+ATOM   1638  ND2 ASN A 245      19.699  13.397   1.596  0.00  0.00           N 0
+ATOM   1608  OD2 ASP A 241      25.586  12.260   3.298  0.00  0.00           O 0
+ATOM   1331   CB GLU A 206      21.903  20.859   0.640  0.00  0.00           C 0
+ATOM   1636   CG ASN A 245      19.323  14.340   2.460  0.00  0.00           C 0
+ATOM   1351  OD1 ASP A 208      19.208  18.651  -2.576  0.00  0.00           O 0
+ATOM   1294   CEAMET A 202      16.450  22.455   1.717  0.00  0.00           C 0
+ATOM   1332   CG GLU A 206      21.863  21.063   2.154  0.00  0.00           C 0
+ATOM   1637  OD1 ASN A 245      18.176  14.791   2.486  0.59  2.14           O 0
+ATOM   1639    N LEU A 246      17.724  16.494   5.131  0.00  0.00           N 0
+TER
+END

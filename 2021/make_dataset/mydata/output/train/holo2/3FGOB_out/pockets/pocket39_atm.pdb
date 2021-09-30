@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : -0.0289
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1391
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5493
+HEADER 5  - Mean B-factor of pocket residues  : 0.6737
+HEADER 6  - Hydrophobicity Score              : -3.7143
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.8457
+HEADER 10  -Pocket volume (convex hull)       : 6.3668
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0476
+ATOM   3507  OE1 GLU B 458      -4.316 -26.605  57.804  0.58  2.14           O 0
+ATOM   3508  OE2 GLU B 458      -4.291 -27.910  59.568  0.00  0.00           O 1
+ATOM   3525  NH1 ARG B 460       0.061 -28.247  58.488  0.00  0.00           N 1
+ATOM   3496    O THR B 457      -5.612 -23.051  61.189  0.42  4.29           O 0
+ATOM   3522   CD ARG B 460      -0.860 -26.523  56.472  0.00  0.00           C 0
+ATOM   3094  NH2 ARG B 403       0.791 -23.829  64.644  0.41  9.84           N 0
+ATOM   3465  ND2 ASN B 453      -3.725 -20.667  62.113  0.45  5.47           N 0
+ATOM   3093  NH1 ARG B 403       1.981 -25.791  64.709  0.00  0.00           N 1
+ATOM   3523   NE ARG B 460      -1.596 -27.669  57.003  0.00  0.00           N 0
+ATOM   3488    O ASN B 456      -5.823 -24.595  64.633  0.00  0.00           O 0
+ATOM   3521   CG ARG B 460      -1.791 -25.425  55.970  0.00  0.00           C 0
+ATOM   3515  CG2 VAL B 459      -4.260 -21.429  57.626  0.00  0.00           C 0
+ATOM   3486   CA ASN B 456      -4.522 -22.781  65.530  0.00  0.00           C 0
+ATOM   3489   CB ASN B 456      -3.811 -23.884  66.337  0.00  0.00           C 0
+ATOM   3487    C ASN B 456      -5.583 -23.393  64.608  0.00  0.00           C 0
+ATOM   3509    N VAL B 459      -5.976 -23.809  58.049  0.00  0.00           N 0
+TER
+END

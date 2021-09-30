@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0752
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9860
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5469
+HEADER 5  - Mean B-factor of pocket residues  : 0.5537
+HEADER 6  - Hydrophobicity Score              : 4.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 242.0938
+HEADER 10  -Pocket volume (convex hull)       : 3.4812
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   2423   SD MET X 325      55.726  77.852  22.569  0.00  0.00           S 0
+ATOM   2171   CD LYS X 291      55.201  76.906  16.656  0.00  0.00           C 0
+ATOM   2425    N LYS X 326      55.281  73.720  24.012  0.64  2.19           N 0
+ATOM   2413    O THR X 324      51.865  74.685  24.700  0.36  9.64           O 0
+ATOM   2169   CB LYS X 291      56.792  77.636  18.536  0.00  0.00           C 0
+ATOM   2429   CB LYS X 326      55.538  71.613  22.783  0.00  0.00           C 0
+ATOM   2168    O LYS X 291      59.194  75.588  19.390  0.66  4.29           O 0
+ATOM   2418   CA MET X 325      54.452  75.768  24.933  0.00  0.00           C 0
+ATOM   2170   CG LYS X 291      56.649  76.827  17.277  0.00  0.00           C 0
+ATOM   2206   CB ALA X 295      59.970  71.972  20.231  0.00  0.00           C 0
+ATOM   2173   NZ LYS X 291      55.989  75.618  14.594  0.64  4.37           N 1
+ATOM   2181  OD2 ASP X 292      59.380  74.976  14.973  0.00  0.00           O 1
+ATOM   2430   CG LYS X 326      56.488  70.536  22.255  0.00  0.00           C 0
+ATOM   2428    O LYS X 326      58.190  73.333  23.224  0.68  1.07           O 0
+TER
+END

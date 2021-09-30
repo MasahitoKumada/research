@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : 0.0185
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6669
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3720
+HEADER 5  - Mean B-factor of pocket residues  : 0.3971
+HEADER 6  - Hydrophobicity Score              : 19.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.2339
+HEADER 10  -Pocket volume (convex hull)       : 5.5862
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   3777   CE LYS B  79      40.953   3.120   8.111  0.00  0.00           C 0
+ATOM   1498    O ILE A 186      44.481   1.890  13.199  0.42  5.36           O 0
+ATOM   2669  OD2 ASP A 332      43.914   5.349  14.364  0.56  5.36           O 0
+ATOM   2668  OD1 ASP A 332      41.771   5.674  14.027  0.00  0.00           O 0
+ATOM   2697  CZ2 TRP A 335      39.163   3.143  12.690  0.00  0.00           C 0
+ATOM   3776   CD LYS B  79      39.721   2.446   8.704  0.00  0.00           C 0
+ATOM   2699  CH2 TRP A 335      38.442   2.070  12.234  0.00  0.00           C 0
+ATOM   1521   NZ LYS A 188      44.614  -0.529   8.457  0.23  3.28           N 0
+ATOM   1529  OD2 ASP A 189      46.203   3.524   7.371  0.59  3.21           O 0
+ATOM   1526   CB ASP A 189      47.313   4.959   8.921  0.00  0.00           C 0
+ATOM   1525    O ASP A 189      48.354   6.957  10.617  0.50  9.64           O 0
+ATOM   1524    C ASP A 189      48.478   5.780  10.965  0.00  0.00           C 0
+ATOM   1496   CA ILE A 186      43.985  -0.454  13.317  0.00  0.00           C 0
+ATOM   3863    O TRP B  91      41.041  -2.507  10.990  0.66  1.07           O 0
+TER
+END

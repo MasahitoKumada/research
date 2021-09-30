@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0731
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7623
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4522
+HEADER 5  - Mean B-factor of pocket residues  : 0.6865
+HEADER 6  - Hydrophobicity Score              : 33.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.9901
+HEADER 10  -Pocket volume (convex hull)       : 2.4262
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   6565  CZ2 TRP B 389       8.538  16.026  28.475  0.00  0.00           C 0
+ATOM   6645  NH2 ARG B 398      12.849  10.697  26.920  0.00  0.00           N 0
+ATOM   6562  NE1 TRP B 389      10.193  16.133  30.357  0.61  2.19           N 0
+ATOM   6617  OE2 GLU B 395       9.175  10.827  29.585  0.58  7.50           O 0
+ATOM   6582  CG1 VAL B 391      13.022  15.202  32.760  0.00  0.00           C 0
+ATOM   6653  OD2 ASP B 399      16.306  11.796  28.184  0.77  3.21           O 0
+ATOM   6616  OE1 GLU B 395      10.464  11.456  31.246  0.84  1.07           O 0
+ATOM   6615   CD GLU B 395      10.162  10.659  30.333  0.00  0.00           C 0
+ATOM   6527  CD1 ILE B 384      13.992  18.190  30.546  0.00  0.00           C 0
+ATOM   6500  CE1 TYR B 381      17.003  14.247  30.858  0.00  0.00           C 0
+ATOM   6563  CE2 TRP B 389       9.172  16.605  29.578  0.00  0.00           C 0
+ATOM   6581   CB VAL B 391      12.971  13.898  33.540  0.00  0.00           C 0
+ATOM   6613   CB GLU B 395      12.511   9.700  30.198  0.00  0.00           C 0
+TER
+END

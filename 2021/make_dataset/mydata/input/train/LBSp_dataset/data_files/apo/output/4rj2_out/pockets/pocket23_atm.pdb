@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : 0.0339
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 4.0762
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5521
+HEADER 5  - Mean B-factor of pocket residues  : 0.4800
+HEADER 6  - Hydrophobicity Score              : -9.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.9111
+HEADER 10  -Pocket volume (convex hull)       : 4.6623
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   8479    O LYS E 121       7.426   6.076  37.495  0.33  5.36           O 0
+ATOM   8489   CB ASP E 122       5.014   4.697  36.188  0.00  0.00           C 0
+ATOM   8492  OD2 ASP E 122       4.456   2.673  35.036  0.53  8.57           O 0
+ATOM   8501  CE1 HIS E 123       9.944   3.321  38.785  0.00  0.00           C 0
+ATOM   6593   NZ LYS D 114       7.570   0.587  38.453  0.67  1.09           N 0
+ATOM   6612    O ARG D 117      12.618   1.417  32.155  0.00  0.00           O 0
+ATOM   6663   CB ASP D 122       8.589   2.200  30.266  0.00  0.00           C 0
+ATOM   6592   CE LYS D 114       8.694  -0.225  37.858  0.00  0.00           C 0
+ATOM   6665  OD1 ASP D 122       7.902   0.279  31.575  0.76  6.43           O 0
+ATOM   6664   CG ASP D 122       7.541   1.199  30.801  0.00  0.00           C 0
+ATOM   8502  NE2 HIS E 123      10.323   4.522  39.182  0.53  3.28           N 0
+ATOM   1345  OD2AASP A 163      13.334   7.552  37.911  0.00  0.00           O 0
+ATOM   6623    O ILE D 118      14.994   3.397  33.692  0.23  9.64           O 0
+ATOM   6621   CA ILE D 118      13.709   1.612  34.667  0.00  0.00           C 0
+ATOM   6626  CG2 ILE D 118      14.848   2.515  36.735  0.00  0.00           C 0
+ATOM   6625  CG1 ILE D 118      12.761   1.118  36.928  0.00  0.00           C 0
+ATOM   6620    N ILE D 118      13.240   0.370  34.018  0.00  0.00           N 0
+ATOM   6611    C ARG D 117      12.768   0.369  32.788  0.00  0.00           C 0
+ATOM   6613   CB ARG D 117      10.995  -1.343  32.589  0.00  0.00           C 0
+TER
+END

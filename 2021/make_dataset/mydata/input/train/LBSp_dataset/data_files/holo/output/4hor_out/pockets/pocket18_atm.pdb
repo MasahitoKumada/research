@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0034
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6897
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4351
+HEADER 5  - Mean B-factor of pocket residues  : 0.6947
+HEADER 6  - Hydrophobicity Score              : -22.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.0978
+HEADER 10  -Pocket volume (convex hull)       : 1.7330
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   3531    O ARG A 427      24.271  13.158  42.827  0.00  0.00           O 0
+ATOM   3536   CZ ARG A 427      23.201   7.251  41.765  0.00  0.00           C 0
+ATOM   3591  OD2 ASP A 434      25.559   9.418  39.613  0.48  5.36           O 1
+ATOM   3559  ND1 HIS A 430      27.215  10.909  45.914  0.50  5.47           N 0
+ATOM   3538  NH2 ARG A 427      24.328   6.868  41.171  0.50  6.56           N 0
+ATOM   3570  ND2 ASN A 431      29.408  11.301  40.539  0.00  0.00           N 0
+ATOM   3567   CB ASN A 431      28.264  12.631  42.217  0.00  0.00           C 0
+ATOM   3561  CE1 HIS A 430      28.247  10.349  46.520  0.00  0.00           C 0
+ATOM   3532   CB ARG A 427      21.946  11.013  42.029  0.00  0.00           C 0
+ATOM   3529   CA ARG A 427      22.086  12.163  43.042  0.00  0.00           C 0
+ATOM   3557   CB HIS A 430      25.626  12.839  46.239  0.00  0.00           C 0
+ATOM   3533   CG ARG A 427      21.239   9.785  42.632  0.00  0.00           C 0
+ATOM   3537  NH1 ARG A 427      22.904   6.783  42.974  0.39  7.66           N 1
+ATOM   3527   NZ LYS A 426      20.197   9.460  47.540  0.74  7.66           N 1
+TER
+END

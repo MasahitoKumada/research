@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0260
+HEADER 1  - Drug Score                        : 0.0312
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8531
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4857
+HEADER 5  - Mean B-factor of pocket residues  : 0.7893
+HEADER 6  - Hydrophobicity Score              : 36.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.4206
+HEADER 10  -Pocket volume (convex hull)       : 3.6376
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM    146   CA TYR A  18      17.721 -26.196 -48.318  0.00  0.00           C 0
+ATOM    214  CE1 TYR A  25      15.493 -20.654 -49.456  0.00  0.00           C 0
+ATOM    212  CD1 TYR A  25      16.846 -21.038 -49.533  0.00  0.00           C 0
+ATOM    140    O ILE A  17      16.713 -26.983 -50.832  0.70  6.43           O 0
+ATOM    162   CG LYS A  19      15.497 -22.487 -46.368  0.00  0.00           C 0
+ATOM    143  CG2 ILE A  17      18.236 -23.852 -51.806  0.00  0.00           C 0
+ATOM    397  CD1 ILE A  50      11.477 -20.850 -52.868  0.00  0.00           C 0
+ATOM    395  CG1 ILE A  50      12.742 -19.984 -52.822  0.00  0.00           C 0
+ATOM    141   CB ILE A  17      18.202 -25.057 -52.742  0.00  0.00           C 0
+ATOM    144  CD1 ILE A  17      18.692 -23.513 -54.707  0.00  0.00           C 0
+ATOM    135   CE LYS A  16      15.575 -27.622 -55.366  0.00  0.00           C 0
+ATOM    423   CE LYS A  54      14.759 -23.229 -57.903  0.00  0.00           C 0
+ATOM    396  CG2 ILE A  50      13.707 -20.898 -54.925  0.00  0.00           C 0
+ATOM    424   NZ LYS A  54      13.522 -23.553 -58.685  0.00  0.00           N 0
+TER
+END

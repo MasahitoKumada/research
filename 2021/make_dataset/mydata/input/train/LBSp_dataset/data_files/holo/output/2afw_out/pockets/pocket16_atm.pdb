@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0098
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8725
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6347
+HEADER 5  - Mean B-factor of pocket residues  : 0.4260
+HEADER 6  - Hydrophobicity Score              : 27.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.8180
+HEADER 10  -Pocket volume (convex hull)       : 0.6402
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   1772    N PRO A 262      -3.503 -12.762  17.437  0.00  0.00           N 0
+ATOM   1745    O ASN A 259      -5.428  -8.889  13.540  0.00  0.00           O 0
+ATOM   1773   CA PRO A 262      -3.081 -14.041  16.883  0.00  0.00           C 0
+ATOM   1749  ND2 ASN A 259      -7.063 -11.793  13.312  0.00  0.00           N 0
+ATOM   1748  OD1 ASN A 259      -6.385 -12.410  11.248  0.62  5.36           O 0
+ATOM   1777   CG PRO A 262      -1.172 -12.703  17.353  0.00  0.00           C 0
+ATOM   1747   CG ASN A 259      -6.815 -11.546  12.035  0.00  0.00           C 0
+ATOM   1778   CD PRO A 262      -2.356 -11.943  17.889  0.00  0.00           C 0
+ATOM   2088   CB SER A 298      -2.527  -7.232  11.982  0.00  0.00           C 0
+ATOM   1797   CB ALA A 265      -5.367 -15.234  13.542  0.00  0.00           C 0
+ATOM   1764    O PHE A 261      -5.603 -13.071  16.664  0.00  0.00           O 0
+ATOM   1763    C PHE A 261      -4.770 -12.359  17.236  0.00  0.00           C 0
+ATOM   1753    O PHE A 260      -4.394  -8.494  17.068  0.17  4.29           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    54:
+HEADER 0  - Pocket Score                      : -0.0284
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7902
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4903
+HEADER 5  - Mean B-factor of pocket residues  : 0.6550
+HEADER 6  - Hydrophobicity Score              : 17.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 156.1983
+HEADER 10  -Pocket volume (convex hull)       : 1.8851
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   5311    N GLY A 689     -19.237  -8.412  51.511  0.31  7.66           N 0
+ATOM   9337  OE2 GLU B 476     -18.847  -7.870  44.224  0.00  0.00           O 0
+ATOM   9294   OH TYR B 470     -18.823  -4.657  47.624  0.35  7.50           O 0
+ATOM   9336  OE1 GLU B 476     -18.122  -6.185  45.447  0.00  0.00           O 0
+ATOM  10331  NE2 GLN B 596     -18.571 -13.745  49.777  0.50  3.28           N 0
+ATOM   5314    O GLY A 689     -19.789 -11.958  52.304  0.36  4.29           O 0
+ATOM  10358  NE2AHIS B 598     -19.606 -13.169  46.576  0.30  5.47           N 0
+ATOM   5326    O SER A 691     -24.314 -12.643  51.064  0.33  5.36           O 0
+ATOM  11164  CD1ALEU B 695     -17.031 -10.430  48.883  0.00  0.00           C 0
+ATOM  10356  CE1AHIS B 598     -19.219 -12.017  46.060  0.00  0.00           C 0
+ATOM  11166  CD2ALEU B 695     -15.989  -8.669  47.484  0.00  0.00           C 0
+ATOM   5328   OG SER A 691     -24.585  -9.421  50.732  0.26  7.50           O 0
+ATOM   5312   CA GLY A 689     -19.112  -9.858  51.364  0.00  0.00           C 0
+ATOM   5313    C GLY A 689     -19.889 -10.717  52.341  0.00  0.00           C 0
+TER
+END

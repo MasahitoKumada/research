@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.0041
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0673
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7042
+HEADER 5  - Mean B-factor of pocket residues  : 0.6650
+HEADER 6  - Hydrophobicity Score              : 28.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 310.2255
+HEADER 10  -Pocket volume (convex hull)       : 11.2260
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   7874  OD1 ASP C 197       5.238  40.570  55.537  0.00  0.00           O 0
+ATOM   7844   CA LYS C 194       8.559  38.078  50.507  0.00  0.00           C 0
+ATOM   7839    O VAL C 193       6.410  36.707  51.626  0.00  0.00           O 0
+ATOM   7846    O LYS C 194       7.092  39.983  50.538  0.25  7.50           O 0
+ATOM   7848   CG LYS C 194      10.359  39.782  49.810  0.00  0.00           C 0
+ATOM   8280   CB ALA C 252       8.639  33.547  55.574  0.00  0.00           C 0
+ATOM   7841  CG1 VAL C 193       8.259  34.065  52.385  0.00  0.00           C 0
+ATOM   7879    O LEU C 198       5.530  35.177  55.332  0.00  0.00           O 0
+ATOM   7847   CB LYS C 194       9.980  38.318  49.989  0.00  0.00           C 0
+ATOM   8293    N GLY C 254       6.169  36.615  57.844  0.62  1.09           N 0
+ATOM   8281    N TYR C 253       8.541  35.195  58.490  0.00  0.00           N 0
+ATOM   7869   CA ASP C 197       4.392  39.116  53.099  0.00  0.00           C 0
+ATOM   8294   CA GLY C 254       5.236  37.572  57.279  0.00  0.00           C 0
+ATOM   8284    O TYR C 253       6.535  37.874  59.674  0.57  4.29           O 0
+ATOM   8283    C TYR C 253       6.748  36.851  59.017  0.00  0.00           C 0
+ATOM   8285   CB TYR C 253       8.597  36.361  60.628  0.00  0.00           C 0
+TER
+END

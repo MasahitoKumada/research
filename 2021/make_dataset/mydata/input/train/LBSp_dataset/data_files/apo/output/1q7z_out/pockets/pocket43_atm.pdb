@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.0232
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9500
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4831
+HEADER 5  - Mean B-factor of pocket residues  : 0.5643
+HEADER 6  - Hydrophobicity Score              : 19.2500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.8684
+HEADER 10  -Pocket volume (convex hull)       : 1.7677
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    122  NH2 ARG A  14     -11.774 -33.254  67.725  0.43  7.66           N 0
+ATOM    137  CD2 LEU A  16      -8.678 -28.150  66.087  0.00  0.00           C 0
+ATOM     87  CD1 LEU A  10      -5.505 -31.021  67.377  0.00  0.00           C 0
+ATOM    118   CD ARG A  14     -10.421 -32.406  65.413  0.00  0.00           C 0
+ATOM    475   CB ASP A  59     -11.010 -26.215  68.853  0.00  0.00           C 0
+ATOM    477  OD1 ASP A  59     -12.082 -28.281  69.251  0.40  1.07           O 0
+ATOM     88  CD2 LEU A  10      -5.205 -28.768  68.445  0.00  0.00           C 0
+ATOM    801   NZ LYS A 100     -12.152 -29.500  73.112  0.00  0.00           N 0
+ATOM    794   CA LYS A 100      -8.735 -25.732  74.916  0.00  0.00           C 0
+ATOM    474    O ASP A  59      -9.563 -24.638  71.125  0.59  1.07           O 0
+ATOM    802    N LEU A 101      -7.591 -24.248  73.380  0.00  0.00           N 0
+ATOM     19  NH2 ARG A   2      -4.309 -28.218  72.811  0.43  5.47           N 0
+ATOM    807   CG LEU A 101      -5.666 -24.777  71.085  0.00  0.00           C 0
+ATOM    799   CD LYS A 100     -11.134 -27.364  73.915  0.00  0.00           C 0
+ATOM    787    O GLU A  99      -6.545 -27.132  75.821  0.63  2.14           O 0
+TER
+END

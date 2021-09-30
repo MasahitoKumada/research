@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0106
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7049
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5132
+HEADER 5  - Mean B-factor of pocket residues  : 0.4941
+HEADER 6  - Hydrophobicity Score              : 12.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.0172
+HEADER 10  -Pocket volume (convex hull)       : 7.5561
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    303   CB ALA A  41      29.533  26.515  30.617  0.00  0.00           C 0
+ATOM     40  OD1 ASN A   7      28.991  25.263  37.461  0.00  0.00           O 0
+ATOM   1097  OE1AGLU A 138      33.159  22.522  32.968  0.72  5.36           O 0
+ATOM   1099  OE2AGLU A 138      34.331  22.954  34.806  0.64  8.57           O 0
+ATOM    304    N VAL A  42      27.277  24.237  31.617  0.00  0.00           N 0
+ATOM    306    C VAL A  42      26.072  24.092  33.711  0.00  0.00           C 0
+ATOM     38   CB ASN A   7      29.982  23.172  37.171  0.00  0.00           C 0
+ATOM    412   CE LYS A  54      25.411  30.802  34.038  0.00  0.00           C 0
+ATOM    426   OG SER A  56      26.418  30.049  30.071  0.64  5.36           O 0
+ATOM    302    O ALA A  41      26.572  25.885  30.307  0.70  1.07           O 0
+ATOM     39   CG ASN A   7      29.707  24.422  37.930  0.00  0.00           C 0
+ATOM   1095   CDAGLU A 138      33.490  22.284  34.169  0.00  0.00           C 0
+ATOM    307    O VAL A  42      26.833  23.340  34.321  0.82  1.07           O 0
+ATOM    311    N GLU A  43      25.284  24.994  34.284  0.63  1.09           N 0
+ATOM    408    O LYS A  54      23.775  26.559  32.383  0.00  0.00           O 0
+ATOM    312   CA GLU A  43      25.176  25.187  35.730  0.00  0.00           C 0
+ATOM    301    C ALA A  41      27.484  25.163  30.715  0.00  0.00           C 0
+ATOM     45    O TRP A   8      28.851  21.060  32.218  0.52  1.07           O 0
+TER
+END

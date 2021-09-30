@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0610
+HEADER 1  - Drug Score                        : 0.0042
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9092
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6337
+HEADER 5  - Mean B-factor of pocket residues  : 0.2442
+HEADER 6  - Hydrophobicity Score              : 22.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.5895
+HEADER 10  -Pocket volume (convex hull)       : 4.3653
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   2441   CD ARG D 314      -8.756  33.135  -7.682  0.00  0.00           C 0
+ATOM   2439   CB ARG D 314      -9.631  34.005  -5.525  0.00  0.00           C 0
+ATOM   2420  OE1 GLU D 311      -6.406  30.338  -5.028  0.55  7.50           O 0
+ATOM   2408    O LEU D 310      -7.789  34.881  -2.639  0.00  0.00           O 0
+ATOM   2486   CB TYR D 320      -7.420  39.673  -0.619  0.00  0.00           C 0
+ATOM   2434   CB ALA D 313      -9.901  36.971  -1.178  0.00  0.00           C 0
+ATOM   2469    O LYS D 318     -11.945  39.302  -2.508  0.75  6.43           O 0
+ATOM   2411  CD1 LEU D 310      -5.040  37.296  -2.974  0.00  0.00           C 0
+ATOM   2482    N TYR D 320      -9.216  41.264  -0.934  0.69  5.47           N 0
+ATOM   2435    N ARG D 314     -10.558  35.040  -3.511  0.00  0.00           N 0
+ATOM   2436   CA ARG D 314     -10.790  34.803  -4.919  0.00  0.00           C 0
+ATOM   2440   CG ARG D 314      -9.370  34.322  -6.996  0.00  0.00           C 0
+ATOM   2410   CG LEU D 310      -4.520  35.871  -3.024  0.00  0.00           C 0
+ATOM   2412  CD2 LEU D 310      -3.072  35.840  -3.492  0.00  0.00           C 0
+TER
+END

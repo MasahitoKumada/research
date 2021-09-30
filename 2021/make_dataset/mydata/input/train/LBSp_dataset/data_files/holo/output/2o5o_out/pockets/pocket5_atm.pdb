@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0273
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7752
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4984
+HEADER 5  - Mean B-factor of pocket residues  : 0.5397
+HEADER 6  - Hydrophobicity Score              : 5.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.9227
+HEADER 10  -Pocket volume (convex hull)       : 3.4027
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    678  CD2 LEU X  87      -7.962   5.429   4.926  0.00  0.00           C 0
+ATOM    655  OE1 GLU X  84     -11.741   7.830   1.116  0.00  0.00           O 0
+ATOM   1135   CE LYS X 146      -8.202   8.388   1.156  0.00  0.00           C 0
+ATOM   1106   CB ASP X 142      -8.947   2.125   2.906  0.00  0.00           C 0
+ATOM    645  CD2 HIS X  83     -12.593   3.453   5.466  0.00  0.00           C 0
+ATOM   1107   CG ASP X 142     -10.100   1.380   2.215  0.00  0.00           C 0
+ATOM   1108  OD1 ASP X 142      -9.911   0.818   1.110  0.00  0.00           O 0
+ATOM    649   CA GLU X  84     -13.396   7.667   4.021  0.00  0.00           C 0
+ATOM    648    N GLU X  84     -14.238   6.692   4.748  0.53  3.28           N 0
+ATOM    652   CB GLU X  84     -14.070   8.077   2.701  0.00  0.00           C 0
+ATOM   1109  OD2 ASP X 142     -11.215   1.324   2.786  0.70  4.29           O 0
+ATOM    627    O GLY X  81     -15.754   2.007   4.090  0.00  0.00           O 0
+ATOM   1105    O ASP X 142      -6.346   3.876   1.828  0.69  2.14           O 0
+ATOM   1127   CB ALA X 145      -5.972   3.431  -1.572  0.00  0.00           C 0
+ATOM   1136   NZ LYS X 146      -9.056   8.799   0.012  0.00  0.00           N 0
+TER
+END

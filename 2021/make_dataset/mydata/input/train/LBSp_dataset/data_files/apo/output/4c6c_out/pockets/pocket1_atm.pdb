@@ -1,0 +1,61 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.4262
+HEADER 1  - Drug Score                        : 0.5667
+HEADER 2  - Number of alpha spheres           :    76
+HEADER 3  - Mean alpha-sphere radius          : 3.9820
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5157
+HEADER 5  - Mean B-factor of pocket residues  : 0.1931
+HEADER 6  - Hydrophobicity Score              : -5.8889
+HEADER 7  - Polarity Score                    :    12
+HEADER 8  - Amino Acid based volume Score     : 3.2778
+HEADER 9  - Pocket volume (Monte Carlo)       : 557.2401
+HEADER 10  -Pocket volume (convex hull)       : 109.3314
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 28.3226
+HEADER 13 - Number of apolar alpha sphere     :    31
+HEADER 14 - Proportion of apolar alpha sphere : 0.4079
+ATOM   1437  CE1ATYR A1558     -21.223 -16.032  -1.859  0.00  0.00           C 0
+ATOM   2012  ND1 HIS A1590     -20.970 -12.283  -5.124  0.62  1.09           N 0
+HETATM 5936   ZN ZN  A2823     -20.545 -14.054  -6.070  0.00  0.00          ZN 2
+ATOM   2014  CE1 HIS A1590     -21.870 -11.479  -5.666  0.00  0.00           C 0
+ATOM   3222   CG ARG A1661     -26.968 -10.245  -6.641  0.00  0.00           C 0
+ATOM   1506   CG GLU A1561     -27.100  -8.315  -1.515  0.00  0.00           C 0
+ATOM   1505   CB GLU A1561     -26.589  -9.617  -0.931  0.00  0.00           C 0
+ATOM   2041  OE2 GLU A1592     -22.806  -7.995  -6.351  0.53  2.14           O 0
+ATOM   1435  CD1ATYR A1558     -21.150 -14.894  -1.096  0.00  0.00           C 0
+ATOM   3221   CB ARG A1661     -25.623 -10.707  -7.129  0.00  0.00           C 0
+ATOM   1516    N THR A1562     -25.641 -11.795   0.743  0.00  0.00           N 0
+ATOM   1519    O THR A1562     -27.546 -12.630   2.845  0.00  0.00           O 0
+ATOM   3887   CD PRO A1702     -30.631 -14.038  -5.671  0.00  0.00           C 0
+ATOM   1518    C THR A1562     -26.678 -13.433   2.476  0.00  0.00           C 0
+ATOM    664  ND2 ASN A1505     -24.561 -19.090  -2.403  0.00  0.00           N 0
+ATOM    265  NH1 ARG A1475     -26.741 -21.393  -4.937  0.60  2.19           N 0
+ATOM   3697  CE1 HIS A1690     -30.560 -19.485  -6.347  0.00  0.00           C 0
+ATOM   3698  NE2 HIS A1690     -30.084 -18.668  -7.277  0.00  0.00           N 0
+ATOM    266  NH2 ARG A1475     -27.682 -20.744  -6.934  0.00  0.00           N 0
+ATOM   3669   CB ALA A1688     -25.766 -18.921  -9.515  0.00  0.00           C 0
+ATOM    229  NE2 HIS A1473     -22.079 -18.955  -6.325  0.00  0.00           N 0
+HETATM 1398  OQ2 KCX A1556     -20.410 -16.989  -4.767  0.00  0.00           O 0
+ATOM   1433   CBATYR A1558     -20.458 -13.658   0.968  0.00  0.00           C 0
+ATOM   2011   CG HIS A1590     -20.124 -11.537  -4.323  0.00  0.00           C 0
+ATOM   1487    N ASN A1560     -20.865  -8.588   0.013  0.00  0.00           N 0
+ATOM   3886   CG PRO A1702     -29.219 -13.609  -5.912  0.00  0.00           C 0
+ATOM   3220    O ARG A1661     -23.688 -12.243  -8.818  0.29  3.21           O 0
+ATOM   3885   CB PRO A1702     -29.240 -13.060  -7.329  0.00  0.00           C 0
+ATOM   1501    N GLU A1561     -24.360  -8.785  -0.362  0.52  3.28           N 0
+ATOM   1517   CA THR A1562     -25.494 -13.001   1.588  0.00  0.00           C 0
+ATOM    228  CE1 HIS A1473     -22.296 -19.364  -5.092  0.00  0.00           C 0
+ATOM   3884    O PRO A1702     -28.990 -16.134  -7.806  0.00  0.00           O 0
+ATOM   3896   CA GLY A1703     -28.115 -16.203 -10.400  0.00  0.00           C 0
+ATOM   3642  OD2 ASP A1686     -22.029 -15.450  -9.593  0.51  3.21           O 0
+HETATM 5935   ZN ZN  A2822     -21.055 -17.233  -6.790  0.00  0.00          ZN 2
+ATOM   3641  OD1 ASP A1686     -21.600 -17.495  -8.901  0.00  0.00           O 0
+ATOM   1489    C ASN A1560     -23.252  -8.636   0.353  0.00  0.00           C 0
+ATOM   2015  NE2 HIS A1590     -21.632 -10.242  -5.261  0.58  1.09           N 0
+ATOM   2013  CD2 HIS A1590     -20.547 -10.251  -4.418  0.00  0.00           C 0
+TER
+END

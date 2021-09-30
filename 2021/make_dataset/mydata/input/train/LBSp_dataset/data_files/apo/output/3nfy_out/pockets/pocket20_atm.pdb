@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0146
+HEADER 1  - Drug Score                        : 0.0038
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5959
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4606
+HEADER 5  - Mean B-factor of pocket residues  : 0.2438
+HEADER 6  - Hydrophobicity Score              : 25.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 125.4625
+HEADER 10  -Pocket volume (convex hull)       : 1.9329
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   2282    O LEU B  30       9.587   1.401  43.347  0.00  0.00           O 0
+ATOM   2283   CB LEU B  30       7.627  -1.017  42.665  0.00  0.00           C 0
+ATOM   2279    N LEU B  30       6.924   1.367  42.821  0.58  1.09           N 0
+ATOM   2320   SD MET B  35      11.677  -1.445  39.822  0.00  0.00           S 0
+ATOM   2278   NZ LYS B  29      10.000   4.850  38.206  0.50  7.66           N 0
+ATOM   2276   CD LYS B  29       8.550   5.852  39.949  0.00  0.00           C 0
+ATOM   2274   CB LYS B  29       7.729   4.231  41.735  0.00  0.00           C 0
+ATOM   2277   CE LYS B  29       8.730   4.700  38.944  0.00  0.00           C 0
+ATOM    585  OE1 GLU A  72      10.521   2.853  35.972  0.44  5.36           O 0
+ATOM   2561   CG HIS B  65       6.180   0.103  36.737  0.00  0.00           C 0
+ATOM   2560   CB HIS B  65       5.750  -1.119  37.456  0.00  0.00           C 0
+ATOM   2285  CD1 LEU B  30       6.734  -2.670  41.047  0.00  0.00           C 0
+ATOM   2562  ND1 HIS B  65       7.149   0.088  35.758  0.44  6.56           N 0
+ATOM   2563  CD2 HIS B  65       5.808   1.387  36.883  0.00  0.00           C 0
+ATOM   2319   CG MET B  35      10.607  -2.546  40.788  0.00  0.00           C 0
+TER
+END

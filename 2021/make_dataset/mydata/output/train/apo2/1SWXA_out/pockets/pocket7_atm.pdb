@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0548
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9632
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6500
+HEADER 5  - Mean B-factor of pocket residues  : 0.3743
+HEADER 6  - Hydrophobicity Score              : -8.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.8817
+HEADER 10  -Pocket volume (convex hull)       : 3.7409
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    300   CE LYS A  46       6.177  -8.261  22.419  0.00  0.00           C 0
+ATOM    185    N PRO A  32       5.353  -3.093  23.426  0.00  0.00           N 0
+ATOM    221  OD2 ASP A  35       4.036  -6.972  25.119  0.00  0.00           O 1
+ATOM    182   CB PRO A  31       7.944  -4.092  21.628  0.00  0.00           C 0
+ATOM    183   CG PRO A  31       8.947  -3.186  20.943  0.00  0.00           C 0
+ATOM    328   OGASER A  50      10.762  -6.057  21.288  0.71  7.50           O 0
+ATOM    157    O SER A  28       9.311  -0.285  24.156  0.00  0.00           O 0
+ATOM    356  OG1 THR A  54      16.764  -5.696  22.862  0.39  5.36           O 0
+ATOM    348  CG2 ILE A  53      15.302  -0.982  21.105  0.00  0.00           C 0
+ATOM    158   CB SER A  28      12.078   1.001  24.050  0.00  0.00           C 0
+ATOM    326    O SER A  50      14.830  -5.457  20.416  0.50  2.14           O 0
+ATOM    349  CD1 ILE A  53      12.566  -1.087  19.591  0.00  0.00           C 0
+ATOM    346   CB ILE A  53      15.016  -1.889  19.919  0.00  0.00           C 0
+ATOM    190   CG PRO A  32       5.910  -2.077  25.459  0.00  0.00           C 0
+ATOM    191   CD PRO A  32       6.310  -2.122  23.979  0.00  0.00           C 0
+ATOM    155   CA SER A  28      11.052   0.852  22.940  0.00  0.00           C 0
+ATOM    324   CA SER A  50      12.499  -5.665  19.750  0.00  0.00           C 0
+TER
+END

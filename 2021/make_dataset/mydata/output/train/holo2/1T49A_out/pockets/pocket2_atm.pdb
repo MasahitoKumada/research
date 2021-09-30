@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1748
+HEADER 1  - Drug Score                        : 0.0049
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 3.9640
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5720
+HEADER 5  - Mean B-factor of pocket residues  : 0.6740
+HEADER 6  - Hydrophobicity Score              : 1.9000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 374.3210
+HEADER 10  -Pocket volume (convex hull)       : 24.1306
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.1667
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.3636
+ATOM   1267   OH TYR A 152      51.217  36.013  11.486  0.00  0.00           O 0
+ATOM   1568   OG SER A 187      57.351  31.514  13.376  0.52  3.21           O 0
+ATOM   1580   CB ALA A 189      55.362  32.264  15.648  0.00  0.00           C 0
+ATOM   1567   CB SER A 187      57.547  31.450  11.967  0.00  0.00           C 0
+ATOM   1566    O SER A 187      55.257  29.311  11.829  0.53  2.14           O 0
+ATOM   1563    N SER A 187      57.229  29.976  10.033  0.00  0.00           N 0
+ATOM   1264  CE1 TYR A 152      49.574  35.358  13.094  0.00  0.00           C 0
+ATOM   1613  OD1 ASN A 193      48.063  32.581  19.356  0.64  9.64           O 0
+ATOM   1262  CD1 TYR A 152      48.542  34.504  13.474  0.00  0.00           C 0
+ATOM   1611   CG ASN A 193      49.169  32.309  19.840  0.00  0.00           C 0
+ATOM   1579    O ALA A 189      52.903  30.627  17.245  0.67  1.07           O 0
+ATOM   1582   CA SER A 190      51.249  30.940  15.119  0.00  0.00           C 0
+ATOM   1581    N SER A 190      52.703  30.900  15.037  0.65  2.19           N 0
+ATOM   1492    O THR A 178      48.278  29.303   7.142  0.65  5.36           O 0
+ATOM   1481   OH TYR A 176      49.560  28.629  11.778  0.00  0.00           O 0
+ATOM   1263  CD2 TYR A 152      48.762  33.304  11.423  0.00  0.00           C 0
+ATOM   1495  OG1 THR A 178      46.898  30.669  10.167  0.00  0.00           O 0
+ATOM   1586   OG SER A 190      50.893  30.694  12.736  0.65  2.14           O 0
+ATOM   1551   CB PRO A 185      53.603  27.612   9.238  0.00  0.00           C 0
+ATOM   1585   CB SER A 190      50.639  31.528  13.845  0.00  0.00           C 0
+ATOM   1610   CB ASN A 193      50.099  31.316  19.161  0.00  0.00           C 0
+ATOM   1265  CE2 TYR A 152      49.791  34.149  11.035  0.00  0.00           C 0
+ATOM   1554    N GLU A 186      56.171  29.103   7.623  0.53  4.37           N 0
+ATOM   1515   CG PRO A 180      51.350  27.560   4.782  0.00  0.00           C 0
+ATOM   1548   CA PRO A 185      54.274  27.591   7.868  0.00  0.00           C 0
+ATOM   1578    C ALA A 189      53.423  30.765  16.144  0.00  0.00           C 0
+TER
+END

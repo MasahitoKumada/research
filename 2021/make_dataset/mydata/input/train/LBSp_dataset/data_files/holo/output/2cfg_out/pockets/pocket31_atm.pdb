@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0916
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1614
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7343
+HEADER 5  - Mean B-factor of pocket residues  : 0.1937
+HEADER 6  - Hydrophobicity Score              : 31.6000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.0161
+HEADER 10  -Pocket volume (convex hull)       : 2.4968
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4737
+ATOM   6220   CD GLN A 421       3.538  -6.006  19.212  0.00  0.00           C 0
+ATOM   6249   CA ALA A 423       4.688  -0.667  17.856  0.00  0.00           C 0
+ATOM   6219   CG GLN A 421       4.951  -5.495  18.922  0.00  0.00           C 0
+ATOM   6250    C ALA A 423       3.807  -1.642  17.108  0.00  0.00           C 0
+ATOM   6258    N PRO A 424       2.541  -1.316  16.846  0.61  1.09           N 0
+ATOM   6221  OE1 GLN A 421       2.656  -5.849  18.377  0.46  9.64           O 0
+ATOM   6264   CD PRO A 424       1.830  -0.073  17.212  0.00  0.00           C 0
+ATOM   6263   CG PRO A 424       0.391  -0.456  17.069  0.00  0.00           C 0
+ATOM   6259   CA PRO A 424       1.650  -2.259  16.139  0.00  0.00           C 0
+ATOM   6217    O GLN A 421       7.891  -4.175  21.035  0.49  1.07           O 0
+ATOM   8851  CG2 VAL A 596       7.429  -1.837  23.900  0.00  0.00           C 0
+ATOM   6222  NE2 GLN A 421       3.332  -6.601  20.373  0.00  0.00           N 0
+ATOM   6231    C LEU A 422       6.741  -1.081  19.140  0.00  0.00           C 0
+ATOM   6262   CB PRO A 424       0.364  -1.439  15.933  0.00  0.00           C 0
+ATOM   6232    O LEU A 422       6.637  -0.053  19.807  0.00  0.00           O 0
+ATOM   6248    N ALA A 423       5.876  -1.446  18.208  0.00  0.00           N 0
+TER
+END

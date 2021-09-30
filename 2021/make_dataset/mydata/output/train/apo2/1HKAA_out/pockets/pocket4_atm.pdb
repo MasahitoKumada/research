@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2837
+HEADER 1  - Drug Score                        : 0.0049
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7591
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4123
+HEADER 5  - Mean B-factor of pocket residues  : 0.4965
+HEADER 6  - Hydrophobicity Score              : 24.1818
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.8584
+HEADER 10  -Pocket volume (convex hull)       : 11.6050
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM   1002  NH1 ARG A 121      -7.430  24.206  38.563  0.23  7.66           N 1
+ATOM   1016  CE1 PHE A 123      -5.471  20.420  40.007  0.00  0.00           C 0
+ATOM    802  OD2 ASP A  97     -10.770  20.659  35.929  0.73  8.57           O 1
+ATOM   1026   CE MET A 124      -6.810  21.311  35.665  0.00  0.00           C 0
+ATOM     44   CB ALA A   6      -7.063  17.580  34.653  0.00  0.00           C 0
+ATOM     55   CAAGLY A   8      -9.921  14.902  39.978  0.00  0.00           C 0
+ATOM    783   CB ASP A  95     -12.888  18.137  38.829  0.00  0.00           C 0
+ATOM    786  OD2 ASP A  95     -12.693  20.163  40.029  0.53  5.36           O 1
+ATOM    466  OD1 ASN A  55      -5.673  16.298  41.578  0.58  3.21           O 0
+ATOM    446  CD2 TYR A  53      -9.794  16.527  44.688  0.00  0.00           C 0
+ATOM   1018   CZ PHE A 123      -5.287  21.588  40.702  0.00  0.00           C 0
+ATOM     48    O ILE A   7      -8.092  14.059  38.136  0.71  1.07           O 0
+ATOM     47    C ILE A   7      -9.227  14.353  37.743  0.00  0.00           C 0
+ATOM   1014  CD1 PHE A 123      -4.527  19.413  40.156  0.00  0.00           C 0
+ATOM   1011    O PHE A 123      -2.265  17.182  38.398  0.72  4.29           O 0
+ATOM    470    O ALA A  56      -5.850  13.724  35.573  0.00  0.00           O 0
+ATOM    463   CB ASN A  55      -4.535  14.445  40.592  0.00  0.00           C 0
+ATOM     53    NAGLY A   8     -10.186  14.794  38.548  0.00  0.00           N 0
+ATOM     43    O ALA A   6      -9.885  16.213  34.426  0.00  0.00           O 0
+TER
+END

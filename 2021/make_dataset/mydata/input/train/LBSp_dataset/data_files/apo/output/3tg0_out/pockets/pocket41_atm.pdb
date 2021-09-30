@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : 0.0568
+HEADER 1  - Drug Score                        : 0.0049
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.2532
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6662
+HEADER 5  - Mean B-factor of pocket residues  : 0.5088
+HEADER 6  - Hydrophobicity Score              : 8.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 6.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 375.5257
+HEADER 10  -Pocket volume (convex hull)       : 11.6263
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3810
+ATOM   1177   CZ ARG A 166      32.312   1.022  53.513  0.00  0.00           C 0
+ATOM   1175   CD ARG A 166      33.791  -0.533  52.333  0.00  0.00           C 0
+ATOM   1188   NZ LYS A 167      39.733   0.844  54.418  0.00  0.00           N 0
+ATOM   1178  NH1 ARG A 166      31.737   0.010  54.195  0.00  0.00           N 0
+ATOM   1183    O LYS A 167      39.648   2.997  47.973  0.00  0.00           O 0
+ATOM   1185   CG LYS A 167      39.265   0.346  51.447  0.00  0.00           C 0
+ATOM   1184   CB LYS A 167      39.582   0.783  50.023  0.00  0.00           C 0
+ATOM   1181   CA LYS A 167      38.392   1.403  49.285  0.00  0.00           C 0
+ATOM   1203  CE1 TYR A 169      35.775   5.461  49.234  0.00  0.00           C 0
+ATOM   1206   OH TYR A 169      34.727   6.674  51.020  0.51  9.64           O 0
+ATOM   1172    O ARG A 166      35.765   1.941  48.706  0.72  1.07           O 0
+ATOM   1204  CE2 TYR A 169      36.249   7.811  49.533  0.00  0.00           C 0
+ATOM   1201  CD1 TYR A 169      36.623   5.435  48.125  0.00  0.00           C 0
+ATOM   1202  CD2 TYR A 169      37.074   7.777  48.406  0.00  0.00           C 0
+ATOM   1176   NE ARG A 166      33.244   0.777  52.595  0.54  3.28           N 0
+ATOM   1179  NH2 ARG A 166      31.926   2.273  53.727  0.41  4.37           N 0
+ATOM   1174   CG ARG A 166      34.721  -0.546  51.191  0.00  0.00           C 0
+ATOM   1200   CG TYR A 169      37.278   6.592  47.686  0.00  0.00           C 0
+ATOM   1205   CZ TYR A 169      35.589   6.646  49.932  0.00  0.00           C 0
+TER
+END

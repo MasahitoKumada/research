@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.0056
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0191
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6676
+HEADER 5  - Mean B-factor of pocket residues  : 0.4332
+HEADER 6  - Hydrophobicity Score              : 40.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.4146
+HEADER 10  -Pocket volume (convex hull)       : 4.1640
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   1841   CG LYS A 235     -75.775 -58.691  -6.186  0.00  0.00           C 0
+ATOM   1840   CB LYS A 235     -74.499 -58.886  -6.996  0.00  0.00           C 0
+ATOM   1842   CD LYS A 235     -76.059 -57.230  -6.006  0.00  0.00           C 0
+ATOM   1823    O ILE A 233     -74.840 -60.885  -2.319  0.34  9.64           O 0
+ATOM   1836    N LYS A 235     -73.916 -60.923  -5.830  0.68  2.19           N 0
+ATOM   1854  CE2 PHE A 236     -70.761 -55.879  -6.537  0.00  0.00           C 0
+ATOM   1852  CD2 PHE A 236     -70.097 -57.076  -6.715  0.00  0.00           C 0
+ATOM   1829   CA MET A 234     -73.569 -62.612  -4.167  0.00  0.00           C 0
+ATOM   1832   CB MET A 234     -72.826 -63.939  -4.051  0.00  0.00           C 0
+ATOM   1833   CG MET A 234     -72.369 -64.216  -2.610  0.00  0.00           C 0
+ATOM   1861  OG1 THR A 237     -69.883 -64.451  -5.864  0.69  4.29           O 0
+ATOM   1849   CB PHE A 236     -69.626 -59.196  -8.017  0.00  0.00           C 0
+ATOM   1845    N PHE A 236     -71.762 -60.317  -7.611  0.59  2.19           N 0
+ATOM   1862  CG2 THR A 237     -67.716 -63.621  -6.649  0.00  0.00           C 0
+ATOM   1856    N THR A 237     -70.300 -62.658  -8.077  0.00  0.00           N 0
+ATOM   1472   NZ LYS A 187     -71.854 -54.068   1.102  0.00  0.00           N 0
+TER
+END

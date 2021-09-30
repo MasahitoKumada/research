@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0208
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9300
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6624
+HEADER 5  - Mean B-factor of pocket residues  : 0.3644
+HEADER 6  - Hydrophobicity Score              : 11.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 164.5826
+HEADER 10  -Pocket volume (convex hull)       : 1.3204
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM     86   CG LYS B 236     -10.780  66.139   1.782  0.00  0.00           C 0
+ATOM     81    N LYS B 236      -8.839  66.607   4.004  0.00  0.00           N 0
+ATOM     87   CD LYS B 236     -11.009  65.273   0.539  0.00  0.00           C 0
+ATOM     89   NZ LYS B 236      -9.775  66.844  -0.980  0.39  7.66           N 1
+ATOM     79  ND2 ASN B 235      -4.739  65.282   4.205  0.62  8.75           N 0
+ATOM   1366  OD2 ASP B 401      -3.079  67.201   2.892  0.00  0.00           O 1
+ATOM     64    O TYR B 234      -7.604  69.625   2.509  0.00  0.00           O 0
+ATOM     85   CB LYS B 236     -10.672  65.289   3.049  0.00  0.00           C 0
+ATOM     97  CD1 ILE B 237      -7.493  60.279   5.107  0.00  0.00           C 0
+ATOM     95  CG1 ILE B 237      -8.527  61.308   5.460  0.00  0.00           C 0
+ATOM     90    N ILE B 237      -9.271  64.258   5.618  0.00  0.00           N 0
+ATOM     80  OD1 ASN B 235      -6.312  64.964   5.782  0.61  2.14           O 0
+ATOM     74   CA ASN B 235      -6.800  67.852   4.442  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0904
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8331
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5631
+HEADER 5  - Mean B-factor of pocket residues  : 0.5776
+HEADER 6  - Hydrophobicity Score              : 17.5000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 317.0267
+HEADER 10  -Pocket volume (convex hull)       : 13.7112
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM    135   CB GLN B  22      23.867  70.177   7.489  0.00  0.00           C 0
+ATOM    142    C TRP B  23      20.671  73.438   9.649  0.00  0.00           C 0
+ATOM    143    O TRP B  23      21.250  73.324  10.700  0.00  0.00           O 0
+ATOM    158   CB ASP B  24      22.025  76.471   8.462  0.00  0.00           C 0
+ATOM    136   CG GLN B  22      25.112  69.315   7.857  0.00  0.00           C 0
+ATOM   2369  OE1 GLN B 307      28.795  69.216   5.887  0.76  2.14           O 0
+ATOM   2368  NE2 GLN B 307      29.611  70.860   7.265  0.72  3.28           N 0
+ATOM    134    O GLN B  22      21.003  71.055   6.610  0.54  1.07           O 0
+ATOM    154    N ASP B  24      20.546  74.601   9.013  0.00  0.00           N 0
+ATOM    138  NE2 GLN B  22      25.613  70.355  10.044  0.48  7.66           N 0
+ATOM    161  OD2 ASP B  24      23.828  78.003   8.454  0.52  4.29           O 1
+ATOM    159   CG ASP B  24      22.729  77.720   8.955  0.00  0.00           C 0
+ATOM    155   CA ASP B  24      21.125  75.838   9.515  0.00  0.00           C 0
+ATOM    160  OD1 ASP B  24      22.203  78.438   9.825  0.00  0.00           O 0
+ATOM    162    N ASP B  25      19.677  76.797  11.160  0.76  3.28           N 0
+ATOM    219   CB THR B  31      23.625  71.861   3.521  0.00  0.00           C 0
+ATOM    220  CG2 THR B  31      24.734  71.467   2.577  0.00  0.00           C 0
+ATOM    221  OG1 THR B  31      23.505  73.284   3.502  0.00  0.00           O 0
+ATOM    199    O LEU B  29      20.065  74.740   6.057  0.00  0.00           O 0
+ATOM    275   OH TYR B  38      27.887  72.985   1.407  0.63  7.50           O 0
+TER
+END

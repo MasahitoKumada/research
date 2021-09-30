@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0087
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0081
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6079
+HEADER 5  - Mean B-factor of pocket residues  : 0.3200
+HEADER 6  - Hydrophobicity Score              : 14.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.3903
+HEADER 10  -Pocket volume (convex hull)       : 2.7593
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   2171   CD ARG A 283      28.513  38.185  50.441  0.00  0.00           C 0
+ATOM   2563  CD1 PHE A 344      24.281  37.804  53.001  0.00  0.00           C 0
+ATOM   2169   CB ARG A 283      29.334  36.749  52.324  0.00  0.00           C 0
+ATOM   2565  CE1 PHE A 344      24.771  38.635  51.999  0.00  0.00           C 0
+ATOM   1970  NE2 HIS A 256      29.419  32.238  50.333  0.00  0.00           N 0
+ATOM   2560    O PHE A 344      27.026  36.018  54.903  0.00  0.00           O 0
+ATOM   2168    O ARG A 283      29.876  34.344  53.446  0.75  1.07           O 0
+ATOM   1969  CE1 HIS A 256      29.878  32.202  51.571  0.00  0.00           C 0
+ATOM   2181   CA GLY A 285      27.446  32.920  57.098  0.00  0.00           C 0
+ATOM   1960   OG SER A 255      30.518  30.904  54.502  0.00  0.00           O 0
+ATOM   2180    N GLY A 285      28.577  33.522  56.408  0.69  1.09           N 0
+ATOM   2556    O GLY A 343      23.065  33.918  55.076  0.00  0.00           O 0
+ATOM   1958    O SER A 255      29.209  28.488  52.764  0.00  0.00           O 0
+ATOM   1959   CB SER A 255      30.067  29.778  55.241  0.00  0.00           C 0
+TER
+END

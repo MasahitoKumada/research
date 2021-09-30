@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0487
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0433
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5232
+HEADER 5  - Mean B-factor of pocket residues  : 0.7564
+HEADER 6  - Hydrophobicity Score              : 34.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.6440
+HEADER 10  -Pocket volume (convex hull)       : 4.4978
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6190
+ATOM   1809   CD PRO A 240      22.900  26.809 -12.105  0.00  0.00           C 0
+ATOM    146    O SER A  20      20.597  19.438  -8.851  0.64  4.29           O 0
+ATOM    170  OE1 GLU A  23      17.219  22.920  -6.675  0.00  0.00           O 0
+ATOM    167   CB GLU A  23      17.361  21.262  -8.657  0.00  0.00           C 0
+ATOM   1808   CG PRO A 240      21.489  27.343 -12.227  0.00  0.00           C 0
+ATOM    166    O GLU A  23      16.876  21.407 -11.947  0.60  4.29           O 0
+ATOM    165    C GLU A  23      17.532  20.777 -11.115  0.00  0.00           C 0
+ATOM    176   CB LEU A  24      20.971  20.420 -12.212  0.00  0.00           C 0
+ATOM    177   CG LEU A  24      21.931  20.916 -13.249  0.00  0.00           C 0
+ATOM    173   CA LEU A  24      19.497  20.699 -12.501  0.00  0.00           C 0
+ATOM    172    N LEU A  24      18.776  20.392 -11.299  0.67  1.09           N 0
+ATOM    144   CA SER A  20      21.013  18.973  -6.536  0.00  0.00           C 0
+ATOM    147   CB SER A  20      22.430  19.288  -6.072  0.00  0.00           C 0
+ATOM   1789    O LEU A 238      25.467  23.127 -10.882  0.00  0.00           O 0
+ATOM    203  CD2 LEU A  27      19.010  25.423 -14.780  0.00  0.00           C 0
+ATOM    178  CD1 LEU A  24      23.289  20.970 -12.593  0.00  0.00           C 0
+TER
+END

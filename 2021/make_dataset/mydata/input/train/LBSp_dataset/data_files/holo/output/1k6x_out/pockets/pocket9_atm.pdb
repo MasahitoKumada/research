@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0406
+HEADER 1  - Drug Score                        : 0.0310
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0169
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5917
+HEADER 5  - Mean B-factor of pocket residues  : 0.4075
+HEADER 6  - Hydrophobicity Score              : 29.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.2914
+HEADER 10  -Pocket volume (convex hull)       : 9.2177
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.4667
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1440   CD PRO A 188      19.066  63.704  38.027  0.00  0.00           C 0
+ATOM   1717  CG2 THR A 222      22.588  61.305  34.565  0.00  0.00           C 0
+ATOM   2262  CG1 VAL A 317      21.569  58.044  35.784  0.00  0.00           C 0
+ATOM   1438   CB PRO A 188      18.419  62.090  36.389  0.00  0.00           C 0
+ATOM   1422    O PRO A 186      23.360  64.827  39.068  0.65  6.43           O 0
+ATOM   2156  CD2 PHE A 277      17.090  59.108  38.961  0.00  0.00           C 0
+ATOM   1439   CG PRO A 188      17.942  62.725  37.681  0.00  0.00           C 0
+ATOM   2194    O PHE A 282      21.963  56.239  40.666  0.34  6.43           O 0
+ATOM   2153   CB PHE A 277      17.680  58.625  41.364  0.00  0.00           C 0
+ATOM   2263  CG2 VAL A 317      19.926  56.811  37.199  0.00  0.00           C 0
+ATOM   2261   CB VAL A 317      21.302  56.795  36.611  0.00  0.00           C 0
+ATOM   2137    N TYR A 276      19.275  63.050  43.239  0.74  1.09           N 0
+ATOM   2134   CB PRO A 275      21.442  61.127  44.837  0.00  0.00           C 0
+ATOM   2131   CA PRO A 275      21.065  62.613  44.838  0.00  0.00           C 0
+ATOM   1417  CG2 ILE A 185      25.166  66.213  41.956  0.00  0.00           C 0
+ATOM   2135   CG PRO A 275      22.414  60.992  45.996  0.00  0.00           C 0
+ATOM   2119    O LYS A 273      24.023  65.836  47.327  0.00  0.00           O 0
+ATOM   2152    O PHE A 277      19.517  58.282  43.444  0.60  1.07           O 0
+ATOM   2149    N PHE A 277      17.948  60.779  42.561  0.00  0.00           N 0
+ATOM   2130    N PRO A 275      21.355  63.037  46.218  0.00  0.00           N 0
+TER
+END

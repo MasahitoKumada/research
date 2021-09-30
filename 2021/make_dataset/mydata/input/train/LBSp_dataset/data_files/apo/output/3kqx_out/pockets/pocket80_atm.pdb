@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    80:
+HEADER 0  - Pocket Score                      : 0.0816
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6326
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5469
+HEADER 5  - Mean B-factor of pocket residues  : 0.5284
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 131.1294
+HEADER 10  -Pocket volume (convex hull)       : 1.5901
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM  45724  CG2 VAL L 471      80.023  46.521 170.752  0.00  0.00           C 0
+ATOM  45749  OE1 GLU L 474      79.612  50.775 175.564  0.61  2.14           O 0
+ATOM  46441    O PHE L 565      80.473  50.262 171.524  0.51  1.07           O 0
+ATOM  46462   CD GLN L 567      75.237  50.058 175.116  0.00  0.00           C 0
+ATOM  45756   CG LYS L 475      80.542  44.102 177.595  0.00  0.00           C 0
+ATOM  45746   CB GLU L 474      81.911  49.290 176.356  0.00  0.00           C 0
+ATOM  45747   CG GLU L 474      81.125  50.219 177.335  0.00  0.00           C 0
+ATOM  45751    N LYS L 475      82.617  46.466 177.879  0.00  0.00           N 0
+ATOM  45744    C GLU L 474      82.672  47.754 178.170  0.00  0.00           C 0
+ATOM  45745    O GLU L 474      82.365  48.204 179.269  0.00  0.00           O 0
+ATOM  45721    O VAL L 471      82.272  45.746 174.961  0.57  1.07           O 0
+ATOM  45719   CA VAL L 471      81.927  46.506 172.642  0.00  0.00           C 0
+ATOM  45723  CG1 VAL L 471      80.061  44.727 172.767  0.00  0.00           C 0
+ATOM  45565   CB ASN L 449      76.293  45.506 170.972  0.00  0.00           C 0
+ATOM  45568  ND2 ASN L 449      76.388  47.640 169.705  0.67  2.19           N 0
+TER
+END

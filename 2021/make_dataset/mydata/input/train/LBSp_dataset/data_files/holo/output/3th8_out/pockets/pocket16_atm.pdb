@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0271
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8597
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5804
+HEADER 5  - Mean B-factor of pocket residues  : 0.1880
+HEADER 6  - Hydrophobicity Score              : 18.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.3499
+HEADER 10  -Pocket volume (convex hull)       : 0.5784
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2562   NE ARG A 148       1.059  -5.256  22.354  0.31  5.47           N 0
+ATOM   2563   CZ ARG A 148       0.907  -6.462  21.822  0.00  0.00           C 0
+ATOM   3002   CG ASN A 203       6.189  -3.756  23.951  0.00  0.00           C 0
+ATOM   2564  NH1 ARG A 148       1.102  -7.515  22.584  0.00  0.00           N 0
+ATOM   2561   CD ARG A 148       1.466  -5.064  23.763  0.00  0.00           C 0
+ATOM   3004  ND2 ASN A 203       6.524  -4.395  25.103  0.00  0.00           N 0
+ATOM   2565  NH2 ARG A 148       0.542  -6.635  20.565  0.00  0.00           N 0
+ATOM   2997    N ASN A 203       7.957  -3.092  20.650  0.00  0.00           N 0
+ATOM   3031  CD2 LEU A 206       3.966  -0.358  19.692  0.00  0.00           C 0
+ATOM   3001   CB ASN A 203       7.143  -3.954  22.789  0.00  0.00           C 0
+ATOM   3003  OD1 ASN A 203       5.157  -3.089  23.829  0.79  1.07           O 0
+ATOM   2998   CA ASN A 203       7.301  -2.700  21.889  0.00  0.00           C 0
+ATOM   3030  CD1 LEU A 206       2.817  -1.034  21.903  0.00  0.00           C 0
+TER
+END

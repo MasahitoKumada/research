@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1081
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8237
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6055
+HEADER 5  - Mean B-factor of pocket residues  : 0.6743
+HEADER 6  - Hydrophobicity Score              : 41.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 163.4722
+HEADER 10  -Pocket volume (convex hull)       : 1.6501
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM    165  CD1 ILE A  23       7.753  25.392  31.244  0.00  0.00           C 0
+ATOM   1933   CA LEU A 253       7.727  20.885  27.515  0.00  0.00           C 0
+ATOM    140   SG CYS A  20      10.044  20.259  30.557  0.00  0.00           S 0
+ATOM   1935    O LEU A 253       5.384  21.325  27.510  0.56  7.50           O 0
+ATOM   1948   NZ LYS A 254       5.710  17.158  31.141  0.40  5.47           N 1
+ATOM    164  CG2 ILE A  23       5.377  24.639  33.173  0.00  0.00           C 0
+ATOM    167   CA ARG A  24       5.804  22.130  36.977  0.00  0.00           C 0
+ATOM    173   NE ARG A  24       7.139  18.436  35.578  0.64  4.37           N 0
+ATOM    166    N ARG A  24       6.545  23.084  36.168  0.00  0.00           N 0
+ATOM    171   CG ARG A  24       5.830  19.547  37.354  0.00  0.00           C 0
+ATOM    136   CA CYS A  20      10.166  21.816  32.850  0.00  0.00           C 0
+ATOM    162   CB ILE A  23       6.849  24.772  33.532  0.00  0.00           C 0
+ATOM    138    O CYS A  20       8.617  21.695  34.669  0.00  0.00           O 0
+ATOM    176  NH2 ARG A  24       8.569  18.066  33.799  0.00  0.00           N 0
+ATOM    170   CB ARG A  24       6.589  20.815  36.998  0.00  0.00           C 0
+TER
+END

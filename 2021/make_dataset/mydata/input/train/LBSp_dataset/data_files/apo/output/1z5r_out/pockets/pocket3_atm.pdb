@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1245
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8995
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5481
+HEADER 5  - Mean B-factor of pocket residues  : 0.6444
+HEADER 6  - Hydrophobicity Score              : 40.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.7725
+HEADER 10  -Pocket volume (convex hull)       : 11.3320
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3810
+ATOM   7167    O GLU C 291       7.318  44.563 115.544  0.73  1.07           O 0
+ATOM   7169   CG GLU C 291       3.960  45.814 112.786  0.00  0.00           C 0
+ATOM   5529  OE2 GLU C  85       5.253  39.943 109.908  0.00  0.00           O 0
+ATOM   7165   CA GLU C 291       5.053  45.082 114.954  0.00  0.00           C 0
+ATOM   5486  NE1 TRP C  81       2.551  41.861 113.304  0.00  0.00           N 0
+ATOM   5527   CD GLU C  85       4.163  39.904 110.524  0.00  0.00           C 0
+ATOM   5555  OG1 THR C  89       7.950  35.615 108.759  0.56  1.07           O 0
+ATOM   5556  CG2 THR C  89       7.525  37.620 107.500  0.00  0.00           C 0
+ATOM   7226   NZ LYS C 298      11.603  37.945 111.631  0.80  8.75           N 0
+ATOM   5525   CB GLU C  85       4.520  37.726 111.752  0.00  0.00           C 0
+ATOM   7196   CE MET C 294       6.893  38.072 114.753  0.00  0.00           C 0
+ATOM   7193   CB MET C 294       7.076  41.158 115.624  0.00  0.00           C 0
+ATOM   7194   CG MET C 294       5.727  40.538 115.333  0.00  0.00           C 0
+ATOM   7224   CD LYS C 298      10.677  38.233 113.932  0.00  0.00           C 0
+ATOM   5617   CE MET C  96       8.366  34.537 112.838  0.00  0.00           C 0
+ATOM   7168   CB GLU C 291       4.991  46.130 113.848  0.00  0.00           C 0
+ATOM   7171  OE1 GLU C 291       3.450  46.690 110.625  0.72  8.57           O 0
+ATOM   7170   CD GLU C 291       3.785  46.949 111.801  0.00  0.00           C 0
+ATOM   6713  CD1 LEU C 233       8.354  47.663 114.225  0.00  0.00           C 0
+ATOM   7204  CD2 LEU C 295      11.410  43.613 114.293  0.00  0.00           C 0
+TER
+END

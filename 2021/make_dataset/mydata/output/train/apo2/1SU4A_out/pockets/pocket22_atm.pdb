@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.0205
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8490
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4920
+HEADER 5  - Mean B-factor of pocket residues  : 0.7140
+HEADER 6  - Hydrophobicity Score              : 31.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.3180
+HEADER 10  -Pocket volume (convex hull)       : 2.3474
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   1120  CG1 ILE A 140      74.133  33.354  44.421  0.00  0.00           C 0
+ATOM   1048  NH2 ARG A 131      78.933  33.520  46.823  0.75  2.19           N 0
+ATOM   1047  NH1 ARG A 131      79.785  35.633  46.555  0.76  8.75           N 1
+ATOM   1119   CB ILE A 140      73.444  33.869  45.692  0.00  0.00           C 0
+ATOM   1122  CD1 ILE A 140      73.806  34.145  43.153  0.00  0.00           C 0
+ATOM   1155  OD2 ASP A 144      75.439  31.834  40.975  0.74  8.57           O 1
+ATOM    214  CG1 VAL A  29      82.118  33.536  44.496  0.00  0.00           C 0
+ATOM    253  CD2 LEU A  33      81.256  30.074  40.496  0.00  0.00           C 0
+ATOM   1151    O ASP A 144      77.959  30.509  45.017  0.84  2.14           O 0
+ATOM   1152   CB ASP A 144      75.835  30.786  43.047  0.00  0.00           C 0
+ATOM   1046   CZ ARG A 131      79.389  34.649  47.350  0.00  0.00           C 0
+ATOM   1102  NE2 GLN A 138      76.233  39.378  47.554  0.67  9.84           N 0
+ATOM   1107    O ARG A 139      71.805  36.545  45.952  0.56  4.29           O 0
+ATOM   1025  CG2 VAL A 129      76.001  35.103  50.115  0.00  0.00           C 0
+TER
+END

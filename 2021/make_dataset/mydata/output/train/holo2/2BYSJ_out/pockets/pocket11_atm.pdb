@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0345
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.3291
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6243
+HEADER 5  - Mean B-factor of pocket residues  : 0.0480
+HEADER 6  - Hydrophobicity Score              : 1.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.4911
+HEADER 10  -Pocket volume (convex hull)       : 2.3231
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM    758   CBAARG J  97     -19.648  42.469  53.197  0.00  0.00           C 0
+ATOM    762   CDAARG J  97     -18.012  41.939  55.112  0.00  0.00           C 0
+ATOM    778   CD PRO J  98     -22.100  40.369  51.994  0.00  0.00           C 0
+ATOM    764   NEAARG J  97     -17.846  40.495  54.871  0.80  2.19           N 0
+ATOM    793  NE2 GLN J 100     -25.000  44.005  58.595  0.00  0.00           N 0
+ATOM    792   CD GLN J 100     -24.636  44.780  57.579  0.00  0.00           C 0
+ATOM    794  OE1 GLN J 100     -23.655  45.509  57.619  0.72  2.14           O 0
+ATOM    775    O PRO J  98     -23.572  43.645  52.882  0.59  3.21           O 0
+ATOM    791   CG GLN J 100     -25.491  44.729  56.353  0.00  0.00           C 0
+ATOM    782    O VAL J  99     -26.800  44.339  52.554  0.00  0.00           O 0
+ATOM    776   CB PRO J  98     -24.314  40.978  51.450  0.00  0.00           C 0
+ATOM    777   CG PRO J  98     -23.406  39.810  51.544  0.00  0.00           C 0
+TER
+END

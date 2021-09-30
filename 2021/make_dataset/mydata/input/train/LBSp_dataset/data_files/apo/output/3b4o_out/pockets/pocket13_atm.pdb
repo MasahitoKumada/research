@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0537
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0086
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5789
+HEADER 5  - Mean B-factor of pocket residues  : 0.6021
+HEADER 6  - Hydrophobicity Score              : 1.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.3554
+HEADER 10  -Pocket volume (convex hull)       : 4.8464
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   1444    O VAL B  17      43.157   3.580  55.633  0.00  0.00           O 0
+ATOM   1473   CB GLN B  21      42.420   6.809  55.622  0.00  0.00           C 0
+ATOM   2084  OE2 GLU B  93      44.973   7.145  62.149  0.61  9.64           O 0
+ATOM   1446  CG1 VAL B  17      46.139   3.179  54.615  0.00  0.00           C 0
+ATOM   2083  OE1 GLU B  93      46.096   5.293  62.635  0.69  7.50           O 0
+ATOM   1447  CG2 VAL B  17      46.917   0.997  55.478  0.00  0.00           C 0
+ATOM   1442   CA VAL B  17      44.476   1.565  55.551  0.00  0.00           C 0
+ATOM   1467  NH1 ARG B  20      44.563   0.410  59.931  0.67  4.37           N 0
+ATOM   1476  OE1 GLN B  21      44.072   7.169  53.330  0.58  3.21           O 0
+ATOM   1474   CG GLN B  21      42.843   8.226  55.227  0.00  0.00           C 0
+ATOM   1475   CD GLN B  21      43.733   8.238  53.913  0.00  0.00           C 0
+ATOM   1464   CD ARG B  20      43.770   2.952  61.098  0.00  0.00           C 0
+ATOM   1463   CG ARG B  20      42.502   3.506  60.540  0.00  0.00           C 0
+ATOM   1462   CB ARG B  20      42.137   2.847  59.214  0.00  0.00           C 0
+ATOM   1469    N GLN B  21      41.373   5.226  57.203  0.00  0.00           N 0
+ATOM   1470   CA GLN B  21      41.504   6.674  56.836  0.00  0.00           C 0
+ATOM   1502   CD ARG B  24      42.542   9.560  61.436  0.00  0.00           C 0
+TER
+END

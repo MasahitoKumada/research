@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1655
+HEADER 1  - Drug Score                        : 0.3432
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8877
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5490
+HEADER 5  - Mean B-factor of pocket residues  : 0.2592
+HEADER 6  - Hydrophobicity Score              : 55.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.5254
+HEADER 10  -Pocket volume (convex hull)       : 3.0905
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   1637   CB ALA A 103      22.522   4.706  -2.838  0.00  0.00           C 0
+ATOM   1665   SDAMET A 105      22.628   8.641  -2.230  0.00  0.00           S 0
+ATOM   1611  CG2 THR A 101      17.664   3.305  -4.574  0.00  0.00           C 0
+ATOM   1332   CBAHIS A  82      16.507   5.736  -0.321  0.00  0.00           C 0
+ATOM   1290  CD1 LEU A  80      20.949   5.712   0.714  0.00  0.00           C 0
+ATOM   2139  CG1AILE A 133      20.437  11.362   0.351  0.00  0.00           C 0
+ATOM   2143  CD1AILE A 133      19.219  11.118   1.204  0.00  0.00           C 0
+ATOM   1336  ND1AHIS A  82      14.680   7.435  -0.990  0.00  0.00           N 0
+ATOM   1667   CEAMET A 105      22.737  10.212  -3.108  0.00  0.00           C 0
+ATOM   1340  CE1AHIS A  82      14.167   8.554  -0.503  0.00  0.00           C 0
+ATOM   1338  CD2AHIS A  82      15.711   7.839   0.778  0.00  0.00           C 0
+ATOM   1608    O THR A 101      18.395   2.485  -1.378  0.00  0.00           O 0
+ATOM   1334   CGAHIS A  82      15.676   6.964  -0.205  0.00  0.00           C 0
+ATOM   1342  NE2AHIS A  82      14.787   8.847   0.631  0.28  3.28           N 0
+TER
+END

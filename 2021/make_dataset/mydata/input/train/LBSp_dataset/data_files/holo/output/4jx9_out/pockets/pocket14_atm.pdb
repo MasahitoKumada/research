@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.1855
+HEADER 1  - Drug Score                        : 0.0810
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0641
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7094
+HEADER 5  - Mean B-factor of pocket residues  : 0.4087
+HEADER 6  - Hydrophobicity Score              : 7.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 371.9456
+HEADER 10  -Pocket volume (convex hull)       : 25.6429
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM    324   CB ASN A  42      18.910  23.507  20.695  0.00  0.00           C 0
+ATOM    341   CG PRO A  44      16.167  28.113  19.365  0.00  0.00           C 0
+ATOM    342   CD PRO A  44      16.332  26.674  18.987  0.00  0.00           C 0
+ATOM    340   CB PRO A  44      14.948  28.153  20.220  0.00  0.00           C 0
+ATOM    337   CA PRO A  44      14.033  27.039  19.689  0.00  0.00           C 0
+ATOM    326  OD1 ASN A  42      18.620  21.791  22.344  0.68  9.64           O 0
+ATOM    336    N PRO A  44      14.942  26.193  18.913  0.00  0.00           N 0
+ATOM    376    O GLY A  48      14.176  21.999  19.583  0.79  5.36           O 0
+ATOM    364   CA HIS A  47       9.992  24.428  20.156  0.00  0.00           C 0
+ATOM    367   CB HIS A  47       8.532  24.632  20.548  0.00  0.00           C 0
+ATOM    509    O MET A  66       9.267  21.248  24.824  0.00  0.00           O 0
+ATOM    369  ND1 HIS A  47       8.395  27.032  21.294  0.00  0.00           N 0
+ATOM    339    O PRO A  44      11.770  27.752  19.385  0.57  5.36           O 0
+ATOM    328    N ASP A  43      16.326  23.515  18.518  0.43  1.09           N 0
+ATOM    511   CG MET A  66      12.521  19.519  22.747  0.00  0.00           C 0
+ATOM    382  CG1 ILE A  49      16.107  19.140  20.983  0.00  0.00           C 0
+ATOM    384  CD1 ILE A  49      16.498  18.210  22.113  0.00  0.00           C 0
+ATOM    512   SD MET A  66      12.773  18.042  23.810  0.00  0.00           S 0
+ATOM    365    C HIS A  47      10.328  22.949  20.157  0.00  0.00           C 0
+ATOM    510   CB MET A  66      11.378  20.412  23.236  0.00  0.00           C 0
+ATOM    373    N GLY A  48      11.499  22.626  19.629  0.00  0.00           N 0
+TER
+END

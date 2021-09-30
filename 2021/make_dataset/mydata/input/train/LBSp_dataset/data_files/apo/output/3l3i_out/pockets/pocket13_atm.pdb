@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0352
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9622
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5766
+HEADER 5  - Mean B-factor of pocket residues  : 0.4534
+HEADER 6  - Hydrophobicity Score              : 8.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.7001
+HEADER 10  -Pocket volume (convex hull)       : 7.3321
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   1751   CG GLU A 212       6.353  20.859  40.264  0.00  0.00           C 0
+ATOM   2175   CB GLU A 264       0.351  22.690  37.388  0.00  0.00           C 0
+ATOM   2179  OE2 GLU A 264       2.296  21.758  35.254  0.80  7.50           O 0
+ATOM   1750   CB GLU A 212       6.170  19.526  39.486  0.00  0.00           C 0
+ATOM   1749    O GLU A 212       3.611  18.701  40.868  0.75  1.07           O 0
+ATOM   2171    N GLU A 264      -0.115  21.908  39.660  0.44  1.09           N 0
+ATOM   2155    O GLN A 262       1.342  21.044  44.432  0.00  0.00           O 0
+ATOM   1756   CA ILE A 213       3.973  18.848  43.612  0.00  0.00           C 0
+ATOM   1754  OE2 GLU A 212       7.254  21.407  42.416  0.00  0.00           O 0
+ATOM   2161    N HIS A 263      -0.239  22.114  43.231  0.60  2.19           N 0
+ATOM   2162   CA HIS A 263      -0.051  21.301  42.007  0.00  0.00           C 0
+ATOM   2156   CB GLN A 262       1.309  23.891  45.612  0.00  0.00           C 0
+ATOM   1768  OG1 THR A 214       5.645  22.396  46.007  0.41  6.43           O 0
+ATOM   2159  OE1 GLN A 262       2.794  26.527  46.138  0.71  8.57           O 0
+ATOM   2163    C HIS A 263      -0.655  22.059  40.863  0.00  0.00           C 0
+ATOM   2164    O HIS A 263      -1.655  22.743  41.060  0.66  9.64           O 0
+ATOM   2176   CG GLU A 264       0.382  21.433  36.599  0.00  0.00           C 0
+ATOM   2154    C GLN A 262       0.494  21.923  44.331  0.00  0.00           C 0
+TER
+END

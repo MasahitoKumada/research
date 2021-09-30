@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0471
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8368
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4722
+HEADER 5  - Mean B-factor of pocket residues  : 0.8132
+HEADER 6  - Hydrophobicity Score              : 25.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 165.8994
+HEADER 10  -Pocket volume (convex hull)       : 3.0976
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    850    O TYR A 110      59.301  24.433   9.582  0.00  0.00           O 0
+ATOM    873  OD2 ASP A 112      61.440  29.686  13.450  0.00  0.00           O 0
+ATOM    870   CB ASP A 112      61.535  27.306  13.712  0.00  0.00           C 0
+ATOM    867   CA ASP A 112      62.081  26.741  12.416  0.00  0.00           C 0
+ATOM    191    O GLY A  25      59.099  27.343   6.306  0.34  6.43           O 0
+ATOM    898   SG CYS A 115      63.145  28.197   7.952  0.00  0.00           S 0
+ATOM    866    N ASP A 112      61.560  25.401  12.216  0.00  0.00           N 0
+ATOM    224   CB TRP A  30      54.765  30.916  10.487  0.00  0.00           C 0
+ATOM    223    O TRP A  30      57.114  32.374  10.031  0.54  7.50           O 0
+ATOM    897   CB CYS A 115      64.054  29.378   8.948  0.00  0.00           C 0
+ATOM    195    O CYS A  26      59.796  31.416   7.092  0.44  3.21           O 0
+ATOM    245    O LYS A  33      63.586  32.521   7.794  0.00  0.00           O 0
+ATOM    242    N LYS A  33      62.559  34.640   9.140  0.00  0.00           N 0
+ATOM    193   CA CYS A  26      60.768  29.566   6.002  0.00  0.00           C 0
+ATOM    247   CG LYS A  33      64.272  33.385  11.178  0.00  0.00           C 0
+TER
+END

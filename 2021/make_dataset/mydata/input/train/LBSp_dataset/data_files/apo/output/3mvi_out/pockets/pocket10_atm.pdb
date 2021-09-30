@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0694
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6010
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3859
+HEADER 5  - Mean B-factor of pocket residues  : 0.1918
+HEADER 6  - Hydrophobicity Score              : 24.8889
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.1485
+HEADER 10  -Pocket volume (convex hull)       : 1.8129
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1310    O CYS A 169       6.635  11.448  51.559  0.54  1.07           O 0
+ATOM   1379    O VAL A 177       3.816  12.854  48.371  0.00  0.00           O 0
+ATOM   1610  CG2 ILE A 209       2.909  12.572  55.045  0.00  0.00           C 0
+ATOM   1611  CD1 ILE A 209       5.680  13.871  54.543  0.00  0.00           C 0
+ATOM   1359  NE2 GLN A 174       2.485  17.610  48.022  0.46  4.37           N 0
+ATOM   1603    O GLY A 208       3.678  17.678  55.301  0.00  0.00           O 0
+ATOM   1620  CE1 HIS A 210      -0.071  18.940  52.061  0.00  0.00           C 0
+ATOM   1349  OD1 ASN A 173       5.770  15.841  50.127  0.87  8.57           O 0
+ATOM   1618  ND1 HIS A 210      -0.109  17.617  52.078  0.34  1.09           N 0
+ATOM   1605   CA ILE A 209       3.036  15.017  55.766  0.00  0.00           C 0
+ATOM   1612    N HIS A 210       0.827  15.187  54.737  0.00  0.00           N 0
+ATOM   2635   CA PRO A 336       1.407  22.488  46.912  0.00  0.00           C 0
+ATOM   2639   CG PRO A 336       3.021  21.001  45.967  0.00  0.00           C 0
+ATOM   2638   CB PRO A 336       2.785  22.439  46.211  0.00  0.00           C 0
+ATOM   1386    O VAL A 178       0.359  14.479  50.835  0.57  1.07           O 0
+ATOM   1385    C VAL A 178       0.570  13.495  50.117  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1134
+HEADER 1  - Drug Score                        : 0.0042
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7932
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3759
+HEADER 5  - Mean B-factor of pocket residues  : 0.4204
+HEADER 6  - Hydrophobicity Score              : 30.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.1615
+HEADER 10  -Pocket volume (convex hull)       : 3.5400
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   1848  CD2 PHE A 231       1.858  -8.477   5.461  0.00  0.00           C 0
+ATOM   1850  CE2 PHE A 231       1.435  -8.974   6.673  0.00  0.00           C 0
+ATOM     41    N GLY A   8       6.114  -8.848  10.374  0.00  0.00           N 0
+ATOM     29    N TYR A   7       4.622  -6.625  10.841  0.54  3.28           N 0
+ATOM     42   CA GLY A   8       6.955  -9.856   9.767  0.00  0.00           C 0
+ATOM   1846   CG PHE A 231       1.550  -7.170   5.078  0.00  0.00           C 0
+ATOM     71  ND2 ASN A  11       8.458  -5.070   8.920  0.00  0.00           N 0
+ATOM     26   CA GLY A   6       5.216  -4.298  10.593  0.00  0.00           C 0
+ATOM    513   CBAHIS A  64      -0.405  -1.868   8.889  0.00  0.00           C 0
+ATOM     14    O TRP A   5       5.956  -1.720   9.862  0.00  0.00           O 0
+ATOM    504    O GLY A  63       1.085  -3.164   5.694  0.35  8.57           O 0
+ATOM   1847  CD1 PHE A 231       0.750  -6.413   5.953  0.00  0.00           C 0
+ATOM   1849  CE1 PHE A 231       0.324  -6.916   7.165  0.00  0.00           C 0
+ATOM     36  CD2 TYR A   7       1.387  -5.967  11.047  0.00  0.00           C 0
+ATOM   1845   CB PHE A 231       2.107  -6.591   3.801  0.00  0.00           C 0
+ATOM    517  ND1AHIS A  64       0.163   0.450   8.021  0.70  1.09           N 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0281
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9124
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5246
+HEADER 5  - Mean B-factor of pocket residues  : 0.6823
+HEADER 6  - Hydrophobicity Score              : 3.4000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 317.1802
+HEADER 10  -Pocket volume (convex hull)       : 14.6292
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2004   NZ LYS A 246      41.634  23.148  65.535  0.00  0.00           N 1
+ATOM   2424    O ASN A 296      44.010  17.144  64.928  0.61  2.14           O 0
+ATOM   2438    N ARG A 298      44.837  17.711  67.968  0.00  0.00           N 0
+ATOM   2428  OD1 ASN A 296      41.396  16.136  63.823  0.75  9.64           O 0
+ATOM   2449    N GLY A 299      46.026  19.039  65.856  0.00  0.00           N 0
+ATOM   2430   CA GLU A 297      44.205  15.491  67.192  0.00  0.00           C 0
+ATOM   2295  CG2 THR A 282      39.283  13.496  61.989  0.00  0.00           C 0
+ATOM   2427  ND2 ASN A 296      41.050  16.357  61.614  0.73  2.19           N 0
+ATOM   2024    O GLU A 249      36.878  21.558  63.238  0.00  0.00           O 0
+ATOM   2278    O MET A 280      37.112  15.986  58.271  0.44  9.64           O 0
+ATOM   2035   CG LYS A 250      35.176  21.722  60.289  0.00  0.00           C 0
+ATOM   2038   NZ LYS A 250      32.666  20.027  60.282  0.00  0.00           N 1
+ATOM   2031   CA LYS A 250      37.707  21.948  60.643  0.00  0.00           C 0
+ATOM   2039    N TRP A 251      39.586  20.995  59.432  0.00  0.00           N 0
+ATOM   2045  CD1 TRP A 251      41.949  19.785  61.673  0.00  0.00           C 0
+ATOM   2049  NE1 TRP A 251      42.759  20.263  62.672  0.66  2.19           N 0
+TER
+END

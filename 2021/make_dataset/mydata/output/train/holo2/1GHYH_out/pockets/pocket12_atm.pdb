@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0088
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7222
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4221
+HEADER 5  - Mean B-factor of pocket residues  : 0.4204
+HEADER 6  - Hydrophobicity Score              : 43.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 178.1299
+HEADER 10  -Pocket volume (convex hull)       : 2.6613
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   1861   CB ALA H 113      11.414  15.175   5.057  0.00  0.00           C 0
+ATOM   1891   CB SER H 115       5.525  12.704   7.019  0.00  0.00           C 0
+ATOM   1870    O PHE H 114       7.823  15.354   7.439  0.62  6.43           O 0
+ATOM   1251   NZ LYS H  81       7.505   9.896   1.345  0.63  5.47           N 1
+ATOM   1860    O ALA H 113      10.326  12.826   6.808  0.59  2.14           O 0
+ATOM   1919  CE2 TYR H 117       0.993   9.875   6.537  0.00  0.00           C 0
+ATOM   1198    O ASN H  78       3.795   9.380   1.227  0.00  0.00           O 0
+ATOM   1917  CD2 TYR H 117       2.223   9.539   7.062  0.00  0.00           C 0
+ATOM   1250   CE LYS H  81       8.987  10.034   1.584  0.00  0.00           C 0
+ATOM   1249   CD LYS H  81       9.378   9.070   2.708  0.00  0.00           C 0
+ATOM   1938  CD1 ILE H 118       8.783   8.922   6.960  0.00  0.00           C 0
+ATOM   1892   OG SER H 115       5.672  11.440   7.657  0.00  0.00           O 0
+ATOM   1212    O ILE H  79       5.802   7.683   4.338  0.48  1.07           O 0
+TER
+END

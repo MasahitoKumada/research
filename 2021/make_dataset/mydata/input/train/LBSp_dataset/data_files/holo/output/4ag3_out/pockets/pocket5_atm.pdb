@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0509
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0515
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6774
+HEADER 5  - Mean B-factor of pocket residues  : 0.4612
+HEADER 6  - Hydrophobicity Score              : -0.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 364.1215
+HEADER 10  -Pocket volume (convex hull)       : 20.3633
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3704
+ATOM   2611  CD1APHE B 107      22.922   0.074 -22.319  0.00  0.00           C 0
+ATOM   2654  OD1 ASN B 111      29.938   1.938 -18.883  0.00  0.00           O 0
+ATOM   2652   CB ASN B 111      29.113   2.518 -21.076  0.00  0.00           C 0
+ATOM   2686  ND2 ASN B 115      27.451   3.145 -17.561  0.56  8.75           N 0
+ATOM   2653   CG ASN B 111      30.068   1.811 -20.101  0.00  0.00           C 0
+ATOM   2607   CBAPHE B 107      24.843   0.213 -23.934  0.00  0.00           C 0
+ATOM   2605    C PHE B 107      26.454   2.172 -24.324  0.00  0.00           C 0
+ATOM   2655  ND2 ASN B 111      31.039   1.106 -20.645  0.00  0.00           N 0
+ATOM   2621    N ASP B 108      27.097   2.149 -25.490  0.81  1.09           N 0
+ATOM   2606    O PHE B 107      26.969   2.610 -23.294  0.63  2.14           O 0
+ATOM   2645   CB VAL B 110      24.781   5.526 -21.550  0.00  0.00           C 0
+ATOM   2646  CG1 VAL B 110      24.578   5.694 -20.013  0.00  0.00           C 0
+ATOM   2622   CAAASP B 108      28.481   2.621 -25.597  0.00  0.00           C 0
+ATOM   2570    O ASP B 104      26.481   1.104 -28.059  0.57  1.07           O 0
+ATOM   2575  OD1AASP B 104      26.038  -3.628 -28.145  0.00  0.00           O 0
+ATOM   2573   CGAASP B 104      26.536  -3.210 -29.211  0.00  0.00           C 0
+ATOM   2571   CBAASP B 104      26.453  -1.731 -29.539  0.00  0.00           C 0
+ATOM   2492  NH1AARG B  94      29.294   1.299 -30.282  0.55  7.66           N 0
+ATOM   2577  OD2AASP B 104      27.115  -3.957 -30.018  0.00  0.00           O 0
+ATOM   2628   CGAASP B 108      30.554   2.313 -27.047  0.00  0.00           C 0
+ATOM   2626   CBAASP B 108      29.034   2.275 -26.978  0.00  0.00           C 0
+ATOM   2630  OD1AASP B 108      31.247   2.152 -26.011  0.00  0.00           O 0
+ATOM   2567   CAAASP B 104      25.450  -0.983 -28.657  0.00  0.00           C 0
+TER
+END

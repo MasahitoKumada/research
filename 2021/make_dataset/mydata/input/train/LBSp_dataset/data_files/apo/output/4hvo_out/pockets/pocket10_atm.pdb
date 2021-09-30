@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0574
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8014
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4557
+HEADER 5  - Mean B-factor of pocket residues  : 0.1923
+HEADER 6  - Hydrophobicity Score              : 1.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 163.2896
+HEADER 10  -Pocket volume (convex hull)       : 1.6911
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM    459   CD GLU A  56     -12.545 -17.402  18.656  0.00  0.00           C 0
+ATOM    460  OE1 GLU A  56     -12.231 -18.496  19.200  0.00  0.00           O 0
+ATOM    906   CD ARG A 111     -18.222 -21.847  17.783  0.00  0.00           C 0
+ATOM    457   CB GLU A  56     -12.499 -18.821  16.489  0.00  0.00           C 0
+ATOM    909  NH1 ARG A 111     -19.840 -19.477  18.464  0.00  0.00           N 0
+ATOM    461  OE2 GLU A  56     -12.722 -16.280  19.242  0.54  8.57           O 0
+ATOM    458   CG GLU A  56     -12.686 -17.409  17.136  0.00  0.00           C 0
+ATOM    452  CD2 LEU A  55     -19.067 -17.942  15.237  0.00  0.00           C 0
+ATOM    753   CG PRO A  91     -14.436 -14.229  15.235  0.00  0.00           C 0
+ATOM    453    N GLU A  56     -14.302 -18.479  14.852  0.55  2.19           N 0
+ATOM    449   CB LEU A  55     -17.157 -19.046  14.009  0.00  0.00           C 0
+ATOM    446   CA LEU A  55     -16.342 -17.814  13.665  0.00  0.00           C 0
+TER
+END

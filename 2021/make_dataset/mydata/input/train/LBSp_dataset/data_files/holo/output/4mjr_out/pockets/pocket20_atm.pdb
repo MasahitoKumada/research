@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0637
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9963
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5160
+HEADER 5  - Mean B-factor of pocket residues  : 0.6450
+HEADER 6  - Hydrophobicity Score              : -15.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.3051
+HEADER 10  -Pocket volume (convex hull)       : 5.7748
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   2687   OG SER A 345     -21.013   7.182 -33.798  0.00  0.00           O 0
+ATOM   1920    N LYS A 250     -20.699  -1.139 -35.780  0.00  0.00           N 0
+ATOM   2659  OG1 THR A 341     -17.685   3.705 -36.484  0.75  2.14           O 0
+ATOM   2686   CB SER A 345     -19.877   6.573 -33.193  0.00  0.00           C 0
+ATOM   1917   CB PRO A 249     -17.969   0.117 -34.073  0.00  0.00           C 0
+ATOM   2691    O SER A 346     -17.050   3.825 -31.935  0.00  0.00           O 0
+ATOM   2693   OG SER A 346     -19.156   2.356 -30.084  0.00  0.00           O 0
+ATOM   2660  CG2 THR A 341     -19.045   5.432 -37.455  0.00  0.00           C 0
+ATOM   1927   CE LYS A 250     -24.820   1.194 -38.412  0.00  0.00           C 0
+ATOM   1932    O ASN A 251     -18.090   1.682 -40.223  0.47  4.29           O 0
+ATOM   1933   CB ASN A 251     -20.022  -0.153 -40.834  0.00  0.00           C 0
+ATOM   1936  ND2 ASN A 251     -19.898   0.615 -43.141  0.00  0.00           N 0
+ATOM   1914   CA PRO A 249     -19.282  -0.634 -33.880  0.00  0.00           C 0
+ATOM   1925   CG LYS A 250     -22.980  -0.341 -37.675  0.00  0.00           C 0
+ATOM   1929    N ASN A 251     -19.799  -0.684 -38.434  0.65  2.19           N 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0495
+HEADER 1  - Drug Score                        : 0.0099
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.6023
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3993
+HEADER 5  - Mean B-factor of pocket residues  : 0.1589
+HEADER 6  - Hydrophobicity Score              : 28.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 136.0952
+HEADER 10  -Pocket volume (convex hull)       : 4.0465
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5385
+ATOM   1757    N ALA B 124      58.226  22.041 -25.451  0.00  0.00           N 0
+ATOM   1751    C ASN B 123      58.926  22.016 -26.611  0.00  0.00           C 0
+ATOM   1328  CG2 THR B  69      57.260  28.915 -27.319  0.00  0.00           C 0
+ATOM   1758   CA ALA B 124      58.878  22.595 -24.263  0.00  0.00           C 0
+ATOM   1329    N HIS B  70      56.012  28.173 -23.735  0.00  0.00           N 0
+ATOM   1752    O ASN B 123      60.102  22.393 -26.704  0.64  1.07           O 0
+ATOM   1761   CB ALA B 124      57.827  22.852 -23.186  0.00  0.00           C 0
+ATOM   1753   CB ASN B 123      57.323  22.582 -28.478  0.00  0.00           C 0
+ATOM   1756  ND2 ASN B 123      55.967  22.786 -30.496  0.59  7.66           N 0
+ATOM   1360   SG CYS B  73      51.904  25.537 -27.721  0.00  0.00           S 0
+ATOM   1359   CB CYS B  73      52.285  26.882 -26.590  0.00  0.00           C 0
+ATOM   1304    O CYS B  66      58.937  27.559 -22.981  0.68  2.14           O 0
+ATOM   1326   CB THR B  69      57.921  29.362 -26.005  0.00  0.00           C 0
+ATOM   1780   SG CYS B 127      63.024  26.017 -25.606  0.00  0.00           S 0
+ATOM   1327  OG1 THR B  69      58.953  30.271 -26.362  0.71  4.29           O 0
+ATOM   1779   CB CYS B 127      62.470  24.325 -25.715  0.00  0.00           C 0
+ATOM   1727    O CYS B 120      55.193  22.414 -25.398  0.74  1.07           O 0
+ATOM   1330   CA HIS B  70      54.997  27.200 -23.374  0.00  0.00           C 0
+ATOM   1325    O THR B  69      54.705  29.005 -25.323  0.64  2.14           O 0
+TER
+END

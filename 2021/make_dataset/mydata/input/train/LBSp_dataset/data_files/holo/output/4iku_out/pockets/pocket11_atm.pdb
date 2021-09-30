@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0333
+HEADER 1  - Drug Score                        : 0.0050
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9664
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6158
+HEADER 5  - Mean B-factor of pocket residues  : 0.6446
+HEADER 6  - Hydrophobicity Score              : 16.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.0175
+HEADER 10  -Pocket volume (convex hull)       : 10.9781
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM    157   CG PRO A  98      38.594 -16.784   4.027  0.00  0.00           C 0
+ATOM    166    N PRO A 100      41.412 -12.126   6.467  0.00  0.00           N 0
+ATOM    167   CA PRO A 100      42.818 -12.362   6.827  0.00  0.00           C 0
+ATOM    171   CG PRO A 100      42.708 -11.396   4.660  0.00  0.00           C 0
+ATOM    156   CB PRO A  98      38.621 -16.537   5.493  0.00  0.00           C 0
+ATOM    145   CB ARG A  97      33.947 -14.544   2.848  0.00  0.00           C 0
+ATOM    150  NH1 ARG A  97      34.334 -15.034  -1.327  0.57  6.56           N 0
+ATOM    714  CD2 HIS A 171      35.628 -11.195   2.290  0.00  0.00           C 0
+ATOM    158   CD PRO A  98      37.143 -16.699   3.609  0.00  0.00           C 0
+ATOM    716  NE2 HIS A 171      35.923 -11.790   3.491  0.00  0.00           N 0
+ATOM    172   CD PRO A 100      41.289 -11.420   5.177  0.00  0.00           C 0
+ATOM    155    O PRO A  98      38.000 -13.539   4.549  0.54  2.14           O 0
+ATOM    724  CD2 LEU A 172      38.264 -10.214  -1.449  0.00  0.00           C 0
+ATOM    743  CD1 ILE A 175      38.766  -9.743   3.194  0.00  0.00           C 0
+ATOM    742  CG2 ILE A 175      41.349  -7.915   3.028  0.00  0.00           C 0
+TER
+END

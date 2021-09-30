@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.1222
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9551
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5469
+HEADER 5  - Mean B-factor of pocket residues  : 0.4769
+HEADER 6  - Hydrophobicity Score              : -1.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.1767
+HEADER 10  -Pocket volume (convex hull)       : 3.8409
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM    118    O ALA A  17      15.838   0.662  -3.652  0.55  2.14           O 0
+ATOM    159   CDALYS A  21      20.827  -0.857  -2.863  0.00  0.00           C 0
+ATOM    119   CB ALA A  17      14.751   0.373  -6.702  0.00  0.00           C 0
+ATOM   1358  OD1AASN A 160      22.188   1.227  -8.425  0.00  0.00           O 0
+ATOM   1356   CGAASN A 160      22.502   1.654  -7.330  0.00  0.00           C 0
+ATOM   1360  ND2AASN A 160      23.158   0.935  -6.430  0.00  0.00           N 0
+ATOM   1337    O TYR A 159      21.098   2.959  -4.286  0.64  2.14           O 0
+ATOM    120    N ARG A  18      15.770   2.614  -4.704  0.65  1.09           N 0
+ATOM   1354   CBAASN A 160      22.150   3.051  -6.954  0.00  0.00           C 0
+ATOM    117    C ALA A  17      15.336   1.380  -4.504  0.00  0.00           C 0
+ATOM    121   CA ARG A  18      16.858   3.175  -3.894  0.00  0.00           C 0
+ATOM    124   CB ARG A  18      17.332   4.482  -4.483  0.00  0.00           C 0
+ATOM    107   CB PRO A  15      13.843   6.361  -7.304  0.00  0.00           C 0
+ATOM    126   CD ARG A  18      19.139   6.247  -4.514  0.00  0.00           C 0
+ATOM   1352    OAASN A 160      22.070   5.774  -6.416  0.65  5.36           O 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0103
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0492
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5879
+HEADER 5  - Mean B-factor of pocket residues  : 0.3671
+HEADER 6  - Hydrophobicity Score              : 30.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.9245
+HEADER 10  -Pocket volume (convex hull)       : 9.3023
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM    174    O PRO B  24      47.734  19.767  30.733  0.24  7.50           O 0
+ATOM    172   CA PRO B  24      46.237  21.567  31.251  0.00  0.00           C 0
+ATOM    175   CB PRO B  24      46.920  22.932  31.279  0.00  0.00           C 0
+ATOM    200    O PHE B  27      46.223  18.045  28.459  0.31  5.36           O 0
+ATOM    141  CG2 VAL B  20      42.739  20.848  27.088  0.00  0.00           C 0
+ATOM    138    O VAL B  20      42.843  21.975  30.081  0.59  1.07           O 0
+ATOM    369  CE2 PHE B  48      42.949  23.509  24.932  0.00  0.00           C 0
+ATOM    354    O GLU B  47      47.175  25.394  23.105  0.00  0.00           O 0
+ATOM    359  OE2 GLU B  47      43.040  27.638  25.183  0.79  6.43           O 1
+ATOM    367  CD2 PHE B  48      43.897  22.819  24.178  0.00  0.00           C 0
+ATOM    219    N VAL B  29      45.940  17.198  24.203  0.63  2.19           N 0
+ATOM    225  CG2 VAL B  29      43.590  18.801  23.509  0.00  0.00           C 0
+ATOM    363    O PHE B  48      47.686  21.100  21.887  0.00  0.00           O 0
+ATOM    209   CA ARG B  28      46.994  16.481  26.273  0.00  0.00           C 0
+ATOM    361   CA PHE B  48      46.309  23.046  22.003  0.00  0.00           C 0
+ATOM    143   CA ARG B  21      41.796  24.347  29.079  0.00  0.00           C 0
+ATOM    145    O ARG B  21      42.817  25.209  31.087  0.62  5.36           O 0
+ATOM    147   CG ARG B  21      41.350  26.825  28.493  0.00  0.00           C 0
+ATOM    356   CG GLU B  47      44.402  26.811  23.416  0.00  0.00           C 0
+ATOM    213   CG ARG B  28      49.279  16.256  25.154  0.00  0.00           C 0
+TER
+END

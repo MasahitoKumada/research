@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1023
+HEADER 1  - Drug Score                        : 0.0258
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9629
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6576
+HEADER 5  - Mean B-factor of pocket residues  : 0.6425
+HEADER 6  - Hydrophobicity Score              : 11.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.6373
+HEADER 10  -Pocket volume (convex hull)       : 2.8059
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM   1018    C GLU A 136     -16.255   6.573  -3.423  0.00  0.00           C 0
+ATOM   1019    O GLU A 136     -17.297   5.936  -3.593  0.72  4.29           O 0
+ATOM   1020   CB GLU A 136     -14.246   5.814  -4.693  0.00  0.00           C 0
+ATOM   1049  CD2 HIS A 140     -18.799   1.648  -1.758  0.00  0.00           C 0
+ATOM   1025    N VAL A 137     -15.853   7.010  -2.233  0.00  0.00           N 0
+ATOM   1031  CG2 VAL A 137     -14.756   6.791   0.522  0.00  0.00           C 0
+ATOM   1026   CA VAL A 137     -16.698   6.892  -1.056  0.00  0.00           C 0
+ATOM   1000   CD LYS A 133      -8.518   4.643  -2.371  0.00  0.00           C 0
+ATOM    997    O LYS A 133     -12.893   7.629  -2.035  0.50  1.07           O 0
+ATOM    998   CB LYS A 133     -10.007   6.688  -2.235  0.00  0.00           C 0
+ATOM   1023  OE1 GLU A 136     -12.874   3.840  -6.155  0.00  0.00           O 0
+ATOM   1022   CD GLU A 136     -12.317   4.957  -6.063  0.00  0.00           C 0
+ATOM    999   CG LYS A 133      -9.077   5.857  -3.100  0.00  0.00           C 0
+ATOM   1061  CE2 TYR A 141     -19.743   4.468   2.197  0.00  0.00           C 0
+ATOM    843   CD LYS A 112     -15.667   2.988   4.217  0.00  0.00           C 0
+ATOM    844   CE LYS A 112     -16.493   1.722   3.956  0.00  0.00           C 0
+ATOM    842   CG LYS A 112     -16.574   4.202   4.391  0.00  0.00           C 0
+TER
+END

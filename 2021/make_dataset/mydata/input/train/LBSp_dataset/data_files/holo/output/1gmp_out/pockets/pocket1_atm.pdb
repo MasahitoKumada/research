@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.4119
+HEADER 1  - Drug Score                        : 0.2017
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5461
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3280
+HEADER 5  - Mean B-factor of pocket residues  : 0.0783
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 117.2816
+HEADER 10  -Pocket volume (convex hull)       : 2.0953
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   1199   CB ILE B  58      37.422  10.254  15.424  0.00  0.00           C 0
+ATOM    847   CB GLU B  14      36.185  14.385  13.887  0.00  0.00           C 0
+ATOM    868   CB ASP B  17      35.849  13.008   9.184  0.00  0.00           C 0
+ATOM    846    O GLU B  14      33.931  13.910  11.777  0.00  0.00           O 0
+ATOM   1195    N ILE B  58      35.016  10.797  15.691  0.59  1.09           N 0
+ATOM    901  CD1 LEU B  21      34.477   7.857   7.880  0.00  0.00           C 0
+ATOM    957   CG PRO B  29      35.909   5.362  11.696  0.00  0.00           C 0
+ATOM    877  OG1 THR B  18      32.410  11.157  11.953  0.55  2.14           O 0
+ATOM   1184    O THR B  56      32.017   9.002  13.841  0.64  3.21           O 0
+ATOM   1202  CD1 ILE B  58      38.069   8.504  13.650  0.00  0.00           C 0
+ATOM    871  OD2 ASP B  17      37.858  13.873  10.050  0.45  4.29           O 0
+ATOM    947  CD1 PHE B  28      31.035   5.035   8.602  0.00  0.00           C 0
+ATOM    958   CD PRO B  29      35.126   4.990  10.451  0.00  0.00           C 0
+ATOM    993  OD2 ASP B  33      32.582   4.213  12.446  0.89  1.07           O 0
+ATOM    878  CG2 THR B  18      30.124  10.320  11.237  0.00  0.00           C 0
+TER
+END

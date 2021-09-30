@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.1178
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6929
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4326
+HEADER 5  - Mean B-factor of pocket residues  : 0.3535
+HEADER 6  - Hydrophobicity Score              : 24.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.7857
+HEADER 10  -Pocket volume (convex hull)       : 18.9219
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    370   NZ LYS C  49      26.814   7.324  72.627  0.00  0.00           N 1
+ATOM    520   CG LYS C  69      29.352   1.937  70.286  0.00  0.00           C 0
+ATOM    354    O PHE C  48      23.308   4.142  71.645  0.59  1.07           O 0
+ATOM    313    O PRO C  43      28.126   5.846  68.013  0.39  2.14           O 0
+ATOM    368   CD LYS C  49      25.369   5.754  73.922  0.00  0.00           C 0
+ATOM    336    O PHE C  46      25.240   7.429  70.310  0.00  0.00           O 0
+ATOM    488  OE1 GLU C  65      26.998   2.721  76.769  0.81  2.14           O 0
+ATOM    369   CE LYS C  49      25.732   7.183  73.603  0.00  0.00           C 0
+ATOM    367   CG LYS C  49      24.221   5.702  74.889  0.00  0.00           C 0
+ATOM    522   CE LYS C  69      30.991   2.631  72.195  0.00  0.00           C 0
+ATOM    324  OD1 ASN C  44      32.117   5.609  71.415  0.00  0.00           O 0
+ATOM    546  CD1 LEU C  72      23.314   3.126  68.607  0.00  0.00           C 0
+ATOM    485   CB GLU C  65      28.512   0.400  76.059  0.00  0.00           C 0
+ATOM    523   NZ LYS C  69      32.326   2.122  72.758  0.66  4.37           N 1
+ATOM    484    O GLU C  65      28.233  -0.297  72.895  0.42  2.14           O 0
+ATOM    365    O LYS C  49      24.284   1.279  74.714  0.00  0.00           O 0
+ATOM    512   CG MET C  68      23.695   0.551  71.516  0.00  0.00           C 0
+TER
+END

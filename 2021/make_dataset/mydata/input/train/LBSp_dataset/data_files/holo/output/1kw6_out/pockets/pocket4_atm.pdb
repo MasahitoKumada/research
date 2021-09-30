@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0534
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8832
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5215
+HEADER 5  - Mean B-factor of pocket residues  : 0.1732
+HEADER 6  - Hydrophobicity Score              : 26.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 178.1351
+HEADER 10  -Pocket volume (convex hull)       : 2.6752
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM    325   CB GLN B  45      86.504  66.196  12.758  0.00  0.00           C 0
+ATOM    970   CA PRO B 127      90.186  68.112   7.000  0.00  0.00           C 0
+ATOM    946  CD2 PHE B 124      85.234  69.452  11.030  0.00  0.00           C 0
+ATOM    322   CA GLN B  45      87.772  65.358  12.590  0.00  0.00           C 0
+ATOM    973   CB PRO B 127      89.481  68.678   5.758  0.00  0.00           C 0
+ATOM    942    O PHE B 124      88.689  71.543   8.969  0.00  0.00           O 0
+ATOM    321    N GLN B  45      87.427  64.005  12.146  0.59  1.09           N 0
+ATOM    980   CB PHE B 128      89.450  63.398   7.459  0.00  0.00           C 0
+ATOM    948  CE2 PHE B 124      84.262  68.586  11.477  0.00  0.00           C 0
+ATOM    940   CA PHE B 124      88.257  70.745  11.174  0.00  0.00           C 0
+ATOM    328  OE1 GLN B  45      84.836  63.963  13.175  0.00  0.00           O 0
+ATOM    306  NH1 ARG B  42      91.138  65.749  10.685  0.39  1.09           N 0
+ATOM    976    N PHE B 128      90.119  65.715   7.147  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : 0.0028
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8587
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5359
+HEADER 5  - Mean B-factor of pocket residues  : 0.2940
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 285.3782
+HEADER 10  -Pocket volume (convex hull)       : 8.8836
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM  12773   CA GLN D 267      72.304  99.710 118.762  0.00  0.00           C 0
+ATOM  10580  CE1 TYR C 440      76.895  98.263 123.197  0.00  0.00           C 0
+ATOM  12776   CB GLN D 267      72.124 101.220 118.903  0.00  0.00           C 0
+ATOM  10583   OH TYR C 440      75.383  96.980 121.891  0.42  1.07           O 0
+ATOM   7500  NH2 ARG C  41      78.446 102.517 118.058  0.46  5.47           N 0
+ATOM   7499  NH1 ARG C  41      78.499 104.492 119.250  0.00  0.00           N 0
+ATOM   7322  NE2 GLN C  18      78.727 101.241 121.595  0.00  0.00           N 0
+ATOM  12771  CG2 VAL D 266      76.791  98.581 119.076  0.00  0.00           C 0
+ATOM  12772    N GLN D 267      73.552  99.382 118.078  0.00  0.00           N 0
+ATOM  12778   CD GLN D 267      70.460 103.016 119.613  0.00  0.00           C 0
+ATOM  12779  OE1 GLN D 267      70.873 103.726 118.697  0.45  6.43           O 0
+ATOM  12777   CG GLN D 267      70.910 101.577 119.759  0.00  0.00           C 0
+ATOM  10390    O GLY C 414      72.309  99.099 126.958  0.00  0.00           O 0
+ATOM  12787   CD PRO D 268      70.436  97.950 120.155  0.00  0.00           C 0
+ATOM  10145   OH TYR C 380      71.595  95.841 122.923  0.67  5.36           O 0
+ATOM  12915    O THR D 286      72.798 103.690 116.281  0.64  5.36           O 0
+ATOM  12916   CB THR D 286      73.003 106.567 115.486  0.00  0.00           C 0
+TER
+END

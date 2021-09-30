@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0366
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8007
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6619
+HEADER 5  - Mean B-factor of pocket residues  : 0.1699
+HEADER 6  - Hydrophobicity Score              : -2.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 195.3852
+HEADER 10  -Pocket volume (convex hull)       : 7.0812
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6111
+ATOM   1265    N GLU X1008      46.915  24.809  65.867  0.76  2.19           N 0
+ATOM   1261   CB ILE X1007      46.725  27.056  67.992  0.00  0.00           C 0
+ATOM   1828    O GLU X1077      51.579  29.267  65.050  0.66  3.21           O 0
+ATOM   1269   CB GLU X1008      47.730  24.537  63.547  0.00  0.00           C 0
+ATOM   1264  CD1 ILE X1007      48.238  28.946  68.727  0.00  0.00           C 0
+ATOM   1830   CG GLU X1077      50.045  32.144  66.126  0.00  0.00           C 0
+ATOM   1302  CD1 TYR X1012      43.207  25.495  61.555  0.00  0.00           C 0
+ATOM   1304  CE1 TYR X1012      42.706  26.810  61.527  0.00  0.00           C 0
+ATOM   1266   CA GLU X1008      46.558  24.354  64.524  0.00  0.00           C 0
+ATOM   1263  CG2 ILE X1007      45.368  27.751  67.995  0.00  0.00           C 0
+ATOM   1833  OE2 GLU X1077      48.401  33.811  66.482  0.70  8.57           O 1
+ATOM   1294  ND2 ASN X1011      42.181  27.554  66.321  0.71  4.37           N 0
+ATOM   1260    O ILE X1007      44.798  24.860  66.669  0.00  0.00           O 0
+ATOM   1259    C ILE X1007      46.002  25.037  66.818  0.00  0.00           C 0
+ATOM   1272  OE1 GLU X1008      49.793  25.062  65.403  0.00  0.00           O 0
+ATOM   1849   CD PRO X1079      52.546  27.761  62.476  0.00  0.00           C 0
+ATOM   1613   CA PRO X1052      44.909  32.125  69.983  0.00  0.00           C 0
+ATOM   1616   CB PRO X1052      43.556  31.978  69.293  0.00  0.00           C 0
+ATOM   1848   CG PRO X1079      52.262  26.263  62.415  0.00  0.00           C 0
+TER
+END

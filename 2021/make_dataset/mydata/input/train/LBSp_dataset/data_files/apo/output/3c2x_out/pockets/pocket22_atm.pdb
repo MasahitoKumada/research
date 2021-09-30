@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0840
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8167
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4419
+HEADER 5  - Mean B-factor of pocket residues  : 0.6948
+HEADER 6  - Hydrophobicity Score              : 11.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.3973
+HEADER 10  -Pocket volume (convex hull)       : 3.9419
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0435
+ATOM   3818  OD1 ASP C 148     -20.621 -26.985  -2.616  0.62  6.43           O 0
+ATOM   4506  ND2 ASN D  63     -22.030 -33.796  -2.813  0.00  0.00           N 0
+ATOM   4502    O ASN D  63     -23.922 -32.019  -6.549  0.56  7.50           O 0
+ATOM   4503   CB ASN D  63     -21.366 -33.420  -5.109  0.00  0.00           C 0
+ATOM   4504   CG ASN D  63     -21.064 -33.932  -3.714  0.00  0.00           C 0
+ATOM   3804    O ARG C 147     -18.347 -28.429  -6.014  0.54  2.14           O 0
+ATOM   4467  CE1 TYR D  59     -17.693 -31.741  -6.020  0.00  0.00           C 0
+ATOM   4505  OD1 ASN D  63     -19.973 -34.437  -3.447  0.00  0.00           O 0
+ATOM   4013  OXT ALA C 171     -24.553 -27.538  -1.283  0.00  0.00           O 0
+ATOM   3815    O ASP C 148     -22.393 -27.972  -6.999  0.50  2.14           O 0
+ATOM   4011    O ALA C 171     -26.301 -27.113  -2.572  0.72  7.50           O 0
+ATOM   3913   OH TYR C 160     -19.906 -27.043  -0.213  0.00  0.00           O 0
+ATOM   3813   CA ASP C 148     -20.739 -27.119  -5.505  0.00  0.00           C 0
+ATOM   3807   CD ARG C 147     -16.138 -27.026  -2.337  0.00  0.00           C 0
+ATOM   3816   CB ASP C 148     -21.697 -26.296  -4.632  0.00  0.00           C 0
+TER
+END

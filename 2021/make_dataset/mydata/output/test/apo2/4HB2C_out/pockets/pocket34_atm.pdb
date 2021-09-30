@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : 0.0107
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0032
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7757
+HEADER 5  - Mean B-factor of pocket residues  : 0.5683
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 299.6759
+HEADER 10  -Pocket volume (convex hull)       : 10.1660
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   6296  OD2 ASP C 781     -38.116  33.018  -2.235  0.00  0.00           O 1
+ATOM   6295  OD1 ASP C 781     -36.074  32.290  -1.928  0.63  5.36           O 0
+ATOM   6294   CG ASP C 781     -36.882  33.177  -2.292  0.00  0.00           C 0
+ATOM   6281    N LEU C 780     -34.791  36.221   1.461  0.00  0.00           N 0
+ATOM   6264    C ARG C 778     -36.277  37.923   4.185  0.00  0.00           C 0
+ATOM   6277   CB ASN C 779     -37.067  38.994   0.783  0.00  0.00           C 0
+ATOM   6266   CB ARG C 778     -37.183  39.268   6.136  0.00  0.00           C 0
+ATOM   6273    N ASN C 779     -36.135  38.625   3.058  0.53  2.19           N 0
+ATOM   6265    O ARG C 778     -36.653  36.750   4.191  0.50  7.50           O 0
+ATOM   6289    N ASP C 781     -34.759  35.005  -1.022  0.00  0.00           N 0
+ATOM   6274   CA ASN C 779     -36.383  38.014   1.748  0.00  0.00           C 0
+ATOM   6280  OD1 ASN C 779     -36.876  37.431  -1.038  0.00  0.00           O 0
+ATOM   6279  ND2 ASN C 779     -38.719  38.719  -0.979  0.60  8.75           N 0
+ATOM   6278   CG ASN C 779     -37.547  38.314  -0.495  0.00  0.00           C 0
+ATOM   6285   CB LEU C 780     -33.291  34.344   1.864  0.00  0.00           C 0
+ATOM   6286   CG LEU C 780     -33.085  34.610   3.361  0.00  0.00           C 0
+ATOM   6287  CD1 LEU C 780     -32.616  33.333   4.049  0.00  0.00           C 0
+TER
+END

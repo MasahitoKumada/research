@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.1085
+HEADER 1  - Drug Score                        : 0.0047
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9708
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5151
+HEADER 5  - Mean B-factor of pocket residues  : 0.3384
+HEADER 6  - Hydrophobicity Score              : 38.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 323.1891
+HEADER 10  -Pocket volume (convex hull)       : 7.0810
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM   1992   CDAARG A 250      52.105  48.114 -37.580  0.00  0.00           C 0
+ATOM   1990   CGAARG A 250      51.735  49.540 -37.298  0.00  0.00           C 0
+ATOM   2185  NH2 ARG A 273      58.009  48.339 -32.983  0.00  0.00           N 0
+ATOM   1994   NEAARG A 250      52.562  48.037 -38.963  0.00  0.00           N 0
+ATOM   1958  CG1 VAL A 247      51.597  53.376 -36.264  0.00  0.00           C 0
+ATOM   1798    O PHE A 227      55.619  56.139 -39.050  0.00  0.00           O 0
+ATOM   2030  CD1 LEU A 253      56.478  53.878 -33.591  0.00  0.00           C 0
+ATOM   1988   CBAARG A 250      51.394  49.817 -35.857  0.00  0.00           C 0
+ATOM   2005    O ARG A 251      52.326  51.319 -32.179  0.77  4.29           O 0
+ATOM   2031  CD2 LEU A 253      56.515  52.201 -31.871  0.00  0.00           C 0
+ATOM   2002    N ARG A 251      51.000  48.980 -33.070  0.61  3.28           N 0
+ATOM   2006   CB ARG A 251      52.009  48.366 -30.866  0.00  0.00           C 0
+ATOM   2029   CG LEU A 253      55.811  53.449 -32.395  0.00  0.00           C 0
+ATOM   2008   CD ARG A 251      52.507  45.942 -30.215  0.00  0.00           C 0
+ATOM   2007   CG ARG A 251      51.596  46.951 -30.922  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1212
+HEADER 1  - Drug Score                        : 0.0071
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7696
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4709
+HEADER 5  - Mean B-factor of pocket residues  : 0.6951
+HEADER 6  - Hydrophobicity Score              : 45.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.0783
+HEADER 10  -Pocket volume (convex hull)       : 4.6469
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM    455   CG LYS A 771      -7.605  12.025  15.909  0.00  0.00           C 0
+ATOM    470  CD2 LEU A 773      -1.547  11.480  16.906  0.00  0.00           C 0
+ATOM    454   CB LYS A 771      -6.681  10.802  16.019  0.00  0.00           C 0
+ATOM    670  CG2 ILE A 800      -2.629  13.903  13.616  0.00  0.00           C 0
+ATOM    723  NE2 GLN A 806      -4.232  17.547  19.214  0.45  5.47           N 0
+ATOM    675    O THR A 801      -2.114  17.806  14.316  0.27  3.21           O 0
+ATOM    430   CB SER A 767      -8.906  13.496  22.405  0.00  0.00           C 0
+ATOM    431   OG SER A 767      -7.639  13.772  22.982  0.33  9.64           O 0
+ATOM    429    O SER A 767      -8.295  11.848  19.690  0.00  0.00           O 0
+ATOM    438  CG2 ILE A 768      -4.255  13.166  21.339  0.00  0.00           C 0
+ATOM    433   CA ILE A 768      -5.671  11.393  20.205  0.00  0.00           C 0
+ATOM    436   CB ILE A 768      -4.242  11.806  20.657  0.00  0.00           C 0
+ATOM    457   CE LYS A 771      -9.663  13.110  16.937  0.00  0.00           C 0
+ATOM    685  CD1 LEU A 802      -1.293  15.234  16.898  0.00  0.00           C 0
+TER
+END

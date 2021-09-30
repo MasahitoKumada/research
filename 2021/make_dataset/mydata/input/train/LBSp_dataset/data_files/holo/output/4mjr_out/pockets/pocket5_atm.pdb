@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.2807
+HEADER 1  - Drug Score                        : 0.1352
+HEADER 2  - Number of alpha spheres           :    34
+HEADER 3  - Mean alpha-sphere radius          : 3.8412
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5163
+HEADER 5  - Mean B-factor of pocket residues  : 0.4466
+HEADER 6  - Hydrophobicity Score              : 41.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 287.2364
+HEADER 10  -Pocket volume (convex hull)       : 24.4750
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 24.9231
+HEADER 13 - Number of apolar alpha sphere     :    26
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM   1080  OE1 GLN A 143      -9.926  -5.865 -12.778  0.00  0.00           O 0
+ATOM   1079   CD GLN A 143     -10.984  -6.495 -12.672  0.00  0.00           C 0
+ATOM   1555   CGAMET A 204      -9.269 -12.762 -10.614  0.00  0.00           C 0
+ATOM   1571  NH2 ARG A 205      -8.982  -7.723  -4.725  0.00  0.00           N 0
+ATOM   1078   CG GLN A 143     -11.213  -7.759 -13.502  0.00  0.00           C 0
+ATOM   1081  NE2 GLN A 143     -11.973  -6.100 -11.859  0.52  6.56           N 0
+ATOM   1057   CG GLU A 140      -6.763 -11.770 -15.020  0.00  0.00           C 0
+ATOM   1053   CA GLU A 140      -8.664 -10.518 -16.120  0.00  0.00           C 0
+ATOM   1055    O GLU A 140      -8.649  -8.379 -17.209  0.00  0.00           O 0
+ATOM   1056   CB GLU A 140      -7.246 -11.069 -16.249  0.00  0.00           C 0
+ATOM   1529  CG2 ILE A 201     -12.307  -9.279  -5.940  0.00  0.00           C 0
+ATOM   1568   NE ARG A 205      -8.815 -10.018  -4.689  0.00  0.00           N 0
+ATOM   1559   CEAMET A 204      -7.235 -13.177 -12.319  0.00  0.00           C 0
+ATOM   1526    O ILE A 201     -11.784 -12.438  -6.704  0.00  0.00           O 0
+ATOM   1528  CG1 ILE A 201     -13.710  -8.398  -7.847  0.00  0.00           C 0
+ATOM   1530  CD1 ILE A 201     -14.217  -7.111  -7.252  0.00  0.00           C 0
+ATOM   1553   CBAMET A 204     -10.541 -13.175  -9.911  0.00  0.00           C 0
+ATOM   1050  CG2 ILE A 139     -12.087 -12.095 -13.478  0.00  0.00           C 0
+ATOM   1077   CB GLN A 143     -12.669  -8.093 -13.721  0.00  0.00           C 0
+ATOM   1524   CA ILE A 201     -13.395 -10.869  -7.568  0.00  0.00           C 0
+ATOM   1521  CG1 VAL A 200     -15.180 -11.103 -11.718  0.00  0.00           C 0
+TER
+END

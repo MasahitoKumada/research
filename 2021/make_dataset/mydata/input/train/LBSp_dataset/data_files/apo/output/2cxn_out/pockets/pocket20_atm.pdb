@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0570
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0295
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6014
+HEADER 5  - Mean B-factor of pocket residues  : 0.4187
+HEADER 6  - Hydrophobicity Score              : 3.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.3889
+HEADER 10  -Pocket volume (convex hull)       : 7.6867
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3636
+ATOM   1135  CD2 TRP A 141      11.079  31.391  -4.058  0.00  0.00           C 0
+ATOM   1137  CE2 TRP A 141       9.939  30.936  -3.354  0.00  0.00           C 0
+ATOM   1889   NZ LYS A 241       5.963  36.945  -2.377  0.61  7.66           N 0
+ATOM   1090  NH1 ARG A 135      10.345  33.549  -8.467  0.46  5.47           N 0
+ATOM   1123    O ASP A 140      14.043  36.732  -3.868  0.42  5.36           O 0
+ATOM   1146   CB LYS A 142      11.456  37.393  -0.523  0.00  0.00           C 0
+ATOM   1147   CG LYS A 142      12.641  38.157  -1.104  0.00  0.00           C 0
+ATOM   1142    N LYS A 142      12.000  35.303  -1.712  0.00  0.00           N 0
+ATOM   1145    O LYS A 142       9.476  34.873  -0.521  0.00  0.00           O 0
+ATOM   1139  CZ2 TRP A 141       8.856  30.321  -3.991  0.00  0.00           C 0
+ATOM   1141  CH2 TRP A 141       8.923  30.171  -5.352  0.00  0.00           C 0
+ATOM   1886   CG LYS A 241       5.500  33.900  -1.330  0.00  0.00           C 0
+ATOM   1879    O ALA A 240       5.200  29.864  -3.209  0.80  5.36           O 0
+ATOM   1140  CZ3 TRP A 141      10.041  30.613  -6.084  0.00  0.00           C 0
+ATOM   1138  CE3 TRP A 141      11.119  31.219  -5.450  0.00  0.00           C 0
+ATOM   1129   CA TRP A 141      13.370  34.089  -3.298  0.00  0.00           C 0
+TER
+END

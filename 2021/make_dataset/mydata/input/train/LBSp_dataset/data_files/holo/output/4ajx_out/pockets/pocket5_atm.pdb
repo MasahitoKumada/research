@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0375
+HEADER 1  - Drug Score                        : 0.4434
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8163
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6366
+HEADER 5  - Mean B-factor of pocket residues  : 0.2485
+HEADER 6  - Hydrophobicity Score              : 43.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 332.6335
+HEADER 10  -Pocket volume (convex hull)       : 23.1179
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.5714
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM   1818  CD1 TYR E 103      10.309  -5.035  24.450  0.00  0.00           C 0
+ATOM   1875   CD GLU E 106      12.710   1.111  27.965  0.00  0.00           C 0
+ATOM   1876  OE1 GLU E 106      12.463   0.151  28.730  0.00  0.00           O 0
+ATOM   1874   CG GLU E 106      13.462   0.867  26.652  0.00  0.00           C 0
+ATOM   1873   CB GLU E 106      14.243  -0.434  26.625  0.00  0.00           C 0
+ATOM   1813   CA TYR E 103      13.327  -4.753  25.801  0.00  0.00           C 0
+ATOM   1799  CD1 LEU E 102      15.518  -4.176  19.238  0.00  0.00           C 0
+ATOM   1797   CB LEU E 102      15.345  -4.366  21.688  0.00  0.00           C 0
+ATOM   1821  CE2 TYR E 103      10.988  -6.962  22.553  0.00  0.00           C 0
+ATOM   1798   CG LEU E 102      16.217  -4.704  20.478  0.00  0.00           C 0
+ATOM   1793    N LEU E 102      16.111  -6.248  23.088  0.50  2.19           N 0
+ATOM   1815    O TYR E 103      14.029  -3.732  27.882  0.63  3.21           O 0
+ATOM   1822   CZ TYR E 103       9.931  -6.116  22.328  0.00  0.00           C 0
+ATOM   1823   OH TYR E 103       9.240  -6.222  21.155  0.00  0.00           O 0
+ATOM   1820  CE1 TYR E 103       9.578  -5.139  23.257  0.00  0.00           C 0
+ATOM   1812    N TYR E 103      14.173  -5.111  24.649  0.00  0.00           N 0
+ATOM   1795    C LEU E 102      15.125  -4.298  24.206  0.00  0.00           C 0
+ATOM   1816   CB TYR E 103      12.190  -5.759  25.981  0.00  0.00           C 0
+ATOM   1796    O LEU E 102      15.363  -3.207  24.725  0.53  5.36           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1708
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9262
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5553
+HEADER 5  - Mean B-factor of pocket residues  : 0.3642
+HEADER 6  - Hydrophobicity Score              : 18.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 300.1954
+HEADER 10  -Pocket volume (convex hull)       : 9.0577
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM   1300    N LYS A 166     -56.060 -67.390   8.575  0.65  2.19           N 0
+ATOM   1285  OE2 GLU A 164     -58.815 -72.437   4.289  0.57  6.43           O 0
+ATOM    860  NH2 ARG A 112     -56.151 -72.719   3.355  0.27  8.75           N 0
+ATOM   1304   CB LYS A 166     -55.468 -68.666  10.540  0.00  0.00           C 0
+ATOM   1541    C ILE A 196     -60.873 -65.250   4.775  0.00  0.00           C 0
+ATOM   1284  OE1 GLU A 164     -60.202 -70.891   5.030  0.69  7.50           O 0
+ATOM   1542    O ILE A 196     -59.794 -65.841   4.655  0.00  0.00           O 0
+ATOM   1539    N ILE A 196     -60.687 -64.884   7.243  0.00  0.00           N 0
+ATOM   1289    O TRP A 165     -57.973 -66.421   7.890  0.64  3.21           O 0
+ATOM   1536   CA GLY A 195     -60.914 -65.509   9.595  0.00  0.00           C 0
+ATOM   1301   CA LYS A 166     -56.505 -67.731   9.933  0.00  0.00           C 0
+ATOM   1288    C TRP A 165     -56.822 -66.782   7.674  0.00  0.00           C 0
+ATOM   1305   CG LYS A 166     -55.884 -69.340  11.802  0.00  0.00           C 0
+ATOM   1537    C GLY A 195     -61.471 -64.865   8.327  0.00  0.00           C 0
+ATOM   1547    N GLY A 197     -61.899 -65.412   3.933  0.00  0.00           N 0
+ATOM   1283   CD GLU A 164     -59.219 -71.252   4.324  0.00  0.00           C 0
+ATOM   1280    O GLU A 164     -55.782 -68.145   4.000  0.35  4.29           O 0
+TER
+END

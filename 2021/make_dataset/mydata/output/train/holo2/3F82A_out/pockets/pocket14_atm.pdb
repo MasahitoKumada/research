@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0867
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0683
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6454
+HEADER 5  - Mean B-factor of pocket residues  : 0.2502
+HEADER 6  - Hydrophobicity Score              : 22.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.2411
+HEADER 10  -Pocket volume (convex hull)       : 13.0964
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    532  NE2 HIS A1136      -8.066  -4.342  65.368  0.68  5.47           N 0
+ATOM    961   CE LYS A1193      -6.825 -11.662  67.289  0.00  0.00           C 0
+ATOM    960   CD LYS A1193      -5.695 -10.631  67.287  0.00  0.00           C 0
+ATOM    962   NZ LYS A1193      -7.474 -11.773  68.628  0.00  0.00           N 1
+ATOM    959   CG LYS A1193      -5.056 -10.519  65.917  0.00  0.00           C 0
+ATOM    957    O LYS A1193      -4.623 -10.115  62.677  0.61  2.14           O 0
+ATOM    991   CB SER A1197      -6.649 -11.796  60.325  0.00  0.00           C 0
+ATOM    992   OG SER A1197      -7.323 -10.601  59.943  0.65  4.29           O 0
+ATOM    964   CA PHE A1194      -5.866  -7.735  62.120  0.00  0.00           C 0
+ATOM    529  CD2 HIS A1136      -8.629  -4.264  64.117  0.00  0.00           C 0
+ATOM    936    O LYS A1190      -4.953  -6.021  65.657  0.69  1.07           O 0
+ATOM    937   CB LYS A1190      -5.177  -4.798  68.673  0.00  0.00           C 0
+ATOM    963    N PHE A1194      -4.933  -7.963  63.216  0.00  0.00           N 0
+ATOM    940   CE LYS A1190      -6.849  -5.002  72.104  0.00  0.00           C 0
+ATOM    938   CG LYS A1190      -5.433  -5.313  70.070  0.00  0.00           C 0
+ATOM   1959  CG1 VAL A1334      -5.007  -9.071  71.805  0.00  0.00           C 0
+ATOM    939   CD LYS A1190      -6.472  -4.452  70.752  0.00  0.00           C 0
+ATOM    967   CB PHE A1194      -6.460  -6.322  62.218  0.00  0.00           C 0
+ATOM    969  CD1 PHE A1194      -8.552  -6.265  60.821  0.00  0.00           C 0
+TER
+END

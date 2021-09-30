@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0335
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6240
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4296
+HEADER 5  - Mean B-factor of pocket residues  : 0.5565
+HEADER 6  - Hydrophobicity Score              : 3.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 112.6866
+HEADER 10  -Pocket volume (convex hull)       : 1.6601
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1743   CE MET A 208      -8.385  -3.756   2.433  0.00  0.00           C 0
+ATOM     15   CB PRO A   4      -6.205 -10.277   4.764  0.00  0.00           C 0
+ATOM   1723  CE1 TYR A 206      -5.958  -9.634   1.075  0.00  0.00           C 0
+ATOM   1726   OH TYR A 206      -5.198  -7.488   0.425  0.00  0.00           O 0
+ATOM     21    O VAL A   5      -3.812  -7.552   2.646  0.00  0.00           O 0
+ATOM     14    O PRO A   4      -4.893  -7.654   6.190  0.05  3.21           O 0
+ATOM     26   CA PRO A   6      -4.214  -4.835   2.640  0.00  0.00           C 0
+ATOM   1710    O ASP A 205     -11.213 -13.115   1.793  0.24  9.64           O 0
+ATOM     16   CG PRO A   4      -7.593 -10.536   5.436  0.00  0.00           C 0
+ATOM   1727    N GLN A 207     -10.930 -10.031   0.012  0.38  1.09           N 0
+ATOM   1734  OE1 GLN A 207     -14.311  -9.449   3.376  0.30  2.14           O 0
+ATOM   1721  CD1 TYR A 206      -6.700 -10.793   0.837  0.00  0.00           C 0
+ATOM   1736    N MET A 208     -10.059  -7.430  -0.805  0.00  0.00           N 0
+ATOM   1564  OE2 GLU A 187     -11.234  -5.861   4.437  0.00  0.00           O 0
+ATOM   1740   CB MET A 208      -8.452  -5.671  -0.150  0.00  0.00           C 0
+ATOM   1731   CB GLN A 207     -12.876  -8.648   0.560  0.00  0.00           C 0
+TER
+END

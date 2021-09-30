@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1604
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0636
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5125
+HEADER 5  - Mean B-factor of pocket residues  : 0.4462
+HEADER 6  - Hydrophobicity Score              : 26.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.3692
+HEADER 10  -Pocket volume (convex hull)       : 3.0676
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM    403   CA PRO A 109      -4.374  11.962  -8.724  0.00  0.00           C 0
+ATOM    409    N VAL A 110      -6.060  12.833 -10.229  0.49  1.09           N 0
+ATOM   1945  CE1 HIS B 185      -1.883  15.490  -7.279  0.00  0.00           C 0
+ATOM    424   NZ LYS A 111      -1.249  11.882 -14.543  0.00  0.00           N 0
+ATOM    422   CD LYS A 111      -3.723  11.318 -14.370  0.00  0.00           C 0
+ATOM    412    O VAL A 110      -6.268  13.799 -12.997  0.43  4.29           O 0
+ATOM   1909  CE2 PHE B 181      -3.276  19.075 -10.624  0.00  0.00           C 0
+ATOM    371    O ALA A 105      -4.910  17.247  -8.039  0.00  0.00           O 0
+ATOM   1946  NE2 HIS B 185      -2.351  16.640  -7.671  0.74  1.09           N 0
+ATOM   1910   CZ PHE B 181      -2.040  19.099 -11.276  0.00  0.00           C 0
+ATOM   1942   CG HIS B 185      -0.184  16.742  -7.919  0.00  0.00           C 0
+ATOM   1941   CB HIS B 185       1.242  17.082  -8.230  0.00  0.00           C 0
+ATOM   1944  CD2 HIS B 185      -1.303  17.471  -8.012  0.00  0.00           C 0
+ATOM   1943  ND1 HIS B 185      -0.565  15.518  -7.431  0.00  0.00           N 0
+ATOM    406   CB PRO A 109      -3.370  10.762  -8.603  0.00  0.00           C 0
+TER
+END

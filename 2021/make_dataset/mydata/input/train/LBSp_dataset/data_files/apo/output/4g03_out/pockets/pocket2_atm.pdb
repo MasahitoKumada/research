@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0956
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5136
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3339
+HEADER 5  - Mean B-factor of pocket residues  : 0.1043
+HEADER 6  - Hydrophobicity Score              : 40.9091
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 105.2736
+HEADER 10  -Pocket volume (convex hull)       : 2.0133
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   4775   CB ALA B  26     -34.250   4.678 -23.777  0.00  0.00           C 0
+ATOM   5156  CD1 LEU B  74     -38.936   5.484 -28.085  0.00  0.00           C 0
+ATOM   4808  CD2 TYR B  30     -36.401   8.181 -27.888  0.00  0.00           C 0
+ATOM   5122   CB PHE B  70     -35.262   1.828 -29.066  0.00  0.00           C 0
+ATOM   5125  CD2 PHE B  70     -33.466   1.507 -27.330  0.00  0.00           C 0
+ATOM   4810  CE2 TYR B  30     -35.126   8.265 -28.398  0.00  0.00           C 0
+ATOM   5099  ND1 HIS B  67     -31.715   5.404 -30.618  0.61  1.09           N 0
+ATOM   6558    O GLY B 248     -30.360   6.312 -26.509  0.89  1.07           O 0
+ATOM   4782  CD1 PHE B  27     -37.893   2.897 -25.111  0.00  0.00           C 0
+ATOM   4784  CE1 PHE B  27     -37.490   1.897 -25.971  0.00  0.00           C 0
+ATOM   5372  CD2 PHE B 102     -37.800   8.742 -31.581  0.00  0.00           C 0
+ATOM   5130   CA GLY B  71     -37.886   3.613 -32.164  0.00  0.00           C 0
+ATOM   5348  OD1 ASN B  99     -32.980   8.252 -31.053  0.78  2.14           O 0
+ATOM   5129    N GLY B  71     -36.981   2.671 -31.549  0.78  1.09           N 0
+ATOM   5096    O HIS B  67     -34.708   3.049 -33.168  0.00  0.00           O 0
+ATOM   5314  OE2 GLU B  95     -35.151   5.869 -34.925  0.66  1.07           O 0
+TER
+END

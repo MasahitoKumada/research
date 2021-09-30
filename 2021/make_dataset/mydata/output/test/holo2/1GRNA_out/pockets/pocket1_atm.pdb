@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.3268
+HEADER 1  - Drug Score                        : 0.3129
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.8460
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5032
+HEADER 5  - Mean B-factor of pocket residues  : 0.3044
+HEADER 6  - Hydrophobicity Score              : 16.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.0520
+HEADER 10  -Pocket volume (convex hull)       : 9.7833
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.5312
+ATOM    455  NE2 GLN A  61      19.761  -2.008  16.293  0.66  6.56           N 0
+ATOM    238  CE2 TYR A  32      27.497  -3.902  18.280  0.00  0.00           C 0
+ATOM     89   CB ALA A  13      24.855  -3.884  13.393  0.00  0.00           C 0
+ATOM    252   CB PRO A  34      22.303   0.854  18.766  0.00  0.00           C 0
+ATOM    240   OH TYR A  32      27.237  -5.293  16.287  0.74  7.50           O 0
+ATOM    254   CD PRO A  34      24.249   0.872  20.041  0.00  0.00           C 0
+ATOM    253   CG PRO A  34      22.754   0.882  20.189  0.00  0.00           C 0
+ATOM    248    N PRO A  34      24.446   1.776  18.895  0.00  0.00           N 0
+ATOM    249   CA PRO A  34      23.218   1.879  18.105  0.00  0.00           C 0
+ATOM    235  CD1 TYR A  32      29.685  -2.722  17.064  0.00  0.00           C 0
+ATOM    234   CG TYR A  32      29.321  -2.303  18.326  0.00  0.00           C 0
+HETATM 1497  C5' GDP A 198      27.697  -0.992  12.871  0.00  0.00           C 0
+ATOM    236  CD2 TYR A  32      28.217  -2.898  18.942  0.00  0.00           C 0
+HETATM 1511  O2A GDP A 198      26.834   1.855  13.664  0.52  2.14           O 0
+ATOM     85    N ALA A  13      23.100  -2.274  12.815  0.00  0.00           N 0
+HETATM 1515  O3B GDP A 198      23.285   0.381  13.306  0.00  0.00           O 0
+ATOM     86   CA ALA A  13      24.490  -2.652  12.574  0.00  0.00           C 0
+ATOM    239   CZ TYR A  32      27.902  -4.297  16.970  0.00  0.00           C 0
+ATOM    237  CE1 TYR A  32      28.975  -3.714  16.401  0.00  0.00           C 0
+ATOM     84    O GLY A  12      22.203  -4.274  12.270  0.00  0.00           O 0
+ATOM     83    C GLY A  12      22.078  -3.113  12.660  0.00  0.00           C 0
+ATOM    241    N VAL A  33      27.863   1.661  18.796  0.00  0.00           N 0
+ATOM    243    C VAL A  33      25.550   2.485  18.608  0.00  0.00           C 0
+TER
+END

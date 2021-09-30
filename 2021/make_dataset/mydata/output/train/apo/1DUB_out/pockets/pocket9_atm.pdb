@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.2465
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0907
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4621
+HEADER 5  - Mean B-factor of pocket residues  : 0.8179
+HEADER 6  - Hydrophobicity Score              : 42.4444
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.8546
+HEADER 10  -Pocket volume (convex hull)       : 5.8871
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM   2187  CD1 LEU B  58      91.980 126.987 151.313  0.00  0.00           C 0
+ATOM   2178    C ALA B  57      95.754 124.349 153.406  0.00  0.00           C 0
+ATOM   5820   CZ PHE C 279      94.900 122.738 145.254  0.00  0.00           C 0
+ATOM   2186   CG LEU B  58      92.960 126.758 152.462  0.00  0.00           C 0
+ATOM   2480    N ILE B 100      96.970 116.992 147.762  0.00  0.00           N 0
+ATOM   2478  OD1 ASP B  99      99.051 118.934 151.280  0.74  1.07           O 0
+ATOM   5819  CE2 PHE C 279      96.019 121.885 145.134  0.00  0.00           C 0
+ATOM   2201   CB ALA B  60      95.398 120.035 152.338  0.00  0.00           C 0
+ATOM   2461    O ALA B  96      90.347 119.928 150.045  0.00  0.00           O 0
+ATOM   2462   CB ALA B  96      90.862 122.459 151.354  0.00  0.00           C 0
+ATOM   2177   CA ALA B  57      97.232 124.587 153.216  0.00  0.00           C 0
+ATOM   2170    O LYS B  56      98.012 127.138 152.656  0.38  1.07           O 0
+ATOM   2179    O ALA B  57      95.242 123.288 153.021  0.00  0.00           O 0
+ATOM   2185   CB LEU B  58      92.830 125.343 153.043  0.00  0.00           C 0
+ATOM   2470    O ALA B  98      94.420 117.140 149.727  0.00  0.00           O 0
+ATOM   2487  CD1 ILE B 100      94.200 118.680 145.226  0.00  0.00           C 0
+TER
+END

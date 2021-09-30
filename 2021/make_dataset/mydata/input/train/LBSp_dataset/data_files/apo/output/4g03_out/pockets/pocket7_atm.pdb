@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0631
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9139
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7062
+HEADER 5  - Mean B-factor of pocket residues  : 0.2990
+HEADER 6  - Hydrophobicity Score              : -9.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 300.8134
+HEADER 10  -Pocket volume (convex hull)       : 7.9210
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   5325    O GLU B  97     -35.437  12.039 -36.898  0.74  1.07           O 0
+ATOM   5354   CB GLU B 100     -32.590  14.046 -35.377  0.00  0.00           C 0
+ATOM   5358  OE2 GLU B 100     -31.029  15.174 -37.549  0.64  7.50           O 0
+ATOM   5392  NE2 GLN B 104     -33.852  18.212 -35.099  0.69  5.47           N 0
+ATOM   5359    N CYS B 101     -35.501  13.701 -34.405  0.00  0.00           N 0
+ATOM   5297    N GLN B  94     -37.825   7.541 -40.780  0.45  1.09           N 0
+ATOM   5289   CA LYS B  93     -39.532   9.152 -40.205  0.00  0.00           C 0
+ATOM   5329  OE1 GLU B  97     -33.798   9.777 -42.050  0.67  6.43           O 0
+ATOM   5304  OE1 GLN B  94     -38.639   6.077 -43.670  0.00  0.00           O 0
+ATOM   5391  OE1 GLN B 104     -36.099  18.247 -34.894  0.00  0.00           O 0
+ATOM   5363   CB CYS B 101     -37.804  13.670 -35.190  0.00  0.00           C 0
+ATOM   5323   CA GLU B  97     -34.193  11.252 -38.792  0.00  0.00           C 0
+ATOM   5326   CB GLU B  97     -34.976  11.445 -40.099  0.00  0.00           C 0
+ATOM   5327   CG GLU B  97     -34.133  11.983 -41.248  0.00  0.00           C 0
+ATOM   5294   CD LYS B  93     -38.996  12.716 -38.777  0.00  0.00           C 0
+ATOM   5293   CG LYS B  93     -39.518  11.658 -39.738  0.00  0.00           C 0
+ATOM   5292   CB LYS B  93     -38.777  10.324 -39.581  0.00  0.00           C 0
+ATOM   5295   CE LYS B  93     -39.676  14.076 -39.006  0.00  0.00           C 0
+TER
+END

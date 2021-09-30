@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0830
+HEADER 1  - Drug Score                        : 0.2142
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8644
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6040
+HEADER 5  - Mean B-factor of pocket residues  : 0.2432
+HEADER 6  - Hydrophobicity Score              : 48.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.2024
+HEADER 10  -Pocket volume (convex hull)       : 4.1267
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9000
+ATOM   1002   CB THR B1137     -25.035   3.653  31.098  0.00  0.00           C 0
+ATOM    981  CE2 PHE B1134     -26.046   3.164  25.004  0.00  0.00           C 0
+ATOM    979  CD2 PHE B1134     -25.377   2.272  25.834  0.00  0.00           C 0
+ATOM   1010  CG2 THR B1138     -28.893   3.172  27.542  0.00  0.00           C 0
+ATOM   1031  CG2 VAL B1141     -27.642   9.550  30.654  0.00  0.00           C 0
+ATOM   1001    O THR B1137     -27.575   5.661  31.300  0.75  1.07           O 0
+ATOM   1112  CG1 VAL B1153     -23.298   9.807  29.278  0.00  0.00           C 0
+ATOM   1003  CG2 THR B1137     -24.355   5.004  31.118  0.00  0.00           C 0
+ATOM   1006   CA THR B1138     -29.312   4.414  29.616  0.00  0.00           C 0
+ATOM   1029   CB VAL B1141     -29.117   9.593  30.370  0.00  0.00           C 0
+ATOM    809  CG2 THR B1111     -20.161   5.994  28.244  0.00  0.00           C 0
+ATOM    810  OG1 THR B1111     -20.798   7.928  29.464  0.70  2.14           O 0
+ATOM   1005    N THR B1138     -28.243   3.747  30.364  0.00  0.00           N 0
+ATOM   1000    C THR B1137     -27.444   4.449  31.166  0.00  0.00           C 0
+TER
+END

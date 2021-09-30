@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0083
+HEADER 1  - Drug Score                        : 0.1187
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.9097
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5306
+HEADER 5  - Mean B-factor of pocket residues  : 0.4646
+HEADER 6  - Hydrophobicity Score              : 18.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.0430
+HEADER 10  -Pocket volume (convex hull)       : 16.5850
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 17.4737
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.6129
+ATOM   1811   CD LYS H 110      19.942  11.580  -0.216  0.00  0.00           C 0
+ATOM   1295    N MET H  84      19.258   4.492   3.151  0.57  2.19           N 0
+ATOM   1268    O ILE H  82      15.033   5.545   1.722  0.00  0.00           O 0
+ATOM   1300   CG MET H  84      20.361   3.272   0.456  0.00  0.00           C 0
+ATOM   1809   CB LYS H 110      19.728  11.406   2.313  0.00  0.00           C 0
+ATOM   1810   CG LYS H 110      20.715  11.346   1.115  0.00  0.00           C 0
+ATOM   1289   OG SER H  83      15.940   6.718   4.980  0.62  4.29           O 0
+ATOM   1847  CG2 VAL H 112      12.730  10.154   6.638  0.00  0.00           C 0
+ATOM   1842   CA VAL H 112      14.650  11.857   6.258  0.00  0.00           C 0
+ATOM   1248   CG LYS H  81      10.882   8.903   2.868  0.00  0.00           C 0
+ATOM   1857    N ALA H 113      12.795  13.333   6.042  0.67  1.09           N 0
+ATOM   1830    O PRO H 111      16.624  12.629   4.560  0.00  0.00           O 0
+ATOM   1808    O LYS H 110      18.886  10.459   5.185  0.65  1.07           O 0
+ATOM   1285   CA SER H  83      17.025   5.118   3.565  0.00  0.00           C 0
+ATOM   1805    N LYS H 110      21.111   9.892   3.800  0.60  3.28           N 0
+ATOM   1288   CB SER H  83      17.134   5.926   4.881  0.00  0.00           C 0
+ATOM   1812   CE LYS H 110      20.948  11.593  -1.407  0.00  0.00           C 0
+ATOM   1301   SDAMET H  84      21.284   3.353  -1.104  0.00  0.00           S 0
+ATOM   1813   NZ LYS H 110      20.221  11.707  -2.708  0.00  0.00           N 1
+ATOM   1787   CB LYS H 109      22.697   7.477   2.731  0.00  0.00           C 0
+ATOM   1299   CB MET H  84      21.175   3.704   1.725  0.00  0.00           C 0
+ATOM   1788   CG LYS H 109      23.855   7.435   1.679  0.00  0.00           C 0
+TER
+END

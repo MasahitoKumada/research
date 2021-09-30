@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.1700
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.0256
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5437
+HEADER 5  - Mean B-factor of pocket residues  : 0.4049
+HEADER 6  - Hydrophobicity Score              : 39.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 289.5537
+HEADER 10  -Pocket volume (convex hull)       : 13.8644
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.1923
+ATOM    302  CD1 PHE A  42      18.214  -4.250  36.979  0.00  0.00           C 0
+ATOM    370  NH2AARG A  49      25.037  -3.148  36.583  0.00  0.00           N 0
+ATOM    368  NH1AARG A  49      24.091  -4.476  34.934  0.54  7.66           N 1
+ATOM    366   CZAARG A  49      24.302  -3.261  35.475  0.00  0.00           C 0
+ATOM    360   CGAARG A  49      21.452  -2.246  34.005  0.00  0.00           C 0
+ATOM    364   NEAARG A  49      23.781  -2.161  34.911  0.68  6.56           N 0
+ATOM    196   CBAASN A  26      19.911  -0.820  43.118  0.00  0.00           C 0
+ATOM    300   CB PHE A  42      18.027  -2.518  38.784  0.00  0.00           C 0
+ATOM    202  OD1AASN A  26      19.589  -3.200  43.136  0.00  0.00           O 0
+ATOM    865  CD2 LEU A 108      22.709   2.286  34.321  0.00  0.00           C 0
+ATOM    290   CB ALA A  40      22.141   4.177  37.621  0.00  0.00           C 0
+ATOM    195    O ASN A  26      20.399   1.807  42.229  0.77  3.21           O 0
+ATOM    296    N PHE A  42      17.604  -0.112  38.717  0.00  0.00           N 0
+ATOM    301   CG PHE A  42      17.710  -3.866  38.214  0.00  0.00           C 0
+ATOM    294    O ALA A  41      18.507   0.782  36.862  0.76  2.14           O 0
+ATOM    359   CB ARG A  49      20.774  -0.925  33.701  0.00  0.00           C 0
+ATOM    293    C ALA A  41      18.137   0.886  38.043  0.00  0.00           C 0
+ATOM    292   CA ALA A  41      18.327   2.161  38.837  0.00  0.00           C 0
+ATOM    291    N ALA A  41      19.139   3.089  38.082  0.00  0.00           N 0
+TER
+END

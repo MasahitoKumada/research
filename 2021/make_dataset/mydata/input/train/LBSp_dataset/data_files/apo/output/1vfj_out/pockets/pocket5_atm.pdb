@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0488
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5806
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4108
+HEADER 5  - Mean B-factor of pocket residues  : 0.7194
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 107.6440
+HEADER 10  -Pocket volume (convex hull)       : 1.1703
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM    912   CB MET B   1      -4.737  18.957 -10.125  0.00  0.00           C 0
+ATOM    908    N MET B   1      -6.733  20.121 -11.054  0.00  0.00           N 0
+ATOM   1631    C ASP B 108      -6.772  13.227 -11.116  0.00  0.00           C 0
+ATOM   1632    O ASP B 108      -7.568  13.318 -10.134  0.72  4.29           O 0
+ATOM   1308   OG SER B  66      -7.337  17.980  -7.151  0.00  0.00           O 0
+ATOM   1556  CG1 VAL B  99      -4.205  15.445 -12.491  0.00  0.00           C 0
+ATOM   1536    O GLU B  97      -6.281  19.207 -17.549  0.00  0.00           O 0
+ATOM   1635  OD1 ASP B 108      -9.047  14.508 -14.293  0.80  4.29           O 0
+ATOM   1630   CA ASP B 108      -7.331  13.253 -12.542  0.00  0.00           C 0
+ATOM   1634   CG ASP B 108      -9.581  14.091 -13.238  0.00  0.00           C 0
+ATOM   1543   CA LYS B  98      -4.431  17.198 -17.070  0.00  0.00           C 0
+ATOM   1529    O VAL B  96      -4.937  21.574 -15.372  0.46  2.14           O 0
+ATOM   1551    N VAL B  99      -3.735  15.690 -15.358  0.83  1.09           N 0
+ATOM   1531  CG1 VAL B  96      -2.135  19.691 -14.419  0.00  0.00           C 0
+TER
+END

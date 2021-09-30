@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2538
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.1217
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6671
+HEADER 5  - Mean B-factor of pocket residues  : 0.5380
+HEADER 6  - Hydrophobicity Score              : 0.7500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 298.9448
+HEADER 10  -Pocket volume (convex hull)       : 13.8375
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1600
+ATOM   1936   CE LYS O 257       6.254  51.550   0.243  0.00  0.00           C 0
+ATOM   2052   OH TYR O 274       8.830  53.522   0.941  0.73  1.07           O 0
+ATOM   2068  OE2 GLU O 276       9.598  51.090   1.738  0.62  4.29           O 0
+ATOM   1910  OE1 GLU O 254       5.806  49.233  -2.729  0.00  0.00           O 0
+ATOM   1963   NZ LYS O 261      13.860  51.965  -1.063  0.00  0.00           N 0
+ATOM   1961   CD LYS O 261      12.874  54.186  -1.259  0.00  0.00           C 0
+ATOM   1960   CG LYS O 261      13.090  55.668  -1.358  0.00  0.00           C 0
+ATOM   1962   CE LYS O 261      14.170  53.415  -1.224  0.00  0.00           C 0
+ATOM   1986  OE1 GLU O 265      16.703  56.593  -2.982  0.00  0.00           O 0
+ATOM   1942   CB ALA O 258       8.608  54.260  -6.278  0.00  0.00           C 0
+ATOM   1933   CB LYS O 257       6.278  53.931  -1.545  0.00  0.00           C 0
+ATOM   1938    N ALA O 258       7.688  54.982  -4.120  0.00  0.00           N 0
+ATOM   1931    C LYS O 257       7.642  55.533  -2.904  0.00  0.00           C 0
+ATOM   1939   CA ALA O 258       8.856  55.070  -4.997  0.00  0.00           C 0
+ATOM   1906    O GLU O 254       5.829  52.688  -4.974  0.00  0.00           O 0
+ATOM   1941    O ALA O 258      10.384  56.913  -5.273  0.00  0.00           O 0
+ATOM   1964    N ALA O 262      12.476  58.558  -3.799  0.00  0.00           N 0
+ATOM   1965   CA ALA O 262      13.391  59.134  -4.781  0.00  0.00           C 0
+ATOM   1968   CB ALA O 262      12.797  59.026  -6.181  0.00  0.00           C 0
+TER
+END

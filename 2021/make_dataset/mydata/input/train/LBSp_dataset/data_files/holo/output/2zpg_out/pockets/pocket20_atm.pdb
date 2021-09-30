@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0138
+HEADER 1  - Drug Score                        : 0.0186
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9632
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6023
+HEADER 5  - Mean B-factor of pocket residues  : 0.3673
+HEADER 6  - Hydrophobicity Score              : -2.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 285.3592
+HEADER 10  -Pocket volume (convex hull)       : 10.8588
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM     28    N PRO A  14     119.802   9.549   4.418  0.00  0.00           N 0
+ATOM     21    O ALA A  12     120.565  11.243   1.181  0.29  5.36           O 0
+ATOM     34   CD PRO A  14     119.220  10.731   5.086  0.00  0.00           C 0
+ATOM     32   CB PRO A  14     120.899   9.776   6.471  0.00  0.00           C 0
+ATOM   2054  OE2 GLU B  63     120.271  16.706   4.428  0.77  6.43           O 0
+ATOM   2052   CD GLU B  63     121.274  17.435   4.380  0.00  0.00           C 0
+ATOM   2076  NH1AARG B  65     123.309  17.668   1.234  0.37  7.66           N 0
+ATOM   2072   NEAARG B  65     121.150  17.205   0.627  0.41  2.19           N 0
+ATOM     29   CA PRO A  14     120.720   8.825   5.289  0.00  0.00           C 0
+ATOM     33   CG PRO A  14     119.626  10.551   6.520  0.00  0.00           C 0
+ATOM   2051   CG GLU B  63     122.061  17.648   5.661  0.00  0.00           C 0
+ATOM   2074   CZAARG B  65     122.430  17.339   0.297  0.00  0.00           C 0
+ATOM     10    N ASN A  11     122.313  13.354  -3.073  0.55  2.19           N 0
+ATOM   2078  NH2AARG B  65     122.832  17.147  -0.953  0.00  0.00           N 0
+ATOM     11   CA ASN A  11     121.010  13.762  -2.517  0.00  0.00           C 0
+ATOM   2050   CB GLU B  63     121.188  17.521   6.914  0.00  0.00           C 0
+ATOM   2084   CB HIS B  66     117.872  15.210   6.846  0.00  0.00           C 0
+ATOM   2086  ND1 HIS B  66     118.228  14.110   9.078  0.74  3.28           N 0
+ATOM   2398   CB PRO B 104     121.316  10.695  11.038  0.00  0.00           C 0
+ATOM   2404    O LEU B 105     121.376  15.231  12.412  0.00  0.00           O 0
+TER
+END

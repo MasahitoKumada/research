@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1060
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8333
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5954
+HEADER 5  - Mean B-factor of pocket residues  : 0.7391
+HEADER 6  - Hydrophobicity Score              : -0.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 321.9816
+HEADER 10  -Pocket volume (convex hull)       : 15.5379
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.7500
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM   6828   CA ASN B 350       0.996 -15.338 -21.549  0.00  0.00           C 0
+ATOM   6840   CG GLU B 351      -0.708 -11.921 -18.055  0.00  0.00           C 0
+ATOM   6829    C ASN B 350       1.346 -13.925 -21.070  0.00  0.00           C 0
+ATOM   6822    O ASP B 349      -0.791 -16.611 -23.257  0.00  0.00           O 0
+ATOM   7529   CB LEU B 441      -4.299  -6.691 -21.356  0.00  0.00           C 0
+ATOM   7186  NH2 ARG B 395       1.693  -8.313 -17.226  0.00  0.00           N 0
+ATOM   7533    N TRP B 442      -1.088  -6.851 -21.654  0.66  1.09           N 0
+ATOM   7534   CA TRP B 442       0.159  -6.405 -21.046  0.00  0.00           C 0
+ATOM   6843  OE2 GLU B 351      -2.633 -11.489 -16.735  0.00  0.00           O 0
+ATOM   7537   CB TRP B 442       0.977  -7.574 -20.485  0.00  0.00           C 0
+ATOM   7527    C LEU B 441      -2.003  -5.965 -22.026  0.00  0.00           C 0
+ATOM   7528    O LEU B 441      -1.806  -4.750 -21.975  0.00  0.00           O 0
+ATOM   7525    N LEU B 441      -3.209  -7.757 -23.268  0.00  0.00           N 0
+ATOM   7539  CD1 TRP B 442       1.234  -9.652 -21.960  0.00  0.00           C 0
+ATOM   7531  CD1 LEU B 441      -6.580  -7.324 -20.560  0.00  0.00           C 0
+ATOM   6813    O LYS B 348      -0.309 -13.231 -25.789  0.00  0.00           O 0
+ATOM   6821    C ASP B 349       0.174 -16.027 -23.744  0.00  0.00           C 0
+ATOM   6830    O ASN B 350       1.680 -13.052 -21.876  0.00  0.00           O 0
+ATOM   6835    N GLU B 351       1.265 -13.698 -19.763  0.52  2.19           N 0
+ATOM   7522   CB PRO B 440      -1.460 -10.097 -24.456  0.00  0.00           C 0
+TER
+END

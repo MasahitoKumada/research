@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.1122
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9922
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5812
+HEADER 5  - Mean B-factor of pocket residues  : 0.0752
+HEADER 6  - Hydrophobicity Score              : 42.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.3323
+HEADER 10  -Pocket volume (convex hull)       : 3.9940
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6111
+ATOM    916  CD2 HIS H 117      72.634  64.947 -24.790  0.00  0.00           C 0
+ATOM    854  CG2 VAL H 108      75.437  70.403 -23.465  0.00  0.00           C 0
+ATOM    853  CG1 VAL H 108      73.604  68.736 -23.170  0.00  0.00           C 0
+ATOM    913    O HIS H 117      76.338  61.873 -25.976  0.00  0.00           O 0
+ATOM    907    O SER H 116      75.088  63.602 -28.759  0.45  4.29           O 0
+ATOM    855    N CYS H 109      71.306  69.529 -25.593  0.68  2.19           N 0
+ATOM    849   CA VAL H 108      73.313  70.614 -24.798  0.00  0.00           C 0
+ATOM    909   OG SER H 116      72.086  65.539 -28.696  0.71  4.29           O 0
+ATOM    911   CA HIS H 117      74.123  62.660 -26.378  0.00  0.00           C 0
+ATOM    954    N SER H 123      76.314  69.438 -31.379  0.45  2.19           N 0
+ATOM    958   CB SER H 123      74.953  70.455 -29.630  0.00  0.00           C 0
+ATOM    944    O VAL H 121      78.260  65.962 -31.542  0.00  0.00           O 0
+ATOM    908   CB SER H 116      72.671  65.105 -29.920  0.00  0.00           C 0
+ATOM    955   CA SER H 123      74.977  69.874 -31.035  0.00  0.00           C 0
+ATOM    843    O LEU H 107      74.922  71.664 -26.833  0.48  4.29           O 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0667
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9434
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7205
+HEADER 5  - Mean B-factor of pocket residues  : 0.5956
+HEADER 6  - Hydrophobicity Score              : 4.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.7034
+HEADER 10  -Pocket volume (convex hull)       : 10.2170
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   7505    N GLN B 162      44.918 -27.866   9.598  0.00  0.00           N 0
+ATOM   7506   CA GLN B 162      45.593 -26.756  10.267  0.00  0.00           C 0
+ATOM   7537  OG1 THR B 165      46.756 -25.205   6.309  0.00  0.00           O 0
+ATOM   7501   CB MET B 161      43.076 -28.860   7.099  0.00  0.00           C 0
+ATOM   7510   CG GLN B 162      43.718 -26.226  11.894  0.00  0.00           C 0
+ATOM   7476    O ASP B 158      42.151 -28.797  10.689  0.64  1.07           O 0
+ATOM   6448   CB ALA B  27      46.259 -19.361   9.972  0.00  0.00           C 0
+ATOM   6434  OE1 GLN B  25      45.943 -22.674  12.422  0.37  6.43           O 0
+ATOM   7546   CE LYS B 166      49.881 -23.136  10.668  0.00  0.00           C 0
+ATOM   6445   CA ALA B  27      47.467 -19.751  10.814  0.00  0.00           C 0
+ATOM   7508    O GLN B 162      47.901 -26.020  10.011  0.58  1.07           O 0
+ATOM   7477   CB ASP B 158      38.867 -29.223  10.951  0.00  0.00           C 0
+ATOM   7513  NE2 GLN B 162      42.598 -24.904  13.581  0.48  5.47           N 0
+ATOM   6447    O ALA B  27      49.202 -19.874   9.151  0.46  2.14           O 0
+ATOM   7474   CA ASP B 158      40.042 -29.897  10.217  0.00  0.00           C 0
+ATOM   7480  OD2 ASP B 158      37.704 -29.194   8.820  0.41  6.43           O 0
+ATOM   7500    O MET B 161      45.919 -27.492   7.636  0.00  0.00           O 0
+ATOM   7538  CG2 THR B 165      45.537 -26.524   4.664  0.00  0.00           C 0
+ATOM   7499    C MET B 161      45.145 -28.135   8.319  0.00  0.00           C 0
+TER
+END

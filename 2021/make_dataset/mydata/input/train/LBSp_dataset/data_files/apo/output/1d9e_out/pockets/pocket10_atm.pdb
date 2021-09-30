@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1388
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.6377
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4425
+HEADER 5  - Mean B-factor of pocket residues  : 0.1991
+HEADER 6  - Hydrophobicity Score              : 24.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 98.1286
+HEADER 10  -Pocket volume (convex hull)       : 0.7795
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2174
+ATOM   3368  CE1 PHE B2172     136.506  29.373 193.744  0.00  0.00           C 0
+ATOM   1330    N GLY A1173     137.407  23.662 192.334  0.55  3.28           N 0
+ATOM   5412    N GLY C3173     139.543  29.459 190.031  0.70  3.28           N 0
+ATOM   3366  CD1 PHE B2172     137.561  29.517 194.641  0.00  0.00           C 0
+ATOM   7450  CE1 PHE D4172     141.125  23.735 189.085  0.00  0.00           C 0
+ATOM   5396    O ASN C3171     138.907  26.006 187.785  0.48  2.14           O 0
+ATOM   3371    N GLY B2173     141.928  29.733 193.496  0.68  1.09           N 0
+ATOM   1314    O ASN A1171     135.128  26.996 191.794  0.41  2.14           O 0
+ATOM   7448  CD1 PHE D4172     142.033  23.577 190.124  0.00  0.00           C 0
+ATOM   5407  CD1 PHE C3172     143.056  26.901 189.643  0.00  0.00           C 0
+ATOM   7453    N GLY D4173     140.844  23.419 194.587  0.70  3.28           N 0
+ATOM   7443   CA PHE D4172     142.752  23.091 193.142  0.00  0.00           C 0
+ATOM   5409  CE1 PHE C3172     144.046  26.751 190.619  0.00  0.00           C 0
+ATOM   7437    O ASN D4171     144.537  25.177 193.445  0.55  1.07           O 0
+ATOM   1325  CD1 PHE A1172     137.046  26.197 195.866  0.00  0.00           C 0
+ATOM   1327  CE1 PHE A1172     138.088  26.354 196.775  0.00  0.00           C 0
+ATOM   3355    O ASN B2171     140.985  28.004 197.345  0.55  3.21           O 0
+ATOM   3361   CA PHE B2172     140.509  30.029 195.442  0.00  0.00           C 0
+TER
+END

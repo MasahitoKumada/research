@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0231
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1457
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5189
+HEADER 5  - Mean B-factor of pocket residues  : 0.6856
+HEADER 6  - Hydrophobicity Score              : 25.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 376.3688
+HEADER 10  -Pocket volume (convex hull)       : 17.4812
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM    430  CE1 PHE E  34      11.611  -6.312   4.090  0.00  0.00           C 0
+ATOM    822    O ARG E  73       6.168  -5.737   5.913  0.48  7.50           O 0
+ATOM    831   CA THR E  74       4.636  -6.649   3.888  0.00  0.00           C 0
+ATOM    835  CG2 THR E  74       4.751  -9.035   4.757  0.00  0.00           C 0
+ATOM    432   CZ PHE E  34      11.800  -6.491   2.737  0.00  0.00           C 0
+ATOM    469    O GLN E  38      12.856 -10.771   2.320  0.54  7.50           O 0
+ATOM    828  NH1 ARG E  73       7.168 -11.416   9.138  0.34  8.75           N 1
+ATOM    484    N LEU E  40      12.864  -9.115   6.730  0.00  0.00           N 0
+ATOM    833    O THR E  74       5.392  -6.016   1.749  0.00  0.00           O 0
+ATOM    488   CB LEU E  40      11.313  -8.325   8.501  0.00  0.00           C 0
+ATOM    826   NE ARG E  73       5.822  -9.639   8.539  0.50  3.28           N 0
+ATOM    476   CA GLU E  39      13.757 -10.103   4.813  0.00  0.00           C 0
+ATOM    479   CB GLU E  39      14.431 -11.297   5.465  0.00  0.00           C 0
+ATOM    487    O LEU E  40      13.412  -9.868   9.369  0.22  6.43           O 0
+ATOM    473  NE2 GLN E  38      12.822  -7.507  -1.795  0.00  0.00           N 0
+ATOM    470   CB GLN E  38      13.859  -8.757   0.177  0.00  0.00           C 0
+TER
+END

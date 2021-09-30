@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.1026
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0250
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6507
+HEADER 5  - Mean B-factor of pocket residues  : 0.6369
+HEADER 6  - Hydrophobicity Score              : 14.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 296.0258
+HEADER 10  -Pocket volume (convex hull)       : 14.4884
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM    227    O LYS A  73      -6.017  50.112   6.208  0.70  2.14           O 0
+ATOM    234   CA THR A  74      -6.219  47.889   7.925  0.00  0.00           C 0
+ATOM    239  OG1 THR A  74      -7.653  47.799   9.907  0.71  9.64           O 0
+ATOM    233    N THR A  74      -7.318  48.624   7.297  0.00  0.00           N 0
+ATOM    232   NZ LYS A  73     -10.242  55.792   7.855  0.59  7.66           N 1
+ATOM    230   CD LYS A  73     -10.535  53.299   7.536  0.00  0.00           C 0
+ATOM    231   CE LYS A  73      -9.734  54.559   7.187  0.00  0.00           C 0
+ATOM    701  OE1 GLU A 130      -6.705  57.579  10.029  0.00  0.00           O 0
+ATOM    261   CB MET A  77      -2.170  50.426   6.551  0.00  0.00           C 0
+ATOM    262   CG MET A  77      -3.135  51.565   6.724  0.00  0.00           C 0
+ATOM    238  CG2 THR A  74      -5.572  46.604  10.020  0.00  0.00           C 0
+ATOM    264   CE MET A  77      -2.219  53.651   8.281  0.00  0.00           C 0
+ATOM    226    C LYS A  73      -7.131  49.682   6.510  0.00  0.00           C 0
+ATOM    228   CB LYS A  73      -8.877  51.420   6.989  0.00  0.00           C 0
+ATOM    692    O ALA A 129      -6.829  55.876   5.526  0.88  3.21           O 0
+ATOM    693   CB ALA A 129      -3.728  56.162   6.131  0.00  0.00           C 0
+TER
+END

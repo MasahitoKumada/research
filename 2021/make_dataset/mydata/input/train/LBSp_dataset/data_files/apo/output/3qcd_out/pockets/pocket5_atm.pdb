@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1491
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0221
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7279
+HEADER 5  - Mean B-factor of pocket residues  : 0.8666
+HEADER 6  - Hydrophobicity Score              : -10.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.7064
+HEADER 10  -Pocket volume (convex hull)       : 9.0090
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   1968   CB LYS A1081       9.422   9.264  55.683  0.00  0.00           C 0
+ATOM   1969    N ASP A1082      10.831   6.670  56.861  0.00  0.00           N 0
+ATOM   1970   CA ASP A1082      11.170   5.286  56.571  0.00  0.00           C 0
+ATOM   1973   CB ASP A1082      12.549   5.207  55.919  0.00  0.00           C 0
+ATOM   1966    C LYS A1081       9.566   7.073  56.875  0.00  0.00           C 0
+ATOM   1975  OD1 ASP A1082      12.016   3.190  54.779  0.00  0.00           O 0
+ATOM   1967    O LYS A1081       8.618   6.295  56.769  0.00  0.00           O 0
+ATOM   1946  NE2 GLN A1078      12.674  10.576  52.270  0.00  0.00           N 0
+ATOM   1974   CG ASP A1082      12.882   3.807  55.439  0.00  0.00           C 0
+ATOM    718  CE2 TYR A 915      15.923   6.413  55.384  0.00  0.00           C 0
+ATOM   1976  OD2 ASP A1082      14.001   3.325  55.720  0.77  4.29           O 0
+ATOM    725   CB ASN A 916      19.105   5.186  53.204  0.00  0.00           C 0
+ATOM    726   CG ASN A 916      19.288   3.699  53.410  0.00  0.00           C 0
+ATOM    728  ND2 ASN A 916      18.839   3.200  54.558  0.65  2.19           N 0
+ATOM   1941    O GLN A1078      12.738   8.754  56.110  0.64  1.07           O 0
+ATOM    716  CD2 TYR A 915      16.430   7.581  54.841  0.00  0.00           C 0
+TER
+END

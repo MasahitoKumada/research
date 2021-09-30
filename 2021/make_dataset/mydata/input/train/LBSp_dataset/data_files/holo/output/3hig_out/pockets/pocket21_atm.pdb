@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0345
+HEADER 1  - Drug Score                        : 0.0141
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8273
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4735
+HEADER 5  - Mean B-factor of pocket residues  : 0.7288
+HEADER 6  - Hydrophobicity Score              : -3.3333
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.5923
+HEADER 10  -Pocket volume (convex hull)       : 10.1076
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM  10484   CD ARG B 619      -9.489 -28.895  31.680  0.00  0.00           C 0
+ATOM  10482   CB ARG B 619     -10.826 -27.572  33.340  0.00  0.00           C 0
+ATOM  10483   CG ARG B 619     -10.743 -28.063  31.898  0.00  0.00           C 0
+ATOM  10383   CG PRO B 607     -12.830 -31.938  30.488  0.00  0.00           C 0
+ATOM  10059   CB LYS B 570     -16.354 -32.896  39.064  0.00  0.00           C 0
+ATOM  10354  OE1 GLN B 603     -14.538 -28.538  32.836  0.59  2.14           O 0
+ATOM  10352   CG GLN B 603     -16.494 -29.466  31.809  0.00  0.00           C 0
+ATOM  10382   CB PRO B 607     -11.700 -32.397  29.682  0.00  0.00           C 0
+ATOM  10487  NH1 ARG B 619      -7.533 -30.709  30.625  0.53  8.75           N 0
+ATOM  10043   NE ARG B 568      -9.499 -32.338  36.820  0.17  4.37           N 0
+ATOM  10351   CB GLN B 603     -17.444 -28.945  32.889  0.00  0.00           C 0
+ATOM  10048   CB PHE B 569     -16.817 -27.641  37.313  0.00  0.00           C 0
+ATOM  10055    N LYS B 570     -16.328 -30.441  39.005  0.66  2.19           N 0
+ATOM  10345  OD1 ASP B 602     -20.004 -28.059  35.641  0.00  0.00           O 0
+ATOM  10042   CD ARG B 568     -10.843 -32.057  37.333  0.00  0.00           C 0
+ATOM  10044    N PHE B 569     -14.666 -28.317  38.310  0.00  0.00           N 0
+ATOM  10040   CB ARG B 568     -12.305 -30.263  38.300  0.00  0.00           C 0
+ATOM  10041   CG ARG B 568     -11.074 -30.561  37.461  0.00  0.00           C 0
+ATOM  10754  OE2 GLU B 651      -4.536 -30.718  33.219  0.29  5.36           O 0
+ATOM  10500   OH TYR B 620      -6.724 -29.229  35.119  0.50  2.14           O 0
+TER
+END

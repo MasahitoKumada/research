@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0339
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9356
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5627
+HEADER 5  - Mean B-factor of pocket residues  : 0.2767
+HEADER 6  - Hydrophobicity Score              : -10.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 125.5715
+HEADER 10  -Pocket volume (convex hull)       : 0.9565
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   3333   CBAGLN A1668     -20.429   1.830 -21.143  0.00  0.00           C 0
+ATOM   3331    O GLN A1668     -18.230  -0.577 -20.812  0.68  3.21           O 0
+ATOM   3395  OE1AGLU A1671     -18.621   0.200 -26.114  0.00  0.00           O 0
+ATOM   2498   NZ LYS A1618     -15.611   4.471 -19.547  0.00  0.00           N 0
+ATOM   3334   CGAGLN A1668     -20.957   2.835 -22.189  0.00  0.00           C 0
+ATOM   3332   CAAGLN A1668     -20.262   0.404 -21.673  0.00  0.00           C 0
+ATOM   3475  OE1AGLU A1675     -12.376   0.357 -24.267  0.00  0.00           O 0
+ATOM   3476  OE2AGLU A1675     -13.660  -0.047 -26.002  0.67  5.36           O 0
+ATOM   3419   CB ALA A1672     -15.152  -1.306 -19.681  0.00  0.00           C 0
+ATOM   3415    N ALA A1672     -16.003  -2.314 -21.741  0.00  0.00           N 0
+ATOM   3416   CA ALA A1672     -14.822  -2.119 -20.909  0.00  0.00           C 0
+ATOM   2497   CE LYS A1618     -15.012   3.393 -18.687  0.00  0.00           C 0
+ATOM   3392   CBAGLU A1671     -17.608  -1.812 -24.524  0.00  0.00           C 0
+TER
+END

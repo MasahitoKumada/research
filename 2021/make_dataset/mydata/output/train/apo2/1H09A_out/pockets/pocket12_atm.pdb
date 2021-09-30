@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0120
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9909
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6194
+HEADER 5  - Mean B-factor of pocket residues  : 0.4855
+HEADER 6  - Hydrophobicity Score              : 72.2222
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.1013
+HEADER 10  -Pocket volume (convex hull)       : 14.3633
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   2763  OXT ALA A 339      38.050   8.901  44.145  0.78  8.57           O 1
+ATOM   2759   CA ALA A 339      36.604   7.025  43.989  0.00  0.00           C 0
+ATOM   2762   CB ALA A 339      35.614   7.555  42.954  0.00  0.00           C 0
+ATOM   2351   NZ LYS A 288      40.883   3.429  41.702  0.68  7.66           N 1
+ATOM   1276   CZ PHE A 162      37.547  -0.215  42.945  0.00  0.00           C 0
+ATOM   2754    O VAL A 338      36.067   4.321  43.571  0.83  4.29           O 0
+ATOM   1307  CE2 PHE A 165      34.230   0.048  39.119  0.00  0.00           C 0
+ATOM   1274  CE1 PHE A 162      36.279   0.144  43.405  0.00  0.00           C 0
+ATOM   2350   CE LYS A 288      39.874   3.334  42.800  0.00  0.00           C 0
+ATOM   2342   OH TYR A 287      42.523   7.292  44.848  0.40  8.57           O 0
+ATOM   1495  CD2 LEU A 187      32.478   3.823  39.793  0.00  0.00           C 0
+ATOM   1503  CD2 LEU A 188      34.122   9.541  37.167  0.00  0.00           C 0
+ATOM   1491    O LEU A 187      33.463   8.829  40.540  0.74  3.21           O 0
+ATOM   1492   CB LEU A 187      31.916   6.174  40.186  0.00  0.00           C 0
+ATOM   1345    O ILE A 171      31.428   5.543  36.415  0.37  6.43           O 0
+TER
+END

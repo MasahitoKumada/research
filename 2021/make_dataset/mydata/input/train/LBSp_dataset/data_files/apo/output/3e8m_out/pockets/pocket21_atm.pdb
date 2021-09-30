@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0110
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9049
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6961
+HEADER 5  - Mean B-factor of pocket residues  : 0.2602
+HEADER 6  - Hydrophobicity Score              : -25.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.1599
+HEADER 10  -Pocket volume (convex hull)       : 8.1137
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   9560   CB ASN D  89       0.332  -9.617 -37.204  0.00  0.00           C 0
+ATOM   9561   CG ASN D  89       1.700  -9.928 -37.774  0.00  0.00           C 0
+ATOM   9516   CG GLU D  86      -2.188  -4.328 -39.098  0.00  0.00           C 0
+ATOM   9562  OD1 ASN D  89       2.635  -9.145 -37.646  0.00  0.00           O 0
+ATOM   9512   CA GLU D  86      -2.317  -6.092 -37.274  0.00  0.00           C 0
+ATOM   9499    O GLU D  85      -3.079  -8.705 -37.245  0.00  0.00           O 0
+ATOM   9514    O GLU D  86      -0.851  -6.778 -35.525  0.55  3.21           O 0
+ATOM   9515   CB GLU D  86      -2.202  -4.604 -37.597  0.00  0.00           C 0
+ATOM   9578  OE2 GLU D  90       3.073  -4.428 -32.933  0.72  9.64           O 0
+ATOM   9518  OE1 GLU D  86      -1.512  -2.128 -38.543  0.00  0.00           O 0
+ATOM   9511    N GLU D  86      -3.667  -6.575 -37.569  0.00  0.00           N 0
+ATOM   9498    C GLU D  85      -3.940  -7.871 -37.528  0.00  0.00           C 0
+ATOM   9500   CB GLU D  85      -5.562  -8.428 -39.346  0.00  0.00           C 0
+ATOM   9469   OGASER D  82      -5.512  -3.407 -41.816  0.37  6.43           O 0
+ATOM   9465    OASER D  82      -5.505  -4.945 -38.961  0.63  1.07           O 0
+ATOM   9503  OE1 GLU D  85      -6.821  -8.106 -41.908  0.50  9.64           O 0
+TER
+END

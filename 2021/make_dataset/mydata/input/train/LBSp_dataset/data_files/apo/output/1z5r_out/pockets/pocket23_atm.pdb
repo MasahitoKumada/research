@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0099
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9009
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4653
+HEADER 5  - Mean B-factor of pocket residues  : 0.3198
+HEADER 6  - Hydrophobicity Score              : 9.7000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.0784
+HEADER 10  -Pocket volume (convex hull)       : 25.3320
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM   6223  OE2 GLU C 173     -10.487  28.694 140.134  0.88  2.14           O 0
+ATOM   5941  OD1 ASN C 133     -13.633  31.311 143.801  0.37  4.29           O 0
+ATOM   5931    O THR C 132     -16.019  28.972 142.224  0.00  0.00           O 0
+ATOM   6189   OG SER C 168      -9.926  26.355 145.277  0.00  0.00           O 0
+ATOM   6184    N SER C 168      -8.664  28.862 145.504  0.56  1.09           N 0
+ATOM   5946    O ALA C 134     -17.334  29.969 149.255  0.23  9.64           O 0
+ATOM   5943    N ALA C 134     -16.860  28.879 146.482  0.61  4.37           N 0
+ATOM   6173   OH TYR C 165     -10.790  31.213 146.869  0.47  5.36           O 0
+ATOM   5947   CB ALA C 134     -16.952  27.128 148.198  0.00  0.00           C 0
+ATOM   5939   CB ASN C 133     -15.685  31.715 144.997  0.00  0.00           C 0
+ATOM   6188   CB SER C 168      -9.966  27.046 146.513  0.00  0.00           C 0
+ATOM   6130   CG PRO C 160     -13.627  34.233 148.079  0.00  0.00           C 0
+ATOM   5936   CA ASN C 133     -16.345  30.370 144.643  0.00  0.00           C 0
+ATOM   6212    O SER C 172      -9.771  24.876 139.844  0.00  0.00           O 0
+ATOM   6213   CB SER C 172      -8.314  26.004 142.425  0.00  0.00           C 0
+ATOM   5927   OG SER C 131     -13.559  29.949 139.002  0.00  0.00           O 0
+ATOM   5926   CB SER C 131     -14.602  29.269 138.322  0.00  0.00           C 0
+ATOM   5173  CD1 PHE C  42     -16.418  26.908 136.652  0.00  0.00           C 0
+ATOM   5175  CE1 PHE C  42     -17.509  26.846 137.499  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0447
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9930
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6026
+HEADER 5  - Mean B-factor of pocket residues  : 0.1840
+HEADER 6  - Hydrophobicity Score              : 12.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 289.0298
+HEADER 10  -Pocket volume (convex hull)       : 5.3783
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM    458   CE LYS A 126       7.881  -9.288   1.039  0.00  0.00           C 0
+ATOM    469  NE2 HIS A 127      10.386  -6.601   0.370  0.00  0.00           N 0
+ATOM    459   NZ LYS A 126       7.674 -10.526   0.237  0.26  7.66           N 0
+ATOM    468  CE1 HIS A 127       9.353  -5.778   0.391  0.00  0.00           C 0
+ATOM   1248   CA ARG A 227       4.648  -6.566   0.152  0.00  0.00           C 0
+ATOM   1247    N ARG A 227       4.164  -7.405  -0.947  0.63  2.19           N 0
+ATOM   1251   CB ARG A 227       4.452  -5.081  -0.174  0.00  0.00           C 0
+ATOM   1242   CB GLN A 226       4.907  -9.625  -3.262  0.00  0.00           C 0
+ATOM   1240    C GLN A 226       4.402  -8.716  -0.969  0.00  0.00           C 0
+ATOM   1245  OE1 GLN A 226       6.249  -9.659  -5.805  0.00  0.00           O 0
+ATOM   1212    O THR A 223       3.767  -6.764  -4.771  0.48  2.14           O 0
+ATOM   1215  CG2 THR A 223       5.240  -5.738  -7.422  0.00  0.00           C 0
+ATOM   1253   CD ARG A 227       4.762  -2.717   0.584  0.00  0.00           C 0
+ATOM   1256  NH1 ARG A 227       2.465  -1.185  -0.017  0.65  4.37           N 0
+ATOM   1217   CA PHE A 224       1.565  -5.098  -4.654  0.00  0.00           C 0
+ATOM   1219    O PHE A 224       1.919  -5.633  -2.336  0.00  0.00           O 0
+ATOM   1222  CD1 PHE A 224       0.115  -2.402  -3.395  0.00  0.00           C 0
+TER
+END

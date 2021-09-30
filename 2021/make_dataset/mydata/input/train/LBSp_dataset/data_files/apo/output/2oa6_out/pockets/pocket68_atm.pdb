@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    68:
+HEADER 0  - Pocket Score                      : -0.1514
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.1858
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5995
+HEADER 5  - Mean B-factor of pocket residues  : 0.7394
+HEADER 6  - Hydrophobicity Score              : 17.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.9948
+HEADER 10  -Pocket volume (convex hull)       : 8.8497
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2400
+ATOM   1581  NH1 ARG A 205      19.015 -36.314  12.468  0.00  0.00           N 0
+ATOM   1578   CD ARG A 205      20.812 -36.457  14.668  0.00  0.00           C 0
+ATOM   5968  OD2 ASP C 159      25.254 -40.422  13.374  0.52  2.14           O 0
+ATOM   1579   NE ARG A 205      21.019 -35.686  13.436  0.00  0.00           N 0
+ATOM   1580   CZ ARG A 205      20.157 -35.632  12.417  0.00  0.00           C 0
+ATOM   1553  NE2 GLN A 202      25.075 -36.428  11.420  0.52  1.09           N 0
+ATOM   1552  OE1 GLN A 202      23.220 -35.157  11.543  0.00  0.00           O 0
+ATOM   5909  CD2 LEU C 152      19.731 -39.687   6.462  0.00  0.00           C 0
+ATOM   1582  NH2 ARG A 205      20.431 -34.881  11.349  0.48  7.66           N 0
+ATOM   5935   CD ARG C 155      24.553 -36.274   7.742  0.00  0.00           C 0
+ATOM   5938  NH1 ARG C 155      22.883 -34.405   6.462  0.55  9.84           N 0
+ATOM   5933   CB ARG C 155      25.400 -38.645   8.143  0.00  0.00           C 0
+ATOM   5941   CA ALA C 156      25.518 -43.130   8.728  0.00  0.00           C 0
+ATOM   5944   CB ALA C 156      24.424 -43.869   7.983  0.00  0.00           C 0
+ATOM   5905    O LEU C 152      23.721 -41.602   6.209  0.52  1.07           O 0
+ATOM   6134  CG1 VAL C 179      20.332 -44.982   6.523  0.00  0.00           C 0
+ATOM   5940    N ALA C 156      25.755 -41.845   8.095  0.00  0.00           N 0
+ATOM   5931    C ARG C 155      26.436 -40.874   8.700  0.00  0.00           C 0
+TER
+END

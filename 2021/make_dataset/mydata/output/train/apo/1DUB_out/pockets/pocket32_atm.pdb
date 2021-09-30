@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0885
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6793
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4695
+HEADER 5  - Mean B-factor of pocket residues  : 0.6663
+HEADER 6  - Hydrophobicity Score              : 6.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 94.9975
+HEADER 10  -Pocket volume (convex hull)       : 1.1474
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   3545   CE LYS B 241      81.259 106.503 167.787  0.00  0.00           C 0
+ATOM   3576  ND2 ASN B 245      79.448 104.267 164.810  0.00  0.00           N 0
+ATOM   2692    O THR B 124      85.036 103.629 164.330  0.20  8.57           O 0
+ATOM   2710    O ILE B 126      84.589 105.688 168.295  0.39  1.07           O 0
+ATOM   2723   NZ LYS B 127      84.187  99.860 168.708  0.46  6.56           N 0
+ATOM   2718    O LYS B 127      82.168 105.838 171.397  0.55  1.07           O 0
+ATOM   2716   CA LYS B 127      84.187 104.654 170.881  0.00  0.00           C 0
+ATOM   2721   CD LYS B 127      84.150 101.622 170.513  0.00  0.00           C 0
+ATOM   3523    O ALA B 238      78.588 102.607 171.837  0.00  0.00           O 0
+ATOM   3547    N GLU B 242      77.347 102.821 168.995  0.00  0.00           N 0
+ATOM   3551   CB GLU B 242      78.089 100.551 169.231  0.00  0.00           C 0
+ATOM   3553   CD GLU B 242      80.071  99.043 169.421  0.00  0.00           C 0
+ATOM   3548   CA GLU B 242      77.574 101.596 168.271  0.00  0.00           C 0
+ATOM   3555  OE2 GLU B 242      81.179  98.941 168.833  0.59  4.29           O 0
+ATOM   3552   CG GLU B 242      78.868  99.461 168.586  0.00  0.00           C 0
+ATOM   3543   CG LYS B 241      79.008 105.884 168.536  0.00  0.00           C 0
+TER
+END

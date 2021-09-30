@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.0740
+HEADER 1  - Drug Score                        : 0.0096
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6320
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4230
+HEADER 5  - Mean B-factor of pocket residues  : 0.1806
+HEADER 6  - Hydrophobicity Score              : 72.2222
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 84.0888
+HEADER 10  -Pocket volume (convex hull)       : 0.7251
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6842
+ATOM   1012   CG LEU A 126      16.909  17.105 -14.526  0.00  0.00           C 0
+ATOM   2195   CA SER A 278      14.255  12.852 -10.013  0.00  0.00           C 0
+ATOM   1014  CD2 LEU A 126      17.508  16.982 -13.119  0.00  0.00           C 0
+ATOM   2200    N ALA A 279      12.878  14.775  -9.490  0.00  0.00           N 0
+ATOM   1038   SD MET A 129      14.804  18.396 -10.293  0.00  0.00           S 0
+ATOM   1005  CG1 VAL A 125      11.322  18.082 -12.633  0.00  0.00           C 0
+ATOM    977    O VAL A 122      14.090  16.586 -16.485  0.64  2.14           O 0
+ATOM    979  CG1 VAL A 122      15.303  13.610 -17.080  0.00  0.00           C 0
+ATOM    831  CD2 LEU A 103      13.697  10.728 -13.534  0.00  0.00           C 0
+ATOM   2104  CZ3 TRP A 267      10.620  12.944 -14.792  0.00  0.00           C 0
+ATOM   1004   CB VAL A 125      11.294  18.036 -14.168  0.00  0.00           C 0
+ATOM   2105  CH2 TRP A 267      10.263  14.135 -15.444  0.00  0.00           C 0
+ATOM   2196    C SER A 278      14.046  14.174  -9.278  0.00  0.00           C 0
+ATOM   2183    O TRP A 277      16.950  12.856 -10.818  0.76  1.07           O 0
+ATOM    827    O LEU A 103      18.041  12.314 -14.931  0.41  1.07           O 0
+TER
+END

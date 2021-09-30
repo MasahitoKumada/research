@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0639
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9906
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5081
+HEADER 5  - Mean B-factor of pocket residues  : 0.1986
+HEADER 6  - Hydrophobicity Score              : 11.6667
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 274.3081
+HEADER 10  -Pocket volume (convex hull)       : 9.8817
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1200
+ATOM    452  CZ2 TRP A  55     -28.179  38.318  -9.097  0.00  0.00           C 0
+ATOM    449  NE1 TRP A  55     -29.804  36.407  -9.175  0.57  2.19           N 0
+ATOM    458    O ALA A  56     -33.877  36.794  -9.398  0.00  0.00           O 0
+ATOM    552  OD1 ASP A  67     -28.251  37.996 -12.590  0.48  7.50           O 0
+ATOM    466  OD1 ASP A  57     -31.919  35.355 -13.509  0.43  5.36           O 0
+ATOM    450  CE2 TRP A  55     -28.959  37.301  -8.560  0.00  0.00           C 0
+ATOM    349  OD2 ASP A  43     -29.995  41.918  -6.160  0.55  5.36           O 0
+ATOM    543  CE2 TYR A  66     -28.031  42.384  -8.883  0.00  0.00           C 0
+ATOM    541  CD2 TYR A  66     -27.672  42.007 -10.159  0.00  0.00           C 0
+ATOM    459   CB ALA A  56     -35.823  36.023  -7.186  0.00  0.00           C 0
+ATOM    362   CE LYS A  45     -32.852  43.290  -3.966  0.00  0.00           C 0
+ATOM    363   NZ LYS A  45     -34.211  43.204  -3.358  0.00  0.00           N 0
+ATOM    448  CD2 TRP A  55     -28.988  37.029  -7.169  0.00  0.00           C 0
+ATOM    429   CBASER A  53     -34.032  40.048  -1.736  0.00  0.00           C 0
+ATOM    346   CB ASP A  43     -29.599  40.450  -4.365  0.00  0.00           C 0
+ATOM    428    O SER A  53     -31.666  38.071  -1.994  0.00  0.00           O 0
+ATOM    436    O LEU A  54     -33.776  36.299  -3.660  0.84  4.29           O 0
+ATOM    455    N ALA A  56     -33.420  35.787  -6.756  0.65  1.09           N 0
+ATOM    442   CA TRP A  55     -31.609  35.720  -5.163  0.00  0.00           C 0
+TER
+END

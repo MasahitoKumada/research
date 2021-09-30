@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0475
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6004
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4599
+HEADER 5  - Mean B-factor of pocket residues  : 0.2807
+HEADER 6  - Hydrophobicity Score              : 12.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 68.8849
+HEADER 10  -Pocket volume (convex hull)       : 0.3783
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM   2684    O ASP A 387      18.045  36.848  46.373  0.51  3.21           O 0
+ATOM   2633    N TRP A 381      15.119  35.155  42.618  0.58  1.09           N 0
+ATOM   4046  CD2 HIS A 553      19.387  39.250  41.495  0.00  0.00           C 0
+ATOM   2637   CB TRP A 381      16.233  35.218  40.367  0.00  0.00           C 0
+ATOM   4040   CA HIS A 553      20.860  36.873  40.320  0.00  0.00           C 0
+ATOM   4087  OE1 GLU A 557      22.005  36.765  43.890  0.31  1.07           O 0
+ATOM   2647    N VAL A 382      16.170  32.610  42.136  0.44  2.19           N 0
+ATOM   4086   CD GLU A 557      22.243  35.918  44.755  0.00  0.00           C 0
+ATOM   4088  OE2 GLU A 557      21.664  35.837  45.842  0.00  0.00           O 0
+ATOM   2665    N GLY A 384      18.170  32.520  46.207  0.47  2.19           N 0
+ATOM   2666   CA GLY A 384      18.250  33.797  46.988  0.00  0.00           C 0
+ATOM   4055    OASER A 554      21.805  32.527  41.472  0.45  2.14           O 0
+ATOM   4084   CB GLU A 557      22.571  33.512  44.600  0.00  0.00           C 0
+TER
+END

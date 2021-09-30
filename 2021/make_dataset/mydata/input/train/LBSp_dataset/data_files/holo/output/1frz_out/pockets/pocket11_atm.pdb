@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0065
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7356
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5066
+HEADER 5  - Mean B-factor of pocket residues  : 0.4625
+HEADER 6  - Hydrophobicity Score              : 3.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 134.5858
+HEADER 10  -Pocket volume (convex hull)       : 1.6934
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   4155  ND2 ASN B 262       4.655 -28.091  61.397  0.00  0.00           N 0
+ATOM   4154  OD1 ASN B 262       6.629 -27.037  61.606  0.65  7.50           O 0
+ATOM   2112  NH2 ARG B   2       4.136 -24.534  61.699  0.00  0.00           N 0
+ATOM   2111  NH1 ARG B   2       3.813 -23.270  63.572  0.53  8.75           N 0
+ATOM   2212  CZ2 TRP B  15       0.860 -26.276  61.336  0.00  0.00           C 0
+ATOM   2243  CD2 HIS B  19      -0.413 -25.419  65.687  0.00  0.00           C 0
+ATOM   2267  OD1 ASN B  22       0.407 -30.996  67.745  0.56  9.64           O 0
+ATOM   2232   NE ARG B  18      -0.181 -32.130  63.082  0.45  4.37           N 0
+ATOM   2235  NH2 ARG B  18       1.016 -31.540  61.210  0.50  2.19           N 0
+ATOM   2204    O TRP B  15      -3.428 -28.781  62.412  0.00  0.00           O 0
+ATOM   2240   CB HIS B  19      -2.638 -26.596  65.056  0.00  0.00           C 0
+ATOM   2210  CE2 TRP B  15       0.230 -27.268  60.569  0.00  0.00           C 0
+ATOM   2236    N HIS B  19      -3.321 -28.932  65.399  0.00  0.00           N 0
+ATOM   2237   CA HIS B  19      -2.716 -27.775  66.033  0.00  0.00           C 0
+TER
+END

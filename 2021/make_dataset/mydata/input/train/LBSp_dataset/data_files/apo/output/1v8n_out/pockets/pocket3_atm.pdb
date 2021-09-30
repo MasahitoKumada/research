@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.3001
+HEADER 1  - Drug Score                        : 0.0066
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7870
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5636
+HEADER 5  - Mean B-factor of pocket residues  : 0.5513
+HEADER 6  - Hydrophobicity Score              : 9.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 6.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 162.2372
+HEADER 10  -Pocket volume (convex hull)       : 1.2034
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    266   CB ARG A  43      17.726  31.873  40.342  0.00  0.00           C 0
+ATOM    271  NH1 ARG A  43      17.015  33.617  36.369  0.53  6.56           N 0
+ATOM    267   CG ARG A  43      18.200  32.419  38.998  0.00  0.00           C 0
+ATOM    268   CD ARG A  43      17.957  31.425  37.871  0.00  0.00           C 0
+ATOM    293   NE ARG A  46      11.093  36.338  40.525  0.77  4.37           N 0
+ATOM    295  NH1 ARG A  46      12.965  36.599  39.211  0.72  5.47           N 0
+ATOM    927  CD1 TRP A 135      11.005  29.857  38.740  0.00  0.00           C 0
+ATOM    294   CZ ARG A  46      11.791  37.044  39.642  0.00  0.00           C 0
+ATOM    292   CD ARG A  46      11.528  35.064  41.094  0.00  0.00           C 0
+ATOM    280  OE1 GLU A  44      16.136  36.004  37.191  0.67  5.36           O 0
+ATOM    265    O ARG A  43      16.230  34.190  41.550  0.00  0.00           O 0
+ATOM    925   CB TRP A 135      10.285  31.373  40.681  0.00  0.00           C 0
+ATOM    926   CG TRP A 135      11.232  30.478  39.937  0.00  0.00           C 0
+ATOM    928  CD2 TRP A 135      12.578  30.150  40.310  0.00  0.00           C 0
+ATOM    931  CE3 TRP A 135      13.388  30.469  41.410  0.00  0.00           C 0
+ATOM    929  NE1 TRP A 135      12.128  29.170  38.343  0.79  5.47           N 0
+ATOM    930  CE2 TRP A 135      13.106  29.331  39.287  0.00  0.00           C 0
+TER
+END

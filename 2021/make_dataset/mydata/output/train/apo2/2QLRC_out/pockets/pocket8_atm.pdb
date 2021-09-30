@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1751
+HEADER 1  - Drug Score                        : 0.0076
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9930
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5096
+HEADER 5  - Mean B-factor of pocket residues  : 0.8783
+HEADER 6  - Hydrophobicity Score              : -8.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 360.6416
+HEADER 10  -Pocket volume (convex hull)       : 20.2650
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   1417   CA PRO C 186      19.593 -18.241  22.630  0.00  0.00           C 0
+ATOM     40   CD ARG C   5      20.066 -21.098  29.011  0.00  0.00           C 0
+ATOM   1397    O ALA C 183      18.545 -22.654  26.503  0.80  3.21           O 0
+ATOM   1402    O LYS C 184      21.426 -22.616  22.863  0.58  6.43           O 0
+ATOM   1419    O PRO C 186      17.721 -18.348  24.210  0.52  2.14           O 0
+ATOM     38   CB ARG C   5      20.596 -18.590  29.744  0.00  0.00           C 0
+ATOM     39   CG ARG C   5      21.082 -20.086  29.770  0.00  0.00           C 0
+ATOM     16  OD1 ASN C   2      24.508 -20.238  29.472  0.00  0.00           O 0
+ATOM   1400   CA LYS C 184      20.142 -23.843  24.465  0.00  0.00           C 0
+ATOM     13   CB ASN C   2      24.826 -22.187  30.895  0.00  0.00           C 0
+ATOM   1403   CB LYS C 184      20.857 -25.174  24.143  0.00  0.00           C 0
+ATOM   1404   CG LYS C 184      20.659 -26.275  25.194  0.00  0.00           C 0
+ATOM   1733  OD2 ASP C 224      19.382 -24.692  30.863  0.56  5.36           O 1
+ATOM   1407   NZ LYS C 184      21.992 -28.849  26.406  0.00  0.00           N 1
+ATOM      5   CB MET C   1      24.714 -26.774  33.575  0.00  0.00           C 0
+ATOM      1    N MET C   1      22.748 -25.430  34.172  0.23  5.47           N 0
+ATOM   1731   CG ASP C 224      18.686 -25.415  31.609  0.00  0.00           C 0
+ATOM   1994  NH2 ARG C 254      18.780 -27.767  35.058  0.00  0.00           N 0
+ATOM   1732  OD1 ASP C 224      18.740 -25.353  32.859  0.00  0.00           O 0
+ATOM      9    N ASN C   2      24.199 -23.526  32.964  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0264
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1285
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5820
+HEADER 5  - Mean B-factor of pocket residues  : 0.7814
+HEADER 6  - Hydrophobicity Score              : -12.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.5339
+HEADER 10  -Pocket volume (convex hull)       : 2.7939
+HEADER 11 - Charge Score                      :    -4
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1599    O ASP E 432       1.552  37.826   7.945  0.57  4.29           O 0
+ATOM   1602  OD1 ASP E 432       1.684  40.823   9.059  0.15  1.07           O 0
+ATOM   1592    N GLY E 431       0.000  38.464  12.317  0.36  5.47           N 0
+ATOM   1524    O GLU E 422       5.784  36.976   9.240  0.00  0.00           O 0
+ATOM   1578    O ILE E 429       2.284  41.617  11.853  0.45  4.29           O 0
+ATOM   1485  OD2 ASP E 417       2.880  30.327   7.916  0.00  0.00           O 0
+ATOM   1526   CG GLU E 422       4.358  33.658   8.016  0.00  0.00           C 0
+ATOM   1595    O GLY E 431      -2.026  37.449   9.456  0.48  8.57           O 0
+ATOM   1593   CA GLY E 431      -1.023  37.737  11.591  0.00  0.00           C 0
+ATOM   1525   CB GLU E 422       3.831  35.044   7.648  0.00  0.00           C 0
+ATOM   1505   CG GLU E 419      -0.431  32.921   5.321  0.00  0.00           C 0
+ATOM   1594    C GLY E 431      -1.163  38.035  10.114  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0769
+HEADER 1  - Drug Score                        : 0.0075
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5461
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3783
+HEADER 5  - Mean B-factor of pocket residues  : 0.2725
+HEADER 6  - Hydrophobicity Score              : 68.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 86.7393
+HEADER 10  -Pocket volume (convex hull)       : 0.3914
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   4095  CG2 VAL A 526      33.807   7.364  16.697  0.00  0.00           C 0
+ATOM   5563  CG2 THR A 704      34.552   3.969  17.739  0.00  0.00           C 0
+ATOM   5561   CB THR A 704      35.823   3.609  16.915  0.00  0.00           C 0
+ATOM   5562  OG1 THR A 704      36.751   3.166  17.927  0.85  3.21           O 0
+ATOM   4087  CG1 VAL A 525      34.677   7.175  21.206  0.00  0.00           C 0
+ATOM   4121  CE2 PHE A 529      38.161  10.141  19.402  0.00  0.00           C 0
+ATOM   5532  CG1 ILE A 701      40.078   8.206  15.740  0.00  0.00           C 0
+ATOM   4119  CD2 PHE A 529      37.444  10.809  18.371  0.00  0.00           C 0
+ATOM   4643  CZ2 TRP A 593      37.360   6.831  23.624  0.00  0.00           C 0
+ATOM   4684   CG GLN A 598      38.197   2.598  22.871  0.00  0.00           C 0
+ATOM   4661  CE1 PHE A 595      40.896   7.078  19.855  0.00  0.00           C 0
+ATOM   4659  CD1 PHE A 595      40.712   6.956  21.231  0.00  0.00           C 0
+ATOM   5528   CA ILE A 701      39.156   5.895  15.099  0.00  0.00           C 0
+TER
+END

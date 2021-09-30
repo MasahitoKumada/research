@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0264
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8823
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6006
+HEADER 5  - Mean B-factor of pocket residues  : 0.5991
+HEADER 6  - Hydrophobicity Score              : 22.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.1958
+HEADER 10  -Pocket volume (convex hull)       : 7.1747
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1271   CB GLN B 219      20.709  39.021  25.215  0.00  0.00           C 0
+ATOM   1268   CA GLN B 219      20.281  37.876  24.296  0.00  0.00           C 0
+ATOM   1241    O GLN B 215      17.751  38.868  26.816  0.51  4.29           O 0
+ATOM     99  NE2 GLN A 217      15.714  40.762  20.225  0.00  0.00           N 0
+ATOM   1272   CG GLN B 219      21.924  39.785  24.694  0.00  0.00           C 0
+ATOM   1298   CBAGLN B 222      20.522  36.505  19.927  0.00  0.00           C 0
+ATOM   1275  NE2 GLN B 219      22.762  42.052  24.839  0.00  0.00           N 0
+ATOM   1267    N GLN B 219      19.061  37.233  24.777  0.71  1.09           N 0
+ATOM   1273   CD GLN B 219      22.221  41.037  25.500  0.00  0.00           C 0
+ATOM   1274  OE1 GLN B 219      21.971  41.088  26.702  0.00  0.00           O 0
+ATOM   1265  CG1 VAL B 218      16.101  36.704  22.864  0.00  0.00           C 0
+ATOM     76  CD1 LEU A 214      13.031  39.397  24.596  0.00  0.00           C 0
+ATOM     98  OE1 GLN A 217      14.010  41.201  21.633  0.77  3.21           O 0
+ATOM   1306  NE2AGLN B 222      17.710  37.726  18.098  0.52  6.56           N 0
+ATOM   1300   CGAGLN B 222      19.017  36.525  19.733  0.00  0.00           C 0
+TER
+END

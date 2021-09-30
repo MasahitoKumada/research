@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0005
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8093
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5836
+HEADER 5  - Mean B-factor of pocket residues  : 0.6717
+HEADER 6  - Hydrophobicity Score              : 22.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.0606
+HEADER 10  -Pocket volume (convex hull)       : 22.8420
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   3908    N ALA A 537      12.827  -6.349   3.103  0.00  0.00           N 0
+ATOM   3898   CB THR A 535      12.190  -5.943   7.011  0.00  0.00           C 0
+ATOM   3912   CB ALA A 537      11.001  -7.956   2.787  0.00  0.00           C 0
+ATOM   3906  OG1 THR A 536      15.635  -7.596   3.377  0.00  0.00           O 0
+ATOM   3192    O ALA A 450      18.326  -8.535   8.798  0.00  0.00           O 0
+ATOM   3900  CG2 THR A 535      11.883  -6.421   8.418  0.00  0.00           C 0
+ATOM   3221   CB ARG A 455      15.619  -6.105  16.259  0.00  0.00           C 0
+ATOM   3215    O ALA A 454      17.388  -6.927  12.632  0.56  5.36           O 0
+ATOM   3211    O GLY A 453      18.567  -9.907  13.609  0.00  0.00           O 0
+ATOM   3223   CD ARG A 455      13.221  -6.398  17.016  0.00  0.00           C 0
+ATOM   3218   CA ARG A 455      16.296  -5.786  14.921  0.00  0.00           C 0
+ATOM   3879   CB PRO A 533      11.251  -4.280  12.927  0.00  0.00           C 0
+ATOM   3228    N VAL A 456      15.980  -3.729  13.671  0.00  0.00           N 0
+ATOM   3885    O TYR A 534      14.084  -3.958   9.536  0.00  0.00           O 0
+ATOM   3193   CB ALA A 450      17.503  -5.395   8.569  0.00  0.00           C 0
+ATOM   3895   CA THR A 535      13.308  -4.881   7.024  0.00  0.00           C 0
+ATOM   3901    N THR A 536      14.560  -5.444   5.011  0.80  1.09           N 0
+TER
+END

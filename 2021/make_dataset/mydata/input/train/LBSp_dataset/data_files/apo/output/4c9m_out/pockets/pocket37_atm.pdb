@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0066
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6689
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4531
+HEADER 5  - Mean B-factor of pocket residues  : 0.1339
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.1222
+HEADER 10  -Pocket volume (convex hull)       : 1.1923
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM   7623   CG ARG B  82      41.234  28.034  22.822  0.00  0.00           C 0
+ATOM   7619   CA ARG B  82      43.089  27.906  24.545  0.00  0.00           C 0
+ATOM   7606    O GLU B  81      44.991  29.769  23.641  0.67  6.43           O 0
+ATOM  11251   OG SER B 311      41.551  34.063  26.194  0.62  6.43           O 0
+ATOM  11273   CB MET B 313      36.245  29.961  27.037  0.00  0.00           C 0
+ATOM   7624   CD ARG B  82      39.961  27.404  22.310  0.00  0.00           C 0
+ATOM  11276   CE MET B 313      37.453  27.404  25.636  0.00  0.00           C 0
+ATOM   7622   CB ARG B  82      41.784  27.289  24.032  0.00  0.00           C 0
+ATOM  11246    N SER B 311      41.651  32.206  28.340  0.00  0.00           N 0
+ATOM  11275   SD MET B 313      38.145  27.914  27.235  0.00  0.00           S 0
+ATOM   7621    O ARG B  82      42.829  27.871  26.923  0.48  1.07           O 0
+ATOM  11250   CB SER B 311      40.371  33.639  26.828  0.00  0.00           C 0
+ATOM  11249    O SER B 311      39.033  31.581  28.790  0.00  0.00           O 0
+TER
+END

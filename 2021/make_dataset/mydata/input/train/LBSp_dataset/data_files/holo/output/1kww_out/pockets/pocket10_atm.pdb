@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0172
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9435
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5780
+HEADER 5  - Mean B-factor of pocket residues  : 0.3624
+HEADER 6  - Hydrophobicity Score              : 25.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 143.1399
+HEADER 10  -Pocket volume (convex hull)       : 1.3351
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1643  CG2 THR B 151       6.646  28.526   9.603  0.00  0.00           C 0
+ATOM   1935  CG2 THR B 189       5.432  30.861   6.743  0.00  0.00           C 0
+ATOM   1928  CG2 VAL B 188       6.844  28.299   3.589  0.00  0.00           C 0
+ATOM   1925    O VAL B 188       3.294  29.344   3.622  0.00  0.00           O 0
+ATOM   1644    N VAL B 152       9.747  26.367   7.284  0.00  0.00           N 0
+ATOM   1604   OG SER B 146       4.392  22.804   9.076  0.00  0.00           O 0
+ATOM   1641   CB THR B 151       7.964  28.276   8.883  0.00  0.00           C 0
+ATOM   1574    O LYS B 142       6.332  21.436   7.817  0.56  1.07           O 0
+ATOM   1650  CG2 VAL B 152       9.692  24.379   5.114  0.00  0.00           C 0
+ATOM   1572   CA LYS B 142       7.342  21.486   5.652  0.00  0.00           C 0
+ATOM   1575   CB LYS B 142       6.297  21.769   4.564  0.00  0.00           C 0
+ATOM   1638   CA THR B 151       8.590  26.937   9.347  0.00  0.00           C 0
+ATOM   1577   CD LYS B 142       5.540  23.253   2.650  0.00  0.00           C 0
+ATOM   1926   CB VAL B 188       5.788  28.042   2.526  0.00  0.00           C 0
+ATOM   1576   CG LYS B 142       6.732  22.778   3.503  0.00  0.00           C 0
+TER
+END

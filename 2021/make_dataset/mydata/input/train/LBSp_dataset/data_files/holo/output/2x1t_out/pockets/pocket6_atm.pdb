@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0745
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9644
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5184
+HEADER 5  - Mean B-factor of pocket residues  : 0.2789
+HEADER 6  - Hydrophobicity Score              : 15.7500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.9372
+HEADER 10  -Pocket volume (convex hull)       : 3.3735
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM    883  CG2 THR A 130      16.729   8.934 -11.970  0.00  0.00           C 0
+ATOM    909  OE2 GLU A 133      12.446  10.601 -12.332  0.00  0.00           O 0
+ATOM   1007  NE2 GLN A 146      11.021   6.976  -8.005  0.50  5.47           N 0
+ATOM    908  OE1 GLU A 133      13.741  10.799 -10.574  0.56  1.07           O 0
+ATOM    648   CB ARG A  99      12.922   2.379 -10.754  0.00  0.00           C 0
+ATOM    656   CA TRP A 100      15.927   2.924 -13.969  0.00  0.00           C 0
+ATOM    646    C ARG A  99      13.986   1.850 -12.985  0.00  0.00           C 0
+ATOM    647    O ARG A  99      13.370   1.957 -14.044  0.00  0.00           O 0
+ATOM    655    N TRP A 100      15.260   2.218 -12.863  0.00  0.00           N 0
+ATOM    867    O GLY A 128      13.929   7.892  -7.151  0.73  1.07           O 0
+ATOM    621    O SER A  96      16.209   1.752 -10.038  0.00  0.00           O 0
+ATOM    659   CB TRP A 100      17.006   3.927 -13.482  0.00  0.00           C 0
+ATOM    661  CD1 TRP A 100      18.524   3.453 -11.479  0.00  0.00           C 0
+ATOM    650   CD ARG A  99      12.011   3.063  -8.521  0.00  0.00           C 0
+ATOM    619   CA SER A  96      16.823   2.029  -7.728  0.00  0.00           C 0
+ATOM   1185  CG2 VAL A 169      17.966   6.533  -7.205  0.00  0.00           C 0
+ATOM   1184  CG1 VAL A 169      19.403   7.029  -9.215  0.00  0.00           C 0
+TER
+END

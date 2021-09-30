@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0179
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6648
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4311
+HEADER 5  - Mean B-factor of pocket residues  : 0.2555
+HEADER 6  - Hydrophobicity Score              : -3.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 103.4137
+HEADER 10  -Pocket volume (convex hull)       : 1.1289
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM    416    N ASN A  52      24.497   6.382  40.867  0.60  2.19           N 0
+ATOM    406    O GLY A  50      23.486   3.408  38.414  0.45  3.21           O 0
+ATOM   3078  CG1 VAL A 382      20.904   1.315  39.673  0.00  0.00           C 0
+ATOM    423  ND2 ASN A  52      21.548   8.243  39.352  0.00  0.00           N 0
+ATOM    408   CA GLU A  51      25.067   4.025  40.613  0.00  0.00           C 0
+ATOM    555  NH1 ARG A  68      18.684   3.452  43.954  0.39  6.56           N 0
+ATOM   3076    O VAL A 382      20.088   1.430  42.748  0.00  0.00           O 0
+ATOM    536   CE LYS A  66      23.714   3.752  46.030  0.00  0.00           C 0
+ATOM    537   NZ LYS A  66      23.015   2.462  45.793  0.00  6.56           N 0
+ATOM    550   CB ARG A  68      19.764   7.841  45.467  0.00  0.00           C 0
+ATOM    534   CG LYS A  66      23.360   6.228  46.232  0.00  0.00           C 0
+ATOM    419    O ASN A  52      24.908   7.855  43.287  0.00  0.00           O 0
+ATOM    420   CB ASN A  52      23.490   8.637  40.742  0.00  0.00           C 0
+ATOM    552   CD ARG A  68      18.080   6.073  44.770  0.00  0.00           C 0
+ATOM    535   CD LYS A  66      22.729   4.854  46.395  0.00  0.00           C 0
+TER
+END

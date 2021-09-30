@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1060
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6392
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4253
+HEADER 5  - Mean B-factor of pocket residues  : 0.3549
+HEADER 6  - Hydrophobicity Score              : -6.9000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 95.6227
+HEADER 10  -Pocket volume (convex hull)       : 1.4916
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   2689  CG1 VAL B 377      26.256 107.565  89.159  0.00  0.00           C 0
+ATOM   2738   CA SER B 383      23.365 110.225  84.479  0.00  0.00           C 0
+ATOM   2694    O PRO B 378      25.981 111.120  90.412  0.49  1.07           O 0
+ATOM   2732    O ASP B 382      25.575 111.617  85.463  0.54  2.14           O 0
+ATOM   2720    O TYR B 381      24.654 114.175  87.315  0.30  1.07           O 0
+ATOM   2468   CB PRO B 349      19.352 111.087  88.207  0.00  0.00           C 0
+ATOM   2405   CB ALA B 341      22.685 105.562  86.843  0.00  0.00           C 0
+ATOM   2404    O ALA B 341      20.471 107.210  86.624  0.67  1.07           O 0
+ATOM   2471    N SER B 350      19.740 107.983  88.988  0.79  1.09           N 0
+ATOM   2741   CB SER B 383      21.851 110.007  84.394  0.00  0.00           C 0
+ATOM   2477    N PRO B 351      21.677 107.940  91.367  0.63  3.28           N 0
+ATOM   2699   CA PRO B 379      24.346 112.716  92.088  0.00  0.00           C 0
+ATOM   2483   CD PRO B 351      20.858 108.952  92.081  0.00  0.00           C 0
+ATOM   2701    O PRO B 379      23.790 114.563  90.664  0.05  8.57           O 0
+TER
+END

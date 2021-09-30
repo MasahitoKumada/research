@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0546
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7282
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4483
+HEADER 5  - Mean B-factor of pocket residues  : 0.6640
+HEADER 6  - Hydrophobicity Score              : 1.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 136.9624
+HEADER 10  -Pocket volume (convex hull)       : 1.4233
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   3546    O LYS B 181      -9.968 -16.228  30.695  0.34  2.14           O 0
+ATOM   2061  CD2 TYR B   4     -14.584 -20.120  31.930  0.00  0.00           C 0
+ATOM   3541    C GLY B 180     -11.191 -17.964  28.028  0.00  0.00           C 0
+ATOM   3542    O GLY B 180     -10.236 -18.673  27.997  0.50  5.36           O 0
+ATOM   2048    O LYS B   3     -12.909 -23.531  32.835  0.00  0.00           O 0
+ATOM   3540   CA GLY B 180     -12.582 -18.574  27.961  0.00  0.00           C 0
+ATOM   2063  CE2 TYR B   4     -15.653 -20.242  31.067  0.00  0.00           C 0
+ATOM   2073   CE LYS B   5      -7.556 -23.298  32.930  0.00  0.00           C 0
+ATOM   3557  OG1 THR B 182      -6.497 -18.675  30.223  0.64  4.29           O 0
+ATOM   2071   CG LYS B   5      -7.822 -21.344  34.597  0.00  0.00           C 0
+ATOM   2055   CA TYR B   4     -12.731 -21.116  34.360  0.00  0.00           C 0
+ATOM   2058   CB TYR B   4     -13.572 -19.850  34.224  0.00  0.00           C 0
+ATOM   2066    N LYS B   5     -10.553 -20.425  35.123  0.55  2.19           N 0
+ATOM   2069    O LYS B   5      -9.142 -18.004  34.828  0.64  2.14           O 0
+TER
+END

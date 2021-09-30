@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0633
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7520
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5458
+HEADER 5  - Mean B-factor of pocket residues  : 0.1988
+HEADER 6  - Hydrophobicity Score              : 35.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.3209
+HEADER 10  -Pocket volume (convex hull)       : 3.2100
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   2301   CG GLU A 311     -30.805  31.318 -33.484  0.00  0.00           C 0
+ATOM   2308    O ILE A 312     -26.364  32.764 -31.970  0.46  5.36           O 0
+ATOM   2309   CB ILE A 312     -27.013  34.770 -34.116  0.00  0.00           C 0
+ATOM   2931  CZ3 TRP A 391     -27.122  36.345 -30.557  0.00  0.00           C 0
+ATOM   2904   CA LEU A 389     -32.574  37.712 -37.232  0.00  0.00           C 0
+ATOM   2911    N ASN A 390     -32.743  38.898 -35.116  0.55  4.37           N 0
+ATOM   2897    O LYS A 388     -35.212  37.784 -38.095  0.06  7.50           O 0
+ATOM   2910  CD2 LEU A 389     -32.771  34.816 -38.123  0.00  0.00           C 0
+ATOM   2915   CB ASN A 390     -33.492  40.023 -33.041  0.00  0.00           C 0
+ATOM   2916   CG ASN A 390     -34.857  40.454 -33.529  0.00  0.00           C 0
+ATOM   2918  OD1 ASN A 390     -35.800  40.526 -32.740  0.00  0.00           O 0
+ATOM   2312  CD1 ILE A 312     -28.118  36.715 -35.336  0.00  0.00           C 0
+ATOM   2914    O ASN A 390     -30.706  38.503 -33.375  0.71  5.36           O 0
+ATOM   2928  CE3 TRP A 391     -27.575  37.394 -31.362  0.00  0.00           C 0
+ATOM   2907   CB LEU A 389     -31.379  36.771 -37.395  0.00  0.00           C 0
+ATOM   2304  OE2 GLU A 311     -32.261  31.588 -35.329  0.69  6.43           O 1
+ATOM   2310  CG1 ILE A 312     -27.500  35.341 -35.450  0.00  0.00           C 0
+TER
+END

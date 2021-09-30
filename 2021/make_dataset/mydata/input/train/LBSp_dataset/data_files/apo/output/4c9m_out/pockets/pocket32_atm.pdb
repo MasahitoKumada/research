@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : 0.0143
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8959
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5118
+HEADER 5  - Mean B-factor of pocket residues  : 0.3549
+HEADER 6  - Hydrophobicity Score              : 34.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.1336
+HEADER 10  -Pocket volume (convex hull)       : 7.3113
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5385
+ATOM  10128   CG ASP B 243      74.084  28.610  31.206  0.00  0.00           C 0
+ATOM  10127   CB ASP B 243      72.640  28.737  31.638  0.00  0.00           C 0
+ATOM   9675   CB ALA B 213      74.262  23.257  37.495  0.00  0.00           C 0
+ATOM  10130  OD2 ASP B 243      74.857  29.538  31.496  0.00  0.00           O 0
+ATOM   9674    O ALA B 213      76.199  22.123  35.029  0.83  3.21           O 0
+ATOM  10129  OD1 ASP B 243      74.439  27.584  30.579  0.83  6.43           O 0
+ATOM   9733    N ALA B 217      77.663  21.920  32.381  0.00  0.00           N 0
+ATOM   9737   CB ALA B 217      79.411  23.037  33.649  0.00  0.00           C 0
+ATOM   9720  CG2 ILE B 216      74.636  23.031  30.782  0.00  0.00           C 0
+ATOM   9734   CA ALA B 217      78.942  22.599  32.285  0.00  0.00           C 0
+ATOM  10188  CD2 LEU B 247      70.993  24.082  35.461  0.00  0.00           C 0
+ATOM   9718   CB ILE B 216      74.550  21.874  31.782  0.00  0.00           C 0
+ATOM   9672   CA ALA B 213      74.245  22.194  36.415  0.00  0.00           C 0
+ATOM  10186   CG LEU B 247      70.138  25.069  34.702  0.00  0.00           C 0
+ATOM  10187  CD1 LEU B 247      69.992  26.390  35.463  0.00  0.00           C 0
+ATOM   9783   CD ARG B 220      76.746  24.984  28.218  0.00  0.00           C 0
+ATOM  10126    O ASP B 243      70.147  26.693  31.809  0.00  0.00           O 0
+ATOM   9721  CD1 ILE B 216      72.055  22.039  32.319  0.00  0.00           C 0
+TER
+END

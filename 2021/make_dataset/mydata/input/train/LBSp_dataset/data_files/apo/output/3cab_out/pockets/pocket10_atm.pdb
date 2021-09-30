@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0210
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9628
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5574
+HEADER 5  - Mean B-factor of pocket residues  : 0.5333
+HEADER 6  - Hydrophobicity Score              : 4.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 342.1652
+HEADER 10  -Pocket volume (convex hull)       : 15.9112
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM      2   CA ASP A   3      20.309  25.413  -3.471  0.00  0.00           C 0
+ATOM      1    N ASP A   3      20.500  26.861  -3.737  0.19  4.37           N 0
+ATOM    872  OD2 ASP A 114      18.360  26.473   2.396  0.00  0.00           O 0
+ATOM      9    N TRP A   4      21.781  23.821  -2.389  0.36  1.09           N 0
+ATOM     13   CB TRP A   4      23.166  22.794  -0.628  0.00  0.00           C 0
+ATOM     15  CD1 TRP A   4      20.925  22.559   0.557  0.00  0.00           C 0
+ATOM    588   CG GLN A  77      26.677  23.889   5.720  0.00  0.00           C 0
+ATOM    589   CD GLN A  77      27.555  24.951   5.070  0.00  0.00           C 0
+ATOM    591  NE2 GLN A  77      27.006  26.153   4.897  0.00  0.00           N 0
+ATOM    590  OE1 GLN A  77      28.720  24.696   4.740  0.00  0.00           O 0
+ATOM    597   CG LEU A  78      22.013  22.331   5.350  0.00  0.00           C 0
+ATOM    573   CG PRO A  75      24.455  19.919   2.476  0.00  0.00           C 0
+ATOM    599  CD2 LEU A  78      21.705  23.736   5.879  0.00  0.00           C 0
+ATOM    572   CB PRO A  75      25.550  19.989   3.463  0.00  0.00           C 0
+ATOM    598  CD1 LEU A  78      21.022  21.928   4.244  0.00  0.00           C 0
+ATOM     12    O TRP A   4      24.228  21.275  -3.039  0.27  5.36           O 0
+TER
+END

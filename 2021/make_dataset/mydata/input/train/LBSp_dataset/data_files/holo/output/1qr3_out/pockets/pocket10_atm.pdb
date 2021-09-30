@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0800
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0377
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6979
+HEADER 5  - Mean B-factor of pocket residues  : 0.5708
+HEADER 6  - Hydrophobicity Score              : 1.8750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 383.1283
+HEADER 10  -Pocket volume (convex hull)       : 22.4608
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.5000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    544   CD GLN E  96      14.244  34.466  39.176  0.00  0.00           C 0
+ATOM    811   CB THR E 130      16.020  36.954  42.683  0.00  0.00           C 0
+ATOM    812  OG1 THR E 130      17.314  36.370  42.690  0.00  0.00           O 0
+ATOM    543   CG GLN E  96      13.579  35.169  37.972  0.00  0.00           C 0
+ATOM    545  OE1 GLN E  96      13.996  34.758  40.331  0.78  2.14           O 0
+ATOM    829  ND2 ASN E 132      12.511  40.313  41.174  0.00  0.00           N 0
+ATOM    813  CG2 THR E 130      16.165  38.420  43.034  0.00  0.00           C 0
+ATOM    525    O THR E  94      10.197  38.694  36.683  0.64  5.36           O 0
+ATOM    532    O GLU E  95      12.271  36.456  34.737  0.25  9.64           O 0
+ATOM    843  CD2 TYR E 134       8.866  43.248  39.469  0.00  0.00           C 0
+ATOM    845  CE2 TYR E 134       8.952  44.595  39.076  0.00  0.00           C 0
+ATOM    521    O GLY E  93      11.987  42.094  33.732  0.39  8.57           O 0
+ATOM    827   CG ASN E 132      11.639  40.981  41.898  0.00  0.00           C 0
+ATOM    826   CB ASN E 132      12.222  41.817  43.029  0.00  0.00           C 0
+ATOM    524    C THR E  94      10.173  39.138  35.536  0.00  0.00           C 0
+ATOM    528  CG2 THR E  94       8.861  42.725  35.854  0.00  0.00           C 0
+ATOM    523   CA THR E  94      10.139  40.621  35.181  0.00  0.00           C 0
+ATOM    835   OG SER E 133       8.244  45.602  42.372  0.56  5.36           O 0
+ATOM    830    N SER E 133       9.785  43.387  43.919  0.64  5.47           N 0
+TER
+END

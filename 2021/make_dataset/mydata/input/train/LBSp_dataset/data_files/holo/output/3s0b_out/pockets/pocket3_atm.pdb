@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : -0.0255
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2290
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7807
+HEADER 5  - Mean B-factor of pocket residues  : 0.5469
+HEADER 6  - Hydrophobicity Score              : 1.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.9762
+HEADER 10  -Pocket volume (convex hull)       : 4.4920
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    290   CA ASN A  51     -12.198   2.998   4.719  0.00  0.00           C 0
+ATOM    300    O ILE A  52      -8.944   6.156   7.045  0.00  0.00           O 0
+ATOM    295  OD1 ASN A  51     -12.533   2.799   1.879  0.00  0.00           O 0
+ATOM    293   CB ASN A  51     -13.367   3.562   3.964  0.00  0.00           C 0
+ATOM    305    N ASP A  53     -10.636   6.441   8.490  0.00  0.00           N 0
+ATOM    306   CA ASP A  53     -10.343   7.846   8.758  0.00  0.00           C 0
+ATOM    309   CB ASP A  53     -11.638   8.596   9.058  0.00  0.00           C 0
+ATOM    292    O ASN A  51     -12.887   3.986   6.751  0.00  0.00           O 0
+ATOM    291    C ASN A  51     -11.963   3.674   6.036  0.00  0.00           C 0
+ATOM    299    C ILE A  52      -9.894   5.699   7.694  0.00  0.00           C 0
+ATOM    297    N ILE A  52     -10.687   3.835   6.346  0.63  4.37           N 0
+ATOM    866  NE2 GLN A 121      -5.564   5.208   5.513  0.00  0.00           N 0
+ATOM    288    O GLY A  50     -10.509   0.891   4.051  0.00  0.00           O 0
+ATOM    863   CG GLN A 121      -5.246   2.852   5.843  0.00  0.00           C 0
+TER
+END

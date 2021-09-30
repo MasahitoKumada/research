@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1343
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8202
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5030
+HEADER 5  - Mean B-factor of pocket residues  : 0.1208
+HEADER 6  - Hydrophobicity Score              : 12.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.0076
+HEADER 10  -Pocket volume (convex hull)       : 4.6809
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2198    O VAL B 289      36.013  18.850  37.373  0.00  0.00           O 0
+ATOM   2125    N HIS B 281      32.993  14.860  33.586  0.00  0.00           N 0
+ATOM   2190   CD ARG B 288      33.871  13.741  39.257  0.00  0.00           C 0
+ATOM   2101    O THR B 277      30.785  16.748  33.604  0.52  1.07           O 0
+ATOM   2124   CB ALA B 280      34.300  17.804  33.387  0.00  0.00           C 0
+ATOM   2103  CG2 THR B 277      28.230  18.137  35.363  0.00  0.00           C 0
+ATOM   1174  OE1 GLN B 157      28.265  12.294  38.481  0.27  7.50           O 0
+ATOM   2042  OE1 GLN B 269      25.362  15.978  36.974  0.60  2.14           O 0
+ATOM   1173  NE2 GLN B 157      27.921  12.896  36.341  0.53  1.09           N 0
+ATOM   2191   NE ARG B 288      32.492  13.358  39.524  0.00  0.00           N 0
+ATOM   2215   OG SER B 291      32.533  21.656  35.148  0.00  0.00           O 0
+ATOM   2099   CA THR B 277      29.780  18.912  33.519  0.00  0.00           C 0
+ATOM   2122    C ALA B 280      34.220  15.300  33.331  0.00  0.00           C 0
+ATOM   2123    O ALA B 280      35.219  14.729  33.751  0.59  1.07           O 0
+ATOM   2129   CB HIS B 281      31.334  13.302  34.549  0.00  0.00           C 0
+ATOM   2126   CA HIS B 281      32.810  13.639  34.349  0.00  0.00           C 0
+TER
+END

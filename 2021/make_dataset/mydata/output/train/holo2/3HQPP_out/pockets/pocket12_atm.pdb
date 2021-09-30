@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0274
+HEADER 1  - Drug Score                        : 0.0056
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0256
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6939
+HEADER 5  - Mean B-factor of pocket residues  : 0.2538
+HEADER 6  - Hydrophobicity Score              : 22.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 355.7357
+HEADER 10  -Pocket volume (convex hull)       : 18.7372
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.6923
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.4815
+ATOM   2155    N LYS P 284       0.817  27.076 -61.930  0.00  0.00           N 0
+ATOM   2151    C SER P 283      -0.059  27.232 -60.939  0.00  0.00           C 0
+ATOM   2160   CG LYS P 284       2.089  28.470 -64.575  0.00  0.00           C 0
+ATOM   2152    O SER P 283      -1.264  27.407 -61.124  0.68  4.29           O 0
+ATOM   1903   CG ASP P 249       2.849  29.610 -70.201  0.00  0.00           C 0
+ATOM   1904  OD1 ASP P 249       3.276  29.318 -69.065  0.00  0.00           O 0
+ATOM   1901    O ASP P 249       1.611  25.793 -71.929  0.30  8.57           O 0
+ATOM   1899   CA ASP P 249       3.268  27.201 -70.909  0.00  0.00           C 0
+ATOM   2183  CG1 VAL P 287      -4.921  28.584 -64.557  0.00  0.00           C 0
+ATOM   2184  CG2 VAL P 287      -4.097  28.877 -62.211  0.00  0.00           C 0
+ATOM   2163   NZ LYS P 284       2.785  30.674 -66.694  0.00  0.00           N 1
+ATOM   2153   CB SER P 283       0.855  28.614 -59.064  0.00  0.00           C 0
+ATOM   2182   CB VAL P 287      -4.184  27.922 -63.390  0.00  0.00           C 0
+ATOM   2185    N ALA P 288      -4.274  24.992 -64.704  0.00  0.00           N 0
+ATOM   2186   CA ALA P 288      -4.500  24.093 -65.836  0.00  0.00           C 0
+ATOM   2189   CB ALA P 288      -3.173  23.634 -66.415  0.00  0.00           C 0
+ATOM   1927  CD1 ILE P 252       2.286  24.300 -66.777  0.00  0.00           C 0
+ATOM   1924   CB ILE P 252       1.320  22.996 -68.779  0.00  0.00           C 0
+ATOM   1926  CG2 ILE P 252      -0.032  22.709 -68.117  0.00  0.00           C 0
+ATOM   2159   CB LYS P 284       1.613  27.059 -64.266  0.00  0.00           C 0
+ATOM   2161   CD LYS P 284       3.219  28.459 -65.594  0.00  0.00           C 0
+ATOM   2158    O LYS P 284      -1.321  25.681 -64.388  0.54  1.07           O 0
+ATOM   1905  OD2 ASP P 249       2.207  30.657 -70.431  0.66  4.29           O 1
+ATOM   2156   CA LYS P 284       0.402  26.982 -63.330  0.00  0.00           C 0
+TER
+END

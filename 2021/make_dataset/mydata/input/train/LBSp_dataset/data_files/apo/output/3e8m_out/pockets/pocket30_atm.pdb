@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0547
+HEADER 1  - Drug Score                        : 0.0051
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.9411
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5357
+HEADER 5  - Mean B-factor of pocket residues  : 0.0873
+HEADER 6  - Hydrophobicity Score              : 50.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 319.3275
+HEADER 10  -Pocket volume (convex hull)       : 13.5100
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   7587  CE1 PHE C 134     -44.952   4.892 -33.481  0.00  0.00           C 0
+ATOM   7342   CA ALA C 121     -42.076   9.359 -30.576  0.00  0.00           C 0
+ATOM   7475  NH1AARG C 128     -47.462   9.736 -29.594  0.00  0.00           N 0
+ATOM   7345   CB ALA C 121     -41.728   7.941 -30.179  0.00  0.00           C 0
+ATOM   7469   CDAARG C 128     -45.643  11.338 -31.017  0.00  0.00           C 0
+ATOM   7579    N PHE C 134     -44.725   6.175 -39.107  0.50  2.19           N 0
+ATOM   7580   CA PHE C 134     -44.508   5.966 -37.692  0.00  0.00           C 0
+ATOM   7538    O SER C 131     -48.096  11.216 -39.947  0.31  7.50           O 0
+ATOM   7583   CB PHE C 134     -45.231   4.706 -37.226  0.00  0.00           C 0
+ATOM   7563    O ILE C 133     -44.313   8.357 -39.018  0.74  1.07           O 0
+ATOM   7463    OAARG C 128     -47.991  12.319 -35.804  0.00  0.00           O 0
+ATOM   7562    C ILE C 133     -44.619   7.370 -39.660  0.00  0.00           C 0
+ATOM   7602    O LEU C 135     -41.901   6.596 -33.618  0.75  2.14           O 0
+ATOM   7314    O VAL C 119     -42.060  10.949 -34.960  0.32  3.21           O 0
+ATOM   7585  CD1 PHE C 134     -45.265   5.194 -34.789  0.00  0.00           C 0
+ATOM   7465   CBAARG C 128     -47.072  12.462 -32.772  0.00  0.00           C 0
+ATOM   7467   CGAARG C 128     -45.723  12.396 -32.087  0.00  0.00           C 0
+ATOM   7599    N LEU C 135     -42.543   6.590 -36.412  0.00  0.00           N 0
+ATOM   7539   CB SER C 131     -45.603  11.580 -38.085  0.00  0.00           C 0
+ATOM   7540   OG SER C 131     -44.376  10.983 -38.471  0.41  1.07           O 0
+ATOM   7549    O THR C 132     -46.968   8.117 -42.877  0.00  0.00           O 0
+ATOM   7548    C THR C 132     -46.399   9.007 -42.257  0.00  0.00           C 0
+TER
+END

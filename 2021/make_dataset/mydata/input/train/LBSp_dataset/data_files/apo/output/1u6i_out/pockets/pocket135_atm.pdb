@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   135:
+HEADER 0  - Pocket Score                      : -0.0831
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1410
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7334
+HEADER 5  - Mean B-factor of pocket residues  : 0.5514
+HEADER 6  - Hydrophobicity Score              : -6.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.6213
+HEADER 10  -Pocket volume (convex hull)       : 3.3408
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   5790  OG1 THR C 187      47.550  87.519  20.246  0.54  2.14           O 0
+ATOM   5746    O VAL C 182      47.203  89.665  17.310  0.00  0.00           O 0
+ATOM   5791  CG2 THR C 187      46.030  88.308  21.920  0.00  0.00           C 0
+ATOM   5813   CG GLU C 190      49.193  90.833  25.276  0.00  0.00           C 0
+ATOM   3939  NH1 ARG B 229      55.347  89.168  23.290  0.00  0.00           N 0
+ATOM   5781   CB ASN C 186      52.709  86.361  21.674  0.00  0.00           C 0
+ATOM   5765  OD2 ASP C 184      51.998  85.990  18.192  0.31  6.43           O 0
+ATOM   5784  ND2 ASN C 186      54.131  85.169  20.129  0.55  6.56           N 0
+ATOM   5764  OD1 ASP C 184      50.230  86.813  19.202  0.59  6.43           O 0
+ATOM   5786   CA THR C 187      48.274  87.381  22.569  0.00  0.00           C 0
+ATOM   5815  OE1 GLU C 190      51.517  91.251  25.089  0.00  0.00           O 0
+ATOM   3940  NH2 ARG B 229      53.592  89.620  24.696  0.60  2.19           N 0
+ATOM   5780    O ASN C 186      50.691  87.170  23.856  0.00  0.00           O 0
+ATOM   5779    C ASN C 186      50.510  86.492  22.846  0.00  0.00           C 0
+ATOM   5782   CG ASN C 186      53.935  85.528  21.393  0.00  0.00           C 0
+ATOM   5785    N THR C 187      49.374  86.524  22.157  0.00  0.00           N 0
+TER
+END

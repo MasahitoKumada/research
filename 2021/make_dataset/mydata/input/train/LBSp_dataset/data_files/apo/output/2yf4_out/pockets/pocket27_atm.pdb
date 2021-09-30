@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : 0.0981
+HEADER 1  - Drug Score                        : 0.0129
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5942
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3939
+HEADER 5  - Mean B-factor of pocket residues  : 0.2707
+HEADER 6  - Hydrophobicity Score              : 76.3750
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 87.5899
+HEADER 10  -Pocket volume (convex hull)       : 1.0954
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  10000  CD1 ILE E  55      -1.255  39.028  72.652  0.00  0.00           C 0
+ATOM  10351  CD1 LEU E  80       3.613  35.251  71.046  0.00  0.00           C 0
+ATOM  10291  CD2 LEU E  76      -0.762  34.229  71.537  0.00  0.00           C 0
+ATOM  10290  CD1 LEU E  76      -0.220  36.066  69.907  0.00  0.00           C 0
+ATOM  12698   CB ALA F  90       4.648  36.441  74.693  0.00  0.00           C 0
+ATOM  10352  CD2 LEU E  80       4.142  37.699  70.736  0.00  0.00           C 0
+ATOM  11952   CB ARG F  40       1.647  38.152  77.110  0.00  0.00           C 0
+ATOM  12028  CD1 LEU F  44       3.131  40.724  73.000  0.00  0.00           C 0
+ATOM  11893  CD2 LEU F  37      -2.599  34.510  75.152  0.00  0.00           C 0
+ATOM  12758  CD1 LEU F  94       2.068  32.063  73.244  0.00  0.00           C 0
+ATOM  11953   CG ARG F  40       2.015  36.926  77.987  0.00  0.00           C 0
+ATOM  12757   CG LEU F  94       2.083  31.524  74.661  0.00  0.00           C 0
+ATOM  12759  CD2 LEU F  94       0.680  31.329  75.153  0.00  0.00           C 0
+TER
+END

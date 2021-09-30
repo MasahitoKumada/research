@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0382
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6088
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4055
+HEADER 5  - Mean B-factor of pocket residues  : 0.3949
+HEADER 6  - Hydrophobicity Score              : 20.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 112.1451
+HEADER 10  -Pocket volume (convex hull)       : 0.5299
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7778
+ATOM   1335   CG LYS A 169      72.065  36.719  64.865  0.00  0.00           C 0
+ATOM   1708    C ALA A 219      72.684  31.938  61.648  0.00  0.00           C 0
+ATOM   1702   CG LYS A 218      68.595  34.640  62.352  0.00  0.00           C 0
+ATOM   1704   CE LYS A 218      68.932  36.960  61.518  0.00  0.00           C 0
+ATOM   1212  OE1 GLU A 152      71.614  37.466  58.216  0.41  3.21           O 0
+ATOM   1337   CE LYS A 169      74.482  37.272  64.532  0.00  0.00           C 0
+ATOM   1336   CD LYS A 169      73.483  36.172  64.888  0.00  0.00           C 0
+ATOM   1717  CD1 LEU A 220      75.709  34.860  59.310  0.00  0.00           C 0
+ATOM   1718  CD2 LEU A 220      76.988  35.926  61.158  0.00  0.00           C 0
+ATOM   1037   OH TYR A 130      73.105  39.464  57.883  0.59  9.64           O 0
+ATOM   1705   NZ LYS A 218      68.563  38.392  61.715  0.00  0.00           N 1
+ATOM   1715   CB LEU A 220      75.699  33.860  61.594  0.00  0.00           C 0
+ATOM   1711    N LEU A 220      73.921  32.241  62.022  0.00  0.00           N 0
+ATOM   1210   CG GLU A 152      71.126  35.124  58.223  0.00  0.00           C 0
+TER
+END

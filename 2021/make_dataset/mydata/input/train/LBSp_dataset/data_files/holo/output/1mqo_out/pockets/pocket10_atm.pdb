@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0160
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7636
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4206
+HEADER 5  - Mean B-factor of pocket residues  : 0.7769
+HEADER 6  - Hydrophobicity Score              : 6.3750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.2320
+HEADER 10  -Pocket volume (convex hull)       : 4.9595
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0500
+ATOM    316    N SER A  79       8.202  -9.618   1.197  0.53  2.19           N 0
+ATOM    320   CB SER A  79       7.749 -11.435  -0.369  0.00  0.00           C 0
+ATOM    135  OD1 ASN A  54      14.177  -9.833   2.951  0.00  0.00           O 0
+ATOM   1015   CB ASN A 167       9.398 -15.113   3.533  0.00  0.00           C 0
+ATOM   1013    C ASN A 167       8.898 -14.126   5.802  0.00  0.00           C 0
+ATOM   1019    N MET A 168       8.568 -12.896   6.196  0.00  0.00           N 0
+ATOM   1011    N ASN A 167       7.542 -13.542   3.839  0.69  1.09           N 0
+ATOM    310   CA THR A  78       8.888  -8.155   3.002  0.00  0.00           C 0
+ATOM   1017  OD1 ASN A 167      10.507 -17.179   4.037  0.00  0.00           O 0
+ATOM   1219   OH TYR A 191      15.133 -11.445   6.702  0.54  5.36           O 0
+ATOM   1014    O ASN A 167       9.596 -14.874   6.466  0.56  1.07           O 0
+ATOM   1207  NE2 GLN A 190      11.641 -16.030   8.113  0.65  3.28           N 0
+ATOM   1020   CA MET A 168       9.064 -12.263   7.430  0.00  0.00           C 0
+ATOM   1023   CB MET A 168       9.059 -10.740   7.230  0.00  0.00           C 0
+ATOM    304    O ASN A  77      11.536  -7.462   3.279  0.72  1.07           O 0
+ATOM   1026   CE MET A 168      11.985  -8.953   7.639  0.00  0.00           C 0
+TER
+END

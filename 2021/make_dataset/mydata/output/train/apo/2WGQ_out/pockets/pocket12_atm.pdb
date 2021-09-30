@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0657
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6374
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4615
+HEADER 5  - Mean B-factor of pocket residues  : 0.1812
+HEADER 6  - Hydrophobicity Score              : 35.1111
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 95.2608
+HEADER 10  -Pocket volume (convex hull)       : 1.0657
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4091
+ATOM   5485    C GLU A 702      59.181  65.375  -1.402  0.00  0.00           C 0
+ATOM   5511  CG1 VAL A 704      62.887  61.888   2.023  0.00  0.00           C 0
+ATOM   5492    N TRP A 703      58.863  64.190  -0.891  0.52  1.09           N 0
+ATOM   5487   CB GLU A 702      60.518  65.113  -3.505  0.00  0.00           C 0
+ATOM   5486    O GLU A 702      59.518  66.342  -0.697  0.00  0.00           O 0
+ATOM   3787   CB ALA A 486      62.730  69.004  -1.329  0.00  0.00           C 0
+ATOM   4114   OH TYR A 528      64.425  67.748   1.647  0.78  4.29           O 0
+ATOM   4761  ND1 HIS A 613      64.123  63.631  -4.524  0.61  1.09           N 0
+ATOM   3777    O ALA A 484      60.356  65.835   2.906  0.32  1.07           O 0
+ATOM   4090   CG HIS A 526      67.527  67.067  -1.205  0.00  0.00           C 0
+ATOM   4092  CD2 HIS A 526      67.397  66.731  -2.515  0.00  0.00           C 0
+ATOM   4759   CB HIS A 613      63.885  61.269  -3.679  0.00  0.00           C 0
+ATOM   5368  CG2 THR A 687      65.451  61.821  -0.091  0.00  0.00           C 0
+ATOM   5495    O TRP A 703      59.644  61.799   0.476  0.00  0.00           O 0
+ATOM   5367  OG1 THR A 687      66.999  63.266  -1.253  0.91  1.07           O 0
+ATOM   4089   CB HIS A 526      67.671  66.228   0.027  0.00  0.00           C 0
+ATOM   5494    C TRP A 703      59.528  62.850   1.120  0.00  0.00           C 0
+TER
+END

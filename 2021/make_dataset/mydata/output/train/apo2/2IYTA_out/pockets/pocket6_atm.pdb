@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2349
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8940
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7026
+HEADER 5  - Mean B-factor of pocket residues  : 0.3344
+HEADER 6  - Hydrophobicity Score              : 34.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.8088
+HEADER 10  -Pocket volume (convex hull)       : 3.1419
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    540   CA ARG A  66      12.208  22.456  17.968  0.00  0.00           C 0
+ATOM    724   CB ALA A  91       7.190  21.825  18.811  0.00  0.00           C 0
+ATOM    564   CB LEU A  69      11.156  18.224  16.761  0.00  0.00           C 0
+ATOM    566  CD1 LEU A  69       9.543  18.750  18.668  0.00  0.00           C 0
+ATOM    542    O ARG A  66      12.996  21.456  15.907  0.67  4.29           O 0
+ATOM    723    O ALA A  91       6.178  19.144  17.293  0.79  6.43           O 0
+ATOM    548  NH1 ARG A  66       7.665  25.493  16.790  0.00  0.00           N 1
+ATOM    751  NE2 HIS A  95       8.183  16.645  15.160  0.59  3.28           N 0
+ATOM    721   CA ALA A  91       5.873  21.306  18.375  0.00  0.00           C 0
+ATOM    543   CB ARG A  66      11.768  23.897  17.710  0.00  0.00           C 0
+ATOM    544   CG ARG A  66      10.429  24.229  18.329  0.00  0.00           C 0
+ATOM    568    N ALA A  70      13.119  18.832  14.306  0.00  0.00           N 0
+ATOM    562    C LEU A  69      12.582  17.699  14.764  0.00  0.00           C 0
+ATOM    563    O LEU A  69      12.186  16.800  14.019  0.63  2.14           O 0
+ATOM    569   CA ALA A  70      13.345  19.047  12.899  0.00  0.00           C 0
+TER
+END

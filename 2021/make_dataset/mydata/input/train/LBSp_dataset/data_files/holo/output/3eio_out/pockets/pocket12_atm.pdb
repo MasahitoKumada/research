@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1271
+HEADER 1  - Drug Score                        : 0.0066
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6899
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4408
+HEADER 5  - Mean B-factor of pocket residues  : 0.1680
+HEADER 6  - Hydrophobicity Score              : 39.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 83.2301
+HEADER 10  -Pocket volume (convex hull)       : 0.3987
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM  11129  NH2 ARG B 669      -7.516  -6.701  30.234  0.45  1.09           N 0
+ATOM   8307  OE1 GLN B 320      -7.585 -11.088  30.572  0.00  0.00           O 0
+ATOM   8269  CD2 LEU B 316      -9.630 -12.245  33.238  0.00  0.00           C 0
+ATOM   8614   CB ARG B 358     -11.959  -7.332  32.728  0.00  0.00           C 0
+ATOM   8121  CD2 TYR B 299      -5.935 -12.766  35.335  0.00  0.00           C 0
+ATOM  11089  CG1 VAL B 665      -4.530  -8.414  32.869  0.00  0.00           C 0
+ATOM   7400  CG1 VAL B 207      -6.116  -6.815  36.512  0.00  0.00           C 0
+ATOM   8602    O PHE B 357     -10.112  -7.069  30.290  0.29  1.07           O 0
+ATOM   7399   CB VAL B 207      -7.540  -6.413  36.474  0.00  0.00           C 0
+ATOM   8138   CB CYS B 301     -11.420  -9.762  36.928  0.00  0.00           C 0
+ATOM   8118   CB TYR B 299      -6.876 -12.189  37.548  0.00  0.00           C 0
+ATOM   8119   CG TYR B 299      -5.735 -12.324  36.624  0.00  0.00           C 0
+ATOM   7389    O GLU B 206      -6.942  -5.092  33.180  0.45  4.29           O 0
+TER
+END

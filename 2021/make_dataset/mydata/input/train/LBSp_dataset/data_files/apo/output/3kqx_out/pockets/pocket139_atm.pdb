@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   139:
+HEADER 0  - Pocket Score                      : 0.0147
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7799
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5684
+HEADER 5  - Mean B-factor of pocket residues  : 0.5393
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 137.1930
+HEADER 10  -Pocket volume (convex hull)       : 1.0621
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM  30160  CG1 VAL H 471     110.240  69.428 101.377  0.00  0.00           C 0
+ATOM  30161  CG2 VAL H 471     109.388  67.627 102.959  0.00  0.00           C 0
+ATOM  30186  OE1 GLU H 474     114.489  64.465 100.707  0.00  0.00           O 0
+ATOM  30156   CA VAL H 471     111.717  68.656 103.297  0.00  0.00           C 0
+ATOM  30002   CB ASN H 449     107.373  66.832  99.714  0.00  0.00           C 0
+ATOM  30193   CG LYS H 475     113.601  71.373  98.916  0.00  0.00           C 0
+ATOM  30188    N LYS H 475     115.985  70.105 100.551  0.76  1.09           N 0
+ATOM  30182    O GLU H 474     117.716  68.860  99.798  0.55  4.29           O 0
+ATOM  30189   CA LYS H 475     116.089  71.035  99.432  0.00  0.00           C 0
+ATOM  30184   CG GLU H 474     116.402  65.980 100.572  0.00  0.00           C 0
+ATOM  30181    C GLU H 474     116.828  69.076 100.643  0.00  0.00           C 0
+ATOM  30183   CB GLU H 474     115.797  66.922 101.588  0.00  0.00           C 0
+ATOM  30158    O VAL H 471     113.303  69.869 102.004  0.68  1.07           O 0
+ATOM  30901   CG GLN H 567     111.955  62.497  98.424  0.00  0.00           C 0
+ATOM  30881    O PHE H 565     111.768  64.472 103.624  0.63  1.07           O 0
+ATOM  30005  ND2 ASN H 449     107.358  64.847 101.084  0.68  5.47           N 0
+TER
+END

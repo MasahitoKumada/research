@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0126
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7393
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5645
+HEADER 5  - Mean B-factor of pocket residues  : 0.8609
+HEADER 6  - Hydrophobicity Score              : 26.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 149.7460
+HEADER 10  -Pocket volume (convex hull)       : 0.8026
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    954   CA ALA A 127      29.431  93.840  17.744  0.00  0.00           C 0
+ATOM   1308  CD1 TYR A 174      31.878  97.587  15.749  0.00  0.00           C 0
+ATOM   1314    N ASN A 175      36.079  94.918  17.010  0.00  0.00           N 0
+ATOM    957   CB ALA A 127      29.548  94.966  16.737  0.00  0.00           C 0
+ATOM   1327   CG LEU A 176      33.100  91.546  15.045  0.00  0.00           C 0
+ATOM   1317    O ASN A 175      36.086  91.847  18.029  0.63  3.21           O 0
+ATOM    956    O ALA A 127      29.396  94.163  20.079  0.71  9.64           O 0
+ATOM   1306   CB TYR A 174      33.651  95.876  15.070  0.00  0.00           C 0
+ATOM   1303   CA TYR A 174      34.850  96.495  15.712  0.00  0.00           C 0
+ATOM    982    O ALA A 131      32.920  90.117  19.137  0.47  3.21           O 0
+ATOM    976   CA GLY A 130      30.419  91.438  22.468  0.00  0.00           C 0
+ATOM    978    O GLY A 130      32.066  89.702  22.539  0.82  5.36           O 0
+ATOM    991  OE1 GLU A 132      36.210  90.175  21.193  0.52  7.50           O 0
+ATOM    977    C GLY A 130      31.114  90.204  21.882  0.00  0.00           C 0
+TER
+END

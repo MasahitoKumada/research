@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0129
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0316
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6666
+HEADER 5  - Mean B-factor of pocket residues  : 0.2637
+HEADER 6  - Hydrophobicity Score              : 9.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.1650
+HEADER 10  -Pocket volume (convex hull)       : 4.0306
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1418   NE ARG A 188      34.213  30.567  28.621  0.00  0.00           N 0
+ATOM   1397    N THR A 186      29.912  30.764  33.059  0.35  1.09           N 0
+ATOM   1421  NH2 ARG A 188      35.091  28.934  29.995  0.30  2.19           N 0
+ATOM   1401   CB THR A 186      32.340  30.825  32.782  0.00  0.00           C 0
+ATOM   1400    O THR A 186      30.632  32.451  30.823  0.59  8.57           O 0
+ATOM   1989  NH2 ARG A 267      31.374  24.741  33.747  0.36  2.19           N 0
+ATOM   1402  OG1 THR A 186      32.509  29.856  33.836  0.49  1.07           O 0
+ATOM   2098    O ASN A 282      35.216  25.946  32.021  0.58  3.21           O 0
+ATOM   2108  CG1 ILE A 283      34.071  24.046  28.382  0.00  0.00           C 0
+ATOM   2111    N ALA A 284      32.588  22.149  30.511  0.00  0.00           N 0
+ATOM   2115   CB ALA A 284      30.388  21.122  30.158  0.00  0.00           C 0
+ATOM   1988  NH1 ARG A 267      30.229  22.760  33.523  0.45  4.37           N 0
+ATOM   1181  OE1 GLU A 159      28.886  26.366  33.794  0.61  6.43           O 0
+ATOM   2104   CA ILE A 283      34.491  23.583  30.852  0.00  0.00           C 0
+TER
+END

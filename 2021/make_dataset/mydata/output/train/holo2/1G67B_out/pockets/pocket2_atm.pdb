@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0616
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.8317
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5068
+HEADER 5  - Mean B-factor of pocket residues  : 0.4930
+HEADER 6  - Hydrophobicity Score              : 19.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 156.1328
+HEADER 10  -Pocket volume (convex hull)       : 4.5100
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.5667
+ATOM    312   CG LYS B1050      50.128  46.789  33.570  0.00  0.00           C 0
+ATOM    580   CA ALA B1085      46.268  47.126  27.672  0.00  0.00           C 0
+ATOM    314   CE LYS B1050      48.452  45.816  35.147  0.00  0.00           C 0
+ATOM    573    O GLU B1084      43.723  47.617  28.679  0.00  0.00           O 0
+ATOM    279    O GLN B1046      51.254  44.036  32.383  0.00  0.00           O 0
+ATOM    551    O ALA B1081      46.016  43.170  28.179  0.80  3.21           O 0
+ATOM    277   CA GLN B1046      50.437  41.771  32.345  0.00  0.00           C 0
+ATOM    305  CD1 LEU B1049      49.538  42.758  28.046  0.00  0.00           C 0
+ATOM    303   CB LEU B1049      50.900  44.693  28.867  0.00  0.00           C 0
+ATOM    583   CB ALA B1085      47.625  46.464  27.896  0.00  0.00           C 0
+ATOM    579    N ALA B1085      45.206  46.139  27.848  0.00  0.00           N 0
+ATOM    572    C GLU B1084      44.018  46.466  28.350  0.00  0.00           C 0
+ATOM    281   CG GLN B1046      48.412  40.456  33.198  0.00  0.00           C 0
+ATOM    552   CB ALA B1081      46.853  40.270  29.495  0.00  0.00           C 0
+ATOM    280   CB GLN B1046      49.502  41.463  33.521  0.00  0.00           C 0
+ATOM    283  NE2 GLN B1046      46.242  40.194  34.234  0.41  2.19           N 0
+ATOM    577  OE1 GLU B1084      42.967  43.266  32.431  0.53  6.43           O 0
+ATOM    549   CA ALA B1081      45.595  40.938  28.963  0.00  0.00           C 0
+ATOM    574   CB GLU B1084      43.273  44.615  29.829  0.00  0.00           C 0
+TER
+END

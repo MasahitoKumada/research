@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.3343
+HEADER 1  - Drug Score                        : 0.1865
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7875
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5676
+HEADER 5  - Mean B-factor of pocket residues  : 0.6627
+HEADER 6  - Hydrophobicity Score              : 13.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.9797
+HEADER 10  -Pocket volume (convex hull)       : 5.7100
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    617    O LYS A1047       5.661  36.495  -5.551  0.48  2.14           O 0
+ATOM    652   CB LEU A1050       8.867  35.364  -3.754  0.00  0.00           C 0
+ATOM    977   OH TYR A1086      10.621  32.353  -5.573  0.73  3.21           O 0
+ATOM    698  OD2 ASP A1054      10.953  33.927  -8.031  0.74  8.57           O 0
+ATOM    620   CGALYS A1047       3.067  33.178  -4.446  0.00  0.00           C 0
+ATOM    622   CDALYS A1047       2.328  32.441  -5.566  0.00  0.00           C 0
+ATOM    654  CD1 LEU A1050       8.505  33.765  -1.862  0.00  0.00           C 0
+ATOM    975  CE2 TYR A1086      10.733  31.134  -3.539  0.00  0.00           C 0
+ATOM    656    N ARG A1051       8.457  37.330  -6.468  0.00  0.00           N 0
+ATOM    663   CGAARG A1051       6.353  36.848  -8.776  0.00  0.00           C 0
+ATOM    618   CBALYS A1047       3.101  34.662  -4.678  0.00  0.00           C 0
+ATOM    665   CDAARG A1051       5.081  37.289  -9.515  0.00  0.00           C 0
+ATOM    624   CEALYS A1047       1.221  33.288  -6.166  0.00  0.00           C 0
+ATOM    614   CAALYS A1047       4.257  35.373  -3.971  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0435
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7552
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4539
+HEADER 5  - Mean B-factor of pocket residues  : 0.6130
+HEADER 6  - Hydrophobicity Score              : 47.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 80.6838
+HEADER 10  -Pocket volume (convex hull)       : 0.2938
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   5886   CB LEU B  36       1.884   3.489  24.780  0.00  0.00           C 0
+ATOM   8643    O PHE B 401      -4.549   3.787  23.994  0.38  3.21           O 0
+ATOM   5925  CD2 LEU B  41       0.569   2.717  21.054  0.00  0.00           C 0
+ATOM   6172    O ILE B  72      -0.491  -0.575  21.150  0.64  2.14           O 0
+ATOM   5882    N LEU B  36       0.906   3.172  27.004  0.70  1.09           N 0
+ATOM   5885    O LEU B  36      -0.488   5.249  25.709  0.60  2.14           O 0
+ATOM   5878   CB ASP B  35      -1.568   2.478  28.615  0.00  0.00           C 0
+ATOM   8104   OG SER B 330      -4.484  -0.954  23.728  0.31  5.36           O 0
+ATOM   6178   CA GLU B  73       0.807  -1.673  23.390  0.00  0.00           C 0
+ATOM   6186    N MET B  74       1.960  -1.364  25.497  0.00  0.00           N 0
+ATOM   6181   CB GLU B  73      -0.295  -2.625  23.885  0.00  0.00           C 0
+ATOM   5880  OD1 ASP B  35      -2.176   0.252  29.176  0.00  0.00           O 0
+ATOM   5924  CD1 LEU B  41      -1.028   4.575  21.739  0.00  0.00           C 0
+TER
+END

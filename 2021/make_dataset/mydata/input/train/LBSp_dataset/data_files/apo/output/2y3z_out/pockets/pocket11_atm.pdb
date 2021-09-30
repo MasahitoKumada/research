@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1386
+HEADER 1  - Drug Score                        : 0.0057
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1060
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6673
+HEADER 5  - Mean B-factor of pocket residues  : 0.2853
+HEADER 6  - Hydrophobicity Score              : 43.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 301.0343
+HEADER 10  -Pocket volume (convex hull)       : 7.4845
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7143
+ATOM   1075  CE1 TYR A 139      17.649  22.287   6.123  0.00  0.00           C 0
+ATOM   1064  CG1 ILE A 138      13.383  19.082   2.956  0.00  0.00           C 0
+ATOM   1073  CD1 TYR A 139      16.898  21.280   6.722  0.00  0.00           C 0
+ATOM   1887  CD1 ILE A 238      16.700  23.670   2.784  0.00  0.00           C 0
+ATOM   1187  OD1 ASN A 153      16.750  15.076   1.441  0.00  0.00           O 0
+ATOM   1066  CD1 ILE A 138      13.567  19.583   1.454  0.00  0.00           C 0
+ATOM   1065  CG2 ILE A 138      13.845  21.315   4.199  0.00  0.00           C 0
+ATOM   1070    O TYR A 139      15.516  17.092   8.922  0.45  1.07           O 0
+ATOM   1072   CG TYR A 139      16.419  21.443   8.066  0.00  0.00           C 0
+ATOM   1071   CB TYR A 139      15.647  20.318   8.742  0.00  0.00           C 0
+ATOM   1068   CA TYR A 139      15.130  19.215   7.809  0.00  0.00           C 0
+ATOM   1186   CG ASN A 153      15.768  15.233   2.204  0.00  0.00           C 0
+ATOM   1185   CB ASN A 153      14.529  15.959   1.741  0.00  0.00           C 0
+ATOM   1062    O ILE A 138      13.778  17.824   5.820  0.65  2.14           O 0
+ATOM   1188  ND2 ASN A 153      15.671  14.626   3.403  0.46  1.09           N 0
+ATOM   1120  NH2 ARG A 144      17.068  14.307   6.941  0.00  0.00           N 0
+TER
+END

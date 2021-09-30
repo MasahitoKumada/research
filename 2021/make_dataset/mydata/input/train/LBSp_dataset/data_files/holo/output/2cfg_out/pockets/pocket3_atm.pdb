@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0926
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9441
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5014
+HEADER 5  - Mean B-factor of pocket residues  : 0.2640
+HEADER 6  - Hydrophobicity Score              : 11.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 358.3619
+HEADER 10  -Pocket volume (convex hull)       : 19.1320
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2400
+ATOM   1972    C PHE A 142      26.718 -19.082   1.429  0.00  0.00           C 0
+ATOM   7881  NH2 ARG A 532      30.958 -21.298   7.495  0.00  0.00           N 0
+ATOM   2000  OE1AGLU A 143      23.355 -20.539   3.850  0.00  0.00           O 0
+ATOM   1996   CGAGLU A 143      24.035 -21.759   1.895  0.00  0.00           C 0
+ATOM   1973    O PHE A 142      27.821 -19.473   1.050  0.39  2.14           O 0
+ATOM   8348   CA SER A 562      35.363 -16.467   4.782  0.00  0.00           C 0
+ATOM   7878   NE ARG A 532      32.984 -21.267   8.586  0.50  3.28           N 0
+ATOM   7900   CG ARG A 533      33.050 -14.966   8.028  0.00  0.00           C 0
+ATOM   7837   OG SER A 529      29.489 -16.990   7.171  0.58  1.07           O 0
+ATOM   8351   CB SER A 562      35.416 -17.802   4.027  0.00  0.00           C 0
+ATOM   8357    N GLY A 563      36.359 -17.347   6.817  0.68  1.09           N 0
+ATOM   1957    O VAL A 141      28.577 -17.061   4.378  0.60  3.21           O 0
+ATOM   1959  CG1 VAL A 141      31.162 -17.118   2.020  0.00  0.00           C 0
+ATOM   1971   CA PHE A 142      26.668 -18.058   2.569  0.00  0.00           C 0
+ATOM   7836   CB SER A 529      28.648 -17.877   7.883  0.00  0.00           C 0
+ATOM   1976  CD1 PHE A 142      25.240 -17.232   5.356  0.00  0.00           C 0
+ATOM   7832    N SER A 529      28.524 -19.383   9.808  0.50  3.28           N 0
+ATOM   1978  CE1 PHE A 142      25.337 -16.516   6.538  0.00  0.00           C 0
+ATOM   7823   CA SER A 528      27.784 -20.737  11.660  0.00  0.00           C 0
+ATOM   7826   CB SER A 528      26.978 -19.701  12.456  0.00  0.00           C 0
+ATOM   1958   CB VAL A 141      30.883 -15.951   2.969  0.00  0.00           C 0
+TER
+END

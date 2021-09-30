@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0487
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 4.0803
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5425
+HEADER 5  - Mean B-factor of pocket residues  : 0.5081
+HEADER 6  - Hydrophobicity Score              : -7.1818
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 362.4158
+HEADER 10  -Pocket volume (convex hull)       : 38.5160
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.1515
+ATOM    661    O PRO A  80     -42.291 -83.169 106.559  0.58  2.14           O 0
+ATOM   1572   CB SER A 185     -38.042 -80.293 102.071  0.00  0.00           C 0
+ATOM   1569   CA SER A 185     -38.269 -81.806 101.981  0.00  0.00           C 0
+ATOM    666   CA SER A  81     -43.950 -80.957 106.809  0.00  0.00           C 0
+ATOM    668    O SER A  81     -42.240 -79.423 107.548  0.64  1.07           O 0
+ATOM    660    C PRO A  80     -43.467 -83.329 106.845  0.00  0.00           C 0
+ATOM    670   OG SER A  81     -46.095 -80.251 105.888  0.05  9.64           O 0
+ATOM    665    N SER A  81     -44.350 -82.349 107.009  0.85  1.09           N 0
+ATOM   1571    O SER A 185     -39.223 -81.620  99.831  0.00  0.00           O 0
+ATOM   1206    O PRO A 145     -45.533 -76.198 102.600  0.43  8.57           O 0
+ATOM    669   CB SER A  81     -45.151 -80.022 106.900  0.00  0.00           C 0
+ATOM    662   CB PRO A  80     -44.688 -85.398 105.924  0.00  0.00           C 0
+ATOM   1563    O ASN A 184     -38.651 -83.419 104.179  0.38  6.43           O 0
+ATOM    401  NH2AARG A  48     -39.160 -77.761 107.392  0.68  1.09           N 0
+ATOM    399  NH1AARG A  48     -40.256 -76.619 105.766  0.58  6.56           N 0
+ATOM   1570    C SER A 185     -38.328 -82.075 100.484  0.00  0.00           C 0
+HETATM 2530  CMA HEM A 302     -39.223 -76.762 101.794  0.00  0.00           C 0
+ATOM   1217  OD2 ASP A 146     -47.854 -79.015 100.289  0.72  7.50           O 0
+ATOM   1211   CA ASP A 146     -46.275 -76.661  99.939  0.00  0.00           C 0
+ATOM    438  CE1 HIS A  52     -42.355 -76.485 108.204  0.00  0.00           C 0
+ATOM   1218    NAALA A 147     -44.227 -76.202  98.751  0.70  4.37           N 0
+ATOM   1226   CBAALA A 147     -41.851 -75.730  98.582  0.00  0.00           C 0
+ATOM   1587  CE2 TYR A 187     -39.593 -78.705  97.668  0.00  0.00           C 0
+TER
+END

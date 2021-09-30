@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0391
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8136
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5131
+HEADER 5  - Mean B-factor of pocket residues  : 0.1146
+HEADER 6  - Hydrophobicity Score              : 14.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.7896
+HEADER 10  -Pocket volume (convex hull)       : 6.4707
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2326  NH1 ARG A1336      16.854  39.134 157.225  0.00  0.00           N 1
+ATOM   2354  CD1 ILE A1340      17.037  32.533 159.248  0.00  0.00           C 0
+ATOM   2320    O ARG A1336      20.262  33.344 158.000  0.67  2.14           O 0
+ATOM   2352  CG1 ILE A1340      18.004  32.314 160.390  0.00  0.00           C 0
+ATOM   2321   CB ARG A1336      19.260  35.552 155.770  0.00  0.00           C 0
+ATOM   2322   CG ARG A1336      19.213  37.053 155.676  0.00  0.00           C 0
+ATOM   2318   CA ARG A1336      20.592  34.997 156.273  0.00  0.00           C 0
+ATOM   2346   CB ALA A1339      22.765  34.129 160.356  0.00  0.00           C 0
+ATOM   2141   CB GLU A1314      10.892  36.360 159.173  0.00  0.00           C 0
+ATOM   2144  OE1 GLU A1314      11.916  37.420 161.503  0.78  6.43           O 0
+ATOM   2113    O PRO A1311      13.327  33.904 159.210  0.67  2.14           O 0
+ATOM   2176   CE LYS A1318      13.232  40.001 155.929  0.00  0.00           C 0
+ATOM   2114   CB PRO A1311      14.607  33.703 162.172  0.00  0.00           C 0
+ATOM   2152  CG2 VAL A1315      14.914  34.557 156.217  0.00  0.00           C 0
+TER
+END

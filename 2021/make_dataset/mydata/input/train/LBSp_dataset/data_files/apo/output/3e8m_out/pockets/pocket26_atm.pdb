@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0250
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0282
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7161
+HEADER 5  - Mean B-factor of pocket residues  : 0.1390
+HEADER 6  - Hydrophobicity Score              : 6.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.5366
+HEADER 10  -Pocket volume (convex hull)       : 14.9169
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   8560  CH2 TRP D  29     -17.216  20.772 -22.928  0.00  0.00           C 0
+ATOM   8558  CZ2 TRP D  29     -17.067  20.213 -21.691  0.00  0.00           C 0
+ATOM   5827  ND2 ASN C  27     -18.373  25.937 -22.853  0.00  0.00           N 0
+ATOM   5860  CZ2 TRP C  29     -19.588  22.896 -21.166  0.00  0.00           C 0
+ATOM   8475  OD2 ASP D  23     -17.017  24.147 -24.681  0.41  4.29           O 0
+ATOM   8525  ND2 ASN D  27     -13.742  21.038 -23.009  0.00  0.00           N 0
+ATOM   3131  ND2 ASN B  27     -13.548  20.841 -16.276  0.17  5.47           N 0
+ATOM   3081  OD2 ASP B  23     -12.657  19.511 -20.777  0.30  1.07           O 0
+ATOM   3108  OG1 THR B  25     -10.137  20.295 -20.186  0.29  7.50           O 0
+ATOM   8502  OG1 THR D  25     -14.928  25.356 -25.902  0.58  9.64           O 0
+ATOM   3164  CZ2 TRP B  29     -16.626  19.777 -17.952  0.00  0.00           C 0
+ATOM   3166  CH2 TRP B  29     -15.584  19.074 -18.477  0.00  0.00           C 0
+ATOM    458  CH2 TRP A  29     -18.587  22.330 -16.156  0.00  0.00           C 0
+ATOM    456  CZ2 TRP A  29     -19.130  22.506 -17.388  0.00  0.00           C 0
+ATOM    423  ND2 ASN A  27     -18.169  25.808 -16.112  0.50  4.37           N 0
+ATOM    373  OD2 ASP A  23     -15.256  22.278 -14.423  0.35  2.14           O 0
+ATOM    400  OG1 THR A  25     -13.900  24.313 -13.321  0.00  0.00           O 0
+ATOM   5777  OD2 ASP C  23     -19.651  26.958 -18.350  0.00  0.00           O 0
+ATOM   5804  OG1 THR C  25     -18.796  29.437 -19.003  0.00  0.00           O 0
+ATOM   5862  CH2 TRP C  29     -20.229  23.997 -20.670  0.00  0.00           C 0
+TER
+END

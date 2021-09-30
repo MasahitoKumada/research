@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : 0.0030
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9379
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7398
+HEADER 5  - Mean B-factor of pocket residues  : 0.5821
+HEADER 6  - Hydrophobicity Score              : 27.3750
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 326.0567
+HEADER 10  -Pocket volume (convex hull)       : 17.7243
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM  10397   CG GLN B 603     -16.395 -29.375  31.946  0.00  0.00           C 0
+ATOM  10404    O VAL B 604     -19.383 -28.471  27.826  0.00  0.00           O 0
+ATOM   4012  CD1 LEU A 536     -20.350 -31.202  26.003  0.00  0.00           C 0
+ATOM  10395    O GLN B 603     -19.792 -27.830  31.596  0.61  5.36           O 0
+ATOM  10410    C LEU B 605     -16.215 -29.601  27.271  0.00  0.00           C 0
+ATOM  10416    N PRO B 606     -16.186 -30.750  26.574  0.00  0.00           N 0
+ATOM  10411    O LEU B 605     -15.733 -29.510  28.399  0.00  0.00           O 0
+ATOM   4011   CG LEU A 536     -21.775 -30.664  25.870  0.00  0.00           C 0
+ATOM   3996   CE MET A 534     -23.000 -27.036  28.222  0.00  0.00           C 0
+ATOM  10417   CA PRO B 606     -15.505 -31.896  27.159  0.00  0.00           C 0
+ATOM  10429   CD PRO B 607     -13.932 -32.065  29.705  0.00  0.00           C 0
+ATOM  10421   CG PRO B 606     -16.933 -32.562  25.355  0.00  0.00           C 0
+ATOM  10420   CB PRO B 606     -15.845 -33.047  26.192  0.00  0.00           C 0
+ATOM   3992    O MET A 534     -26.378 -29.286  30.120  0.64  9.64           O 0
+ATOM   4006    N LEU A 536     -24.872 -31.357  26.335  0.00  0.00           N 0
+ATOM   4010   CB LEU A 536     -22.687 -31.716  25.221  0.00  0.00           C 0
+ATOM   4005   NZ LYS A 535     -26.857 -36.156  28.283  0.00  0.00           N 0
+ATOM   4009    O LEU A 536     -25.266 -33.582  24.709  0.57  3.21           O 0
+ATOM   3998   CA LYS A 535     -26.715 -30.792  27.801  0.00  0.00           C 0
+ATOM   4002   CG LYS A 535     -27.377 -33.247  27.681  0.00  0.00           C 0
+ATOM   3995   SD MET A 534     -24.478 -27.686  27.478  0.00  0.00           S 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1223
+HEADER 1  - Drug Score                        : 0.0052
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8437
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7942
+HEADER 5  - Mean B-factor of pocket residues  : 0.3520
+HEADER 6  - Hydrophobicity Score              : 29.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 321.5734
+HEADER 10  -Pocket volume (convex hull)       : 18.4716
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   1200  NE2 GLN A 163      91.533  81.549  71.671  0.00  0.00           N 0
+ATOM    633    O VAL A  93      90.459  81.058  68.445  0.46  3.21           O 0
+ATOM   1201  OE1 GLN A 163      93.560  82.132  72.467  0.54  1.07           O 0
+ATOM   1199   CD GLN A 163      92.731  81.262  72.177  0.00  0.00           C 0
+ATOM    651    O VAL A  95      90.088  83.748  70.805  0.62  2.14           O 0
+ATOM   1197   CB GLN A 163      93.971  79.249  71.310  0.00  0.00           C 0
+ATOM    635  CG1 VAL A  93      92.379  79.498  66.456  0.00  0.00           C 0
+ATOM   1686   CA GLY A 228      83.981  85.391  68.782  0.00  0.00           C 0
+ATOM   1685    N GLY A 228      83.679  86.305  69.870  0.55  2.19           N 0
+ATOM   2230  CE1 PHE A 296      86.497  91.753  70.581  0.00  0.00           C 0
+ATOM   1675    O ALA A 226      83.032  89.615  70.642  0.00  0.00           O 0
+ATOM   1670    O ALA A 225      80.781  87.170  69.370  0.00  0.00           O 0
+ATOM    648    N VAL A  95      88.563  82.814  68.774  0.00  0.00           N 0
+ATOM    639    C ARG A  94      88.118  82.989  67.533  0.00  0.00           C 0
+ATOM    650    C VAL A  95      88.918  84.127  70.769  0.00  0.00           C 0
+ATOM    638   CA ARG A  94      88.944  82.317  66.447  0.00  0.00           C 0
+ATOM    659   CB HIS A  96      88.773  87.187  72.831  0.00  0.00           C 0
+ATOM    655    N HIS A  96      88.493  85.182  71.446  0.62  2.19           N 0
+ATOM   1680    O ASN A 227      85.614  85.881  70.942  0.70  1.07           O 0
+ATOM    661  CD2 HIS A  96      90.223  89.327  72.625  0.00  0.00           C 0
+ATOM   1679    C ASN A 227      84.541  86.483  70.867  0.00  0.00           C 0
+ATOM    656   CA HIS A  96      89.437  85.948  72.249  0.00  0.00           C 0
+TER
+END

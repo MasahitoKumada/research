@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    50:
+HEADER 0  - Pocket Score                      : -0.0393
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8833
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5223
+HEADER 5  - Mean B-factor of pocket residues  : 0.6236
+HEADER 6  - Hydrophobicity Score              : -18.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.7553
+HEADER 10  -Pocket volume (convex hull)       : 5.6520
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   5204   CB LYS C  80      25.282  -3.182 -10.599  0.00  0.00           C 0
+ATOM   5209    N SER C  81      22.247  -3.524 -11.411  0.38  2.19           N 0
+ATOM   2408   CG GLU B  14      22.132  -3.153 -17.659  0.00  0.00           C 0
+ATOM   2411  OE2 GLU B  14      22.256  -5.450 -17.041  0.00  0.00           O 0
+ATOM   2409   CD GLU B  14      21.581  -4.400 -16.995  0.00  0.00           C 0
+ATOM   5205   CG LYS C  80      25.322  -1.672 -10.748  0.00  0.00           C 0
+ATOM   5213   CB SER C  81      20.664  -3.610 -13.289  0.00  0.00           C 0
+ATOM   2407   CB GLU B  14      21.037  -2.236 -18.184  0.00  0.00           C 0
+ATOM   5239  OD1 ASP C  84      22.996   1.163 -11.222  0.00  0.00           O 0
+ATOM   2429    O MET B  16      20.465   1.774 -18.541  0.55  7.50           O 0
+ATOM   5198  OD1 ASP C  79      22.032  -6.258 -11.870  0.17  3.21           O 0
+ATOM   2430   CB MET B  16      18.793   2.095 -15.931  0.00  0.00           C 0
+ATOM   2431   CG MET B  16      19.247   3.483 -15.465  0.00  0.00           C 0
+ATOM   5210   CA SER C  81      21.042  -2.920 -11.977  0.00  0.00           C 0
+ATOM   5237   CB ASP C  84      20.856   1.003 -10.188  0.00  0.00           C 0
+ATOM   5212    O SER C  81      19.025  -2.078 -10.979  0.65  2.14           O 0
+ATOM   2611  OE2 GLU B  40      16.627   0.324 -14.267  0.56  1.07           O 0
+TER
+END

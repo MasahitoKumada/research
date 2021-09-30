@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0340
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7925
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4269
+HEADER 5  - Mean B-factor of pocket residues  : 0.7406
+HEADER 6  - Hydrophobicity Score              : 33.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 145.0495
+HEADER 10  -Pocket volume (convex hull)       : 2.0071
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1622    N VAL A 287       5.578   3.289   9.002  0.00  0.00           N 0
+ATOM   1554  NE2 GLN A 277       2.327   7.254  13.078  0.00  0.00           N 0
+ATOM   1993  CD1 TRP A 335       2.017   0.034  11.478  0.00  0.00           C 0
+ATOM   1625    O VAL A 287       6.361   1.674  11.353  0.48  3.21           O 0
+ATOM   1620   CB SER A 286       3.166   2.173   7.432  0.00  0.00           C 0
+ATOM   1586  OE1 GLN A 281       0.716   7.725  10.433  0.00  0.00           O 0
+ATOM   1617   CA SER A 286       3.959   3.460   7.201  0.00  0.00           C 0
+ATOM   1608    O PHE A 285       3.067   5.885   6.182  0.75  1.07           O 0
+ATOM   1645  NH1 ARG A 289       3.905   3.018  15.906  0.46  6.56           N 0
+ATOM   1995  NE1 TRP A 335       1.382  -0.411  12.611  0.00  0.00           N 0
+ATOM   1552   CD GLN A 277       3.654   7.333  13.018  0.00  0.00           C 0
+ATOM   1551   CG GLN A 277       4.222   8.128  11.858  0.00  0.00           C 0
+ATOM   1553  OE1 GLN A 277       4.383   6.787  13.842  0.50  1.07           O 0
+TER
+END

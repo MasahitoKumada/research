@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0947
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1186
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7405
+HEADER 5  - Mean B-factor of pocket residues  : 0.4523
+HEADER 6  - Hydrophobicity Score              : 45.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 178.2724
+HEADER 10  -Pocket volume (convex hull)       : 1.1810
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM    344   CB GLN A  44      53.045  43.894  83.378  0.00  0.00           C 0
+ATOM    341   CA GLN A  44      53.264  44.238  84.852  0.00  0.00           C 0
+ATOM    345   CG GLN A  44      54.047  42.908  82.804  0.00  0.00           C 0
+ATOM    370   CB ALA A  47      55.413  47.188  87.148  0.00  0.00           C 0
+ATOM    343    O GLN A  44      52.793  46.539  85.380  0.70  2.14           O 0
+ATOM   1922   CG LEU A 235      52.986  46.518  79.515  0.00  0.00           C 0
+ATOM   1924  CD2 LEU A 235      51.999  46.466  80.678  0.00  0.00           C 0
+ATOM    377  CD1 LEU A  48      52.020  49.476  82.716  0.00  0.00           C 0
+ATOM    376   CG LEU A  48      52.790  49.854  83.965  0.00  0.00           C 0
+ATOM   1926   CA GLY A 236      56.334  43.832  77.295  0.00  0.00           C 0
+ATOM   1923  CD1 LEU A 235      53.485  47.945  79.305  0.00  0.00           C 0
+ATOM   1925    N GLY A 236      55.360  44.893  77.123  0.59  3.28           N 0
+ATOM    348  NE2 GLN A  44      54.592  42.833  80.452  0.60  8.75           N 0
+ATOM    378  CD2 LEU A  48      53.781  50.972  83.662  0.00  0.00           C 0
+TER
+END

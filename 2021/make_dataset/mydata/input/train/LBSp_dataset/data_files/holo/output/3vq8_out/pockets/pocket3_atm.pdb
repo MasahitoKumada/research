@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2305
+HEADER 1  - Drug Score                        : 0.0243
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8616
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5525
+HEADER 5  - Mean B-factor of pocket residues  : 0.1121
+HEADER 6  - Hydrophobicity Score              : 34.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 351.2248
+HEADER 10  -Pocket volume (convex hull)       : 12.0149
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.5556
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1638   CA ALA B 848     -14.649  14.115 -14.448  0.00  0.00           C 0
+ATOM   1626    O TRP B 847     -16.855  15.210 -15.774  0.50  5.36           O 0
+ATOM   1635  CZ3 TRP B 847     -18.246  13.660 -11.663  0.00  0.00           C 0
+ATOM   1640    O ALA B 848     -12.943  15.824 -14.310  0.26  5.36           O 0
+ATOM   1429   CB ALA B 820     -11.720  13.039 -10.257  0.00  0.00           C 0
+ATOM   1641   CB ALA B 848     -14.037  13.107 -13.477  0.00  0.00           C 0
+ATOM   1428    O ALA B 820     -12.017  15.434  -8.254  0.28  9.64           O 0
+ATOM   1403    O LEU B 817     -14.315  11.035  -8.067  0.57  4.29           O 0
+ATOM   1406  CD1 LEU B 817     -17.216  10.737 -10.006  0.00  0.00           C 0
+ATOM   1431   CA GLY B 821     -13.875  14.570  -6.420  0.00  0.00           C 0
+ATOM   1636  CH2 TRP B 847     -19.461  14.291 -11.305  0.00  0.00           C 0
+ATOM   1443  NH1 ARG B 822     -14.682  11.337  -3.155  0.70  5.47           N 0
+ATOM   1405   CG LEU B 817     -17.055   9.404  -9.256  0.00  0.00           C 0
+ATOM   1430    N GLY B 821     -12.968  13.694  -7.223  0.00  0.00           N 0
+ATOM   1413   CG LYS B 818     -14.932   7.429  -4.764  0.00  0.00           C 0
+ATOM   1407  CD2 LEU B 817     -18.325   8.545  -9.348  0.00  0.00           C 0
+ATOM   1409   CA LYS B 818     -13.761   9.321  -5.883  0.00  0.00           C 0
+ATOM   1427    C ALA B 820     -12.098  14.240  -8.056  0.00  0.00           C 0
+TER
+END

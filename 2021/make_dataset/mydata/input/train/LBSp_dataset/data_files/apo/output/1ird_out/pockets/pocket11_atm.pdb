@@ -1,0 +1,51 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0379
+HEADER 1  - Drug Score                        : 0.0407
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 4.0454
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7174
+HEADER 5  - Mean B-factor of pocket residues  : 0.3134
+HEADER 6  - Hydrophobicity Score              : 24.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 417.2749
+HEADER 10  -Pocket volume (convex hull)       : 40.8356
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 21.0000
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM    608    C ALA A  82      48.679  33.572  11.794  0.00  0.00           C 0
+ATOM    609    O ALA A  82      48.759  32.358  11.688  0.58  8.57           O 0
+ATOM    610   CB ALA A  82      50.548  34.772  12.887  0.00  0.00           C 0
+HETATM 2208  O2A HEM A 142      48.084  31.025  18.046  0.00  0.00           O 0
+ATOM    513  ND2 ASN A  68      45.888  40.948  15.466  0.56  9.84           N 0
+ATOM    615   CB LEU A  83      45.298  34.247  13.050  0.00  0.00           C 0
+ATOM    599  CD2 LEU A  80      43.451  38.708  12.968  0.00  0.00           C 0
+ATOM    590    O ALA A  79      47.355  39.860  12.802  0.00  9.64           O 0
+ATOM    611    N LEU A  83      47.567  34.173  12.187  0.66  3.28           N 0
+ATOM    617  CD1 LEU A  83      44.952  32.858  15.098  0.00  0.00           C 0
+ATOM    461   CB LYS A  61      42.600  32.571  22.186  0.00  0.00           C 0
+ATOM    485  OD2 ASP A  64      43.602  37.740  24.271  0.00  0.00           O 0
+ATOM    458   CA LYS A  61      41.900  33.916  22.468  0.00  0.00           C 0
+ATOM    462   CG LYS A  61      43.506  32.173  23.362  0.00  0.00           C 0
+HETATM 2206  CGA HEM A 142      47.227  30.244  18.978  0.00  0.00           C 0
+HETATM 2203  CMA HEM A 142      43.154  33.342  18.222  0.00  0.00           C 0
+HETATM 2204  CAA HEM A 142      44.585  30.567  18.859  0.00  0.00           C 0
+HETATM 2205  CBA HEM A 142      45.772  30.753  18.019  0.00  0.00           C 0
+ATOM    463   CD LYS A  61      44.255  30.893  22.978  0.00  0.00           C 0
+HETATM 2207  O1A HEM A 142      47.051  29.694  20.085  0.74  8.57           O 0
+ATOM    618  CD2 LEU A  83      43.338  34.692  14.476  0.00  0.00           C 0
+ATOM    490   CB ALA A  65      41.851  36.722  16.995  0.00  0.00           C 0
+ATOM    482   CB ASP A  64      42.814  38.253  22.115  0.00  0.00           C 0
+ATOM    486    N ALA A  65      41.713  37.961  19.134  0.00  0.00           N 0
+ATOM    460    O LYS A  61      41.629  35.298  20.485  0.62  1.07           O 0
+ATOM    487   CA ALA A  65      41.962  38.077  17.687  0.00  0.00           C 0
+ATOM    481    O ASP A  64      42.335  40.068  19.436  0.58  1.07           O 0
+ATOM    510   CB ASN A  68      44.042  41.708  16.841  0.00  0.00           C 0
+ATOM    480    C ASP A  64      41.923  39.019  19.913  0.00  0.00           C 0
+TER
+END

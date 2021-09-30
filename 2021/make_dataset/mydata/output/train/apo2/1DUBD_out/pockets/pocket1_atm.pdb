@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.0102
+HEADER 1  - Drug Score                        : 0.0111
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7500
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6345
+HEADER 5  - Mean B-factor of pocket residues  : 0.3319
+HEADER 6  - Hydrophobicity Score              : -6.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.8340
+HEADER 10  -Pocket volume (convex hull)       : 4.8041
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 9.6667
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   1762  CE2 TYR D 264      51.735  84.577 151.810  0.00  0.00           C 0
+ATOM   1730   CG LYS D 261      55.615  87.438 149.481  0.00  0.00           C 0
+ATOM   1732   CE LYS D 261      55.839  89.684 150.571  0.00  0.00           C 0
+ATOM   1733   NZ LYS D 261      56.377  89.119 151.835  0.74  7.66           N 1
+ATOM   1760  CD2 TYR D 264      51.629  84.592 150.429  0.00  0.00           C 0
+ATOM   1695   CG LYS D 257      59.740  87.576 155.011  0.00  0.00           C 0
+ATOM   1723   CE LYS D 260      55.846  81.416 154.716  0.00  0.00           C 0
+ATOM   1685    O ASN D 256      59.807  83.211 152.835  0.00  0.00           O 0
+ATOM   1686   CB ASN D 256      62.145  82.694 154.997  0.00  0.00           C 0
+ATOM   1684    C ASN D 256      60.812  83.807 153.181  0.00  0.00           C 0
+ATOM   1721   CG LYS D 260      55.131  82.950 152.901  0.00  0.00           C 0
+ATOM   1764   OH TYR D 264      51.767  83.425 153.871  0.80  4.29           O 0
+ATOM   1720   CB LYS D 260      56.460  83.220 152.248  0.00  0.00           C 0
+ATOM   1691   CA LYS D 257      59.681  85.948 152.971  0.00  0.00           C 0
+ATOM   1693    O LYS D 257      58.277  86.015 151.002  0.00  0.00           O 0
+ATOM   1690    N LYS D 257      60.850  85.137 153.283  0.00  0.00           N 0
+TER
+END

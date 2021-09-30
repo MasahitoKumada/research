@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0052
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.2548
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6679
+HEADER 5  - Mean B-factor of pocket residues  : 0.3638
+HEADER 6  - Hydrophobicity Score              : 13.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.9976
+HEADER 10  -Pocket volume (convex hull)       : 3.0291
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4167
+ATOM    898   CB SER J 114     -42.526  60.015  38.614  0.00  0.00           C 0
+ATOM    469   CB LYS J  61     -41.133  58.108  34.947  0.00  0.00           C 0
+ATOM    447  NH1AARG J  59     -34.957  62.862  39.491  0.00  0.00           N 1
+ATOM    454    O TRP J  60     -39.865  57.158  38.147  0.00  0.00           O 0
+ATOM    472   CE LYS J  61     -42.492  60.921  34.365  0.00  0.00           C 0
+ATOM    207  CG2 THR J  30     -32.676  58.546  32.846  0.00  0.00           C 0
+ATOM    222  OG1 THR J  32     -33.227  60.709  37.094  0.45  4.29           O 0
+ATOM    206   CB THR J  30     -33.783  57.697  32.246  0.00  0.00           C 0
+ATOM    205    O THR J  30     -35.002  56.601  34.742  0.63  5.36           O 0
+ATOM    453    C TRP J  60     -39.128  56.761  37.246  0.00  0.00           C 0
+ATOM    452   CA TRP J  60     -37.634  56.559  37.513  0.00  0.00           C 0
+ATOM    465    N LYS J  61     -39.566  56.514  36.013  0.67  3.28           N 0
+ATOM    436    O ARG J  59     -35.184  57.582  38.464  0.00  0.00           O 0
+ATOM    435    C ARG J  59     -36.159  57.566  39.208  0.00  0.00           C 0
+ATOM    437   CBAARG J  59     -36.076  59.672  40.526  0.00  0.00           C 0
+ATOM    451    N TRP J  60     -37.339  57.061  38.858  0.00  0.00           N 0
+ATOM    439   CGAARG J  59     -36.771  60.358  41.691  0.00  0.00           C 0
+ATOM    441   CDAARG J  59     -36.733  61.876  41.551  0.00  0.00           C 0
+TER
+END

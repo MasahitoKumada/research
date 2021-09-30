@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0000
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0361
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7104
+HEADER 5  - Mean B-factor of pocket residues  : 0.4822
+HEADER 6  - Hydrophobicity Score              : 13.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.6964
+HEADER 10  -Pocket volume (convex hull)       : 5.0878
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   1083  OE1 GLU A 128      42.668 -19.439 -19.139  0.00  0.00           O 0
+ATOM   1079    O GLU A 128      38.655 -21.498 -22.425  0.60  2.14           O 0
+ATOM   1007   CE MET A 120      40.157 -17.074 -22.577  0.00  0.00           C 0
+ATOM   1080   CB GLU A 128      41.445 -21.584 -20.735  0.00  0.00           C 0
+ATOM   1081   CG GLU A 128      41.977 -21.725 -19.337  0.00  0.00           C 0
+ATOM   1077   CA GLU A 128      40.337 -22.567 -21.082  0.00  0.00           C 0
+ATOM   1109  ND2 ASN A 132      36.239 -16.683 -23.555  0.30  9.84           N 0
+ATOM   1129   CD LYS A 135      32.032 -17.843 -21.368  0.00  0.00           C 0
+ATOM   1131   NZ LYS A 135      32.256 -19.171 -19.254  0.00  0.00           N 0
+ATOM   1130   CE LYS A 135      31.741 -17.908 -19.879  0.00  0.00           C 0
+ATOM   1106   CB ASN A 132      36.797 -18.982 -24.018  0.00  0.00           C 0
+ATOM   1099   CB VAL A 131      35.754 -22.803 -20.573  0.00  0.00           C 0
+ATOM   1101  CG2 VAL A 131      35.977 -24.099 -19.823  0.00  0.00           C 0
+ATOM   1100  CG1 VAL A 131      34.722 -21.950 -19.833  0.00  0.00           C 0
+ATOM   1102    N ASN A 132      35.814 -21.067 -23.165  0.00  0.00           N 0
+ATOM   1103   CA ASN A 132      35.505 -19.777 -23.784  0.00  0.00           C 0
+TER
+END

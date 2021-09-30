@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.1225
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.6450
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4204
+HEADER 5  - Mean B-factor of pocket residues  : 0.2524
+HEADER 6  - Hydrophobicity Score              : -16.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.9402
+HEADER 10  -Pocket volume (convex hull)       : 6.5821
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM  12823   CB ASP F  99      15.224  28.821  68.829  0.00  0.00           C 0
+ATOM  12824   CG ASP F  99      15.890  29.832  69.750  0.00  0.00           C 0
+ATOM  12826  OD2 ASP F  99      16.511  29.406  70.737  0.90  2.14           O 0
+ATOM  11473  CG2 THR F   9      20.020  29.808  71.139  0.00  0.00           C 0
+ATOM  12825  OD1 ASP F  99      15.794  31.052  69.501  0.00  0.00           O 0
+ATOM   9284  OD1 ASN E  10      16.774  32.587  65.826  0.00  0.00           O 0
+ATOM   9278    N ASN E  10      19.393  34.199  66.167  0.64  2.19           N 0
+ATOM  11471   CB THR F   9      19.243  30.882  71.904  0.00  0.00           C 0
+ATOM   9285  ND2 ASN E  10      15.672  33.411  67.612  0.47  1.09           N 0
+ATOM  11481    N ASN F  10      18.844  33.667  73.136  0.64  3.28           N 0
+ATOM  12677   OH TYR F  88      15.529  35.411  69.765  0.00  0.00           O 0
+ATOM  10486   OH TYR E  88      17.089  37.265  69.603  0.00  0.00           O 0
+ATOM  11488  ND2 ASN F  10      19.071  37.468  71.713  0.00  0.00           N 0
+ATOM  10634  OD1 ASP E  99      21.427  37.553  69.902  0.62  1.07           O 0
+ATOM   9265   CA THR E   9      21.598  33.249  66.437  0.00  0.00           C 0
+ATOM   9326  NH1 ARG E  13      18.990  30.938  64.476  0.64  2.19           N 0
+ATOM   9253    O PRO E   8      21.456  30.748  65.247  0.45  3.21           O 0
+ATOM   9327  NH2 ARG E  13      19.222  29.018  63.213  0.00  0.00           N 0
+ATOM   9240   CB PRO E   7      22.950  26.726  65.862  0.00  0.00           C 0
+ATOM  12822    O ASP F  99      13.721  28.719  65.913  0.59  1.07           O 0
+ATOM   9268   CB THR E   9      22.142  34.321  67.425  0.00  0.00           C 0
+TER
+END

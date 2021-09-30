@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0299
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9633
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6696
+HEADER 5  - Mean B-factor of pocket residues  : 0.5930
+HEADER 6  - Hydrophobicity Score              : 14.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.1866
+HEADER 10  -Pocket volume (convex hull)       : 8.6288
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   4868  OD2AASP A 195      73.568  44.039   4.402  0.00  0.00           O 0
+ATOM   4794   CBAGLN A 193      69.462  43.756  10.414  0.00  0.00           C 0
+ATOM   4798   CDAGLN A 193      70.093  45.733  11.912  0.00  0.00           C 0
+ATOM   4802  NE2AGLN A 193      69.557  46.469  10.944  0.00  0.00           N 0
+ATOM   4856   CAAASP A 195      70.607  43.022   4.631  0.00  0.00           C 0
+ATOM   4822    OAILE A 194      68.191  43.990   5.675  0.54  9.64           O 0
+ATOM   4878    NAGLU A 196      69.624  44.240   2.774  0.00  0.00           N 0
+ATOM   4854    NAASP A 195      69.704  42.319   5.541  0.00  0.00           N 0
+ATOM   4796   CGAGLN A 193      69.915  44.228  11.809  0.00  0.00           C 0
+ATOM   4786    NAGLN A 193      70.731  41.675  10.659  0.68  2.19           N 0
+ATOM   4756   CBALEU A 192      73.063  41.454  12.890  0.00  0.00           C 0
+ATOM   4800  OE1AGLN A 193      70.710  46.226  12.856  0.62  9.64           O 0
+ATOM   4792    OAGLN A 193      70.080  41.308   8.129  0.70  2.14           O 0
+ATOM   4862   CBAASP A 195      71.957  42.297   4.563  0.00  0.00           C 0
+ATOM   4748    NALEU A 192      72.953  40.055  10.863  0.54  3.28           N 0
+ATOM   4708   CBAARG A 191      73.208  39.652   7.962  0.00  0.00           C 0
+TER
+END

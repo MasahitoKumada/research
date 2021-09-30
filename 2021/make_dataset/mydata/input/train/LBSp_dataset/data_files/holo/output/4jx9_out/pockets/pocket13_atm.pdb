@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1966
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9814
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6819
+HEADER 5  - Mean B-factor of pocket residues  : 0.6092
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.4837
+HEADER 10  -Pocket volume (convex hull)       : 2.6586
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1034  NH1 ARG A 133      -3.193   1.190  13.852  0.35  7.66           N 0
+ATOM    819   NE ARG A 105      -1.331  -2.958  12.894  0.00  0.00           N 0
+ATOM    837   CD LYS A 107      -3.510   3.642  11.365  0.00  0.00           C 0
+ATOM    836   CG LYS A 107      -2.641   3.906  10.151  0.00  0.00           C 0
+ATOM    843    O THR A 108      -3.901   5.784   6.783  0.00  0.00           O 0
+ATOM    840    N THR A 108      -1.307   4.802   7.394  0.00  0.00           N 0
+ATOM   1403   SD MET A 184      -0.072   0.050   5.022  0.00  0.00           S 0
+ATOM   1404   CE MET A 184       0.363   1.781   5.212  0.00  0.00           C 0
+ATOM    844   CB THR A 108      -1.367   5.860   5.164  0.00  0.00           C 0
+ATOM    832   CA LYS A 107      -0.373   3.361   9.100  0.00  0.00           C 0
+ATOM    826    O LEU A 106       0.932   0.964   8.462  0.00  0.00           O 0
+ATOM   1437  ND2 ASN A 188       0.761  -2.826   8.479  0.64  2.19           N 0
+ATOM    818   CD ARG A 105      -0.265  -3.268  11.939  0.00  0.00           C 0
+ATOM    816   CB ARG A 105       1.396  -1.398  12.341  0.00  0.00           C 0
+ATOM    835   CB LYS A 107      -1.198   3.482  10.382  0.00  0.00           C 0
+TER
+END

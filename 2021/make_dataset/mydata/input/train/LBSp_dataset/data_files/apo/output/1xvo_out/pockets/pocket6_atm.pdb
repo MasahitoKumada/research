@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2028
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0630
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6213
+HEADER 5  - Mean B-factor of pocket residues  : 0.1624
+HEADER 6  - Hydrophobicity Score              : 24.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.6329
+HEADER 10  -Pocket volume (convex hull)       : 3.5096
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   1178  ND2 ASN A  98       8.653 -13.583  -1.108  0.00  0.00           N 0
+ATOM   1098   OG SER A  92      10.524 -16.148   2.387  0.00  0.00           O 0
+ATOM   2278  OE1 GLN A 177       4.460 -16.694  -3.309  0.00  0.00           O 0
+ATOM   2279  NE2 GLN A 177       5.930 -15.041  -3.586  0.61  1.09           N 0
+ATOM   2277   CD GLN A 177       4.797 -15.504  -3.097  0.00  0.00           C 0
+ATOM   1070  CE1 HIS A  90       7.223 -13.905   3.448  0.00  0.00           C 0
+ATOM   1177  OD1 ASN A  98       6.458 -13.120  -1.287  0.00  0.00           O 0
+ATOM   1097   CB SER A  92      10.442 -14.997   1.549  0.00  0.00           C 0
+ATOM   2276   CG GLN A 177       3.972 -14.586  -2.240  0.00  0.00           C 0
+ATOM   2996  CD2 LEU A 231       3.650 -12.942   1.141  0.00  0.00           C 0
+ATOM   1071  NE2 HIS A  90       5.992 -13.458   3.737  0.00  0.00           N 0
+ATOM   2982    O ALA A 230       0.688 -15.469   1.187  0.00  0.00           O 0
+ATOM   3045    N PHE A 234       2.649 -14.288   7.451  0.00  0.00           N 0
+ATOM   3036   CB SER A 233       1.707 -17.258   7.066  0.00  0.00           C 0
+ATOM   3032    N SER A 233       0.240 -15.398   6.450  0.81  1.09           N 0
+ATOM   2990   CA LEU A 231       0.974 -13.107   2.743  0.00  0.00           C 0
+ATOM   3037   OGASER A 233       0.872 -18.003   6.206  0.58  5.36           O 0
+TER
+END

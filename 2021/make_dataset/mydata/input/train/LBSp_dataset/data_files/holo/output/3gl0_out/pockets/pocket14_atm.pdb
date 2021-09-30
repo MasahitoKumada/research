@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0632
+HEADER 1  - Drug Score                        : 0.0107
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7764
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5750
+HEADER 5  - Mean B-factor of pocket residues  : 0.1271
+HEADER 6  - Hydrophobicity Score              : 35.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.3322
+HEADER 10  -Pocket volume (convex hull)       : 5.4730
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.7143
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8235
+ATOM   2319    O ILE A 300     -59.189  35.337  -2.974  0.62  2.14           O 0
+ATOM   2356   CA ARG A 304     -60.917  39.132  -3.494  0.00  0.00           C 0
+ATOM   2389  CG2 VAL A 307     -64.711  37.475  -0.910  0.00  0.00           C 0
+ATOM   2322  CG2 ILE A 300     -58.568  34.121  -0.052  0.00  0.00           C 0
+ATOM   1149  CD2 LEU A 149     -56.049  35.732   2.186  0.00  0.00           C 0
+ATOM   2364  NH1 ARG A 304     -57.442  40.985   0.102  0.00  0.00           N 0
+ATOM   2365  NH2 ARG A 304     -55.952  39.343  -0.483  0.86  1.09           N 0
+ATOM   2360   CG ARG A 304     -59.384  40.950  -2.596  0.00  0.00           C 0
+ATOM   2359   CB ARG A 304     -59.502  39.684  -3.462  0.00  0.00           C 0
+ATOM   2348   CB ARG A 303     -62.470  34.656  -4.134  0.00  0.00           C 0
+ATOM   2321  CG1 ILE A 300     -58.633  31.640  -0.333  0.00  0.00           C 0
+ATOM   2317   CA ILE A 300     -58.636  33.085  -2.381  0.00  0.00           C 0
+ATOM   2350   CD ARG A 303     -62.749  32.086  -4.288  0.00  0.00           C 0
+ATOM   2388  CG1 VAL A 307     -64.289  39.605   0.443  0.00  0.00           C 0
+ATOM   2387   CB VAL A 307     -64.459  38.999  -0.958  0.00  0.00           C 0
+ATOM   2395   CG GLU A 308     -62.312  43.597  -1.504  0.00  0.00           C 0
+ATOM   2363   CZ ARG A 304     -56.823  40.273  -0.833  0.00  0.00           C 0
+TER
+END

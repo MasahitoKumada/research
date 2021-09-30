@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0185
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6581
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4773
+HEADER 5  - Mean B-factor of pocket residues  : 0.5428
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.7195
+HEADER 10  -Pocket volume (convex hull)       : 2.4280
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4762
+ATOM   5500  CD1 PHE B 709     122.990  53.706  36.711  0.00  0.00           C 0
+ATOM   5501  CD2 PHE B 709     121.224  52.847  38.061  0.00  0.00           C 0
+ATOM   5469    O GLU B 706     125.740  53.723  43.035  0.75  5.36           O 0
+ATOM   5499   CG PHE B 709     121.804  53.915  37.392  0.00  0.00           C 0
+ATOM   6275   SD MET B 800     123.394  50.648  41.982  0.00  0.00           S 0
+ATOM   5483    N PHE B 708     122.517  54.872  42.851  0.64  1.09           N 0
+ATOM   5485    C PHE B 708     122.013  56.220  40.858  0.00  0.00           C 0
+ATOM   6154  NH2 ARG B 786     125.716  57.833  36.532  0.21  6.56           N 0
+ATOM   5467   CA GLU B 706     126.505  55.622  44.328  0.00  0.00           C 0
+ATOM   5460    O GLU B 705     124.717  57.473  43.245  0.69  7.50           O 0
+ATOM   5486    O PHE B 708     123.022  56.920  40.842  0.23  2.14           O 0
+ATOM   6151   NE ARG B 786     126.847  55.995  35.712  0.67  4.37           N 0
+ATOM   5502  CE1 PHE B 709     123.603  52.436  36.699  0.00  0.00           C 0
+ATOM   5504   CZ PHE B 709     123.027  51.389  37.381  0.00  0.00           C 0
+ATOM   6276   CE MET B 800     125.109  50.675  42.467  0.00  0.00           C 0
+ATOM   5503  CE2 PHE B 709     121.832  51.584  38.056  0.00  0.00           C 0
+TER
+END

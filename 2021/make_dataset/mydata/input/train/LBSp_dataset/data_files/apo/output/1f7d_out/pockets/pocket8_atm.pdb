@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0654
+HEADER 1  - Drug Score                        : 0.0426
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0896
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6203
+HEADER 5  - Mean B-factor of pocket residues  : 0.8512
+HEADER 6  - Hydrophobicity Score              : 62.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.2473
+HEADER 10  -Pocket volume (convex hull)       : 2.9789
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM    962    N ASP B 210      -4.927  24.881  46.805  0.66  1.09           N 0
+ATOM    952  CG2 ILE B 208     -10.182  27.830  44.975  0.00  0.00           C 0
+ATOM    949    O ILE B 208      -8.482  25.454  44.569  0.86  2.14           O 0
+ATOM    969  OD2 ASP B 210      -6.321  23.334  49.649  0.50  5.36           O 0
+ATOM    904   CE MET B 201      -9.212  32.168  49.799  0.00  0.00           C 0
+ATOM   1031  CE2 TYR B 218      -4.646  29.606  49.523  0.00  0.00           C 0
+ATOM    900    O MET B 201     -11.971  28.882  52.681  0.00  0.00           O 0
+ATOM    919  CG2 ILE B 203     -12.258  29.471  48.662  0.00  0.00           C 0
+ATOM   1029  CD2 TYR B 218      -4.612  29.426  48.146  0.00  0.00           C 0
+ATOM    918  CG1 ILE B 203     -12.823  27.033  48.571  0.00  0.00           C 0
+ATOM    967   CG ASP B 210      -5.304  23.996  49.947  0.00  0.00           C 0
+ATOM    956    C LEU B 209      -5.074  25.781  45.825  0.00  0.00           C 0
+ATOM    957    O LEU B 209      -4.753  26.963  45.962  0.00  0.00           O 0
+ATOM    953  CD1 ILE B 208      -8.301  30.302  45.568  0.00  0.00           C 0
+ATOM    963   CA ASP B 210      -4.207  25.172  48.016  0.00  0.00           C 0
+ATOM    968  OD1 ASP B 210      -5.165  24.697  50.972  0.14  4.29           O 0
+ATOM    951  CG1 ILE B 208      -7.916  29.028  44.830  0.00  0.00           C 0
+ATOM   1033   OH TYR B 218      -4.712  31.089  51.386  0.83  3.21           O 0
+ATOM    901   CB MET B 201     -10.463  31.535  52.734  0.00  0.00           C 0
+TER
+END

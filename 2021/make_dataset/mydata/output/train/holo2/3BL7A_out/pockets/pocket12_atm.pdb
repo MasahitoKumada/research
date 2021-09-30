@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0204
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9217
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6329
+HEADER 5  - Mean B-factor of pocket residues  : 0.6405
+HEADER 6  - Hydrophobicity Score              : 38.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.4421
+HEADER 10  -Pocket volume (convex hull)       : 8.0762
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM    841  CD1 LEU A 150       9.029  -6.858   1.969  0.00  0.00           C 0
+ATOM   2255   CB ALA A 320       9.469  -6.306   6.059  0.00  0.00           C 0
+ATOM    820   CB LEU A 148      13.545  -6.442   6.785  0.00  0.00           C 0
+ATOM   2028  OE1 GLU A 293       8.845  -0.999   3.648  0.00  0.00           O 0
+ATOM   2026   CG GLU A 293       7.556  -2.971   3.287  0.00  0.00           C 0
+ATOM    822  CD1 LEU A 148      12.556  -4.390   7.832  0.00  0.00           C 0
+ATOM   2027   CD GLU A 293       7.984  -1.555   2.930  0.00  0.00           C 0
+ATOM    842  CD2 LEU A 150       9.224  -6.842  -0.521  0.00  0.00           C 0
+ATOM   2025   CB GLU A 293       6.602  -3.606   2.252  0.00  0.00           C 0
+ATOM   2029  OE2 GLU A 293       7.455  -0.993   1.941  0.79  8.57           O 1
+ATOM    819    O LEU A 148      15.330  -7.884   4.531  0.00  0.00           O 0
+ATOM    839   CB LEU A 150      10.112  -8.756   0.754  0.00  0.00           C 0
+ATOM    835    N LEU A 150      11.572  -9.730   2.453  0.69  3.28           N 0
+ATOM    818    C LEU A 148      14.542  -8.235   5.414  0.00  0.00           C 0
+ATOM    826    C ARG A 149      11.901  -9.812   3.732  0.00  0.00           C 0
+TER
+END

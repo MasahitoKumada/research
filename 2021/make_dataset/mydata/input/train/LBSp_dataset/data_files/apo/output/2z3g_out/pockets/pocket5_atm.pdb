@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1502
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7799
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4107
+HEADER 5  - Mean B-factor of pocket residues  : 0.5820
+HEADER 6  - Hydrophobicity Score              : 28.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.6313
+HEADER 10  -Pocket volume (convex hull)       : 2.6803
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   2443   CB ASN C  79       5.787  23.674  95.330  0.00  0.00           C 0
+ATOM   2044    O ILE C  21       6.843  16.900  95.179  0.39  4.29           O 0
+ATOM   2022    O ILE C  18       5.856  19.410  92.465  0.00  0.00           O 0
+ATOM   2057   CA ILE C  23       7.517  19.280  98.884  0.00  0.00           C 0
+ATOM   2061  CG1 ILE C  23       5.009  19.440  99.133  0.00  0.00           C 0
+ATOM   2030    O ASN C  19       3.319  16.420  92.771  0.48  7.50           O 0
+ATOM   2028   CA ASN C  19       3.342  18.600  91.762  0.00  0.00           C 0
+ATOM   2052    O PRO C  22       9.194  18.206  96.977  0.00  0.00           O 0
+ATOM   2447    N GLU C  80       2.890  23.640  96.020  0.51  2.19           N 0
+ATOM   2026  CD1 ILE C  18       8.100  22.187  92.327  0.00  0.00           C 0
+ATOM   2090    O TYR C  27      10.847  22.013  95.370  0.00  0.00           O 0
+ATOM   2033  OD1 ASN C  19       1.807  20.875  92.183  0.57  2.14           O 0
+ATOM   2032   CG ASN C  19       1.261  20.016  91.473  0.00  0.00           C 0
+ATOM   2031   CB ASN C  19       1.912  18.667  91.226  0.00  0.00           C 0
+ATOM   2448   CA GLU C  80       1.734  23.796  96.909  0.00  0.00           C 0
+ATOM   2063  CD1 ILE C  23       3.797  19.319 100.057  0.00  0.00           C 0
+TER
+END

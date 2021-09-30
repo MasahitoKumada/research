@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0448
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.9216
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6157
+HEADER 5  - Mean B-factor of pocket residues  : 0.4386
+HEADER 6  - Hydrophobicity Score              : 35.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.6664
+HEADER 10  -Pocket volume (convex hull)       : 7.1855
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.4688
+ATOM   4090   CB LEU C  59     -39.503 -27.395   9.685  0.00  0.00           C 0
+ATOM   4182  CG2 THR C  72     -37.556 -30.494  12.792  0.00  0.00           C 0
+ATOM   4097    O VAL C  60     -41.030 -28.980  13.494  0.41  5.36           O 0
+ATOM   4092  CD1 LEU C  59     -37.709 -28.884   8.967  0.00  0.00           C 0
+ATOM   4093  CD2 LEU C  59     -39.719 -28.613   7.523  0.00  0.00           C 0
+ATOM   4212  CD2 HIS C  75     -38.507 -32.779   7.467  0.00  0.00           C 0
+ATOM   4210   CG HIS C  75     -38.519 -33.990   8.056  0.00  0.00           C 0
+ATOM   3606   CB HIS C -17     -45.557 -29.952  10.076  0.00  0.00           C 0
+ATOM   4214  NE2 HIS C  75     -39.383 -32.838   6.419  0.00  0.00           N 0
+ATOM   4211  ND1 HIS C  75     -39.378 -34.776   7.329  0.48  4.37           N 0
+ATOM   3616   CB HIS C -16     -42.121 -29.874   5.782  0.00  0.00           C 0
+ATOM   4181  OG1 THR C  72     -39.070 -31.644  14.256  0.61  5.36           O 0
+ATOM   3605    O HIS C -17     -43.527 -28.057   8.854  0.65  1.07           O 0
+ATOM   4094    N VAL C  60     -41.979 -27.121  11.469  0.00  0.00           N 0
+ATOM   4213  CE1 HIS C  75     -39.857 -34.057   6.332  0.00  0.00           C 0
+ATOM   3612    N HIS C -16     -44.139 -29.062   6.940  0.44  2.19           N 0
+ATOM   4173    C ALA C  71     -37.610 -35.337  13.644  0.00  0.00           C 0
+ATOM   4176    N THR C  72     -37.586 -34.045  14.018  0.00  0.00           N 0
+ATOM   4175   CB ALA C  71     -39.367 -36.452  15.011  0.00  0.00           C 0
+ATOM   3604    C HIS C -17     -44.386 -28.632   8.186  0.00  0.00           C 0
+ATOM   4209   CB HIS C  75     -37.786 -34.516   9.203  0.00  0.00           C 0
+ATOM   4177   CA THR C  72     -37.373 -32.988  13.103  0.00  0.00           C 0
+ATOM   4174    O ALA C  71     -37.466 -35.624  12.440  0.55  4.29           O 0
+TER
+END

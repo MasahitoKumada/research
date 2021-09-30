@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.0158
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7740
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4522
+HEADER 5  - Mean B-factor of pocket residues  : 0.2099
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 134.3580
+HEADER 10  -Pocket volume (convex hull)       : 1.7613
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   9315  CG1 VAL A 622     -15.623  11.303  59.951  0.00  0.00           C 0
+ATOM   9363  CG2 VAL A 625     -16.531  15.279  60.185  0.00  0.00           C 0
+ATOM   3513   CG LYS A 242      -9.266  13.815  62.210  0.00  0.00           C 0
+ATOM   5847    O LEU A 392     -12.829  10.506  58.579  0.62  2.14           O 0
+ATOM   5851  CD2 LEU A 392     -13.043  14.674  56.314  0.00  0.00           C 0
+ATOM   5848   CB LEU A 392     -14.299  12.534  56.605  0.00  0.00           C 0
+ATOM   3496    O GLU A 241      -8.988  13.737  59.077  0.00  0.00           O 0
+ATOM   9299    O PRO A 621     -14.010  11.297  63.240  0.66  1.07           O 0
+ATOM   9351  OD1 ASP A 624     -14.559  14.763  64.252  0.83  2.14           O 0
+ATOM   3500  OE1 GLU A 241     -11.928  17.633  58.460  0.48  6.43           O 0
+ATOM   3515   CE LYS A 242     -10.301  15.127  64.094  0.00  0.00           C 0
+ATOM   9352  OD2 ASP A 624     -13.171  15.838  65.473  0.79  2.14           O 0
+ATOM   9348    O ASP A 624     -16.363  18.061  63.930  0.73  4.29           O 0
+ATOM   9358   CA VAL A 625     -17.470  17.115  61.609  0.00  0.00           C 0
+ATOM   9379   CD PRO A 626     -17.226  19.915  60.807  0.00  0.00           C 0
+TER
+END

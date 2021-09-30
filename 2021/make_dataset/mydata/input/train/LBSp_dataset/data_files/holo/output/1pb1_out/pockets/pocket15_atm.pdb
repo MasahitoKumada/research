@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0765
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1300
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6655
+HEADER 5  - Mean B-factor of pocket residues  : 0.3015
+HEADER 6  - Hydrophobicity Score              : -14.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.8246
+HEADER 10  -Pocket volume (convex hull)       : 1.8491
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   1606   CA GLY A 205     -63.984 -69.888 -15.847  0.00  0.00           C 0
+ATOM   1633   CZ ARG A 208     -60.574 -73.698 -16.829  0.00  0.00           C 0
+ATOM   1635  NH2 ARG A 208     -60.217 -73.746 -15.544  0.00  0.00           N 0
+ATOM   1632   NE ARG A 208     -61.808 -73.322 -17.160  0.00  0.00           N 0
+ATOM   1602   CD GLU A 204     -60.030 -68.068 -20.271  0.00  0.00           C 0
+ATOM   1634  NH1 ARG A 208     -59.695 -74.052 -17.770  0.64  7.66           N 0
+ATOM   1603  OE1 GLU A 204     -59.498 -69.018 -20.899  0.00  0.00           O 0
+ATOM   1601   CG GLU A 204     -61.458 -68.298 -19.764  0.00  0.00           C 0
+ATOM   1600   CB GLU A 204     -61.998 -67.194 -18.863  0.00  0.00           C 0
+ATOM   1586   OG SER A 202     -62.828 -66.793 -14.503  0.00  0.00           O 0
+ATOM   1604  OE2 GLU A 204     -59.447 -66.977 -20.048  0.58  9.64           O 0
+ATOM   1605    N GLY A 205     -63.685 -68.682 -16.616  0.78  1.09           N 0
+ATOM   1230  OE1 GLU A 157     -62.489 -68.414 -12.339  0.00  0.00           O 0
+ATOM   1222   OG SER A 156     -61.509 -73.104 -12.875  0.39  4.29           O 0
+TER
+END

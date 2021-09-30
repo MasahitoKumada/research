@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1709
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5744
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3539
+HEADER 5  - Mean B-factor of pocket residues  : 0.6259
+HEADER 6  - Hydrophobicity Score              : 4.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 119.5744
+HEADER 10  -Pocket volume (convex hull)       : 2.4604
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM    340   CB LYS A  48      14.499   8.661  -8.131  0.00  0.00           C 0
+ATOM    352   CE LYS A  49      10.961   3.144  -9.319  0.00  0.00           C 0
+ATOM    745  OE1 GLU A 106      14.430   4.889 -12.624  0.69  2.14           O 0
+ATOM    345    N LYS A  49      13.097   6.830  -6.049  0.00  0.00           N 0
+ATOM    349   CB LYS A  49      10.649   6.499  -6.066  0.00  0.00           C 0
+ATOM    398  CD2 HIS A  55      13.722   0.599  -7.993  0.00  0.00           C 0
+ATOM    738    N GLU A 106      18.380   4.377 -10.437  0.00  0.00           N 0
+ATOM    741    O GLU A 106      17.771   6.319  -8.342  0.74  1.07           O 0
+ATOM    737   SG CYS A 105      18.994   1.805  -7.851  0.00  0.00           S 0
+ATOM    722  CE2 PHE A 103      15.576   0.080 -11.123  0.00  0.00           C 0
+ATOM    348    O LYS A  49      12.323   4.005  -6.200  0.50  2.14           O 0
+ATOM    333   CB PRO A  47      16.740   5.135  -4.430  0.00  0.00           C 0
+ATOM    396   CB HIS A  55      14.718   0.006  -5.668  0.00  0.00           C 0
+ATOM    742   CB GLU A 106      16.869   6.151 -11.218  0.00  0.00           C 0
+TER
+END

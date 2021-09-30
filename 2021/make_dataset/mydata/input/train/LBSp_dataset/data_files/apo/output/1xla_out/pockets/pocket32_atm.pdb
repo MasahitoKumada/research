@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0737
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8030
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4987
+HEADER 5  - Mean B-factor of pocket residues  : 0.6925
+HEADER 6  - Hydrophobicity Score              : 34.1111
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.0630
+HEADER 10  -Pocket volume (convex hull)       : 13.8975
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM    619    O LEU A  83      27.314  85.295  29.074  0.64  8.57           O 0
+ATOM    973    O MET A 128      28.348  89.709  23.539  0.59  7.50           O 0
+ATOM    633    N VAL A  85      28.950  85.226  24.826  0.72  3.28           N 0
+ATOM    586  CD1 LEU A  78      23.870  87.080  26.336  0.00  0.00           C 0
+ATOM    625   CA LYS A  84      29.457  84.823  27.188  0.00  0.00           C 0
+ATOM    640    N PRO A  86      30.582  84.305  22.446  0.00  0.00           N 0
+ATOM    981    O GLY A 129      32.268  89.343  22.744  0.00  0.00           O 0
+ATOM    641   CA PRO A  86      31.841  84.400  21.717  0.00  0.00           C 0
+ATOM    636    O VAL A  85      29.949  86.407  22.092  0.00  0.00           O 0
+ATOM    628   CB LYS A  84      30.962  84.632  27.123  0.00  0.00           C 0
+ATOM    644   CB PRO A  86      32.701  83.276  22.307  0.00  0.00           C 0
+ATOM    635    C VAL A  85      29.736  85.342  22.588  0.00  0.00           C 0
+ATOM    991   CB GLU A 131      36.118  87.378  19.998  0.00  0.00           C 0
+ATOM    987    N GLU A 131      33.727  87.693  19.676  0.00  0.00           N 0
+ATOM    352   OH TYR A  48      35.406  83.726  27.453  0.00  0.00           O 0
+ATOM    630   CD LYS A  84      31.846  86.376  28.686  0.00  0.00           C 0
+ATOM    979   CA GLY A 129      30.649  91.100  22.734  0.00  0.00           C 0
+ATOM    632   NZ LYS A  84      32.616  88.026  30.368  0.00  0.00           N 0
+TER
+END

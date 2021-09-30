@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0262
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6950
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5075
+HEADER 5  - Mean B-factor of pocket residues  : 0.3113
+HEADER 6  - Hydrophobicity Score              : 16.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 141.3723
+HEADER 10  -Pocket volume (convex hull)       : 1.8501
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM    757   CZ PHE B 113      46.076   5.500  49.807  0.00  0.00           C 0
+ATOM    466    O THR B  76      45.204  -0.873  48.115  0.35  6.43           O 0
+ATOM    471   CA LYS B  77      44.371   0.039  45.619  0.00  0.00           C 0
+ATOM    918  CD2 LEU B 132      47.620   6.601  46.354  0.00  0.00           C 0
+ATOM    475   CG LYS B  77      46.052  -0.090  43.680  0.00  0.00           C 0
+ATOM    907    O PRO B 131      44.123   5.794  44.185  0.76  2.14           O 0
+ATOM    478   NZ LYS B  77      48.134   1.499  42.028  0.00  0.00           N 1
+ATOM    908   CB PRO B 131      45.860   6.203  41.539  0.00  0.00           C 0
+ATOM     70  NH2 ARG B  24      43.517   1.210  49.834  0.43  1.09           N 0
+ATOM    479    N GLN B  78      42.976   1.980  46.040  0.00  0.00           N 0
+ATOM    756  CE2 PHE B 113      45.226   4.604  50.449  0.00  0.00           C 0
+ATOM    484   CG GLN B  78      43.031   4.766  47.178  0.00  0.00           C 0
+ATOM    474   CB LYS B  77      44.606   0.133  44.109  0.00  0.00           C 0
+TER
+END

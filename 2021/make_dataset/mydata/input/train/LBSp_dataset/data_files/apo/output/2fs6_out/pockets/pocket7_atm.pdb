@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0009
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6706
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4604
+HEADER 5  - Mean B-factor of pocket residues  : 0.7029
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 103.5507
+HEADER 10  -Pocket volume (convex hull)       : 1.4853
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   1906  CD2 LEU B  99       0.038  -4.733  11.588  0.00  0.00           C 0
+ATOM   1747  NH1 ARG B  79       2.096  -8.695  10.772  0.29  4.37           N 0
+ATOM   1944    O PRO B 105       3.967  -6.095  16.313  0.43  3.21           O 0
+ATOM   1905  CD1 LEU B  99      -0.689  -6.765  12.907  0.00  0.00           C 0
+ATOM   1294    O LEU B  22       8.128 -10.092  10.136  0.73  7.50           O 0
+ATOM   1733  OD2 ASP B  77       5.936  -6.416   8.716  0.68  3.21           O 0
+ATOM   1947   CD PRO B 105       4.755  -9.113  14.779  0.00  0.00           C 0
+ATOM   1298  CD2 LEU B  22       8.104  -6.677  12.939  0.00  0.00           C 0
+ATOM   1963  CG2 THR B 107       6.108  -3.505  14.610  0.00  0.00           C 0
+ATOM   1962  OG1 THR B 107       4.351  -1.812  14.748  0.70  4.29           O 0
+ATOM   1718  CG2 THR B  75       3.005  -1.750  11.193  0.00  0.00           C 0
+ATOM   1946   CG PRO B 105       6.019  -8.390  15.039  0.00  0.00           C 0
+ATOM   1732  OD1 ASP B  77       6.074  -4.348   9.409  0.79  3.21           O 0
+ATOM   1744   CD ARG B  79       2.368  -6.662   8.818  0.00  0.00           C 0
+TER
+END

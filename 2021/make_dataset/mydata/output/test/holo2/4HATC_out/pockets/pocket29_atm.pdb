@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : 0.0390
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0060
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5081
+HEADER 5  - Mean B-factor of pocket residues  : 0.7423
+HEADER 6  - Hydrophobicity Score              : 28.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 322.6460
+HEADER 10  -Pocket volume (convex hull)       : 20.0426
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.6364
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4783
+ATOM    443   CB LEU C  55      24.581  25.815  50.570  0.00  0.00           C 0
+ATOM    452   CG GLN C  56      28.860  23.514  52.555  0.00  0.00           C 0
+ATOM    441    C LEU C  55      26.680  26.917  51.432  0.00  0.00           C 0
+ATOM    442    O LEU C  55      26.537  27.683  52.388  0.44  5.36           O 0
+ATOM    813   OG SER C 100      24.064  26.655  60.046  0.00  0.00           O 0
+ATOM    785   CA MET C  97      21.097  24.413  56.370  0.00  0.00           C 0
+ATOM    789   CG MET C  97      21.105  26.161  54.479  0.00  0.00           C 0
+ATOM    788   CB MET C  97      20.986  24.697  54.872  0.00  0.00           C 0
+ATOM    824   CGAMET C 101      20.785  29.414  57.538  0.00  0.00           C 0
+ATOM    826   SDAMET C 101      20.165  29.873  55.916  0.00  0.00           S 0
+ATOM    518   NZ LYS C  64      25.912  31.086  53.311  0.00  0.00           N 1
+ATOM    787    O MET C  97      20.283  26.192  57.768  0.00  0.00           O 0
+ATOM    758    O PHE C  93      21.322  21.538  54.016  0.48  2.14           O 0
+ATOM    759   CB PHE C  93      23.257  19.515  52.564  0.00  0.00           C 0
+ATOM    420  OD1 ASP C  52      26.514  21.004  50.867  0.24  5.36           O 0
+ATOM    761  CD1 PHE C  93      22.264  20.770  50.611  0.00  0.00           C 0
+ATOM    756   CA PHE C  93      22.046  19.316  53.517  0.00  0.00           C 0
+ATOM    781   CA GLY C  96      20.944  20.953  57.963  0.00  0.00           C 0
+ATOM    782    C GLY C  96      21.164  22.455  57.830  0.00  0.00           C 0
+ATOM    791   CE MET C  97      20.450  28.194  52.708  0.00  0.00           C 0
+ATOM    516   CD LYS C  64      24.258  30.911  51.425  0.00  0.00           C 0
+ATOM    784    N MET C  97      20.986  22.975  56.619  0.00  0.00           N 0
+TER
+END

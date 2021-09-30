@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0721
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7083
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5317
+HEADER 5  - Mean B-factor of pocket residues  : 0.6707
+HEADER 6  - Hydrophobicity Score              : 10.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.7039
+HEADER 10  -Pocket volume (convex hull)       : 7.4708
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1986    N GLU A 266     -38.611  94.926 -26.952  0.00  0.00           N 0
+ATOM   1994  OE2 GLU A 266     -37.890  97.131 -23.786  0.00  0.00           O 0
+ATOM   1983   CA GLY A 265     -40.837  94.347 -27.658  0.00  0.00           C 0
+ATOM   1961    O ALA A 261     -42.729  94.829 -25.273  0.00  0.00           O 0
+ATOM   1963    N ALA A 262     -42.238  95.403 -23.145  0.71  1.09           N 0
+ATOM   1960    C ALA A 261     -43.064  95.297 -24.181  0.00  0.00           C 0
+ATOM   1962   CB ALA A 261     -44.457  97.284 -23.694  0.00  0.00           C 0
+ATOM   1940    O ALA A 258     -43.435  96.967 -20.751  0.56  3.21           O 0
+ATOM   1967   CB ALA A 262     -40.189  95.064 -21.859  0.00  0.00           C 0
+ATOM   1250  OD1 ASN A 164     -42.180 101.871 -19.661  0.50  8.57           O 0
+ATOM   1251  ND2 ASN A 164     -40.300 100.822 -19.061  0.42  7.66           N 0
+ATOM   1218  CG1 VAL A 160     -40.293  97.275 -18.306  0.00  0.00           C 0
+ATOM   1242  OD1 ASP A 163     -34.612 100.891 -19.794  0.36  6.43           O 0
+ATOM   1993  OE1 GLU A 266     -35.851  97.588 -23.084  0.50  6.43           O 0
+ATOM   1240   CB ASP A 163     -36.400 101.990 -18.702  0.00  0.00           C 0
+ATOM   1214   CA VAL A 160     -37.997  98.013 -17.636  0.00  0.00           C 0
+TER
+END

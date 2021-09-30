@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0346
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7648
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4813
+HEADER 5  - Mean B-factor of pocket residues  : 0.6867
+HEADER 6  - Hydrophobicity Score              : 12.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.8007
+HEADER 10  -Pocket volume (convex hull)       : 6.4681
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM     65   CB GLU A  14      21.071  29.010  30.542  0.00  0.00           C 0
+ATOM    696  NH2 ARG A  88      26.640  28.335  25.988  0.36  7.66           N 0
+ATOM     35    O GLY A  10      19.720  26.384  28.771  0.00  0.00           O 0
+ATOM    693   NE ARG A  88      25.296  30.038  25.206  0.00  0.00           N 0
+ATOM     61    N GLU A  14      21.662  26.717  31.137  0.00  0.00           N 0
+ATOM     58   CD GLU A  13      24.628  23.770  28.326  0.00  0.00           C 0
+ATOM     56   CB GLU A  13      22.574  24.077  29.825  0.00  0.00           C 0
+ATOM     60  OE2 GLU A  13      25.764  24.241  28.067  0.28  5.36           O 1
+ATOM     97  CD1 ILE A  17      26.621  26.733  31.354  0.00  0.00           C 0
+ATOM     57   CG GLU A  13      24.092  23.882  29.755  0.00  0.00           C 0
+ATOM     68  OE1 GLU A  14      20.417  31.134  28.556  0.72  2.14           O 0
+ATOM     12  NE2 GLN A   6      18.518  29.379  27.305  0.42  4.37           N 0
+ATOM     33   CA GLY A  10      19.109  24.966  26.918  0.00  0.00           C 0
+ATOM     62   CA GLU A  14      21.892  28.112  31.482  0.00  0.00           C 0
+ATOM    703  CD1 LEU A  89      25.524  30.828  30.528  0.00  0.00           C 0
+ATOM     59  OE1 GLU A  13      23.920  23.200  27.470  0.62  3.21           O 0
+ATOM    414  NH1AARG A  54      24.756  22.152  24.180  0.50  7.66           N 1
+ATOM    704  CD2 LEU A  89      24.157  32.206  28.941  0.00  0.00           C 0
+TER
+END

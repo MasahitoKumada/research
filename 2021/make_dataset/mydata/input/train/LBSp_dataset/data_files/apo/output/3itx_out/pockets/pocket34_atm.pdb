@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : 0.0216
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9420
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6495
+HEADER 5  - Mean B-factor of pocket residues  : 0.6064
+HEADER 6  - Hydrophobicity Score              : -10.8333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.8380
+HEADER 10  -Pocket volume (convex hull)       : 15.3693
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  11216   CB GLU D 197      -3.108  10.981  40.024  0.00  0.00           C 0
+ATOM  11215    O GLU D 197      -0.970   8.684  39.079  0.70  4.29           O 0
+ATOM  11226   CG ARG D 198      -2.858   6.941  43.283  0.00  0.00           C 0
+ATOM  11214    C GLU D 197      -2.125   8.752  39.494  0.00  0.00           C 0
+ATOM  11188    O ARG D 194      -5.114   8.795  41.822  0.69  1.07           O 0
+ATOM  11219  OE1 GLU D 197      -4.067  12.947  41.848  0.00  0.00           O 0
+ATOM  10893   NE ARG D 154       0.402   3.972  44.263  0.39  2.19           N 0
+ATOM  11256   CB SER D 201       2.457   7.748  39.624  0.00  0.00           C 0
+ATOM  10896  NH2 ARG D 154       1.098   5.278  46.026  0.36  8.75           N 0
+ATOM  11257   OG SER D 201       3.739   7.799  40.230  0.50  7.50           O 0
+ATOM  11222   CA ARG D 198      -1.831   6.806  40.930  0.00  0.00           C 0
+ATOM  11227   CD ARG D 198      -3.347   6.096  44.454  0.00  0.00           C 0
+ATOM  11195  NH2 ARG D 194      -4.821  10.820  48.338  0.00  0.00           N 0
+ATOM  10857    O THR D 149      -2.634   4.151  48.772  0.38  4.29           O 0
+ATOM  10895  NH1 ARG D 154      -0.844   4.071  46.198  0.66  1.09           N 0
+ATOM  11192   NE ARG D 194      -6.072  11.445  46.511  0.60  2.19           N 0
+ATOM  11189   CB ARG D 194      -6.954  10.633  43.804  0.00  0.00           C 0
+ATOM  11221    N ARG D 198      -2.629   7.899  40.383  0.00  0.00           N 0
+ATOM  11230  NH1 ARG D 198      -5.679   7.567  45.123  0.79  2.19           N 0
+TER
+END

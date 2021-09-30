@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1566
+HEADER 1  - Drug Score                        : 0.0644
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0881
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6385
+HEADER 5  - Mean B-factor of pocket residues  : 0.3847
+HEADER 6  - Hydrophobicity Score              : 1.8000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.6460
+HEADER 10  -Pocket volume (convex hull)       : 12.2869
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3913
+ATOM  10681    N ASP D 101     -30.615 -26.985  23.080  0.00  0.00           N 0
+ATOM  10685   CB ASP D 101     -32.507 -25.793  21.936  0.00  0.00           C 0
+ATOM  10677    O THR D 100     -29.584 -28.680  21.976  0.00  0.00           O 0
+ATOM  10814  ND2 ASN D 117     -32.981 -28.743  25.602  0.00  0.00           N 0
+ATOM  13009  ND1 HIS D 412     -30.165 -28.793  19.155  0.00  0.00           N 0
+ATOM   9422   CB ALA C 378     -34.089 -35.007  22.957  0.00  0.00           C 0
+ATOM  13007   CB HIS D 412     -29.437 -31.178  18.856  0.00  0.00           C 0
+ATOM  10672  CG1 VAL D  99     -29.470 -32.650  22.135  0.00  0.00           C 0
+ATOM  13001  OE1 GLU D 411     -34.634 -31.718  16.494  0.00  0.00           O 0
+ATOM  10670    O VAL D  99     -30.783 -30.733  24.692  0.42  5.36           O 0
+ATOM  13003    N HIS D 412     -30.593 -32.572  17.146  0.00  0.00           N 0
+ATOM  13011  CE1 HIS D 412     -30.582 -27.763  18.431  0.00  0.00           C 0
+ATOM  13008   CG HIS D 412     -29.899 -29.862  18.328  0.00  0.00           C 0
+ATOM  12400  CE1 HIS D 331     -32.710 -29.285  14.637  0.00  0.00           C 0
+HETATM13303   ZN ZN  D 514     -31.079 -26.868  15.533  0.00  0.00          ZN 0
+ATOM  11159  NH1 ARG D 166     -33.690 -22.972  19.665  0.57  2.19           N 0
+ATOM  13012  NE2 HIS D 412     -30.585 -28.127  17.155  0.00  0.00           N 0
+ATOM  12998   CB GLU D 411     -33.080 -34.253  16.842  0.00  0.00           C 0
+ATOM  12999   CG GLU D 411     -34.619 -34.202  16.555  0.00  0.00           C 0
+ATOM  13006    O HIS D 412     -29.508 -34.435  18.910  0.70  2.14           O 0
+ATOM  11160  NH2 ARG D 166     -33.805 -21.643  17.800  0.41  5.47           N 0
+ATOM  12401  NE2 HIS D 331     -32.214 -28.106  14.311  0.00  0.00           N 0
+TER
+END

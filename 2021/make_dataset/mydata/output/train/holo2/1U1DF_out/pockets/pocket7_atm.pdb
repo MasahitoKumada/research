@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0312
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8410
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5147
+HEADER 5  - Mean B-factor of pocket residues  : 0.1924
+HEADER 6  - Hydrophobicity Score              : 37.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 352.1876
+HEADER 10  -Pocket volume (convex hull)       : 22.2454
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    958   CA ASP F 133      -4.713 174.362 -23.005  0.00  0.00           C 0
+ATOM   1524   CA ALA F 207      -7.992 178.988 -18.632  0.00  0.00           C 0
+ATOM    961   CB ASP F 133      -5.625 174.981 -24.069  0.00  0.00           C 0
+ATOM    963  OD1 ASP F 133      -7.635 173.709 -23.981  0.45  5.36           O 0
+ATOM    957    N ASP F 133      -3.755 175.355 -22.530  0.00  0.00           N 0
+ATOM   1550    O LEU F 211      -8.855 178.909 -22.874  0.75  5.36           O 0
+ATOM   1526    O ALA F 207      -9.833 178.235 -17.288  0.44  7.50           O 0
+ATOM   1544   CA GLY F 210     -13.185 178.822 -21.079  0.00  0.00           C 0
+ATOM   1527   CB ALA F 207      -6.762 178.417 -17.935  0.00  0.00           C 0
+ATOM    948    O VAL F 131      -3.405 177.304 -19.088  0.45  2.14           O 0
+ATOM    955    O ALA F 132      -2.985 174.110 -20.809  0.55  5.36           O 0
+ATOM    950  CG1 VAL F 131      -3.944 175.367 -16.616  0.00  0.00           C 0
+ATOM    965    N PHE F 134      -4.452 171.955 -23.214  0.00  0.00           N 0
+ATOM   1520    O CYS F 206      -9.629 180.352 -20.442  0.00  0.00           O 0
+ATOM   1566    N ALA F 213      -5.709 178.419 -24.923  0.00  0.00           N 0
+ATOM   1560   CG ARG F 212      -9.351 175.801 -26.157  0.00  0.00           C 0
+ATOM   1545    C GLY F 210     -12.617 179.066 -22.465  0.00  0.00           C 0
+ATOM   1546    O GLY F 210     -13.212 178.656 -23.461  0.20  5.36           O 0
+ATOM   1523    N ALA F 207      -7.652 180.209 -19.364  0.55  1.09           N 0
+ATOM   1570   CB ALA F 213      -4.316 180.216 -24.005  0.00  0.00           C 0
+ATOM   1549    C LEU F 211      -9.526 179.138 -23.880  0.00  0.00           C 0
+TER
+END

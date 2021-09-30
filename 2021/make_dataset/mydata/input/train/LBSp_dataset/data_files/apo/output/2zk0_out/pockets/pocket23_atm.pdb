@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0982
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8865
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5824
+HEADER 5  - Mean B-factor of pocket residues  : 0.8140
+HEADER 6  - Hydrophobicity Score              : 23.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 336.9162
+HEADER 10  -Pocket volume (convex hull)       : 13.9121
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.7600
+ATOM   1220   CD PRO A 359      33.559  67.228  13.660  0.00  0.00           C 0
+ATOM   1219   CG PRO A 359      32.589  67.454  14.822  0.00  0.00           C 0
+ATOM   2022  OG1 THR A 459      34.183  68.996  19.257  0.00  0.00           O 0
+ATOM   2023  CG2 THR A 459      33.827  70.668  17.570  0.00  0.00           C 0
+ATOM   1242  OD1 ASP A 362      33.277  60.377  13.569  0.00  0.00           O 0
+ATOM   1989  CG1 VAL A 455      33.587  65.616  20.188  0.00  0.00           C 0
+ATOM   1966  CD2 LEU A 452      30.339  60.070  18.872  0.00  0.00           C 0
+ATOM   1990  CG2 VAL A 455      33.127  63.614  21.574  0.00  0.00           C 0
+ATOM   1215   CA PRO A 359      32.547  65.131  14.374  0.00  0.00           C 0
+ATOM   1217    O PRO A 359      30.590  63.699  14.421  0.51  3.21           O 0
+ATOM   1218   CB PRO A 359      32.565  66.131  15.531  0.00  0.00           C 0
+ATOM   1962    O LEU A 452      29.067  64.694  20.761  0.00  0.00           O 0
+ATOM   1998  CD1 ILE A 456      29.327  67.471  17.782  0.00  0.00           C 0
+ATOM   1988   CB VAL A 455      32.549  64.911  21.033  0.00  0.00           C 0
+ATOM   1960   CA LEU A 452      29.192  62.281  20.669  0.00  0.00           C 0
+ATOM   1963   CB LEU A 452      28.509  61.726  19.414  0.00  0.00           C 0
+ATOM   1208    O LYS A 358      34.186  63.770  12.752  0.25  2.14           O 0
+ATOM   1214    N PRO A 359      33.366  65.797  13.346  0.00  0.00           N 0
+ATOM   1207    C LYS A 358      34.139  65.002  12.579  0.00  0.00           C 0
+ATOM   1209   CB LYS A 358      36.289  66.224  12.106  0.00  0.00           C 0
+TER
+END

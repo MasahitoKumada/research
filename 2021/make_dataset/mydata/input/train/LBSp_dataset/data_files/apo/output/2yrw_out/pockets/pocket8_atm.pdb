@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.3010
+HEADER 1  - Drug Score                        : 0.0087
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5639
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3434
+HEADER 5  - Mean B-factor of pocket residues  : 0.3524
+HEADER 6  - Hydrophobicity Score              : 33.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 95.2861
+HEADER 10  -Pocket volume (convex hull)       : 0.9743
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   2062  OE2 GLU A 283       8.238  24.917  13.427  0.86  2.14           O 0
+ATOM    768   CA LYS A 103       9.873  29.733  14.937  0.00  0.00           C 0
+ATOM   2063    N PHE A 284      11.735  23.191  16.893  0.61  1.09           N 0
+ATOM    772   CG LYS A 103       9.494  28.239  12.900  0.00  0.00           C 0
+ATOM    771   CB LYS A 103       8.859  29.125  13.968  0.00  0.00           C 0
+ATOM    751    O GLU A 100       8.400  28.003  19.528  0.36  5.36           O 0
+ATOM   2066    O PHE A 284      10.364  23.920  19.117  0.40  2.14           O 0
+ATOM    743    O ILE A  99      12.395  27.403  19.189  0.37  2.14           O 0
+ATOM   2055   CA GLU A 283      10.721  22.415  14.749  0.00  0.00           C 0
+ATOM   2049    O ILE A 282      10.649  23.056  11.936  0.82  1.07           O 0
+ATOM    830   CE MET A 110      15.705  25.733  13.246  0.00  0.00           C 0
+ATOM    804   CE LYS A 107      12.612  27.034  10.090  0.00  0.00           C 0
+ATOM    796   CB ALA A 106      13.610  28.299  15.824  0.00  0.00           C 0
+TER
+END

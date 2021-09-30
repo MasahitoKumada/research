@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0708
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0109
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4840
+HEADER 5  - Mean B-factor of pocket residues  : 0.4049
+HEADER 6  - Hydrophobicity Score              : 22.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 306.5944
+HEADER 10  -Pocket volume (convex hull)       : 5.5877
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1004  CG1 VAL A 168       2.162  11.911   4.550  0.00  0.00           C 0
+ATOM   1005  CG2 VAL A 168       2.311   9.442   5.004  0.00  0.00           C 0
+ATOM   1025   CE LYS A 171       0.875  12.438  -2.016  0.00  0.00           C 0
+ATOM    991    O ARG A 167       4.616   8.414   2.624  0.00  0.00           O 0
+ATOM   1023   CG LYS A 171       2.441  14.406  -2.068  0.00  0.00           C 0
+ATOM   1006    N MET A 169       6.053  12.254   3.409  0.48  3.28           N 0
+ATOM   1017    O GLY A 170       5.715  15.358  -0.318  0.38  7.50           O 0
+ATOM   1026   NZ LYS A 171      -0.443  11.880  -2.449  0.00  0.00           N 0
+ATOM   1000   CA VAL A 168       4.363  10.699   4.181  0.00  0.00           C 0
+ATOM   1014    N GLY A 170       5.215  14.617   2.276  0.55  2.19           N 0
+ATOM   1015   CA GLY A 170       4.586  15.817   1.738  0.00  0.00           C 0
+ATOM   1010   CB MET A 169       8.210  13.092   2.615  0.00  0.00           C 0
+ATOM   1011   CG MET A 169       8.930  11.795   2.980  0.00  0.00           C 0
+TER
+END

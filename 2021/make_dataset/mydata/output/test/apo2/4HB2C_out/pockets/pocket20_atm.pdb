@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0385
+HEADER 1  - Drug Score                        : 0.0099
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8114
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6772
+HEADER 5  - Mean B-factor of pocket residues  : 0.5463
+HEADER 6  - Hydrophobicity Score              : 14.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.5612
+HEADER 10  -Pocket volume (convex hull)       : 6.0155
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.9375
+ATOM   3906   CB ALA C 492     -33.393  72.336  47.637  0.00  0.00           C 0
+ATOM   3875   CAASER C 489     -33.282  68.343  49.221  0.00  0.00           C 0
+ATOM   3871  CG2 ILE C 488     -37.120  68.096  46.663  0.00  0.00           C 0
+ATOM   3868    O ILE C 488     -34.147  68.910  46.655  0.00  0.00           O 0
+ATOM   3873    NASER C 489     -33.978  67.413  48.326  0.00  0.00           N 0
+ATOM   3837    OAGLU C 485     -34.767  64.936  50.003  0.82  2.14           O 0
+ATOM   3881   CBASER C 489     -33.227  67.796  50.653  0.00  0.00           C 0
+ATOM   3869   CB ILE C 488     -36.554  66.682  46.523  0.00  0.00           C 0
+ATOM   3833   CAAGLU C 485     -36.608  63.406  49.982  0.00  0.00           C 0
+ATOM   3870  CG1 ILE C 488     -37.297  65.944  45.405  0.00  0.00           C 0
+ATOM   3830  OE2 GLU C 484     -41.002  63.566  45.204  0.83  9.64           O 1
+ATOM   3825    O GLU C 484     -36.264  63.390  47.217  0.00  0.00           O 0
+ATOM   3827   CG GLU C 484     -39.064  62.399  45.901  0.00  0.00           C 0
+ATOM   3828   CD GLU C 484     -40.565  62.524  45.728  0.00  0.00           C 0
+ATOM   3841   CGAGLU C 485     -38.602  63.176  51.546  0.00  0.00           C 0
+ATOM   3839   CBAGLU C 485     -37.089  63.101  51.407  0.00  0.00           C 0
+TER
+END

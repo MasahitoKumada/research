@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1354
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8370
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6793
+HEADER 5  - Mean B-factor of pocket residues  : 0.3209
+HEADER 6  - Hydrophobicity Score              : 10.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.3047
+HEADER 10  -Pocket volume (convex hull)       : 3.2020
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1731  CD1 ILE A 191      -8.605 -19.902  22.719  0.00  0.00           C 0
+ATOM   1702   CA GLU A 188     -11.684 -22.641  24.967  0.00  0.00           C 0
+ATOM   1730  CG2 ILE A 191      -7.593 -22.563  21.138  0.00  0.00           C 0
+ATOM   1706   CG GLU A 188     -10.711 -22.524  27.291  0.00  0.00           C 0
+ATOM   1738   CBASER A 192     -10.868 -27.103  21.498  0.00  0.00           C 0
+ATOM   1733   CAASER A 192     -10.170 -26.321  20.383  0.00  0.00           C 0
+ATOM   1770   NZALYS A 195      -4.307 -24.670  21.200  0.00  0.00           N 0
+ATOM   1741   OGASER A 192     -10.635 -28.528  21.335  0.00  0.00           O 0
+ATOM   1732    N SER A 192     -10.311 -24.886  20.624  0.00  0.00           N 0
+ATOM   1704    O GLU A 188     -11.550 -24.210  23.192  0.00  0.00           O 0
+ATOM   1705   CB GLU A 188     -11.592 -23.326  26.335  0.00  0.00           C 0
+ATOM   1766   CDALYS A 195      -5.601 -25.347  19.373  0.00  0.00           C 0
+ATOM   1762   CBALYS A 195      -6.705 -26.367  17.526  0.00  0.00           C 0
+ATOM   1779  OG1ATHR A 196      -9.188 -30.440  17.766  0.77  3.21           O 0
+ATOM   1737    O SER A 192     -10.158 -27.435  18.255  0.00  0.00           O 0
+ATOM   1728   CB ILE A 191      -9.046 -21.997  21.303  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1637
+HEADER 1  - Drug Score                        : 0.0041
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8569
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4923
+HEADER 5  - Mean B-factor of pocket residues  : 0.0826
+HEADER 6  - Hydrophobicity Score              : 37.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.5996
+HEADER 10  -Pocket volume (convex hull)       : 3.6098
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2917
+ATOM    562   CA HIS A  66      -2.839  15.199  -6.623  0.00  0.00           C 0
+ATOM    578  CD1 ILE A  67      -5.577  18.248  -2.457  0.00  0.00           C 0
+ATOM    560  CG2 THR A  65      -0.192  14.027  -3.294  0.00  0.00           C 0
+ATOM    973    O LYS A 113      -3.044  18.346  -7.485  0.70  2.14           O 0
+ATOM    557    O THR A  65      -0.091  15.073  -6.747  0.56  4.29           O 0
+ATOM    512  CG1 ILE A  60       4.722  18.863  -5.147  0.00  0.00           C 0
+ATOM    558   CB THR A  65       0.747  13.348  -4.299  0.00  0.00           C 0
+ATOM    514  CD1 ILE A  60       4.000  19.893  -4.268  0.00  0.00           C 0
+ATOM    541   OG SER A  63       4.028  12.602  -5.365  0.46  1.07           O 0
+ATOM    540   CB SER A  63       5.169  13.325  -5.935  0.00  0.00           C 0
+ATOM    966  ND1 HIS A 112       0.996  21.658  -2.980  0.00  0.00           N 0
+ATOM    961   CA HIS A 112       0.660  21.254  -6.222  0.00  0.00           C 0
+ATOM     77  CE1 PHE A  10      -3.281  21.709  -2.156  0.00  0.00           C 0
+ATOM    510    O ILE A  60       5.587  16.793  -7.457  0.37  1.07           O 0
+ATOM    539    O SER A  63       3.458  14.114  -8.300  0.00  0.00           O 0
+ATOM    576  CG1 ILE A  67      -5.739  17.109  -3.493  0.00  0.00           C 0
+ATOM    970    N LYS A 113      -0.440  19.514  -7.609  0.00  0.00           N 0
+ATOM    964   CB HIS A 112      -0.279  21.956  -5.214  0.00  0.00           C 0
+ATOM    563    C HIS A  66      -4.204  15.148  -6.010  0.00  0.00           C 0
+TER
+END

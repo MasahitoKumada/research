@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1004
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7820
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5764
+HEADER 5  - Mean B-factor of pocket residues  : 0.5819
+HEADER 6  - Hydrophobicity Score              : -18.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.2935
+HEADER 10  -Pocket volume (convex hull)       : 2.2597
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.5000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    351   CG PRO A  41     -27.726  10.470   0.799  0.00  0.00           C 0
+ATOM    211   CG ASN A  26     -30.040  12.272   6.868  0.00  0.00           C 0
+ATOM    213  ND2 ASN A  26     -29.801  13.533   6.541  0.00  0.00           N 0
+ATOM    212  OD1 ASN A  26     -31.126  11.722   6.661  0.00  0.00           O 0
+ATOM    251   CEAMET A  30     -26.061  11.936   4.902  0.00  0.00           C 0
+ATOM    247   CGAMET A  30     -25.967   9.221   5.508  0.00  0.00           C 0
+ATOM    274   NZ LYS A  33     -28.651   6.619   1.668  0.31  5.47           N 0
+ATOM    376   CBASER A  44     -25.035  13.869   1.461  0.00  0.00           C 0
+ATOM    210   CB ASN A  26     -28.898  11.528   7.510  0.00  0.00           C 0
+ATOM    188  OE2 GLU A  22     -25.958  15.417   6.158  0.09  7.50           O 0
+ATOM    378   OGASER A  44     -24.594  14.114   2.784  0.68  1.07           O 0
+ATOM    386   CD PRO A  45     -24.003  17.733   1.624  0.00  0.00           C 0
+ATOM    237   CB PRO A  29     -30.010   6.153   6.645  0.00  0.00           C 0
+ATOM    370   CAASER A  44     -24.682  15.038   0.541  0.00  0.00           C 0
+TER
+END

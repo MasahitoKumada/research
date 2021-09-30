@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1109
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1373
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6757
+HEADER 5  - Mean B-factor of pocket residues  : 0.4479
+HEADER 6  - Hydrophobicity Score              : -16.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.6933
+HEADER 10  -Pocket volume (convex hull)       : 3.5661
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1260   CG ARG A 145      56.165  -2.806  33.137  0.00  0.00           C 0
+ATOM   1296  OE1 GLU A 148      52.787  -6.077  34.115  0.58  1.07           O 0
+ATOM   1254  NE2 GLN A 144      50.758  -5.836  30.496  0.05  7.66           N 0
+ATOM   1262   NE ARG A 145      57.921  -2.778  31.437  0.00  0.00           N 0
+ATOM   1226   CB GLN A 141      54.813  -1.321  28.047  0.00  0.00           C 0
+ATOM   1225    O GLN A 141      54.424  -0.931  31.150  0.00  0.00           O 0
+ATOM   1253  OE1 GLN A 144      50.889  -4.021  29.264  0.46  5.36           O 0
+ATOM   1228   CD GLN A 141      55.343  -2.637  25.966  0.00  0.00           C 0
+ATOM   1230  NE2 GLN A 141      54.954  -3.071  24.790  0.00  0.00           N 0
+ATOM   1227   CG GLN A 141      54.246  -2.127  26.900  0.00  0.00           C 0
+ATOM   1229  OE1 GLN A 141      56.527  -2.538  26.263  0.67  7.50           O 0
+ATOM   1252   CD GLN A 144      50.854  -4.545  30.352  0.00  0.00           C 0
+TER
+END

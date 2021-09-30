@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1971
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7699
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4695
+HEADER 5  - Mean B-factor of pocket residues  : 0.3162
+HEADER 6  - Hydrophobicity Score              : 19.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.7393
+HEADER 10  -Pocket volume (convex hull)       : 6.7820
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    721  OD2 ASP A 101       9.411  -1.838  57.782  0.00  0.00           O 1
+ATOM   1654    N GLY A 227       8.431  -2.968  61.507  0.00  0.00           N 0
+ATOM   1661    O SER A 228      11.357  -6.822  60.700  0.40  9.64           O 0
+ATOM   1655   CA GLY A 227       8.988  -3.700  62.633  0.00  0.00           C 0
+ATOM   1679   CA GLY A 231      12.516  -6.824  56.685  0.00  0.00           C 0
+ATOM   1682    N ASN A 232      14.931  -6.756  57.044  0.40  3.28           N 0
+ATOM   1680    C GLY A 231      13.934  -6.713  56.158  0.00  0.00           C 0
+ATOM    718   CB ASP A 101       8.846  -2.050  55.505  0.00  0.00           C 0
+ATOM   1681    O GLY A 231      14.124  -6.593  54.943  0.61  1.07           O 0
+ATOM   1641  OG1 THR A 224       8.685  -6.025  55.630  0.68  3.21           O 0
+ATOM    725    O PHE A 102      11.232  -1.774  51.398  0.56  9.64           O 0
+ATOM    724    C PHE A 102      10.405  -2.572  50.933  0.00  0.00           C 0
+ATOM    737   CB SER A 103      12.244  -5.530  49.699  0.00  0.00           C 0
+ATOM   1700  CG1 VAL A 234      12.159  -9.101  51.457  0.00  0.00           C 0
+ATOM   1625    O ILE A 222       8.583  -5.557  50.399  0.66  2.14           O 0
+ATOM    733    N SER A 103      10.735  -3.707  50.327  0.61  2.19           N 0
+ATOM    734   CA SER A 103      12.123  -4.055  50.062  0.00  0.00           C 0
+TER
+END

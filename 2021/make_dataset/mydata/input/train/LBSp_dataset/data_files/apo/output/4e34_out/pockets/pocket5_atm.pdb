@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0781
+HEADER 1  - Drug Score                        : 0.0158
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0627
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4718
+HEADER 5  - Mean B-factor of pocket residues  : 0.4706
+HEADER 6  - Hydrophobicity Score              : -18.8000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.6630
+HEADER 10  -Pocket volume (convex hull)       : 1.7650
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM    686    N GLY B 284      13.475   8.708  27.487  0.00  0.00           N 0
+ATOM    688    C GLY B 284      11.185   9.429  26.965  0.00  0.00           C 0
+ATOM    286   CG PRO A 320      11.790   5.785  19.407  0.00  0.00           C 0
+ATOM    687   CA GLY B 284      12.066   8.423  27.683  0.00  0.00           C 0
+ATOM    284    O PRO A 320       8.651   5.842  20.626  0.00  0.00           O 0
+ATOM    287   CD PRO A 320      11.636   7.228  19.008  0.00  0.00           C 0
+ATOM    696   CD PRO B 285       9.271   7.896  27.398  0.00  0.00           C 0
+ATOM    690    N PRO B 285       9.879   9.148  26.910  0.00  0.00           N 0
+ATOM    689    O GLY B 284      11.673  10.436  26.460  0.00  0.00           O 0
+ATOM    275   CB HIS A 319      10.014  10.490  20.001  0.00  0.00           C 0
+ATOM    278  CD2 HIS A 319      12.206  11.877  19.963  0.00  0.00           C 0
+ATOM    691   CA PRO B 285       8.903  10.002  26.226  0.00  0.00           C 0
+ATOM    276   CG HIS A 319      10.863  11.720  20.062  0.00  0.00           C 0
+ATOM    302   CGAGLN A 322       6.496   8.831  22.289  0.00  0.00           C 0
+ATOM    694   CB PRO B 285       7.767   9.023  25.935  0.00  0.00           C 0
+ATOM    308  NE2AGLN A 322       5.995   7.041  23.847  0.39  3.28           N 0
+TER
+END

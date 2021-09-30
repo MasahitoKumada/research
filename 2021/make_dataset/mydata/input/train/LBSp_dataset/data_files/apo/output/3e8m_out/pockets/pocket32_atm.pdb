@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0775
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0288
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6454
+HEADER 5  - Mean B-factor of pocket residues  : 0.1257
+HEADER 6  - Hydrophobicity Score              : -7.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.8918
+HEADER 10  -Pocket volume (convex hull)       : 3.8599
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM    354  CE2 TYR A  22     -21.493  19.700  -6.345  0.00  0.00           C 0
+ATOM   3741  NH2AARG B  63     -19.205  23.233  -8.773  0.60  5.47           N 0
+ATOM    355   CZ TYR A  22     -22.646  20.299  -6.691  0.00  0.00           C 0
+ATOM   3735   NEAARG B  63     -17.725  22.203  -7.355  0.70  2.19           N 0
+ATOM   3727    OAARG B  63     -19.758  20.076  -2.485  0.00  0.00           O 0
+ATOM   3729   CBAARG B  63     -17.678  20.435  -4.990  0.00  0.00           C 0
+ATOM   3797  OE1 GLU B  66     -17.872  24.240  -0.400  0.00  0.00           O 0
+ATOM   3731   CGAARG B  63     -16.452  21.128  -5.502  0.00  0.00           C 0
+ATOM    356   OH TYR A  22     -23.525  20.718  -5.718  0.66  1.07           O 0
+ATOM    437  OE1 GLU A  28     -23.655  24.419  -8.672  0.26  5.36           O 0
+ATOM   3805    N LYS B  67     -21.417  20.755  -0.208  0.00  0.00           N 0
+ATOM   3809   CB LYS B  67     -23.140  21.087  -1.950  0.00  0.00           C 0
+ATOM   3806   CA LYS B  67     -22.760  21.309  -0.471  0.00  0.00           C 0
+ATOM   3811   CD LYS B  67     -24.626  23.058  -2.390  0.00  0.00           C 0
+TER
+END

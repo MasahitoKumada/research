@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.1032
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9960
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7081
+HEADER 5  - Mean B-factor of pocket residues  : 0.5768
+HEADER 6  - Hydrophobicity Score              : -2.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 2.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 343.5133
+HEADER 10  -Pocket volume (convex hull)       : 17.5660
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   4821    N THR B 214       1.442 -15.565 105.832  0.64  2.19           N 0
+ATOM   4810    O ALA B 212       3.372 -18.732 104.940  0.00  0.00           O 0
+ATOM   4813   CA GLU B 213       3.080 -16.116 104.141  0.00  0.00           C 0
+ATOM   4826  OG1 THR B 214       1.177 -15.019 108.599  0.00  0.00           O 0
+ATOM   4839  CG2 THR B 216      -0.351  -9.062 107.978  0.00  0.00           C 0
+ATOM   4532   CBASER B 172       6.250  -9.891 104.874  0.00  0.00           C 0
+ATOM   4824    O THR B 214       0.196 -13.094 106.219  0.60  2.14           O 0
+ATOM   4818   CD GLU B 213       4.911 -12.914 102.813  0.00  0.00           C 0
+ATOM   4820  OE2 GLU B 213       5.692 -12.590 101.904  0.55  7.50           O 0
+ATOM   4534   OGASER B 172       7.468  -9.436 105.433  0.00  0.00           O 0
+ATOM   4817   CG GLU B 213       4.746 -14.410 103.088  0.00  0.00           C 0
+ATOM   4816   CB GLU B 213       3.276 -14.790 103.404  0.00  0.00           C 0
+ATOM   4521   CB PRO B 171       0.988 -10.095 104.317  0.00  0.00           C 0
+ATOM   4524    NASER B 172       4.021  -9.232 104.094  0.00  0.00           N 0
+ATOM   4819  OE1 GLU B 213       4.307 -12.071 103.532  0.84  2.14           O 0
+ATOM   4520    O PRO B 171       2.866  -7.302 104.260  0.47  1.07           O 0
+ATOM   4526   CAASER B 172       5.226  -8.750 104.771  0.00  0.00           C 0
+ATOM   4553   OG SER B 175       2.089  -5.181 106.421  0.68  5.36           O 0
+ATOM   4519    C PRO B 171       2.930  -8.487 103.943  0.00  0.00           C 0
+TER
+END

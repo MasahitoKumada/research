@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1555
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1318
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5234
+HEADER 5  - Mean B-factor of pocket residues  : 0.0840
+HEADER 6  - Hydrophobicity Score              : 12.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.4858
+HEADER 10  -Pocket volume (convex hull)       : 2.5243
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM     38    O ILE A   7      -7.935  24.626  36.413  0.00  0.00           O 0
+ATOM   2975   CG GLN B 192     -11.113  23.502  32.882  0.00  0.00           C 0
+ATOM   2974   CB GLN B 192     -10.211  24.683  32.491  0.00  0.00           C 0
+ATOM    828  NH1AARG B  61      -3.672  18.518  32.905  0.00  0.00           N 0
+ATOM    517   SG CYS B  42      -3.098  23.203  36.672  0.00  0.00           S 0
+ATOM    502    O THR B  41      -3.561  24.619  33.912  0.00  0.00           O 0
+ATOM    504  OG1 THR B  41      -2.211  22.271  32.603  0.68  6.43           O 0
+ATOM    741  NE2 HIS B  57      -6.916  20.639  38.444  0.00  0.00           N 0
+ATOM   2987    N GLY B 193      -7.550  26.036  33.967  0.00  0.00           N 0
+ATOM    739  CD2 HIS B  57      -6.344  19.393  38.293  0.00  0.00           C 0
+ATOM    830  NH2AARG B  61      -1.874  19.564  33.869  0.00  0.00           N 0
+ATOM     24    O PRO A   6     -10.764  20.761  36.165  0.55  8.57           O 0
+ATOM     36   CA ILE A   7      -9.728  23.222  36.944  0.00  0.00           C 0
+ATOM     37    C ILE A   7      -8.319  23.827  37.210  0.00  0.00           C 0
+TER
+END

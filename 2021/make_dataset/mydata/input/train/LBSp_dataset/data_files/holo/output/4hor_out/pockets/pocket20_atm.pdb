@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0076
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0908
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6608
+HEADER 5  - Mean B-factor of pocket residues  : 0.4950
+HEADER 6  - Hydrophobicity Score              : 37.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 390.1588
+HEADER 10  -Pocket volume (convex hull)       : 25.6158
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    348  NE2 GLN A  40     -11.098 -24.528  31.293  0.00  0.00           N 0
+ATOM    390  CE2 PHE A  44     -16.783 -25.563  30.979  0.00  0.00           C 0
+ATOM    345   CG GLN A  40     -12.202 -24.204  29.166  0.00  0.00           C 0
+ATOM    377  OE1AGLU A  43     -16.033 -28.742  28.278  0.00  0.00           O 0
+ATOM   2304    O VAL A 278     -15.293 -25.956  34.771  0.00  0.00           O 0
+ATOM    391   CZ PHE A  44     -17.859 -26.300  31.455  0.00  0.00           C 0
+ATOM    317  OD1AASP A  36      -8.784 -25.858  28.519  0.00  0.00           O 0
+ATOM    338    C GLY A  39     -13.431 -25.129  25.337  0.00  0.00           C 0
+ATOM    337   CA GLY A  39     -12.403 -25.511  24.281  0.00  0.00           C 0
+ATOM    339    O GLY A  39     -14.591 -25.568  25.284  0.65  3.21           O 0
+ATOM    375   CDAGLU A  43     -16.976 -28.932  27.476  0.00  0.00           C 0
+ATOM    373   CGAGLU A  43     -17.320 -27.830  26.496  0.00  0.00           C 0
+ATOM    340    N GLN A  40     -13.014 -24.295  26.290  0.00  0.00           N 0
+ATOM    472   OH TYR A  54     -16.362 -29.361  19.252  0.00  0.00           O 0
+ATOM    364  CD1 LEU A  42     -14.712 -25.906  20.712  0.00  0.00           C 0
+ATOM    362   CB LEU A  42     -16.421 -25.298  22.386  0.00  0.00           C 0
+ATOM    469  CE1 TYR A  54     -14.611 -28.617  17.792  0.00  0.00           C 0
+ATOM    496  CD2 LEU A  57     -10.652 -27.140  19.144  0.00  0.00           C 0
+TER
+END

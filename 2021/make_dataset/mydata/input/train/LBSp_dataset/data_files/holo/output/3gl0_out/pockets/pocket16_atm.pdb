@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1033
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8258
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4244
+HEADER 5  - Mean B-factor of pocket residues  : 0.4671
+HEADER 6  - Hydrophobicity Score              : 25.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.7968
+HEADER 10  -Pocket volume (convex hull)       : 4.8462
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM     54   CB ALA A   7     -40.295  46.013   8.976  0.00  0.00           C 0
+ATOM    937    O ALA A 122     -36.053  42.597  14.139  0.00  0.00           O 0
+ATOM   1726   CG LYS A 223     -42.576  43.604  14.069  0.00  0.00           C 0
+ATOM   1724    O LYS A 223     -41.167  41.321  11.954  0.61  4.29           O 0
+ATOM     51   CA ALA A   7     -38.931  46.638   8.959  0.00  0.00           C 0
+ATOM   1727   CD LYS A 223     -42.951  45.013  14.602  0.00  0.00           C 0
+ATOM     55    N TRP A   8     -37.412  44.782   8.675  0.00  0.00           N 0
+ATOM     58    O TRP A   8     -38.192  42.196   7.803  0.40  1.07           O 0
+ATOM     45    O ASN A   6     -40.036  48.947  10.138  0.00  0.00           O 0
+ATOM    938   CB ALA A 122     -35.316  45.412  14.662  0.00  0.00           C 0
+ATOM     61  CD1 TRP A   8     -34.598  44.683  10.725  0.00  0.00           C 0
+ATOM   1729   NZ LYS A 223     -42.943  46.572  16.679  0.00  0.00           N 0
+ATOM   1728   CE LYS A 223     -42.727  45.162  16.136  0.00  0.00           C 0
+ATOM    953   CD PRO A 124     -36.406  39.598  12.287  0.00  0.00           C 0
+ATOM    869  CZ3 TRP A 111     -36.006  47.973  10.209  0.00  0.00           C 0
+ATOM    870  CH2 TRP A 111     -36.575  49.216  10.528  0.00  0.00           C 0
+ATOM     59   CB TRP A   8     -35.527  43.231   8.801  0.00  0.00           C 0
+TER
+END

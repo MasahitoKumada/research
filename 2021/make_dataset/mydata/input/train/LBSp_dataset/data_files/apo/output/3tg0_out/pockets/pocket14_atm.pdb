@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.1179
+HEADER 1  - Drug Score                        : 0.1145
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0753
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6268
+HEADER 5  - Mean B-factor of pocket residues  : 0.2882
+HEADER 6  - Hydrophobicity Score              : 1.8000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 329.4202
+HEADER 10  -Pocket volume (convex hull)       : 11.1036
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4091
+ATOM   6372   CB GLU B 411      20.256  -1.865  82.381  0.00  0.00           C 0
+ATOM   6377    N HIS B 412      17.859  -2.680  80.685  0.00  0.00           N 0
+ATOM   6375  OE1 GLU B 411      18.764  -3.082  84.668  0.00  0.00           O 0
+ATOM   6381   CB HIS B 412      15.545  -1.959  80.267  0.00  0.00           C 0
+ATOM   2787   CB ALA A 378      18.212   3.972  83.470  0.00  0.00           C 0
+ATOM   6383  ND1 HIS B 412      13.718  -2.713  81.839  0.76  2.19           N 0
+ATOM   3997  CG1 VAL B  99      15.166   1.603  79.945  0.00  0.00           C 0
+ATOM   4139  ND2 ASN B 117      11.673   3.299  84.897  0.00  0.00           N 0
+ATOM   4002    O THR B 100      12.080  -0.361  81.525  0.00  0.00           O 0
+ATOM   4010   CB ASP B 101      10.786  -1.377  85.267  0.00  0.00           C 0
+ATOM   6382   CG HIS B 412      14.878  -2.991  81.134  0.00  0.00           C 0
+ATOM   6380    O HIS B 412      18.123  -0.404  79.105  0.77  1.07           O 0
+ATOM   3995    O VAL B  99      12.847   3.136  82.028  0.50  5.36           O 0
+ATOM   6385  CE1 HIS B 412      13.383  -3.780  82.558  0.00  0.00           C 0
+ATOM   6386  NE2 HIS B 412      14.286  -4.732  82.358  0.00  0.00           N 0
+ATOM   5775  CE1 HIS B 331      17.148  -6.161  83.756  0.00  0.00           C 0
+HETATM13286   ZN ZN  B 505      14.221  -6.642  83.116  0.00  0.00          ZN 0
+ATOM   5776  NE2 HIS B 331      16.176  -7.058  83.646  0.00  0.00           N 0
+ATOM   4484  NH1 ARG B 166      10.024  -4.496  87.267  0.59  6.56           N 0
+ATOM   4485  NH2 ARG B 166       9.895  -6.732  87.761  0.45  4.37           N 0
+ATOM   4006    N ASP B 101      10.533  -0.029  83.169  0.00  0.00           N 0
+ATOM   6373   CG GLU B 411      20.816  -1.976  83.852  0.00  0.00           C 0
+TER
+END

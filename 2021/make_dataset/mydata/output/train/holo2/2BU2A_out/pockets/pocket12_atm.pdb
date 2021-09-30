@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0324
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.6816
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3970
+HEADER 5  - Mean B-factor of pocket residues  : 0.2076
+HEADER 6  - Hydrophobicity Score              : 29.7778
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.9957
+HEADER 10  -Pocket volume (convex hull)       : 7.0088
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0385
+ATOM   1212  CG2 ILE A 155      48.547  48.164  74.663  0.00  0.00           C 0
+ATOM   1207   CA ILE A 155      49.862  46.939  76.474  0.00  0.00           C 0
+ATOM   2433  CE2 TYR A 328      48.551  46.039  71.287  0.00  0.00           C 0
+ATOM   1209    O ILE A 155      51.351  48.753  75.973  0.65  1.07           O 0
+ATOM   2435   OH TYR A 328      49.690  43.939  71.506  0.00  0.00           O 0
+ATOM   1232   CB ARG A 158      54.346  46.442  75.876  0.00  0.00           C 0
+ATOM   1797  CD2 HIS A 236      50.436  48.418  69.150  0.00  0.00           C 0
+ATOM   1790   OG SER A 235      52.946  47.754  66.655  0.81  6.43           O 0
+ATOM   1238  NH2 ARG A 158      55.170  43.045  72.886  0.00  0.00           N 0
+ATOM   1235   NE ARG A 158      54.019  43.724  74.754  0.73  3.28           N 0
+ATOM   1800  NE2 HIS A 236      50.729  48.837  70.428  0.78  7.66           N 0
+ATOM   1374   CB SER A 182      55.865  51.667  68.157  0.00  0.00           C 0
+ATOM   1269  ND2 ASN A 162      56.772  47.339  72.359  0.76  9.84           N 0
+ATOM   1239    N MET A 159      54.093  49.747  75.519  0.00  0.00           N 0
+ATOM   1230    C ARG A 158      55.072  48.848  75.538  0.00  0.00           C 0
+ATOM   1240   CA MET A 159      54.152  50.890  74.616  0.00  0.00           C 0
+ATOM   1245   SD MET A 159      52.861  52.469  71.987  0.00  0.00           S 0
+ATOM   1375   OG SER A 182      55.054  52.394  69.066  0.89  1.07           O 0
+ATOM   1776  CG1 VAL A 233      52.078  51.217  67.752  0.00  0.00           C 0
+TER
+END

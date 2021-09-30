@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0674
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9562
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7050
+HEADER 5  - Mean B-factor of pocket residues  : 0.5863
+HEADER 6  - Hydrophobicity Score              : 7.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.8412
+HEADER 10  -Pocket volume (convex hull)       : 7.3888
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    742  ND2 ASN A  92      41.176 -12.128 -40.892  0.00  0.00           N 0
+ATOM    753   CG LYS A  94      43.233 -10.585 -35.994  0.00  0.00           C 0
+ATOM    743    N ALA A  93      45.414 -11.533 -40.713  0.00  0.00           N 0
+ATOM    747   CB ALA A  93      46.793  -9.779 -39.633  0.00  0.00           C 0
+ATOM    741  OD1 ASN A  92      42.652 -12.883 -39.400  0.00  0.00           O 0
+ATOM    976   CB ALA A 123      39.275 -12.843 -37.774  0.00  0.00           C 0
+ATOM    754   CD LYS A  94      41.942 -10.112 -35.431  0.00  0.00           C 0
+ATOM    756   NZ LYS A  94      40.759  -8.141 -34.465  0.00  0.00           N 0
+ATOM    955   CA THR A 120      35.821 -12.349 -40.515  0.00  0.00           C 0
+ATOM    959  OG1 THR A 120      35.566 -10.839 -42.388  0.48  6.43           O 0
+ATOM    960  CG2 THR A 120      34.516 -10.193 -40.303  0.00  0.00           C 0
+ATOM    755   CE LYS A  94      42.037  -8.633 -35.073  0.00  0.00           C 0
+ATOM    748    N LYS A  94      44.875 -12.070 -37.990  0.66  1.09           N 0
+ATOM    974    C ALA A 123      38.384 -12.784 -35.448  0.00  0.00           C 0
+ATOM    975    O ALA A 123      39.227 -12.212 -34.746  0.00  0.00           O 0
+ATOM    977    N GLY A 124      37.071 -12.625 -35.289  0.00  0.00           N 0
+ATOM    957    O THR A 120      35.554 -12.244 -38.137  0.42  5.36           O 0
+ATOM    978   CA GLY A 124      36.554 -11.818 -34.199  0.00  0.00           C 0
+TER
+END

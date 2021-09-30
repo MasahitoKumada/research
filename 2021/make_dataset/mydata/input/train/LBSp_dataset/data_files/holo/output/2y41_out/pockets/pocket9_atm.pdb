@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0289
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7871
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4280
+HEADER 5  - Mean B-factor of pocket residues  : 0.6654
+HEADER 6  - Hydrophobicity Score              : -7.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.9984
+HEADER 10  -Pocket volume (convex hull)       : 10.0106
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   2880  OE1 GLU B  37       5.875 -85.882  11.126  0.00  0.00           O 0
+ATOM   3076  OE1 GLU B  63       4.911 -83.245   4.652  0.00  0.00           O 0
+ATOM   2632   CE LYS B   2       0.847 -85.215   9.989  0.00  0.00           C 0
+ATOM   2633   NZ LYS B   2       1.235 -83.879  10.603  0.00  0.00           N 0
+ATOM   2881  OE2 GLU B  37       7.749 -84.720  11.300  0.00  0.00           O 0
+ATOM   3048   NZ LYS B  59       9.130 -84.027   3.675  0.00  0.00           N 0
+ATOM   3046   CD LYS B  59       8.922 -81.601   4.292  0.00  0.00           C 0
+ATOM   3052    O GLY B  60       3.010 -79.345   8.078  0.77  1.07           O 0
+ATOM   3073   CB GLU B  63       2.687 -81.677   4.787  0.00  0.00           C 0
+ATOM   3050   CA GLY B  60       5.402 -79.624   8.175  0.00  0.00           C 0
+ATOM   3018    O PRO B  56       9.127 -78.716   8.461  0.90  2.14           O 0
+ATOM   3016   CA PRO B  56      11.460 -78.446   7.889  0.00  0.00           C 0
+ATOM   3019   CB PRO B  56      12.401 -79.257   8.793  0.00  0.00           C 0
+ATOM   2898  CE2 PHE B  39       7.875 -80.990  10.938  0.00  0.00           C 0
+ATOM   3049    N GLY B  60       6.391 -78.980   7.295  0.94  1.09           N 0
+ATOM   2899   CZ PHE B  39       6.573 -81.452  10.947  0.00  0.00           C 0
+TER
+END

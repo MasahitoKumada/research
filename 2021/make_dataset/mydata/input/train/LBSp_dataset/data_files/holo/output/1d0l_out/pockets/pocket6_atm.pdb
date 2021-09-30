@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1431
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8195
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4646
+HEADER 5  - Mean B-factor of pocket residues  : 0.5591
+HEADER 6  - Hydrophobicity Score              : 42.1000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.6905
+HEADER 10  -Pocket volume (convex hull)       : 12.2693
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM   1283   CGAMET A 202      19.075  23.849   2.404  0.00  0.00           C 0
+ATOM   1612    O ILE A 244      21.372  18.186   4.135  0.79  5.36           O 0
+ATOM   1285   SDAMET A 202      17.465  23.112   2.739  0.00  0.00           S 0
+ATOM   1338  OD2 ASP A 208      19.250  20.292  -1.668  0.62  8.57           O 0
+ATOM   1622   CG ASN A 245      19.422  14.019   2.282  0.00  0.00           C 0
+ATOM   1621   CB ASN A 245      20.517  14.473   3.229  0.00  0.00           C 0
+ATOM   1337  OD1 ASP A 208      19.945  19.133  -3.398  0.00  0.00           O 0
+ATOM   1624  ND2 ASN A 245      19.715  12.982   1.507  0.00  0.00           N 0
+ATOM   1317   CB GLU A 206      22.807  21.124  -0.387  0.00  0.00           C 0
+ATOM   1645  CZ3 TRP A 247      15.132  17.811   1.561  0.00  0.00           C 0
+ATOM   1512  CE1 TYR A 231      20.014  21.040   5.710  0.00  0.00           C 0
+ATOM   1630   CG LEU A 246      16.445  18.497   6.225  0.00  0.00           C 0
+ATOM   1603   CB HIS A 243      25.731  16.205   2.301  0.00  0.00           C 0
+ATOM   1623  OD1 ASN A 245      18.332  14.578   2.247  0.00  0.00           O 0
+ATOM   1377  CD2 LEU A 213      14.930  18.801  -2.293  0.00  0.00           C 0
+ATOM   1643  CE3 TRP A 247      15.353  16.444   1.740  0.00  0.00           C 0
+ATOM   1618   CA ASN A 245      20.117  15.685   4.079  0.00  0.00           C 0
+ATOM   1625    N LEU A 246      17.908  16.179   4.933  0.00  0.00           N 0
+ATOM   1631  CD1 LEU A 246      15.583  19.731   5.948  0.00  0.00           C 0
+TER
+END

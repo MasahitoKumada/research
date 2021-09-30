@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1746
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8982
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6162
+HEADER 5  - Mean B-factor of pocket residues  : 0.4787
+HEADER 6  - Hydrophobicity Score              : -23.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.7870
+HEADER 10  -Pocket volume (convex hull)       : 1.7680
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   4255   CA PRO B 152      40.739  20.924  13.079  0.00  0.00           C 0
+ATOM   4477  CE1 HIS B 184      39.747  18.356  16.438  0.00  0.00           C 0
+ATOM   4254    N PRO B 152      39.879  21.874  13.755  0.00  0.00           N 0
+ATOM   4478  NE2 HIS B 184      39.482  17.137  15.983  0.00  0.00           N 0
+ATOM   4662   NZ LYS B 210      34.979  16.593  15.337  0.74  7.66           N 0
+ATOM   4240   CB ASP B 150      35.502  20.215  16.960  0.00  0.00           C 0
+ATOM   4291  OE1 GLU B 156      41.146  17.740  12.990  0.84  2.14           O 0
+ATOM   4260   CD PRO B 152      39.188  22.795  12.842  0.00  0.00           C 0
+ATOM   4258   CB PRO B 152      40.550  21.232  11.622  0.00  0.00           C 0
+ATOM   4238    C ASP B 150      36.598  22.443  16.658  0.00  0.00           C 0
+ATOM   4239    O ASP B 150      35.923  23.214  15.984  0.69  5.36           O 0
+ATOM   4246    C HIS B 151      39.734  21.870  15.059  0.00  0.00           C 0
+ATOM   4292  OE2 GLU B 156      40.684  15.813  13.916  0.00  0.00           O 0
+ATOM   4290   CD GLU B 156      41.270  16.506  13.063  0.00  0.00           C 0
+TER
+END

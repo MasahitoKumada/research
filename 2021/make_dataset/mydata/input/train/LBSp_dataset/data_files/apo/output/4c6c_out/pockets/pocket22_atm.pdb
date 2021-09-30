@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.1244
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0716
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6785
+HEADER 5  - Mean B-factor of pocket residues  : 0.0328
+HEADER 6  - Hydrophobicity Score              : 22.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.2250
+HEADER 10  -Pocket volume (convex hull)       : 10.4024
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   3542  CG2 VAL A1679      -6.623  -4.984 -17.127  0.00  0.00           C 0
+ATOM   2683   CB LYS A1628      -2.582  -5.011 -12.187  0.00  0.00           C 0
+ATOM   2626   NZALYS A1625      -4.459  -1.428 -18.794  0.00  0.00           N 0
+ATOM   2623   CGALYS A1625      -5.636  -1.476 -15.970  0.00  0.00           C 0
+ATOM   2621   CAALYS A1625      -6.089  -2.453 -13.630  0.00  0.00           C 0
+ATOM   2620    O LYS A1625      -3.894  -1.656 -13.051  0.52  1.07           O 0
+ATOM   2705   CB ALA A1629      -0.732   0.032 -13.074  0.00  0.00           C 0
+ATOM   2625   CEALYS A1625      -5.244  -0.311 -18.194  0.00  0.00           C 0
+ATOM   2685   CD LYS A1628      -3.873  -7.066 -12.866  0.00  0.00           C 0
+ATOM   3529    O ALA A1678      -4.600  -8.920 -18.316  0.00  0.00           O 0
+ATOM   3530   CB ALA A1678      -4.466  -7.203 -20.948  0.00  0.00           C 0
+ATOM   3537   CA VAL A1679      -6.560  -7.490 -16.879  0.00  0.00           C 0
+ATOM   2701    N ALA A1629      -1.169  -2.110 -11.962  0.62  1.09           N 0
+ATOM   2702   CA ALA A1629      -0.119  -1.188 -12.396  0.00  0.00           C 0
+ATOM   2681    C LYS A1628      -0.856  -3.315 -11.491  0.00  0.00           C 0
+ATOM   2682    O LYS A1628       0.316  -3.717 -11.402  0.00  0.00           O 0
+ATOM   3528    C ALA A1678      -5.478  -8.296 -18.928  0.00  0.00           C 0
+TER
+END

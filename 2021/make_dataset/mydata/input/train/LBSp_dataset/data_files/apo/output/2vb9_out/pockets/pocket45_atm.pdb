@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.0798
+HEADER 1  - Drug Score                        : 0.0041
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7593
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5594
+HEADER 5  - Mean B-factor of pocket residues  : 0.5402
+HEADER 6  - Hydrophobicity Score              : 7.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.3786
+HEADER 10  -Pocket volume (convex hull)       : 10.1047
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7143
+ATOM   9973   CG PRO D 123      57.672  52.035  90.305  0.00  0.00           C 0
+ATOM    910   CB ARG A 121      53.508  55.051  86.450  0.00  0.00           C 0
+ATOM   9974   CD PRO D 123      57.529  53.471  90.763  0.00  0.00           C 0
+ATOM    911   CG ARG A 121      53.653  54.553  84.980  0.00  0.00           C 0
+ATOM    909    O ARG A 121      54.403  54.627  89.279  0.52  4.29           O 0
+ATOM   3317    O SER B  42      53.835  48.479  85.449  0.43  3.21           O 0
+ATOM   3321   CA GLY B  43      54.212  46.050  86.698  0.00  0.00           C 0
+ATOM   3309    O ASP B  41      57.853  47.758  84.767  0.67  8.57           O 0
+ATOM   9972   CB PRO D 123      56.388  51.318  90.644  0.00  0.00           C 0
+ATOM   3315   CA SER B  42      55.315  47.978  83.608  0.00  0.00           C 0
+ATOM   4453  CZ3 TRP B 195      51.696  52.463  81.862  0.00  0.00           C 0
+ATOM   4454  CH2 TRP B 195      52.557  53.531  81.590  0.00  0.00           C 0
+ATOM    907   CA ARG A 121      53.045  53.953  87.397  0.00  0.00           C 0
+ATOM    901    O MET A 120      51.867  51.464  87.840  0.31  4.29           O 0
+ATOM   3320    N GLY B  43      54.875  46.469  85.466  0.00  0.00           N 0
+ATOM   4452  CZ2 TRP B 195      53.567  53.446  80.660  0.00  0.00           C 0
+ATOM   4450  CE2 TRP B 195      53.722  52.210  79.996  0.00  0.00           C 0
+ATOM   3318   CB SER B  42      54.257  48.015  82.495  0.00  0.00           C 0
+ATOM   4448  CD2 TRP B 195      52.884  51.107  80.253  0.00  0.00           C 0
+ATOM   4451  CE3 TRP B 195      51.858  51.234  81.207  0.00  0.00           C 0
+TER
+END

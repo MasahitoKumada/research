@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.1133
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0985
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5896
+HEADER 5  - Mean B-factor of pocket residues  : 0.3825
+HEADER 6  - Hydrophobicity Score              : 13.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 156.2096
+HEADER 10  -Pocket volume (convex hull)       : 2.0739
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   8479    O LEU B 491     -28.020  43.777 -15.444  0.58  3.21           O 0
+ATOM   8493    N VAL B 493     -31.506  46.885 -15.610  0.75  3.28           N 0
+ATOM   8492  OE2 GLU B 492     -27.711  47.815 -13.440  0.00  0.00           O 0
+ATOM   8485   CA GLU B 492     -29.338  46.067 -16.292  0.00  0.00           C 0
+ATOM   7895   NZ LYS B 414     -28.167  41.515 -13.505  0.78  6.56           N 0
+ATOM   7853   CG ARG B 410     -30.416  41.526  -9.423  0.00  0.00           C 0
+ATOM   7892   CG LYS B 414     -31.021  41.554 -14.752  0.00  0.00           C 0
+ATOM   8497   CB VAL B 493     -33.500  47.905 -14.577  0.00  0.00           C 0
+ATOM   7884   CD LYS B 413     -35.771  45.545 -10.385  0.00  0.00           C 0
+ATOM   7882   CB LYS B 413     -35.519  44.394 -12.625  0.00  0.00           C 0
+ATOM   8494   CA VAL B 493     -32.955  46.898 -15.601  0.00  0.00           C 0
+ATOM   7851    O ARG B 410     -33.203  41.578 -11.896  0.43  2.14           O 0
+ATOM   7849   CA ARG B 410     -32.964  41.400  -9.509  0.00  0.00           C 0
+ATOM   7887    N LYS B 414     -34.206  42.289 -14.733  0.73  1.09           N 0
+TER
+END

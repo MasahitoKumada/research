@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : 0.0084
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8971
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6598
+HEADER 5  - Mean B-factor of pocket residues  : 0.3963
+HEADER 6  - Hydrophobicity Score              : 36.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 312.4286
+HEADER 10  -Pocket volume (convex hull)       : 17.8819
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   6587   CB ALA D4135      54.455  17.252  29.152  0.00  0.00           C 0
+ATOM   6584   CA ALA D4135      52.968  16.893  29.121  0.00  0.00           C 0
+ATOM   6579  CD2 PHE D4134      52.068  12.853  30.579  0.00  0.00           C 0
+ATOM   6581  CE2 PHE D4134      51.602  12.731  31.877  0.00  0.00           C 0
+ATOM   6607  CG2 THR D4138      49.488  17.332  33.244  0.00  0.00           C 0
+ATOM   6605   CB THR D4138      49.508  16.971  31.739  0.00  0.00           C 0
+ATOM   6586    O ALA D4135      51.608  18.850  29.460  0.44  2.14           O 0
+ATOM   7460    O ARG D4251      55.215  23.036  32.529  0.38  7.50           O 0
+ATOM   6612   CB ALA D4139      50.535  21.981  30.329  0.00  0.00           C 0
+ATOM   6635  OE1 GLU D4142      49.329  20.553  35.179  0.70  5.36           O 0
+ATOM   7461   CB ARG D4251      52.536  24.065  33.194  0.00  0.00           C 0
+ATOM   7475  CD2 LEU D4252      54.321  21.319  28.994  0.00  0.00           C 0
+ATOM   7172  NH1 ARG D4212      57.504  19.070  28.025  0.00  0.00           N 0
+ATOM   7469   CA LEU D4252      55.875  23.827  29.951  0.00  0.00           C 0
+ATOM   7471    O LEU D4252      57.989  23.921  28.849  0.69  7.50           O 0
+ATOM   7470    C LEU D4252      57.236  24.440  29.666  0.00  0.00           C 0
+ATOM   7478    C LEU D4253      60.023  25.527  30.659  0.00  0.00           C 0
+ATOM   6608    N ALA D4139      49.254  19.915  30.735  0.00  0.00           N 0
+ATOM   6609   CA ALA D4139      49.326  21.341  31.020  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.1116
+HEADER 1  - Drug Score                        : 0.0065
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8939
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5943
+HEADER 5  - Mean B-factor of pocket residues  : 0.4849
+HEADER 6  - Hydrophobicity Score              : 28.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.8830
+HEADER 10  -Pocket volume (convex hull)       : 3.1227
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   3721   CD GLU A 469      35.713 -21.660  14.305  0.00  0.00           C 0
+ATOM   3720   CG GLU A 469      36.979 -20.829  14.207  0.00  0.00           C 0
+ATOM   3723  OE2 GLU A 469      35.790 -22.782  14.854  0.00  0.00           O 0
+ATOM   3719   CB GLU A 469      37.081 -19.979  12.942  0.00  0.00           C 0
+ATOM   3716   CA GLU A 469      38.410 -19.220  12.855  0.00  0.00           C 0
+ATOM   3702  CG1 VAL A 467      40.816 -20.498  17.057  0.00  0.00           C 0
+ATOM   3499  CD2 LEU A 441      44.663 -22.386  11.931  0.00  0.00           C 0
+ATOM   3707    O PHE A 468      40.721 -17.952  13.598  0.46  4.29           O 0
+ATOM   3718    O GLU A 469      39.080 -19.346  10.553  0.61  7.50           O 0
+ATOM   3506   CD PRO A 442      43.931 -22.850  15.981  0.00  0.00           C 0
+ATOM   3505   CG PRO A 442      43.505 -23.724  17.130  0.00  0.00           C 0
+ATOM   3493   CA LEU A 441      45.037 -20.505  14.582  0.00  0.00           C 0
+ATOM   3486    O LYS A 440      43.205 -18.573  15.436  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0261
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0254
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6845
+HEADER 5  - Mean B-factor of pocket residues  : 0.3056
+HEADER 6  - Hydrophobicity Score              : -1.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.2370
+HEADER 10  -Pocket volume (convex hull)       : 1.6397
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    519  OD2 ASP A2507      51.496  12.455  12.873  0.58  8.57           O 0
+ATOM    515    O ASP A2507      50.624  14.832  17.022  0.58  5.36           O 0
+ATOM    516   CB ASP A2507      52.597  13.419  14.753  0.00  0.00           C 0
+ATOM    513   CA ASP A2507      51.425  14.407  14.793  0.00  0.00           C 0
+ATOM    540  CD2 LEU A2510      46.048  13.042  15.204  0.00  0.00           C 0
+ATOM    542   CA LYS A2511      48.554  15.024  20.297  0.00  0.00           C 0
+ATOM    538   CG LEU A2510      45.945  14.139  16.258  0.00  0.00           C 0
+ATOM    574   NZ LYS A2514      44.468  10.343  17.864  0.00  0.00           N 0
+ATOM    572   CD LYS A2514      44.309  12.023  19.737  0.00  0.00           C 0
+ATOM    545   CB LYS A2511      50.028  14.693  20.548  0.00  0.00           C 0
+ATOM    546   CG LYS A2511      50.309  14.192  21.961  0.00  0.00           C 0
+ATOM    570   CB LYS A2514      44.110  13.772  21.558  0.00  0.00           C 0
+ATOM    544    O LYS A2511      47.369  15.746  22.268  0.65  2.14           O 0
+ATOM    541    N LYS A2511      48.372  15.530  18.942  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0965
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5752
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4672
+HEADER 5  - Mean B-factor of pocket residues  : 0.5508
+HEADER 6  - Hydrophobicity Score              : 50.8750
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 76.9228
+HEADER 10  -Pocket volume (convex hull)       : 0.3941
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM   5713    O ALA A 746      55.072  65.358  31.183  0.00  0.00           O 0
+ATOM   2610    O VAL A 339      51.024  63.982  27.982  0.55  1.07           O 0
+ATOM   2515   CG MET A 326      57.212  60.924  28.383  0.00  0.00           C 0
+ATOM   2608   CA VAL A 339      50.934  61.669  27.341  0.00  0.00           C 0
+ATOM   5740    N GLY A 750      54.482  66.696  28.680  0.79  1.09           N 0
+ATOM   2637  CD2 LEU A 342      52.537  62.582  33.332  0.00  0.00           C 0
+ATOM   5714   CB ALA A 746      55.984  62.888  33.206  0.00  0.00           C 0
+ATOM   5735   CB GLU A 749      57.404  65.492  28.456  0.00  0.00           C 0
+ATOM   5736   CG GLU A 749      57.599  64.778  27.134  0.00  0.00           C 0
+ATOM   2612  CG1 VAL A 339      52.445  62.599  25.552  0.00  0.00           C 0
+ATOM   2613  CG2 VAL A 339      52.662  60.201  26.236  0.00  0.00           C 0
+ATOM   2568  CG2 VAL A 333      54.449  57.759  29.527  0.00  0.00           C 0
+ATOM   2516   SD MET A 326      57.919  62.327  29.275  0.00  0.00           S 0
+ATOM   5621   CE MET A 733      52.985  59.549  32.609  0.00  0.00           C 0
+TER
+END

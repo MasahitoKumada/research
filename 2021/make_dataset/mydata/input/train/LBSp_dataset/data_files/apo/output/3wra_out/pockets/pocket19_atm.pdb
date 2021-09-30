@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.0445
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8314
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5118
+HEADER 5  - Mean B-factor of pocket residues  : 0.5365
+HEADER 6  - Hydrophobicity Score              : -5.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.0304
+HEADER 10  -Pocket volume (convex hull)       : 7.7395
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM   3939    O ASP B  89     -24.122  11.582   3.383  0.00  0.00           O 0
+ATOM   4311  OE1 GLU B 137     -26.127   8.449  -3.785  0.25  7.50           O 0
+ATOM   4312  OE2 GLU B 137     -27.829   9.648  -3.095  0.00  0.00           O 0
+ATOM   3943  OD2 ASP B  89     -25.443  14.511   2.098  0.00  0.00           O 0
+ATOM   4307    O GLU B 137     -29.902   9.221   0.340  0.52  7.50           O 0
+ATOM   3942  OD1 ASP B  89     -26.258  14.344   4.126  0.00  0.00           O 0
+ATOM   3958   CD PRO B  91     -27.632   8.175   4.460  0.00  0.00           C 0
+ATOM   3957   CG PRO B  91     -29.089   8.234   4.210  0.00  0.00           C 0
+ATOM   3956   CB PRO B  91     -29.727   8.243   5.626  0.00  0.00           C 0
+ATOM   3953   CA PRO B  91     -28.688   8.921   6.524  0.00  0.00           C 0
+ATOM   4297    O HIS B 136     -27.965   6.958   1.569  0.00  0.00           O 0
+ATOM   4300  ND1 HIS B 136     -24.737   6.584   1.072  0.63  1.09           N 0
+ATOM   4305   CA GLU B 137     -28.805   7.532  -0.998  0.00  0.00           C 0
+ATOM   3952    N PRO B  91     -27.493   8.992   5.672  0.00  0.00           N 0
+ATOM   4302  CE1 HIS B 136     -23.589   6.711   0.427  0.00  0.00           C 0
+ATOM   3947    O LEU B  90     -26.547  10.394   7.121  0.28  3.21           O 0
+ATOM   3946    C LEU B  90     -26.491   9.777   6.085  0.00  0.00           C 0
+TER
+END

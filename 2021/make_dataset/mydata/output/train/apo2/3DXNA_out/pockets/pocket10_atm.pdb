@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0130
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9744
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6705
+HEADER 5  - Mean B-factor of pocket residues  : 0.3362
+HEADER 6  - Hydrophobicity Score              : 9.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 238.7326
+HEADER 10  -Pocket volume (convex hull)       : 4.6995
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   2023   CB CYS A 284      52.449  18.278 -43.531  0.00  0.00           C 0
+ATOM   2022    O CYS A 284      53.533  19.819 -45.877  0.58  2.14           O 0
+ATOM    830   CD LYS A 128      53.319  19.572 -39.908  0.00  0.00           C 0
+ATOM    832   NZ LYS A 128      55.421  20.087 -41.172  0.68  6.56           N 1
+ATOM    804    O VAL A 125      48.028  21.044 -39.168  0.68  1.07           O 0
+ATOM    829   CG LYS A 128      52.732  19.374 -38.521  0.00  0.00           C 0
+ATOM    828   CB LYS A 128      51.260  18.974 -38.564  0.00  0.00           C 0
+ATOM    838   CG GLN A 129      49.189  23.345 -37.001  0.00  0.00           C 0
+ATOM    806  CG1 VAL A 125      47.138  22.474 -41.908  0.00  0.00           C 0
+ATOM    840  NE2 GLN A 129      47.471  24.183 -38.479  0.74  3.28           N 0
+ATOM    831   CE LYS A 128      54.768  20.036 -39.827  0.00  0.00           C 0
+ATOM    807  CG2 VAL A 125      47.704  20.860 -43.725  0.00  0.00           C 0
+ATOM   2024   SG CYS A 284      51.046  18.118 -42.415  0.00  0.00           S 0
+ATOM    862   OG SER A 132      53.875  20.816 -34.759  0.43  7.50           O 0
+ATOM    440  OD1 ASN A  82      51.891  24.338 -33.995  0.64  9.64           O 0
+ATOM    802   CA VAL A 125      47.642  20.049 -41.328  0.00  0.00           C 0
+TER
+END

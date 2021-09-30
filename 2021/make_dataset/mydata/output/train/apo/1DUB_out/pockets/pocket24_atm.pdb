@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0237
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6312
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4380
+HEADER 5  - Mean B-factor of pocket residues  : 0.7837
+HEADER 6  - Hydrophobicity Score              : 8.7778
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.4209
+HEADER 10  -Pocket volume (convex hull)       : 3.7351
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  10061   CA PRO F  55      51.242  57.859 161.456  0.00  0.00           C 0
+ATOM  10095  OD1 ASN F  59      53.387  61.383 162.389  0.00  0.00           O 0
+ATOM  10096  ND2 ASN F  59      55.607  61.483 162.114  0.56  1.09           N 0
+ATOM  10082   CA LEU F  58      52.801  59.933 157.689  0.00  0.00           C 0
+ATOM  10088  CD2 LEU F  58      54.258  57.558 156.317  0.00  0.00           C 0
+ATOM  10063    O PRO F  55      50.927  57.124 159.184  0.41  2.14           O 0
+ATOM  10316   CA GLY F  90      57.721  57.884 163.708  0.00  0.00           C 0
+ATOM  10064   CB PRO F  55      51.406  56.644 162.370  0.00  0.00           C 0
+ATOM  10036    O LEU F  52      54.692  61.490 165.680  0.27  3.21           O 0
+ATOM  10047  OD1 ASN F  53      51.935  58.364 167.234  0.39  4.29           O 0
+ATOM  10066   CD PRO F  55      50.261  58.286 163.637  0.00  0.00           C 0
+ATOM  10337    N ALA F  93      58.394  57.844 159.305  0.53  1.09           N 0
+ATOM  10341   CB ALA F  93      57.102  59.457 158.011  0.00  0.00           C 0
+ATOM  10340    O ALA F  93      57.728  60.158 160.943  0.00  0.00           O 0
+ATOM  10319    N GLU F  91      59.094  55.980 163.101  0.73  4.37           N 0
+ATOM  10328    N LYS F  92      58.970  55.396 160.464  0.50  3.28           N 0
+TER
+END

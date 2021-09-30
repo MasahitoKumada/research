@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1787
+HEADER 1  - Drug Score                        : 0.0139
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9766
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6313
+HEADER 5  - Mean B-factor of pocket residues  : 0.2665
+HEADER 6  - Hydrophobicity Score              : 49.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.1266
+HEADER 10  -Pocket volume (convex hull)       : 1.3059
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8889
+ATOM    873   CA MET A 112      16.083  42.104  93.698  0.00  0.00           C 0
+ATOM    841   CB LEU A 107      13.902  42.948  87.135  0.00  0.00           C 0
+ATOM    840    O LEU A 107      16.800  42.950  87.986  0.00  0.00           O 0
+ATOM    906  CG1 ILE A 117      13.695  39.777  90.090  0.00  0.00           C 0
+ATOM    843  CD1 LEU A 107      11.552  42.853  87.854  0.00  0.00           C 0
+ATOM    844  CD2 LEU A 107      12.646  45.073  87.465  0.00  0.00           C 0
+ATOM    939   CB ARG A 120       8.144  43.213  90.257  0.00  0.00           C 0
+ATOM    895    O GLU A 116       9.673  40.956  92.512  0.66  2.14           O 0
+ATOM    860   CB MET A 110      16.722  45.936  89.597  0.00  0.00           C 0
+ATOM    940   CGAARG A 120       8.078  44.492  89.449  0.00  0.00           C 0
+ATOM    896   CB GLU A 116      11.925  40.979  94.951  0.00  0.00           C 0
+ATOM    901    N ILE A 117      11.395  39.598  92.074  0.00  0.00           N 0
+ATOM    902   CA ILE A 117      11.223  39.696  90.632  0.00  0.00           C 0
+ATOM    894    C GLU A 116      10.592  40.246  92.909  0.00  0.00           C 0
+TER
+END

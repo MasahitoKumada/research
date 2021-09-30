@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0219
+HEADER 1  - Drug Score                        : 0.0033
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.6627
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4289
+HEADER 5  - Mean B-factor of pocket residues  : 0.0612
+HEADER 6  - Hydrophobicity Score              : 28.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.0769
+HEADER 10  -Pocket volume (convex hull)       : 6.6439
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.4643
+ATOM    353   CB THR A  69      22.004  10.697  65.314  0.00  0.00           C 0
+ATOM    802   CB CYS A 127      19.081   4.521  66.648  0.00  0.00           C 0
+ATOM    803   SG CYS A 127      18.812   5.311  65.010  0.00  0.00           S 0
+ATOM    331    O CYS A  66      23.415   7.301  65.066  0.62  1.07           O 0
+ATOM    355  CG2 THR A  69      21.482  11.399  66.544  0.00  0.00           C 0
+ATOM    354  OG1 THR A  69      21.146  11.050  64.223  0.31  2.14           O 0
+ATOM    775    O ASN A 123      19.507   5.277  69.897  0.00  0.00           O 0
+ATOM    776   CB ASN A 123      19.948   7.947  71.636  0.00  0.00           C 0
+ATOM    774    C ASN A 123      20.357   5.695  70.688  0.00  0.00           C 0
+ATOM    386   CB CYS A  73      25.333  12.257  70.396  0.00  0.00           C 0
+ATOM    387   SG CYS A  73      24.514  12.388  72.025  0.00  0.00           S 0
+ATOM    779  ND2 ASN A 123      19.283  10.073  72.579  0.00  0.00           N 0
+ATOM    750    O CYS A 120      23.833   7.488  71.912  0.68  1.07           O 0
+ATOM    357   CA HIS A  70      25.609   9.261  67.512  0.00  0.00           C 0
+ATOM    356    N HIS A  70      24.750   9.667  66.408  0.67  1.09           N 0
+ATOM    780    N ALA A 124      21.672   5.557  70.504  0.82  1.09           N 0
+ATOM    781   CA ALA A 124      22.214   4.869  69.350  0.00  0.00           C 0
+ATOM    784   CB ALA A 124      23.709   5.125  69.207  0.00  0.00           C 0
+TER
+END

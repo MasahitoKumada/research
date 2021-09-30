@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0439
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0682
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6870
+HEADER 5  - Mean B-factor of pocket residues  : 0.8223
+HEADER 6  - Hydrophobicity Score              : 12.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 300.2951
+HEADER 10  -Pocket volume (convex hull)       : 9.9553
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1028   CB ARG P 136      37.438  25.597 -72.774  0.00  0.00           C 0
+ATOM   1013    O VAL P 134      32.810  23.442 -73.960  0.00  0.00           O 0
+ATOM   1031   NE ARG P 136      37.321  28.515 -73.124  0.53  3.28           N 0
+ATOM   1030   CD ARG P 136      38.335  27.716 -73.811  0.00  0.00           C 0
+ATOM   1032   CZ ARG P 136      36.859  29.686 -73.555  0.00  0.00           C 0
+ATOM   1033  NH1 ARG P 136      37.317  30.220 -74.680  0.00  0.00           N 1
+ATOM   1034  NH2 ARG P 136      35.935  30.329 -72.854  0.50  7.66           N 0
+ATOM   1029   CG ARG P 136      38.680  26.439 -73.054  0.00  0.00           C 0
+ATOM   1186  NE2 HIS P 155      40.016  21.076 -73.902  0.88  5.47           N 0
+ATOM    998    O SER P 132      37.072  19.898 -76.489  0.63  8.57           O 0
+ATOM   1005   CB LYS P 133      34.946  20.791 -79.778  0.00  0.00           C 0
+ATOM   1002   CA LYS P 133      35.054  20.734 -78.250  0.00  0.00           C 0
+ATOM   1006   CG LYS P 133      36.281  20.675 -80.505  0.00  0.00           C 0
+ATOM   1008   CE LYS P 133      36.029  22.517 -82.211  0.00  0.00           C 0
+ATOM   1004    O LYS P 133      32.995  21.990 -78.237  0.00  0.00           O 0
+ATOM   1053  OD1 ASN P 139      34.937  25.600 -70.454  0.74  5.36           O 0
+ATOM   1003    C LYS P 133      33.802  21.319 -77.587  0.00  0.00           C 0
+ATOM   1020    O VAL P 135      36.718  21.928 -73.311  0.00  0.00           O 0
+ATOM   1010    N VAL P 134      33.650  21.048 -76.290  0.00  0.00           N 0
+ATOM   1012    C VAL P 134      33.108  22.274 -74.224  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0365
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7698
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4657
+HEADER 5  - Mean B-factor of pocket residues  : 0.5141
+HEADER 6  - Hydrophobicity Score              : 7.7143
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 2.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 163.8975
+HEADER 10  -Pocket volume (convex hull)       : 1.6507
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2917
+ATOM    686   OG SER R  88     -13.388  -4.006  12.882  0.36  6.43           O 0
+ATOM   1103    O ASN N  40     -10.647  -0.531  15.358  0.50  5.36           O 0
+ATOM    682   CA SER R  88     -15.008  -2.776  11.649  0.00  0.00           C 0
+ATOM    708   CB ALA R  91     -18.082   0.041  13.437  0.00  0.00           C 0
+ATOM    685   CB SER R  88     -13.524  -3.080  11.843  0.00  0.00           C 0
+ATOM    684    O SER R  88     -15.425  -0.548  10.898  0.59  1.07           O 0
+ATOM    720   CD PRO R  93     -15.390   5.930  11.690  0.00  0.00           C 0
+ATOM   1104   CB ASN N  40     -11.336   2.525  16.299  0.00  0.00           C 0
+ATOM   1107  ND2 ASN N  40     -12.161   4.385  17.612  0.00  0.00           N 0
+ATOM    707    O ALA R  91     -17.916   3.009  12.768  0.00  0.00           O 0
+ATOM    706    C ALA R  91     -17.755   2.076  11.985  0.00  0.00           C 0
+ATOM    709    N ALA R  92     -16.873   2.133  10.976  0.00  0.00           N 0
+ATOM   1102    C ASN N  40     -10.294   0.610  15.018  0.00  0.00           C 0
+ATOM   1108    N LEU N  41     -10.101   0.946  13.749  0.00  0.00           N 0
+ATOM   1109   CA LEU N  41     -10.231  -0.019  12.672  0.00  0.00           C 0
+ATOM    713   CB ALA R  92     -14.834   2.946   9.894  0.00  0.00           C 0
+ATOM   1112   CB LEU N  41     -10.179   0.724  11.333  0.00  0.00           C 0
+ATOM    710   CA ALA R  92     -16.027   3.296  10.795  0.00  0.00           C 0
+ATOM   1080    O PRO N  37     -10.351   3.908  13.074  0.66  2.14           O 0
+TER
+END

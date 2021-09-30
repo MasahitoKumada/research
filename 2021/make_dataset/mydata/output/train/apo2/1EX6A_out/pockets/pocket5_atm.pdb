@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0620
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0810
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6161
+HEADER 5  - Mean B-factor of pocket residues  : 0.4113
+HEADER 6  - Hydrophobicity Score              : 32.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 148.3475
+HEADER 10  -Pocket volume (convex hull)       : 1.8021
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM    229  CD1 PHE A  31      25.215  -6.112  57.576  0.00  0.00           C 0
+ATOM    227   CB PHE A  31      22.983  -4.951  57.937  0.00  0.00           C 0
+ATOM    746    N ASP A  98      29.135  -3.585  56.651  0.71  2.19           N 0
+ATOM    749    O ASP A  98      29.327  -3.219  53.599  0.00  0.00           O 0
+ATOM    739   CA LEU A  97      28.525  -2.329  58.614  0.00  0.00           C 0
+ATOM    745  CD2 LEU A  97      26.813   0.744  58.862  0.00  0.00           C 0
+ATOM    760  CG2 ILE A  99      29.673  -0.010  54.669  0.00  0.00           C 0
+ATOM    750   CB ASP A  98      29.369  -5.541  55.222  0.00  0.00           C 0
+ATOM    733    O ILE A  96      26.392  -3.838  59.425  0.00  0.00           O 0
+ATOM    234    N SER A  32      22.587  -1.991  59.079  0.00  0.00           N 0
+ATOM    534  OE2 GLU A  69      26.093   1.713  53.413  0.80  5.36           O 1
+ATOM    252   OG SER A  34      21.009   0.021  53.073  0.10  9.64           O 0
+ATOM    237    O SER A  32      20.752  -1.179  57.037  0.36  3.21           O 0
+ATOM    239   OG SER A  32      22.431   0.927  57.791  0.49  2.14           O 0
+ATOM    625   OG SER A  80      24.991   2.611  55.174  0.00  0.00           O 0
+ATOM    624   CB SER A  80      23.641   2.595  55.613  0.00  0.00           C 0
+TER
+END

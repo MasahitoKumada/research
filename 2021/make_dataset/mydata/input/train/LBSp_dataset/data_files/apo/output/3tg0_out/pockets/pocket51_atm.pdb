@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : 0.0232
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7439
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5819
+HEADER 5  - Mean B-factor of pocket residues  : 0.6675
+HEADER 6  - Hydrophobicity Score              : 2.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.7649
+HEADER 10  -Pocket volume (convex hull)       : 5.1766
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2602    N GLU A 354       5.349  14.146  50.062  0.67  1.09           N 0
+ATOM   2607   CG GLU A 354       4.914  16.955  51.395  0.00  0.00           C 0
+ATOM   2633   CD LYS A 357       0.765  11.920  51.356  0.00  0.00           C 0
+ATOM   2598   CB LEU A 353       5.728  11.590  51.947  0.00  0.00           C 0
+ATOM    481   CBALYS A  73       5.758  15.244  59.599  0.00  0.00           C 0
+ATOM   2576  OE1 GLN A 350       7.535  17.610  56.944  0.72  4.29           O 0
+ATOM   2610  OE2 GLU A 354       5.976  18.213  53.154  0.63  9.64           O 0
+ATOM    485   CDALYS A  73       4.714  17.371  60.505  0.00  0.00           C 0
+ATOM   2603   CA GLU A 354       4.520  15.230  49.518  0.00  0.00           C 0
+ATOM   2572    O GLN A 350       7.437  15.180  51.842  0.00  0.00           O 0
+ATOM    479    OALYS A  73       5.674  12.932  57.622  0.55  8.57           O 0
+ATOM   2573   CB GLN A 350       8.689  15.886  54.831  0.00  0.00           C 0
+ATOM   2574   CG GLN A 350       8.433  15.517  56.299  0.00  0.00           C 0
+ATOM   2635   NZ LYS A 357       0.962  10.971  53.726  0.40  8.75           N 0
+ATOM   2600  CD1 LEU A 353       6.028  10.315  54.045  0.00  0.00           C 0
+ATOM   2570   CA GLN A 350       8.685  14.696  53.868  0.00  0.00           C 0
+TER
+END

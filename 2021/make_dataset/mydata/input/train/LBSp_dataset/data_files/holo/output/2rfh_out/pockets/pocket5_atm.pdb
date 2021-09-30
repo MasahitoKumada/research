@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1835
+HEADER 1  - Drug Score                        : 0.0079
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8351
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4741
+HEADER 5  - Mean B-factor of pocket residues  : 0.4449
+HEADER 6  - Hydrophobicity Score              : 48.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.3276
+HEADER 10  -Pocket volume (convex hull)       : 10.1961
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3571
+ATOM   2079  CD1 ILE A 373      -2.680   0.443  16.351  0.00  0.00           C 0
+ATOM   1450    O VAL A 293      -4.265   6.111  18.316  0.43  3.21           O 0
+ATOM   2077  CG1 ILE A 373      -3.760  -0.251  15.488  0.00  0.00           C 0
+ATOM   2062    O GLN A 371      -7.647  -0.861  17.765  0.00  0.00           O 0
+ATOM   1452  CG1 VAL A 293      -2.156   3.595  18.335  0.00  0.00           C 0
+ATOM   1483    C GLY A 297      -7.627   5.763  14.862  0.00  0.00           C 0
+ATOM   1484    O GLY A 297      -8.601   5.038  14.597  0.00  0.00           O 0
+ATOM   1496    O PHE A 299      -5.001   1.254  12.476  0.35  9.64           O 0
+ATOM   1454    N LYS A 294      -3.714   6.145  20.500  0.00  0.00           N 0
+ATOM   1459   CG LYS A 294      -5.258   4.800  23.042  0.00  0.00           C 0
+ATOM   1455   CA LYS A 294      -5.101   6.330  20.945  0.00  0.00           C 0
+ATOM   2064   CG GLN A 371      -4.621  -0.663  20.903  0.00  0.00           C 0
+ATOM   2032  CH2 TRP A 367      -1.723   1.650  21.667  0.00  0.00           C 0
+ATOM   1482   CA GLY A 297      -7.502   6.418  16.226  0.00  0.00           C 0
+ATOM   1457    O LYS A 294      -6.888   7.628  20.004  0.52  6.43           O 0
+ATOM   2063   CB GLN A 371      -5.433  -0.736  19.620  0.00  0.00           C 0
+ATOM   2066  OE1 GLN A 371      -6.376  -0.428  22.523  0.00  0.00           O 0
+ATOM   1493    N PHE A 299      -4.832   4.090  12.928  0.00  0.00           N 0
+ATOM   1497   CB PHE A 299      -2.696   3.077  13.628  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : 0.0250
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9760
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6099
+HEADER 5  - Mean B-factor of pocket residues  : 0.7323
+HEADER 6  - Hydrophobicity Score              : 0.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 195.7514
+HEADER 10  -Pocket volume (convex hull)       : 4.4242
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    713   CZ ARG C  87      15.738   8.250  44.354  0.00  0.00           C 0
+ATOM   1064  OE2 GLU C 129      12.270  10.564  47.962  0.00  0.00           O 1
+ATOM    715  NH2 ARG C  87      15.938   6.943  44.476  0.00  0.00           N 0
+ATOM    712   NE ARG C  87      15.588   8.994  45.446  0.48  2.19           N 0
+ATOM    651   CB LYS C  80      11.935   9.548  40.469  0.00  0.00           C 0
+ATOM    714  NH1 ARG C  87      15.679   8.793  43.144  0.73  2.19           N 1
+ATOM   1101  ND2 ASN C 133      12.889   7.665  50.844  0.29  7.66           N 0
+ATOM    652   CG LYS C  80      10.929  10.041  41.504  0.00  0.00           C 0
+ATOM    653   CD LYS C  80       9.628   9.263  41.517  0.00  0.00           C 0
+ATOM    650    O LYS C  80      14.600   8.382  39.662  0.50  4.29           O 0
+ATOM    639  CD1 TRP C  79      12.546  12.691  44.763  0.00  0.00           C 0
+ATOM    711   CD ARG C  87      15.373  10.437  45.446  0.00  0.00           C 0
+ATOM    654   CE LYS C  80       8.722   9.711  42.662  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : -0.0372
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7164
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5249
+HEADER 5  - Mean B-factor of pocket residues  : 0.3798
+HEADER 6  - Hydrophobicity Score              : -22.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 106.9059
+HEADER 10  -Pocket volume (convex hull)       : 0.2022
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM    278   CG GLU A  34     -20.698   1.575  -1.844  0.00  0.00           C 0
+ATOM    245   CB SER A  30     -22.923   6.209  -4.099  0.00  0.00           C 0
+ATOM    168  OE2 GLU A  21     -23.781   3.595  -8.424  0.00  0.00           O 0
+ATOM    281  OE2 GLU A  34     -22.932   1.112  -0.990  0.00  0.00           O 0
+ATOM    244    O SER A  30     -20.443   4.711  -2.559  0.00  0.00           O 0
+ATOM    246   OG SER A  30     -22.518   6.326  -5.445  0.80  2.14           O 0
+ATOM    158  NH1 ARG A  20     -19.439  -0.327  -4.838  0.00  0.00           N 0
+ATOM    247    N GLU A  31     -19.692   6.010  -4.251  0.00  0.00           N 0
+ATOM    248   CA GLU A  31     -18.499   5.164  -4.450  0.00  0.00           C 0
+ATOM    252   CG GLU A  31     -18.611   5.153  -7.027  0.00  0.00           C 0
+ATOM    155   CD ARG A  20     -18.576   0.763  -7.279  0.00  0.00           C 0
+ATOM    243    C SER A  30     -20.583   5.698  -3.311  0.00  0.00           C 0
+TER
+END

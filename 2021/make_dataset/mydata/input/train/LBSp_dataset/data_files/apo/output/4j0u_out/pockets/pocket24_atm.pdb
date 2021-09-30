@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0862
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8507
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4704
+HEADER 5  - Mean B-factor of pocket residues  : 0.6338
+HEADER 6  - Hydrophobicity Score              : -1.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 145.7856
+HEADER 10  -Pocket volume (convex hull)       : 1.5796
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9000
+ATOM   3315  CD1 LEU A 412     -20.384  -0.017  -7.291  0.00  0.00           C 0
+ATOM   3314   CG LEU A 412     -20.960   0.297  -5.917  0.00  0.00           C 0
+ATOM   3007   CD GLN A 377     -20.344   3.721 -11.100  0.00  0.00           C 0
+ATOM   3009  NE2 GLN A 377     -21.654   3.835 -10.931  0.46  7.66           N 0
+ATOM   3006   CG GLN A 377     -19.748   2.356 -10.841  0.00  0.00           C 0
+ATOM   2998  CD2 HIS A 376     -16.810   1.333  -7.804  0.00  0.00           C 0
+ATOM   2970  OD1 ASP A 373     -16.613   5.211  -9.580  0.44  2.14           O 0
+ATOM   3307   CG PRO A 411     -20.746   5.311  -3.380  0.00  0.00           C 0
+ATOM   3008  OE1 GLN A 377     -19.633   4.667 -11.442  0.00  0.00           O 0
+ATOM   3316  CD2 LEU A 412     -22.473   0.118  -5.898  0.00  0.00           C 0
+ATOM   3306   CB PRO A 411     -21.557   4.130  -2.985  0.00  0.00           C 0
+ATOM   3308   CD PRO A 411     -19.332   4.816  -3.491  0.00  0.00           C 0
+ATOM   3300   CB SER A 410     -16.898   2.886  -4.190  0.00  0.00           C 0
+ATOM   3301   OG SER A 410     -17.712   1.725  -4.257  0.00  0.00           O 0
+TER
+END

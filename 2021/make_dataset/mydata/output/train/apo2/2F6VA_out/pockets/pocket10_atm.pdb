@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1339
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.7763
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4538
+HEADER 5  - Mean B-factor of pocket residues  : 0.5579
+HEADER 6  - Hydrophobicity Score              : 14.4444
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 341.6152
+HEADER 10  -Pocket volume (convex hull)       : 26.0391
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2143
+ATOM   1629  OE1AGLU A 186       3.277  61.600  45.053  0.62  8.57           O 0
+ATOM   1637   CB SER A 187      -1.213  64.327  40.507  0.00  0.00           C 0
+ATOM   1623   CBAGLU A 186       0.622  61.307  43.955  0.00  0.00           C 0
+ATOM   1622    O GLU A 186      -1.682  63.618  43.777  0.00  0.00           O 0
+ATOM   1638   OG SER A 187      -0.240  63.640  39.724  0.65  4.29           O 0
+ATOM   1559  OG1 THR A 178       2.671  55.679  43.523  0.00  0.00           O 0
+ATOM   1658   OGASER A 190      -0.082  60.184  40.151  0.00  0.00           O 0
+ATOM   1625   CGAGLU A 186       1.201  60.401  45.042  0.00  0.00           C 0
+ATOM   1656   CBASER A 190       1.037  60.174  39.286  0.00  0.00           C 0
+ATOM   1627   CDAGLU A 186       2.708  60.502  45.245  0.00  0.00           C 0
+ATOM   1320   CG TYR A 152       4.637  56.690  40.251  0.00  0.00           C 0
+ATOM   1631  OE2AGLU A 186       3.337  59.482  45.611  0.78  8.57           O 1
+ATOM   2529    O SER A 295       5.914  61.150  39.264  0.67  6.43           O 0
+ATOM   2536   CB HIS A 296       8.538  63.107  39.890  0.00  0.00           C 0
+ATOM   1314   OG SER A 151       8.744  58.100  40.352  0.68  2.14           O 0
+ATOM   2535    O HIS A 296       9.242  60.471  39.419  0.00  0.00           O 0
+ATOM   1319   CB TYR A 152       5.234  56.194  41.548  0.00  0.00           C 0
+ATOM   1322  CD2 TYR A 152       3.334  56.358  39.911  0.00  0.00           C 0
+ATOM   1312    O SER A 151       8.626  55.111  42.714  0.04  6.43           O 0
+ATOM   1558  CG2 THR A 178       4.462  55.033  45.000  0.00  0.00           C 0
+ATOM   1313   CB SER A 151       9.809  57.465  41.063  0.00  0.00           C 0
+ATOM   2521    O LEU A 294       4.411  64.910  38.871  0.65  9.64           O 0
+ATOM   2527   CA SER A 295       4.543  62.394  37.745  0.00  0.00           C 0
+TER
+END

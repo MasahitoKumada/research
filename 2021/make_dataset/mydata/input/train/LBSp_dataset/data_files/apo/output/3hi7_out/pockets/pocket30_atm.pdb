@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : 0.0148
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8222
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4550
+HEADER 5  - Mean B-factor of pocket residues  : 0.0794
+HEADER 6  - Hydrophobicity Score              : -12.3000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 153.1323
+HEADER 10  -Pocket volume (convex hull)       : 4.2370
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2692
+ATOM  11031  CE1 HIS B 678     -34.524 -12.987  31.202  0.00  0.00           C 0
+ATOM   3492  ND2 ASN A 472     -34.102  -6.258  34.469  0.36  5.47           N 0
+ATOM  11042    O GLU B 680     -35.362  -8.296  28.403  0.56  6.43           O 0
+ATOM  11043   CB GLU B 680     -37.178 -10.048  30.083  0.00  0.00           C 0
+ATOM  11097   CB ALA B 686     -31.405  -5.786  32.020  0.00  0.00           C 0
+ATOM  11093    N ALA B 686     -30.192  -7.187  30.403  0.52  5.47           N 0
+ATOM   5392   CD PRO A 698     -38.023 -10.828  35.977  0.00  0.00           C 0
+ATOM   3503  CG2 VAL A 474     -34.882  -8.792  37.293  0.00  0.00           C 0
+ATOM   5391   CG PRO A 698     -38.857 -10.397  34.803  0.00  0.00           C 0
+ATOM  11123  ND2 ASN B 690     -28.878 -10.595  32.616  0.38  1.09           N 0
+ATOM  11096    O ALA B 686     -28.938  -7.884  32.744  0.00  0.00           O 0
+ATOM   5389    O PRO A 698     -37.294 -13.236  33.475  0.67  1.07           O 0
+ATOM   5372   CBAARG A 697     -35.071 -13.061  37.152  0.00  0.00           C 0
+ATOM   5378   NEAARG A 697     -32.224 -12.732  36.258  0.74  1.09           N 0
+ATOM  11054  OD1 ASP B 681     -31.672 -11.190  28.472  0.44  3.21           O 0
+ATOM   3488    O ASN A 472     -38.019  -6.781  34.948  0.48  4.29           O 0
+ATOM   5384  NH2AARG A 697     -30.834 -12.390  34.453  0.21  2.19           N 0
+ATOM  11108    O PRO B 688     -30.140  -9.182  36.415  0.59  1.07           O 0
+TER
+END

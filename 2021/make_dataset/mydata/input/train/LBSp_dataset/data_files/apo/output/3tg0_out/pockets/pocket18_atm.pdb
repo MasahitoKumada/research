@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.1106
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6598
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4049
+HEADER 5  - Mean B-factor of pocket residues  : 0.7336
+HEADER 6  - Hydrophobicity Score              : 22.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 118.3914
+HEADER 10  -Pocket volume (convex hull)       : 0.8731
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   6803   CB GLN C  29      -5.035 -22.268  30.431  0.00  0.00           C 0
+ATOM   6831  CD1 LEU C  33      -1.412 -26.292  26.793  0.00  0.00           C 0
+ATOM   6670  NH2 ARG C  10      -6.787 -26.589  30.813  0.45  4.37           N 0
+ATOM  13117    O ALA D 427      -5.801 -22.773  26.453  0.00  0.00           O 0
+ATOM   6806  OE1 GLN C  29      -5.324 -24.476  32.457  0.00  0.00           O 0
+ATOM   6829   CB LEU C  33      -0.684 -24.051  27.739  0.00  0.00           C 0
+ATOM  13138   CB VAL D 430      -5.525 -25.912  24.803  0.00  0.00           C 0
+ATOM   7164   CB PRO C  79      -2.292 -30.610  29.206  0.00  0.00           C 0
+ATOM   6825    N LEU C  33       0.112 -24.021  30.088  0.00  0.00           N 0
+ATOM   6824   CB ALA C  32      -0.780 -24.322  33.199  0.00  0.00           C 0
+ATOM   7163    O PRO C  79      -3.896 -29.730  26.622  0.70  3.21           O 0
+ATOM  13137    O VAL D 430      -7.885 -26.645  27.091  0.33  2.14           O 0
+ATOM   6857   OG SER C  36       1.159 -28.435  30.023  0.70  1.07           O 0
+ATOM   6802    O GLN C  29      -2.098 -22.080  30.250  0.00  0.00           O 0
+TER
+END

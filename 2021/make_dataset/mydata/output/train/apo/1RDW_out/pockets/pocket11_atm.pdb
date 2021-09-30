@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0581
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7433
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4084
+HEADER 5  - Mean B-factor of pocket residues  : 0.2200
+HEADER 6  - Hydrophobicity Score              : 45.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.9798
+HEADER 10  -Pocket volume (convex hull)       : 11.4327
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2174
+ATOM   2716  OE2 GLU X 361      87.026  79.908  -3.084  0.00  0.00           O 0
+ATOM   2664    O TRP X 356      86.949  76.869   0.488  0.45  2.14           O 0
+ATOM   2715  OE1 GLU X 361      87.857  80.061  -1.158  0.78  2.14           O 0
+ATOM   2647    O GLN X 354      83.116  76.036  -1.753  0.33  3.21           O 0
+ATOM   2818   SG CYS X 374      80.982  80.159   0.818  0.00  0.00           S 0
+ATOM   2802  NH1 ARG X 372      79.811  83.316  -2.147  0.00  0.00           N 0
+ATOM   2656    O MET X 355      84.379  76.986   2.344  0.49  2.14           O 0
+ATOM   2796    O ARG X 372      82.764  82.299   3.344  0.64  3.21           O 0
+ATOM   2680  CG1 ILE X 357      87.531  79.908   3.596  0.00  0.00           C 0
+ATOM   2799   CD ARG X 372      82.079  84.093  -0.404  0.00  0.00           C 0
+ATOM   2714   CD GLU X 361      87.897  80.337  -2.335  0.00  0.00           C 0
+ATOM   2713   CG GLU X 361      89.030  81.180  -2.866  0.00  0.00           C 0
+ATOM   2775  CD1 ILE X 369      87.580  85.125   0.286  0.00  0.00           C 0
+ATOM   2773  CG1 ILE X 369      88.401  84.224   1.109  0.00  0.00           C 0
+ATOM   2771    O ILE X 369      86.243  84.370   3.555  0.48  2.14           O 0
+ATOM   2798   CG ARG X 372      81.946  83.806   1.116  0.00  0.00           C 0
+TER
+END

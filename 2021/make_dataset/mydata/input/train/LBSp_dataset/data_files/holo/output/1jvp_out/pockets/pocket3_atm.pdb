@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0570
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7641
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5825
+HEADER 5  - Mean B-factor of pocket residues  : 0.4209
+HEADER 6  - Hydrophobicity Score              : -21.8750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.8910
+HEADER 10  -Pocket volume (convex hull)       : 23.8773
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM   2075   CB GLU P 257      21.907  35.204  36.677  0.00  0.00           C 0
+ATOM   2085   CG ASP P 258      20.417  39.590  33.589  0.00  0.00           C 0
+ATOM   2086  OD1 ASP P 258      20.051  39.950  34.728  0.50  8.57           O 0
+ATOM   2087  OD2 ASP P 258      21.362  40.131  32.978  0.00  0.00           O 0
+ATOM   2324   CB ASP P 288      22.866  43.334  25.619  0.00  0.00           C 0
+ATOM   2315   CB GLN P 287      20.327  45.463  29.366  0.00  0.00           C 0
+ATOM   2325   CG ASP P 288      22.616  41.895  26.008  0.00  0.00           C 0
+ATOM   2327  OD2 ASP P 288      23.604  41.150  26.203  0.00  0.00           O 0
+ATOM   2285    O PRO P 284      19.009  42.882  30.774  0.62  2.14           O 0
+ATOM    844   NZ LYS P 105      20.729  39.017  26.602  0.50  2.19           N 0
+ATOM   2070  OD2 ASP P 256      22.307  35.298  29.688  0.50  1.07           O 0
+ATOM   2080    N ASP P 258      20.182  36.472  34.293  0.00  0.00           N 0
+ATOM   2326  OD1 ASP P 288      21.436  41.502  26.122  0.81  1.07           O 0
+ATOM   2292    O PHE P 285      18.615  40.750  28.021  0.00  0.00           O 0
+ATOM   2069  OD1 ASP P 256      21.296  35.816  31.569  0.75  1.07           O 0
+ATOM   2068   CG ASP P 256      22.185  35.218  30.929  0.00  0.00           C 0
+ATOM   2067   CB ASP P 256      23.161  34.354  31.678  0.00  0.00           C 0
+ATOM   2071    N GLU P 257      21.937  34.152  34.460  0.35  2.19           N 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2473
+HEADER 1  - Drug Score                        : 0.0046
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0355
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6934
+HEADER 5  - Mean B-factor of pocket residues  : 0.1571
+HEADER 6  - Hydrophobicity Score              : 14.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.6151
+HEADER 10  -Pocket volume (convex hull)       : 1.7462
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM    102    N PRO A  44      31.284  41.180  36.277  0.00  0.00           N 0
+ATOM    108   CD PRO A  44      31.733  41.659  34.958  0.00  0.00           C 0
+ATOM     60  CD2 LEU A  37      27.015  41.300  37.216  0.00  0.00           C 0
+ATOM     98    C SER A  43      31.565  41.669  37.484  0.00  0.00           C 0
+ATOM     96    N SER A  43      32.524  43.393  38.871  0.57  1.09           N 0
+ATOM     99    O SER A  43      31.086  41.209  38.516  0.78  1.07           O 0
+ATOM     64    O ASP A  38      31.446  42.172  41.861  0.51  3.21           O 0
+ATOM     57   CB LEU A  37      27.025  40.894  39.669  0.00  0.00           C 0
+ATOM     59  CD1 LEU A  37      25.471  42.625  38.690  0.00  0.00           C 0
+ATOM     93   CA GLY A  42      32.968  45.045  40.563  0.00  0.00           C 0
+ATOM     94    C GLY A  42      32.915  44.642  39.100  0.00  0.00           C 0
+ATOM     95    O GLY A  42      33.200  45.439  38.183  0.00  0.00           O 0
+ATOM     97   CA SER A  43      32.570  42.806  37.546  0.00  0.00           C 0
+ATOM    781  CD1 LEU A 130      26.828  41.699  43.363  0.00  0.00           C 0
+TER
+END

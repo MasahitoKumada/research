@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0478
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8237
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5607
+HEADER 5  - Mean B-factor of pocket residues  : 0.6004
+HEADER 6  - Hydrophobicity Score              : 14.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.2879
+HEADER 10  -Pocket volume (convex hull)       : 7.9275
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   2128   CB TYR X1113      54.372  20.505  94.209  0.00  0.00           C 0
+ATOM   2139    O ALA X1114      51.962  20.447  91.143  0.00  0.00           O 0
+ATOM    665  NH2 ARG X 918      52.998  18.141  92.511  0.31  3.28           N 0
+ATOM   2127    O TYR X1113      52.573  23.058  93.474  0.86  3.21           O 0
+ATOM    688  OE1 GLU X 921      52.693  15.808  96.008  0.56  6.43           O 0
+ATOM   2152  CD1 ILE X1116      51.010  15.844  91.036  0.00  0.00           C 0
+ATOM   2160  OD2 ASP X1117      45.290  14.019  91.939  0.59  8.57           O 1
+ATOM   2149   CB ILE X1116      48.718  16.729  90.395  0.00  0.00           C 0
+ATOM    689  OE2 GLU X 921      52.013  17.723  96.901  0.68  9.64           O 1
+ATOM   2153    N ASP X1117      45.865  17.733  90.904  0.45  2.19           N 0
+ATOM   2145    N ILE X1116      48.364  19.148  90.687  0.38  2.19           N 0
+ATOM   2142   CA GLY X1115      49.322  21.291  91.216  0.00  0.00           C 0
+ATOM   2124    N TYR X1113      54.593  22.688  95.303  0.59  1.09           N 0
+ATOM   2123  OG1 THR X1112      52.487  24.737  96.945  0.46  9.64           O 0
+ATOM   2151  CG2 ILE X1116      48.129  15.490  89.736  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0040
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0311
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5405
+HEADER 5  - Mean B-factor of pocket residues  : 0.6203
+HEADER 6  - Hydrophobicity Score              : 30.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.0805
+HEADER 10  -Pocket volume (convex hull)       : 4.9969
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   1004  CG1 VAL A 168       2.162  11.911   4.550  0.00  0.00           C 0
+ATOM    969  NH2 ARG A 164      -1.210   9.052  10.928  0.00  0.00           N 0
+ATOM    939    O VAL A 161       3.126  12.630  12.096  0.68  6.43           O 0
+ATOM    607   NZALYS A 120      -4.063  13.591  10.436  0.00  0.00           N 0
+ATOM    966   NE ARG A 164       1.028   8.603  10.672  0.00  0.00           N 0
+ATOM   1005  CG2 VAL A 168       2.311   9.442   5.004  0.00  0.00           C 0
+ATOM    967   CZ ARG A 164      -0.239   8.197  10.639  0.00  0.00           C 0
+ATOM    968  NH1 ARG A 164      -0.537   6.934  10.356  0.00  0.00           N 0
+ATOM    964   CG ARG A 164       2.628   7.974   8.921  0.00  0.00           C 0
+ATOM    605   CEALYS A 120      -3.985  12.132  10.741  0.00  0.00           C 0
+ATOM   1003   CB VAL A 168       3.067  10.781   5.041  0.00  0.00           C 0
+ATOM    617  CE1 PHE A 121      -0.007  11.464  13.450  0.00  0.00           C 0
+ATOM    619   CZ PHE A 121      -0.825  12.448  13.993  0.00  0.00           C 0
+ATOM    946    O GLU A 162       4.707  13.670   9.178  0.03  8.57           O 0
+TER
+END

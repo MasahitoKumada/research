@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0434
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9627
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6476
+HEADER 5  - Mean B-factor of pocket residues  : 0.7224
+HEADER 6  - Hydrophobicity Score              : 18.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.9806
+HEADER 10  -Pocket volume (convex hull)       : 8.5026
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    297    O PHE A  38      21.502  53.633  34.714  0.00  0.00           O 0
+ATOM    298   CB PHE A  38      20.539  56.491  33.925  0.00  0.00           C 0
+ATOM    294    N PHE A  38      19.015  54.574  33.823  0.00  0.00           N 0
+ATOM    223   CB SER A  30      18.953  59.165  37.038  0.00  0.00           C 0
+ATOM    275    O VAL A  36      15.494  55.308  34.583  0.27  6.43           O 0
+ATOM    222    O SER A  30      15.826  59.696  37.666  0.32  9.64           O 0
+ATOM     18   NZ LYS A   3      14.070  53.256  37.089  0.00  0.00           N 0
+ATOM    286   CGAGLU A  37      18.119  51.001  34.393  0.00  0.00           C 0
+ATOM    623    N LYS A  77      24.229  52.763  37.913  0.75  1.09           N 0
+ATOM    616   CA LEU A  76      24.495  54.907  39.014  0.00  0.00           C 0
+ATOM    614    O GLY A  75      22.866  54.569  41.222  0.56  8.57           O 0
+ATOM    628   CG LYS A  77      22.680  50.113  37.583  0.00  0.00           C 0
+ATOM    629   CD LYS A  77      21.646  49.230  36.940  0.00  0.00           C 0
+ATOM    280   CAAGLU A  37      17.013  53.165  33.731  0.00  0.00           C 0
+ATOM    224   OG SER A  30      19.385  59.621  38.340  0.00  0.00           O 0
+ATOM    622  CD2 LEU A  76      23.046  57.315  37.596  0.00  0.00           C 0
+ATOM    199   NZ LYS A  27      20.968  58.636  42.455  0.48  5.47           N 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0500
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9390
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5871
+HEADER 5  - Mean B-factor of pocket residues  : 0.3527
+HEADER 6  - Hydrophobicity Score              : 32.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 139.6861
+HEADER 10  -Pocket volume (convex hull)       : 1.2740
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2178    N GLY D 399      17.479  51.303  36.815  0.00  0.00           N 0
+ATOM   2172    C ILE D 398      17.462  52.554  36.362  0.00  0.00           C 0
+ATOM   2010    O THR D 379      14.377  56.005  37.204  0.50  1.07           O 0
+ATOM   2165    O ASP D 397      17.406  53.383  39.914  0.69  2.14           O 0
+ATOM   2012  CG2 THR D 379      11.952  55.110  35.843  0.00  0.00           C 0
+ATOM   2173    O ILE D 398      16.960  52.867  35.277  0.33  2.14           O 0
+ATOM   2179   CA GLY D 399      16.859  50.238  36.051  0.00  0.00           C 0
+ATOM   2013  OG1 THR D 379      10.952  54.992  38.030  0.00  0.00           O 0
+ATOM   2015   CA TYR D 380      14.940  55.807  39.890  0.00  0.00           C 0
+ATOM   2169  OD2 ASP D 397      16.927  49.851  40.954  0.56  5.36           O 1
+ATOM   2031   CG MET D 381      14.352  52.781  43.434  0.00  0.00           C 0
+ATOM   2016    C TYR D 380      14.859  55.707  41.410  0.00  0.00           C 0
+ATOM   2017    O TYR D 380      13.959  56.267  42.031  0.33  3.21           O 0
+TER
+END

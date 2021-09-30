@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0240
+HEADER 1  - Drug Score                        : 0.0041
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9293
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6560
+HEADER 5  - Mean B-factor of pocket residues  : 0.5829
+HEADER 6  - Hydrophobicity Score              : 37.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.2304
+HEADER 10  -Pocket volume (convex hull)       : 11.3861
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM    415   CA GLU A  55     -32.131 -52.926  16.614  0.00  0.00           C 0
+ATOM    634   CE MET A  82     -28.089 -52.476  17.014  0.00  0.00           C 0
+ATOM    419   CG GLU A  55     -31.311 -51.894  18.845  0.00  0.00           C 0
+ATOM    418   CB GLU A  55     -32.440 -52.532  18.053  0.00  0.00           C 0
+ATOM    451   CB ILE A  59     -34.745 -58.243  15.428  0.00  0.00           C 0
+ATOM    447    N ILE A  59     -33.101 -57.336  13.760  0.00  0.00           N 0
+ATOM    417    O GLU A  55     -33.314 -54.789  15.678  0.32  4.29           O 0
+ATOM    454  CD1 ILE A  59     -34.064 -60.068  17.074  0.00  0.00           C 0
+ATOM    446  CD2 LEU A  58     -28.012 -56.483  14.247  0.00  0.00           C 0
+ATOM    444   CG LEU A  58     -29.140 -56.917  13.324  0.00  0.00           C 0
+ATOM    443   CB LEU A  58     -30.277 -55.894  13.326  0.00  0.00           C 0
+ATOM    448   CA ILE A  59     -33.791 -58.545  14.242  0.00  0.00           C 0
+ATOM    620  NE2 HIS A  80     -28.596 -61.526  12.627  0.00  0.00           N 0
+ATOM    617  CD2 HIS A  80     -27.457 -60.769  12.763  0.00  0.00           C 0
+ATOM    442    O LEU A  58     -31.907 -58.537  12.283  0.56  2.14           O 0
+ATOM    614    O HIS A  80     -25.446 -61.429  15.331  0.32  6.43           O 0
+ATOM    469    O LYS A  61     -31.954 -61.828  10.968  0.58  5.36           O 0
+ATOM    450    O ILE A  59     -34.606 -60.451  13.044  0.71  6.43           O 0
+TER
+END

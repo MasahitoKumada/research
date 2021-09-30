@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0029
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9933
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5588
+HEADER 5  - Mean B-factor of pocket residues  : 0.6558
+HEADER 6  - Hydrophobicity Score              : 5.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.1819
+HEADER 10  -Pocket volume (convex hull)       : 4.2716
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    128    O GLY A  23       1.653  13.864   7.369  0.00  0.00           O 0
+ATOM    126   CA GLY A  23      -0.244  12.438   7.303  0.00  0.00           C 0
+ATOM   2660  CG1 ILE A 345       3.575   6.131   5.818  0.00  0.00           C 0
+ATOM   2654   OG SER A 344       0.951   9.553   9.244  0.43  1.07           O 0
+ATOM    138   CA ASP A  25       5.501  13.082   9.949  0.00  0.00           C 0
+ATOM    141   CB ASP A  25       6.665  14.029   9.552  0.00  0.00           C 0
+ATOM    140    O ASP A  25       6.750  11.419  11.197  0.47  3.21           O 0
+ATOM    144  OD2 ASP A  25       6.289  14.344   7.248  0.00  0.00           O 1
+ATOM   2572  OE1 GLU A 334      10.447   8.682   9.134  0.28  4.29           O 0
+ATOM   2656   CA ILE A 345       1.049   6.000   5.940  0.00  0.00           C 0
+ATOM   2681   OGASER A 348      -1.331   8.501   4.329  0.00  0.00           O 0
+ATOM   2652    O SER A 344      -0.850   7.457   7.259  0.00  0.00           O 0
+ATOM    132    O ASP A  24       3.005  12.050   9.860  0.48  2.14           O 0
+ATOM   2639  CG2 ILE A 341       6.321   6.845   9.171  0.00  0.00           C 0
+TER
+END

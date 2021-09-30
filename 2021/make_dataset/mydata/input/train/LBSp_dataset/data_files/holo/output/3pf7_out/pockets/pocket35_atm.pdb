@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0035
+HEADER 1  - Drug Score                        : 0.0505
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7143
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4209
+HEADER 5  - Mean B-factor of pocket residues  : 0.2124
+HEADER 6  - Hydrophobicity Score              : 26.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 379.6728
+HEADER 10  -Pocket volume (convex hull)       : 24.0798
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.2857
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5833
+ATOM   4061   CZ PHE A 245     -24.129   8.041 -25.562  0.00  0.00           C 0
+ATOM   7483   CDAARG A 458     -17.507   7.143 -23.273  0.00  0.00           C 0
+ATOM   7481   CGAARG A 458     -18.181   6.037 -24.075  0.00  0.00           C 0
+ATOM   4059  CE1 PHE A 245     -24.042   9.356 -25.995  0.00  0.00           C 0
+ATOM   7465   CB ALA A 457     -18.159   6.262 -28.791  0.00  0.00           C 0
+ATOM   4113   CB SER A 249     -25.522   7.718 -29.271  0.00  0.00           C 0
+ATOM   7471    NAARG A 458     -18.311   4.198 -26.414  0.65  1.09           N 0
+ATOM   7461    N ALA A 457     -19.501   4.235 -28.870  0.51  1.09           N 0
+ATOM   7451   CB PRO A 456     -21.952   2.539 -27.956  0.00  0.00           C 0
+ATOM   4161   CG ARG A 253     -23.971   3.975 -32.287  0.00  0.00           C 0
+ATOM   4150   CB ALA A 252     -25.021   8.543 -34.282  0.00  0.00           C 0
+ATOM   4112    O SER A 249     -26.159   6.035 -31.931  0.00  0.00           O 0
+ATOM   7522    O GLY A 459     -20.379   3.788 -21.677  0.00  0.00           O 0
+ATOM   7477    OAARG A 458     -20.116   3.118 -24.730  0.64  1.07           O 0
+ATOM   2287   OH TYR A 138     -24.149   3.729 -25.299  0.45  4.29           O 0
+ATOM   4060  CE2 PHE A 245     -25.231   7.620 -24.845  0.00  0.00           C 0
+ATOM   7533  CD1 ILE A 460     -24.021   3.569 -20.910  0.00  0.00           C 0
+ATOM   4162   CD ARG A 253     -24.421   3.495 -30.920  0.00  0.00           C 0
+TER
+END

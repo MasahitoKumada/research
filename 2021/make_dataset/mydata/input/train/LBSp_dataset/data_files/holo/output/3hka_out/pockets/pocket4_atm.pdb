@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1863
+HEADER 1  - Drug Score                        : 0.3220
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.8768
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4871
+HEADER 5  - Mean B-factor of pocket residues  : 0.5486
+HEADER 6  - Hydrophobicity Score              : 41.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 299.7610
+HEADER 10  -Pocket volume (convex hull)       : 20.4025
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.4688
+ATOM   4259   NE ARG B 110      53.807   9.235  44.569  0.52  4.37           N 0
+ATOM   4107   CD PRO B  88      51.746  13.155  39.221  0.00  0.00           C 0
+ATOM   4106   CG PRO B  88      50.729  12.160  38.700  0.00  0.00           C 0
+ATOM   4262  NH2 ARG B 110      53.510  11.444  45.136  0.00  0.00           N 0
+ATOM   4059    O PHE B  83      55.201  11.897  39.907  0.64  5.36           O 0
+ATOM   4241   CA ALA B 108      49.296   5.731  46.363  0.00  0.00           C 0
+ATOM   4243    O ALA B 108      51.584   5.960  47.050  0.23  5.36           O 0
+ATOM   4060   CB PHE B  83      54.633   9.696  37.602  0.00  0.00           C 0
+ATOM   4074  CD1 ILE B  84      57.380   8.723  41.109  0.00  0.00           C 0
+ATOM   4258   CD ARG B 110      54.594   8.075  44.167  0.00  0.00           C 0
+ATOM   4027  CZ2 TRP B  79      54.158   5.403  39.387  0.00  0.00           C 0
+ATOM   4260   CZ ARG B 110      54.309  10.449  44.771  0.00  0.00           C 0
+ATOM   4257   CG ARG B 110      53.713   6.872  43.877  0.00  0.00           C 0
+ATOM   4029  CH2 TRP B  79      52.992   5.454  38.663  0.00  0.00           C 0
+ATOM   4236    O PRO B 107      50.395   5.839  43.848  0.71  5.36           O 0
+ATOM   4240    N ALA B 108      48.714   5.151  45.163  0.44  1.09           N 0
+ATOM   4237   CB PRO B 107      47.692   5.587  42.078  0.00  0.00           C 0
+ATOM   4235    C PRO B 107      49.321   5.257  43.989  0.00  0.00           C 0
+ATOM   4169  CD1 LEU B  97      47.945   9.628  39.019  0.00  0.00           C 0
+ATOM   4062  CD1 PHE B  83      52.265   9.218  36.887  0.00  0.00           C 0
+ATOM   4170  CD2 LEU B  97      49.062   7.437  38.570  0.00  0.00           C 0
+TER
+END

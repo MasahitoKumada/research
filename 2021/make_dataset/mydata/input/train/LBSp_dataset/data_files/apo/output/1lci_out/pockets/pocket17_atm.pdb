@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0531
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.8920
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4935
+HEADER 5  - Mean B-factor of pocket residues  : 0.1505
+HEADER 6  - Hydrophobicity Score              : 13.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.6851
+HEADER 10  -Pocket volume (convex hull)       : 10.1317
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0571
+ATOM    336  OE1 GLU A  48       3.909  58.356  41.463  0.00  0.00           O 0
+ATOM   2129  OD2 ASP A 279       7.473  58.695  48.017  0.64  4.29           O 0
+ATOM    335   CD GLU A  48       3.175  59.345  41.621  0.00  0.00           C 0
+ATOM    337  OE2 GLU A  48       2.060  59.259  42.154  0.22  9.64           O 0
+ATOM    309    O ALA A  45       2.874  64.176  42.876  0.46  4.29           O 0
+ATOM    334   CG GLU A  48       3.625  60.708  41.144  0.00  0.00           C 0
+ATOM   2095   NE ARG A 275       3.124  60.433  48.965  0.81  9.84           N 0
+ATOM   2091    O ARG A 275       7.937  62.136  49.565  0.00  0.00           O 0
+ATOM   2093   CG ARG A 275       5.267  60.467  50.225  0.00  0.00           C 0
+ATOM   2067  CD1 LEU A 272       2.038  64.413  46.596  0.00  0.00           C 0
+ATOM   2098  NH2 ARG A 275       1.271  61.662  48.339  0.63  5.47           N 0
+ATOM   2090    C ARG A 275       7.072  62.934  49.924  0.00  0.00           C 0
+ATOM   2099    N SER A 276       6.821  64.073  49.284  0.85  1.09           N 0
+ATOM   2141   OH TYR A 280       6.883  62.694  42.338  0.78  3.21           O 0
+ATOM   2104   OG SER A 276       5.828  65.461  46.881  0.00  0.00           O 0
+ATOM   2100   CA SER A 276       7.655  64.566  48.183  0.00  0.00           C 0
+ATOM   2139  CE2 TYR A 280       7.914  63.850  44.154  0.00  0.00           C 0
+ATOM   2126   CB ASP A 279       9.332  60.114  47.488  0.00  0.00           C 0
+ATOM   2140   CZ TYR A 280       8.020  63.048  43.026  0.00  0.00           C 0
+ATOM   2138  CE1 TYR A 280       9.267  62.618  42.582  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0544
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9176
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4608
+HEADER 5  - Mean B-factor of pocket residues  : 0.6765
+HEADER 6  - Hydrophobicity Score              : 16.3333
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.8231
+HEADER 10  -Pocket volume (convex hull)       : 10.9406
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   6842   CB ARG B 329     -36.631  39.150  25.684  0.00  0.00           C 0
+ATOM   6639  OE1 GLU B 305     -42.317  36.361  28.939  0.00  0.00           O 0
+ATOM   6847  NH1 ARG B 329     -39.101  41.982  23.398  0.00  0.00           N 0
+ATOM   6585   OH TYR B 298     -41.859  35.123  23.981  0.67  9.64           O 0
+ATOM   6626   CA THR B 304     -47.088  37.103  22.955  0.00  0.00           C 0
+ATOM   6632    N GLU B 305     -45.772  36.277  24.807  0.66  2.19           N 0
+ATOM   6623    O ALA B 303     -45.335  37.330  20.855  0.82  2.14           O 0
+ATOM   6595    O SER B 300     -44.305  40.405  19.967  0.58  8.57           O 0
+ATOM   6636   CB GLU B 305     -44.450  35.873  26.815  0.00  0.00           C 0
+ATOM   6596   CB SER B 300     -41.442  39.979  21.026  0.00  0.00           C 0
+ATOM   6248   OG SER B 254     -38.889  37.506  22.223  0.68  2.14           O 0
+ATOM   6830    N ILE B 328     -36.843  33.834  27.434  0.00  0.00           N 0
+ATOM   6823   CB ARG B 327     -39.537  33.231  29.537  0.00  0.00           C 0
+ATOM   6833    O ILE B 328     -36.652  35.303  24.983  0.69  1.07           O 0
+ATOM   6838    N ARG B 329     -35.659  36.952  26.162  0.84  2.19           N 0
+ATOM   6822    O ARG B 327     -36.687  34.176  29.647  0.64  8.57           O 0
+ATOM   6821    C ARG B 327     -37.213  33.610  28.688  0.00  0.00           C 0
+TER
+END

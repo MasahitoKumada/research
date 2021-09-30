@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0573
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9061
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6123
+HEADER 5  - Mean B-factor of pocket residues  : 0.5461
+HEADER 6  - Hydrophobicity Score              : 4.8750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.1594
+HEADER 10  -Pocket volume (convex hull)       : 10.6294
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM   1343   CBASER A 377     -11.487  39.991  84.355  0.00  0.00           C 0
+ATOM    794    O LEU A 307     -12.511  38.219  86.863  0.55  3.21           O 0
+ATOM    814   NZ LYS A 309     -16.663  41.630  82.674  0.70  6.56           N 0
+ATOM   1342    O SER A 377     -11.867  37.240  83.005  0.48  6.43           O 0
+ATOM    811   CG LYS A 309     -14.893  42.556  84.644  0.00  0.00           C 0
+ATOM   1932  OE1 GLN A 446     -17.273  40.415  87.007  0.64  6.43           O 0
+ATOM    813   CE LYS A 309     -15.267  41.932  82.212  0.00  0.00           C 0
+ATOM   1937    O ARG A 447     -15.723  36.154  88.680  0.70  1.07           O 0
+ATOM   1921    O PRO A 445     -21.810  39.102  86.775  0.61  7.50           O 0
+ATOM   1964   OH TYR A 449     -18.254  32.059  85.056  0.77  6.43           O 0
+ATOM   1934    N ARG A 447     -18.436  37.035  88.811  0.69  3.28           N 0
+ATOM   1940   CD ARG A 447     -20.230  33.330  87.343  0.00  0.00           C 0
+ATOM   1938   CB ARG A 447     -18.429  34.619  88.456  0.00  0.00           C 0
+ATOM   1962  CE2 TYR A 449     -16.189  32.795  85.989  0.00  0.00           C 0
+ATOM    789   CE LYS A 306     -12.658  32.928  83.560  0.00  0.00           C 0
+ATOM    790   NZ LYS A 306     -13.131  32.555  82.187  0.00  0.00           N 0
+ATOM    787   CG LYS A 306     -11.115  34.427  84.870  0.00  0.00           C 0
+ATOM   1939   CG ARG A 447     -19.922  34.390  88.406  0.00  0.00           C 0
+ATOM   1960  CD2 TYR A 449     -15.047  32.517  86.727  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2107
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8588
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7749
+HEADER 5  - Mean B-factor of pocket residues  : 0.2908
+HEADER 6  - Hydrophobicity Score              : 42.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.5433
+HEADER 10  -Pocket volume (convex hull)       : 9.7672
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.6667
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1608   CA GLN A 257       2.466 -15.732  45.423  0.00  0.00           C 0
+ATOM   1614  NE2 GLN A 257      -0.413 -14.003  44.445  0.58  5.47           N 0
+ATOM   1649   CB LEU A 260       1.115 -19.886  47.506  0.00  0.00           C 0
+ATOM   1651  CD1 LEU A 260      -0.433 -18.603  48.919  0.00  0.00           C 0
+ATOM   1688   CB MET A 264       0.099 -24.864  47.020  0.00  0.00           C 0
+ATOM   1648    O LEU A 260       2.073 -22.703  46.121  0.00  0.00           O 0
+ATOM   1689   CG MET A 264       0.070 -24.077  48.310  0.00  0.00           C 0
+ATOM   1610    O GLN A 257       2.927 -17.936  44.633  0.70  1.07           O 0
+ATOM   1659   CG GLN A 261       2.291 -19.998  42.094  0.00  0.00           C 0
+ATOM   1647    C LEU A 260       2.439 -21.536  46.093  0.00  0.00           C 0
+ATOM   1654    N GLN A 261       2.926 -20.984  44.994  0.00  0.00           N 0
+ATOM   1655   CA GLN A 261       3.009 -21.762  43.766  0.00  0.00           C 0
+ATOM   1693    N TYR A 265       1.643 -26.255  44.536  0.00  0.00           N 0
+ATOM   1697   CB TYR A 265       1.543 -26.155  42.034  0.00  0.00           C 0
+ATOM   1687    O MET A 264       0.235 -27.642  45.597  0.53  2.14           O 0
+ATOM   1686    C MET A 264       1.018 -26.705  45.634  0.00  0.00           C 0
+ATOM   1699  CD1 TYR A 265      -0.277 -27.553  40.931  0.00  0.00           C 0
+ATOM   1694   CA TYR A 265       1.536 -27.018  43.288  0.00  0.00           C 0
+TER
+END

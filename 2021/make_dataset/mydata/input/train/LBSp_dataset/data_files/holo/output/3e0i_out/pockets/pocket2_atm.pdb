@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0191
+HEADER 1  - Drug Score                        : 0.1657
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8543
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5914
+HEADER 5  - Mean B-factor of pocket residues  : 0.4262
+HEADER 6  - Hydrophobicity Score              : 31.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.8210
+HEADER 10  -Pocket volume (convex hull)       : 6.6086
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.9444
+ATOM   1109   CG GLU A 139      23.178  28.888  21.173  0.00  0.00           C 0
+ATOM   1110   CD GLU A 139      23.069  27.965  19.956  0.00  0.00           C 0
+ATOM   1145  CD1 PHE A 143      26.592  25.773  25.275  0.00  0.00           C 0
+ATOM   1111  OE1 GLU A 139      22.308  26.977  20.011  0.00  0.00           O 0
+ATOM    876  CG2 THR A 108      33.264  30.545  22.159  0.00  0.00           C 0
+ATOM   1146  CD2 PHE A 143      28.351  27.137  26.211  0.00  0.00           C 0
+ATOM   1148  CE2 PHE A 143      29.211  25.970  26.309  0.00  0.00           C 0
+ATOM    907  CD1 LEU A 112      32.945  29.729  25.909  0.00  0.00           C 0
+ATOM    908  CD2 LEU A 112      30.619  30.682  26.469  0.00  0.00           C 0
+ATOM   1114   CA LYS A 140      26.899  31.479  22.970  0.00  0.00           C 0
+ATOM   1117   CB LYS A 140      28.046  32.163  22.249  0.00  0.00           C 0
+ATOM   1143   CB PHE A 143      26.160  28.223  25.591  0.00  0.00           C 0
+ATOM   1144   CG PHE A 143      27.055  27.018  25.705  0.00  0.00           C 0
+ATOM   1112  OE2 GLU A 139      23.731  28.233  18.942  0.00  0.00           O 0
+ATOM   1118   CG LYS A 140      28.421  31.601  20.896  0.00  0.00           C 0
+ATOM   1113    N LYS A 140      25.596  31.620  22.260  0.00  0.00           N 0
+ATOM   1107    O GLU A 139      24.496  30.359  23.769  0.60  1.07           O 0
+TER
+END

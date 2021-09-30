@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0904
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6976
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4958
+HEADER 5  - Mean B-factor of pocket residues  : 0.1779
+HEADER 6  - Hydrophobicity Score              : 36.3750
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.2979
+HEADER 10  -Pocket volume (convex hull)       : 6.2912
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1010    O ALA B 136      13.277   7.328   9.837  0.53  4.29           O 0
+ATOM   1309    N VAL B 173      18.575   4.612  12.621  0.00  0.00           N 0
+ATOM   1312    O VAL B 173      18.133   3.052  10.414  0.75  1.07           O 0
+ATOM   1006   CB ALA B 135      16.646   5.819   6.711  0.00  0.00           C 0
+ATOM   1311    C VAL B 173      19.154   3.764  10.407  0.00  0.00           C 0
+ATOM   1322   CD PRO B 174      21.005   4.840   9.064  0.00  0.00           C 0
+ATOM   1304    O MET B 172      19.080   6.758  13.133  0.00  0.00           O 0
+ATOM   1007    N ALA B 136      13.781   5.057   8.106  0.69  1.09           N 0
+ATOM   1303    C MET B 172      18.409   5.736  13.320  0.00  0.00           C 0
+ATOM   1305   CB MET B 172      16.025   6.264  13.909  0.00  0.00           C 0
+ATOM   1272    O TRP B 169      17.227   9.512  15.099  0.00  0.00           O 0
+ATOM   1022  CD2 HIS B 138      13.200  12.044  12.249  0.00  0.00           C 0
+ATOM   1025  NE2 HIS B 138      14.264  12.915  12.372  0.00  0.00           N 0
+ATOM   1013   CA GLY B 137      11.853   9.272   8.518  0.00  0.00           C 0
+TER
+END

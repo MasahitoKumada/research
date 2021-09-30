@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0442
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9579
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4814
+HEADER 5  - Mean B-factor of pocket residues  : 0.5276
+HEADER 6  - Hydrophobicity Score              : 1.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.6179
+HEADER 10  -Pocket volume (convex hull)       : 3.0707
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   2257   CB ASN A 295       4.931  55.953  45.187  0.00  0.00           C 0
+ATOM   2251    C GLY A 294       5.284  54.305  47.961  0.00  0.00           C 0
+HETATM 3337   N2 GDP A 432       7.980  49.039  45.791  0.72  7.66           N 0
+ATOM   2243    O GLN A 293       8.831  53.799  47.833  0.33  7.50           O 0
+ATOM   3203   CG PRO A 417       7.241  48.731  40.952  0.00  0.00           C 0
+ATOM   3204   CD PRO A 417       7.952  47.987  42.053  0.00  0.00           C 0
+ATOM   2949  CE2 PHE A 383      11.750  48.900  42.943  0.00  0.00           C 0
+HETATM 3332  C1' GDP A 432       3.028  49.247  43.875  0.00  0.00           C 0
+HETATM 3327  O4' GDP A 432       2.439  49.711  45.080  0.55  1.07           O 0
+ATOM   2252    O GLY A 294       4.233  53.717  47.676  0.54  2.14           O 0
+HETATM 3340   N3 GDP A 432       5.812  48.781  44.980  0.80  2.19           N 0
+ATOM   3202   CB PRO A 417       5.825  48.380  41.178  0.00  0.00           C 0
+HETATM 3331  O2' GDP A 432       2.179  49.505  41.519  0.00  0.00           O 0
+ATOM   2260  OD1 ASN A 295       3.433  56.150  43.328  0.00  0.00           O 0
+HETATM 3329  O3' GDP A 432       1.129  51.515  43.043  0.49  7.50           O 0
+TER
+END

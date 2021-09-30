@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.1172
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9755
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6379
+HEADER 5  - Mean B-factor of pocket residues  : 0.2179
+HEADER 6  - Hydrophobicity Score              : 25.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 404.4401
+HEADER 10  -Pocket volume (convex hull)       : 35.2537
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.8333
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5217
+ATOM    332   CGAARG A  43     -37.543  25.496   8.375  0.00  0.00           C 0
+ATOM    330   CBAARG A  43     -37.442  24.159   9.092  0.00  0.00           C 0
+ATOM    329    O ARG A  43     -36.419  22.748  11.359  0.00  0.00           O 0
+ATOM    340  NH1AARG A  43     -38.964  28.514   8.589  0.00  0.00           N 0
+ATOM    334   CDAARG A  43     -39.014  25.810   8.016  0.00  0.00           C 0
+ATOM    547  CD1 ILE A  71     -46.080  27.343   7.083  0.00  0.00           C 0
+ATOM    525   OG SER A  68     -45.469  24.223  11.982  0.56  8.57           O 0
+ATOM    336   NEAARG A  43     -39.102  26.872   7.028  0.48  4.37           N 0
+ATOM    515    C PRO A  67     -49.271  26.712  10.435  0.00  0.00           C 0
+ATOM    520    N SER A  68     -48.650  26.068  11.419  0.44  2.19           N 0
+ATOM    517   CB PRO A  67     -49.811  28.995  11.363  0.00  0.00           C 0
+ATOM    342  NH2AARG A  43     -39.121  29.082   6.393  0.00  0.00           N 0
+ATOM     23  NE2 HIS A   4     -42.750  27.449   4.554  0.61  4.37           N 0
+ATOM    338   CZAARG A  43     -39.057  28.157   7.338  0.00  0.00           C 0
+ATOM     21  CD2 HIS A   4     -42.021  26.352   4.951  0.00  0.00           C 0
+ATOM    559   OH TYR A  72     -41.721  22.621   8.465  0.83  1.07           O 0
+ATOM    355   CE MET A  45     -41.590  21.566  12.640  0.00  0.00           C 0
+ATOM    556  CE1 TYR A  72     -44.040  22.197   8.933  0.00  0.00           C 0
+ATOM    521   CA SER A  68     -47.502  25.198  11.111  0.00  0.00           C 0
+ATOM    524   CB SER A  68     -46.648  24.967  12.367  0.00  0.00           C 0
+TER
+END

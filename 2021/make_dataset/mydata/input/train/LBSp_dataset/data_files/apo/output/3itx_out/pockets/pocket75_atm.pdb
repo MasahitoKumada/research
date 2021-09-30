@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    75:
+HEADER 0  - Pocket Score                      : -0.1118
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8851
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6210
+HEADER 5  - Mean B-factor of pocket residues  : 0.6497
+HEADER 6  - Hydrophobicity Score              : 30.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.5422
+HEADER 10  -Pocket volume (convex hull)       : 5.1649
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM  10049    N VAL D  43      -3.584 -10.828  -3.719  0.00  0.00           N 0
+ATOM  10047    O ALA D  42      -1.684 -10.205  -2.687  0.48  1.07           O 0
+ATOM  10046    C ALA D  42      -2.302 -10.482  -3.718  0.00  0.00           C 0
+ATOM  10055  CG2 VAL D  43      -6.310  -9.881  -3.678  0.00  0.00           C 0
+ATOM  10050   CA VAL D  43      -4.350 -10.905  -2.480  0.00  0.00           C 0
+ATOM  10048   CB ALA D  42      -1.842  -9.082  -5.738  0.00  0.00           C 0
+ATOM  12466    O LEU D 354      -8.003  -4.978  -1.710  0.34  9.64           O 0
+ATOM  10017  CG1 VAL D  38      -7.867  -8.087  -6.699  0.00  0.00           C 0
+ATOM  10019    N ASP D  39      -5.849  -8.712  -9.028  0.62  1.09           N 0
+ATOM  10022    O ASP D  39      -4.624 -10.451  -6.947  0.67  1.07           O 0
+ATOM  10074   CD LYS D  46      -1.584  -7.092   0.200  0.00  0.00           C 0
+ATOM  12469  CD1 LEU D 354      -5.212  -8.378   1.510  0.00  0.00           C 0
+ATOM  12467   CB LEU D 354      -6.969  -6.896   0.527  0.00  0.00           C 0
+ATOM  10076   NZ LYS D  46      -1.533  -4.749  -0.632  0.00  0.00           N 0
+ATOM  10075   CE LYS D  46      -0.749  -6.005  -0.455  0.00  0.00           C 0
+ATOM  10013   CA VAL D  38      -7.830  -7.307  -9.093  0.00  0.00           C 0
+ATOM  10018  CG2 VAL D  38      -9.307  -6.162  -7.406  0.00  0.00           C 0
+ATOM  10011    O GLY D  37      -7.461  -4.960 -10.502  0.00  0.00           O 0
+TER
+END

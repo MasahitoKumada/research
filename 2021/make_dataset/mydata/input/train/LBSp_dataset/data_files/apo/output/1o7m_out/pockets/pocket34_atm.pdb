@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : 0.0111
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9324
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6557
+HEADER 5  - Mean B-factor of pocket residues  : 0.5087
+HEADER 6  - Hydrophobicity Score              : 11.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 137.8867
+HEADER 10  -Pocket volume (convex hull)       : 0.7307
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM     59  CG1 ILE A   7       3.708  60.111 108.496  0.00  0.00           C 0
+ATOM   3275   CG GLN A 421       9.641  60.641 104.802  0.00  0.00           C 0
+ATOM     48    O LYS A   6       5.478  63.606 106.522  0.47  4.29           O 0
+ATOM     32    O ASN A   4       8.459  65.259 110.671  0.00  0.00           O 0
+ATOM     40    O ASN A   5       4.449  63.615 109.910  0.57  5.36           O 0
+ATOM   3277  OE1 GLN A 421       7.434  61.412 104.287  0.00  0.00           O 0
+ATOM     55   CA ILE A   7       4.024  61.350 106.349  0.00  0.00           C 0
+ATOM   3276   CD GLN A 421       8.601  61.714 104.541  0.00  0.00           C 0
+ATOM     60  CG2 ILE A   7       3.887  58.875 106.370  0.00  0.00           C 0
+ATOM     73    O VAL A   9       6.630  57.950 104.506  0.55  2.14           O 0
+ATOM   3305   CB SER A 425      11.064  64.886 107.500  0.00  0.00           C 0
+ATOM   3278  NE2 GLN A 421       9.028  62.971 104.611  0.00  0.00           N 0
+ATOM   3306   OG SER A 425      11.989  63.801 107.538  0.62  8.57           O 0
+TER
+END

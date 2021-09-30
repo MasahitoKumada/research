@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1869
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9635
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6028
+HEADER 5  - Mean B-factor of pocket residues  : 0.2320
+HEADER 6  - Hydrophobicity Score              : 27.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.0406
+HEADER 10  -Pocket volume (convex hull)       : 7.1750
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1000
+ATOM   1320   CB ALA A 333      32.305  57.897  23.675  0.00  0.00           C 0
+ATOM   1317   CA ALA A 333      31.850  57.432  25.047  0.00  0.00           C 0
+ATOM   1421    O SER A 347      35.720  59.021  22.943  0.76  1.07           O 0
+ATOM   1321    N SER A 334      30.489  59.312  25.768  0.57  1.09           N 0
+ATOM   1441  OG1 THR A 349      35.562  56.632  29.251  0.00  0.00           O 0
+ATOM   1326   OG SER A 334      30.104  60.258  28.456  0.65  7.50           O 0
+ATOM   1422   CB SER A 347      37.578  61.410  24.096  0.00  0.00           C 0
+ATOM   1425   CA TYR A 348      36.568  57.114  24.772  0.00  0.00           C 0
+ATOM   1420    C SER A 347      36.852  59.125  23.434  0.00  0.00           C 0
+ATOM   1324    O SER A 334      30.280  62.066  25.744  0.67  7.50           O 0
+ATOM   1400    O PHE A 344      33.575  62.590  21.068  0.50  6.43           O 0
+ATOM   1424    N TYR A 348      37.350  58.248  24.298  0.00  0.00           N 0
+ATOM   1427    O TYR A 348      38.266  56.923  26.463  0.00  0.00           O 0
+ATOM   1426    C TYR A 348      37.145  56.572  26.070  0.00  0.00           C 0
+ATOM   1312   NE ARG A 332      31.014  55.000  29.704  0.00  0.00           N 0
+ATOM   1308    O ARG A 332      33.784  55.588  25.922  0.00  0.00           O 0
+TER
+END

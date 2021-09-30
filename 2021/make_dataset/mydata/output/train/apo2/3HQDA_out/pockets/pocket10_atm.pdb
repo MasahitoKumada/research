@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1159
+HEADER 1  - Drug Score                        : 0.0399
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.0675
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5429
+HEADER 5  - Mean B-factor of pocket residues  : 0.4869
+HEADER 6  - Hydrophobicity Score              : 12.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.5985
+HEADER 10  -Pocket volume (convex hull)       : 10.6886
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    475    N GLN A  78      -5.606   4.202  35.844  0.00  0.00           N 0
+ATOM    467   CA LYS A  77      -6.506   3.235  33.806  0.00  0.00           C 0
+ATOM    753   CZ PHE A 113      -1.491   8.744  34.234  0.00  0.00           C 0
+ATOM    462    O THR A  76      -4.388   2.791  32.115  0.24  2.14           O 0
+ATOM    914  CD2 LEU A 132      -5.202  11.105  34.110  0.00  0.00           C 0
+ATOM    471   CG LYS A  77      -8.487   4.396  32.686  0.00  0.00           C 0
+ATOM    473   CE LYS A  77      -8.326   4.663  30.159  0.00  0.00           C 0
+ATOM    472   CD LYS A  77      -8.153   3.730  31.365  0.00  0.00           C 0
+ATOM    903    O PRO A 131      -6.696   8.150  36.635  0.75  6.43           O 0
+ATOM    480   CG GLN A  78      -4.110   6.572  36.981  0.00  0.00           C 0
+ATOM    752  CE2 PHE A 113      -1.028   7.428  34.336  0.00  0.00           C 0
+ATOM     90   CD PRO A  27      -0.010   5.017  27.948  0.00  0.00           C 0
+ATOM     66  NH2 ARG A  24      -2.017   3.683  33.940  0.36  1.09           N 0
+ATOM    451    O ALA A  74      -3.131   2.757  27.960  0.88  2.14           O 0
+ATOM    474   NZ LYS A  77      -7.978   3.968  28.877  0.67  4.37           N 1
+ATOM     89   CG PRO A  27      -1.202   5.392  27.096  0.00  0.00           C 0
+TER
+END

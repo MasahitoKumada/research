@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2424
+HEADER 1  - Drug Score                        : 0.0138
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7573
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3611
+HEADER 5  - Mean B-factor of pocket residues  : 0.2627
+HEADER 6  - Hydrophobicity Score              : 55.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.0107
+HEADER 10  -Pocket volume (convex hull)       : 4.8804
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    372   OH TYR A1021     -19.121  23.890  12.925  0.61  5.36           O 0
+ATOM    660    O ILE A1056     -20.582  28.480   9.458  0.61  1.07           O 0
+ATOM    685    N ALA A1060     -18.717  28.772  12.101  0.00  0.00           N 0
+ATOM    689   CB ALA A1060     -17.078  29.163  10.315  0.00  0.00           C 0
+ATOM    686   CA ALA A1060     -17.277  28.919  11.797  0.00  0.00           C 0
+ATOM    814  CD1 ILE A1074     -13.007  26.631   8.941  0.00  0.00           C 0
+ATOM    430    O MET A1029     -22.279  23.320   8.550  0.25  9.64           O 0
+ATOM    306  CG2 VAL A1013     -17.017  20.856  10.865  0.00  0.00           C 0
+ATOM    272  CD1 PHE A1009     -17.541  26.233   6.123  0.00  0.00           C 0
+ATOM    262    O VAL A1008     -15.975  22.524   5.683  0.45  3.21           O 0
+ATOM    663  CG2 ILE A1056     -21.171  27.125   6.550  0.00  0.00           C 0
+ATOM    287    O LYS A1011     -18.765  19.425   6.209  0.38  1.07           O 0
+ATOM    267   CA PHE A1009     -18.009  23.797   4.270  0.00  0.00           C 0
+ATOM    439   CB ASP A1030     -21.822  21.058   6.078  0.00  0.00           C 0
+ATOM    274  CE1 PHE A1009     -16.789  27.199   6.767  0.00  0.00           C 0
+ATOM    369  CE1 TYR A1021     -17.234  23.066  14.145  0.00  0.00           C 0
+TER
+END

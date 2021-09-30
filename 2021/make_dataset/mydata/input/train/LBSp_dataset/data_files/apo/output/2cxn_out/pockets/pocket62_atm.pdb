@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    62:
+HEADER 0  - Pocket Score                      : -0.0866
+HEADER 1  - Drug Score                        : 0.0153
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9385
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5882
+HEADER 5  - Mean B-factor of pocket residues  : 0.8076
+HEADER 6  - Hydrophobicity Score              : 33.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.0423
+HEADER 10  -Pocket volume (convex hull)       : 4.3980
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7895
+ATOM   6539  NE1 TRP B 269      33.825  -3.751  41.392  0.00  0.00           N 0
+ATOM   5365  CG1 VAL B 118      31.970  -3.611  45.043  0.00  0.00           C 0
+ATOM   6515  CD1 TRP B 267      35.883   0.650  41.309  0.00  0.00           C 0
+ATOM   6542  CZ2 TRP B 269      32.151  -1.907  41.718  0.00  0.00           C 0
+ATOM   6517  NE1 TRP B 267      35.533   1.770  42.024  0.52  6.56           N 0
+ATOM   5346    O LYS B 116      32.974  -5.176  48.466  0.69  1.07           O 0
+ATOM   5347   CB LYS B 116      35.583  -4.753  50.025  0.00  0.00           C 0
+ATOM   5327    O VAL B 113      35.313  -7.166  47.220  0.68  6.43           O 0
+ATOM   5349   CD LYS B 116      36.871  -2.595  50.135  0.00  0.00           C 0
+ATOM   5355    O ASP B 117      32.229  -1.705  49.180  0.74  1.07           O 0
+ATOM   5364   CB VAL B 118      31.044  -2.411  45.177  0.00  0.00           C 0
+ATOM   5386   CB GLU B 121      33.606   2.931  45.779  0.00  0.00           C 0
+ATOM   5361   CA VAL B 118      31.184  -1.755  46.585  0.00  0.00           C 0
+ATOM   5363    O VAL B 118      30.613   0.493  45.961  0.48  1.07           O 0
+ATOM   5350   CE LYS B 116      36.697  -1.084  50.216  0.00  0.00           C 0
+ATOM   5328   CB VAL B 113      33.822  -7.105  44.554  0.00  0.00           C 0
+ATOM   5329  CG1 VAL B 113      35.024  -7.597  43.757  0.00  0.00           C 0
+ATOM   5387   CG GLU B 121      34.879   3.092  46.605  0.00  0.00           C 0
+TER
+END

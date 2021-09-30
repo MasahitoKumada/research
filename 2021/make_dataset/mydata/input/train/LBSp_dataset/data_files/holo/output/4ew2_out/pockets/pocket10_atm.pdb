@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0063
+HEADER 1  - Drug Score                        : 0.3277
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1203
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5156
+HEADER 5  - Mean B-factor of pocket residues  : 0.7013
+HEADER 6  - Hydrophobicity Score              : 25.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 381.2641
+HEADER 10  -Pocket volume (convex hull)       : 21.6085
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6190
+ATOM    676    O PHE A 895      -3.126  67.738  94.120  0.00  0.00           O 0
+ATOM    710  CD1 ILE A 898       3.381  67.694  96.289  0.00  0.00           C 0
+ATOM   1112  CG2 VAL A 950       3.599  64.372  96.907  0.00  0.00           C 0
+ATOM    691   CE MET A 896      -1.123  66.805  89.543  0.00  0.00           C 0
+ATOM   1111  CG1 VAL A 950       2.941  62.099  95.970  0.00  0.00           C 0
+ATOM    690   SD MET A 896      -2.713  66.770  90.317  0.00  0.00           S 0
+ATOM    686    C MET A 896      -1.092  70.342  92.699  0.00  0.00           C 0
+ATOM    687    O MET A 896      -0.065  70.623  92.065  0.41  1.07           O 0
+ATOM    923    O GLY A 924       1.863  58.271  90.526  0.00  0.00           O 0
+ATOM   1119  OD1 ASP A 951       1.347  58.421  95.844  0.40  6.43           O 0
+ATOM    856  CE1 HIS A 915       0.094  57.283  92.790  0.00  0.00           C 0
+ATOM    854  ND1 HIS A 915      -0.952  57.612  93.527  0.54  5.47           N 0
+ATOM    838  OD1 ASN A 913      -3.225  61.631  98.132  0.00  0.00           O 0
+ATOM    695    O ARG A 897      -0.775  70.420  96.600  0.44  1.07           O 0
+ATOM    694    C ARG A 897       0.072  70.880  95.850  0.00  0.00           C 0
+ATOM    685   CA MET A 896      -2.120  69.398  92.136  0.00  0.00           C 0
+ATOM    921   CA GLY A 924       3.984  58.930  91.467  0.00  0.00           C 0
+ATOM    922    C GLY A 924       2.910  58.902  90.407  0.00  0.00           C 0
+ATOM    924    N SER A 925       3.179  59.598  89.319  0.59  1.09           N 0
+ATOM    928   CB SER A 925       2.397  60.998  87.484  0.00  0.00           C 0
+ATOM    925   CA SER A 925       2.177  59.713  88.278  0.00  0.00           C 0
+ATOM   1120  OD2 ASP A 951       3.422  58.551  95.134  0.77  6.43           O 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1585
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9401
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5581
+HEADER 5  - Mean B-factor of pocket residues  : 0.1709
+HEADER 6  - Hydrophobicity Score              : 36.1000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.6289
+HEADER 10  -Pocket volume (convex hull)       : 8.8771
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3043
+ATOM    881  CG1 VAL E 139       2.296  36.902  53.783  0.00  0.00           C 0
+ATOM    867    O LEU E 137       4.506  36.124  50.332  0.51  6.43           O 0
+ATOM    876    N VAL E 139       1.715  34.723  52.099  0.58  1.09           N 0
+ATOM   1506    O TYR E 226      -1.819  37.954  52.878  0.55  9.64           O 0
+ATOM    873   CA GLY E 138       2.603  34.236  49.880  0.00  0.00           C 0
+ATOM   1526  CG2 VAL E 228      -1.691  33.210  49.460  0.00  0.00           C 0
+ATOM   1507   CB TYR E 226      -3.820  39.485  51.127  0.00  0.00           C 0
+ATOM     98   CD PRO E  39       2.176  40.237  45.163  0.00  0.00           C 0
+ATOM   1457  ND1 HIS E 219      -3.345  36.076  47.089  0.50  2.19           N 0
+ATOM    104   OG SER E  40       1.210  34.900  46.360  0.58  5.36           O 0
+ATOM     97   CG PRO E  39       3.628  40.241  45.619  0.00  0.00           C 0
+ATOM     75    O SER E  37      -0.870  41.825  45.292  0.30  7.50           O 0
+ATOM   1510  CD2 TYR E 226      -4.739  41.756  50.453  0.00  0.00           C 0
+ATOM     90  CZ3 TRP E  38      -4.452  39.878  46.668  0.00  0.00           C 0
+ATOM     79   CA TRP E  38      -0.279  39.527  43.799  0.00  0.00           C 0
+ATOM   1459  CE1 HIS E 219      -2.894  35.817  45.813  0.00  0.00           C 0
+ATOM     88  CE3 TRP E  38      -3.430  39.453  45.786  0.00  0.00           C 0
+ATOM     99    N SER E  40       2.972  36.663  44.784  0.46  1.09           N 0
+ATOM    103   CB SER E  40       2.638  34.746  46.341  0.00  0.00           C 0
+TER
+END

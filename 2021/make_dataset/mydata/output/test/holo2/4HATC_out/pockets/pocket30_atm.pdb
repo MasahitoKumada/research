@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : 0.0379
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9654
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.8110
+HEADER 5  - Mean B-factor of pocket residues  : 0.8243
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 335.6700
+HEADER 10  -Pocket volume (convex hull)       : 12.5186
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   6129  OD1 ASN C 779     -37.862  36.368  -0.996  0.72  2.14           O 0
+ATOM   6127   CG ASN C 779     -38.453  37.320  -0.479  0.00  0.00           C 0
+ATOM   6128  ND2 ASN C 779     -39.598  37.800  -0.959  0.56  8.75           N 0
+ATOM   6145  OD2 ASP C 781     -38.890  31.866  -2.401  0.00  0.00           O 1
+ATOM   6130    N LEU C 780     -35.640  35.206   1.380  0.00  0.00           N 0
+ATOM   6114    O ARG C 778     -37.580  35.852   4.197  0.61  9.64           O 0
+ATOM   6123   CA ASN C 779     -37.210  37.026   1.713  0.00  0.00           C 0
+ATOM   6126   CB ASN C 779     -37.900  38.004   0.760  0.00  0.00           C 0
+ATOM   6113    C ARG C 778     -37.119  36.990   4.156  0.00  0.00           C 0
+ATOM   6122    N ASN C 779     -36.946  37.653   3.012  0.57  2.19           N 0
+ATOM   6115   CB ARG C 778     -37.872  38.380   6.142  0.00  0.00           C 0
+ATOM   6135   CG LEU C 780     -34.023  33.559   3.300  0.00  0.00           C 0
+ATOM   6134   CB LEU C 780     -34.120  33.320   1.791  0.00  0.00           C 0
+ATOM   6136  CD1 LEU C 780     -33.655  32.267   4.010  0.00  0.00           C 0
+ATOM   6138    N ASP C 781     -35.617  33.980  -1.090  0.58  1.09           N 0
+ATOM   6144  OD1 ASP C 781     -36.819  31.207  -2.103  0.78  2.14           O 0
+ATOM   6143   CG ASP C 781     -37.661  32.073  -2.442  0.00  0.00           C 0
+TER
+END

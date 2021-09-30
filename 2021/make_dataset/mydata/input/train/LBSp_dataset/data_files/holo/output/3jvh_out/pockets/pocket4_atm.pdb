@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1623
+HEADER 1  - Drug Score                        : 0.0547
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8441
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5488
+HEADER 5  - Mean B-factor of pocket residues  : 0.8303
+HEADER 6  - Hydrophobicity Score              : 14.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.4817
+HEADER 10  -Pocket volume (convex hull)       : 10.0536
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3913
+ATOM   3058   CE LYS C 106      45.003 -34.955 -22.194  0.00  0.00           C 0
+ATOM   3278  CG2 THR C 135      37.318 -33.313 -20.834  0.00  0.00           C 0
+ATOM   3056   CG LYS C 106      44.163 -36.044 -20.114  0.00  0.00           C 0
+ATOM   3033    O GLN C 103      40.146 -31.587 -18.139  0.32  9.64           O 0
+ATOM   3052   CA LYS C 106      43.007 -37.128 -18.136  0.00  0.00           C 0
+ATOM   3047    O PRO C 105      41.527 -35.853 -16.174  0.56  1.07           O 0
+ATOM   3028    O ALA C 102      37.325 -33.743 -17.179  0.42  3.21           O 0
+ATOM   3265    C LYS C 134      34.558 -35.590 -19.396  0.00  0.00           C 0
+ATOM   3272    N THR C 135      34.773 -34.577 -20.240  0.67  1.09           N 0
+ATOM   3261    O ALA C 133      34.657 -39.306 -21.027  0.60  9.64           O 0
+ATOM   3060    N LEU C 107      41.554 -38.981 -17.586  0.60  3.28           N 0
+ATOM   3266    O LYS C 134      34.893 -35.560 -18.214  0.00  0.00           O 0
+ATOM   3065   CG LEU C 107      39.504 -38.697 -15.450  0.00  0.00           C 0
+ATOM   3066  CD1 LEU C 107      38.043 -38.504 -15.109  0.00  0.00           C 0
+ATOM   3260    C ALA C 133      34.661 -39.151 -19.800  0.00  0.00           C 0
+ATOM   3262   CB ALA C 133      36.580 -40.480 -18.895  0.00  0.00           C 0
+ATOM   3068    N ALA C 108      41.311 -41.341 -18.940  0.65  2.19           N 0
+ATOM   3072   CB ALA C 108      41.700 -42.093 -21.269  0.00  0.00           C 0
+ATOM   3263    N LYS C 134      34.309 -38.016 -19.204  0.00  0.00           N 0
+ATOM   3064   CB LEU C 107      39.695 -39.946 -16.319  0.00  0.00           C 0
+TER
+END

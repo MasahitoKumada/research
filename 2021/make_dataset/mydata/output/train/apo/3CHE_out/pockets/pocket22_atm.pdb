@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.0833
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0390
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5688
+HEADER 5  - Mean B-factor of pocket residues  : 0.8208
+HEADER 6  - Hydrophobicity Score              : 27.2000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.3454
+HEADER 10  -Pocket volume (convex hull)       : 10.5062
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   3314    O VAL B  66      73.435  14.161  19.895  0.41  3.21           O 0
+ATOM   3319   CA GLU B  67      71.475  14.367  21.743  0.00  0.00           C 0
+ATOM   3321    O GLU B  67      71.563  12.130  22.589  0.59  1.07           O 0
+ATOM   3798   CB ASN B 125      76.759  17.211  21.350  0.00  0.00           C 0
+ATOM   3795   CA ASN B 125      77.781  17.890  22.245  0.00  0.00           C 0
+ATOM   3817   CB ASN B 127      79.318  12.334  23.624  0.00  0.00           C 0
+ATOM   3813    N ASN B 127      80.273  14.522  22.981  0.00  0.00           N 0
+ATOM   3802    N ARG B 126      79.916  17.271  23.201  0.00  0.00           N 0
+ATOM   5996  NE2 GLN B 412      77.594   8.392  26.630  0.61  6.56           N 0
+ATOM   3820  ND2 ASN B 127      78.528  10.060  23.298  0.47  3.28           N 0
+ATOM   5995  OE1 GLN B 412      79.179   9.908  27.107  0.70  5.36           O 0
+ATOM   5954   CB THR B 407      71.316   9.313  25.697  0.00  0.00           C 0
+ATOM   5975  CD2 PHE B 410      73.962   8.175  22.844  0.00  0.00           C 0
+ATOM   5953    O THR B 407      73.570   7.323  26.493  0.79  6.43           O 0
+ATOM   5955  OG1 THR B 407      70.692   9.829  26.877  0.68  9.64           O 0
+ATOM   3341    O LEU B  69      75.219  11.118  19.793  0.46  3.21           O 0
+ATOM   3821    N LEU B 128      79.612  13.859  20.471  0.00  0.00           N 0
+TER
+END

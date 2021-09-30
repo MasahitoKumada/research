@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0048
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7682
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5225
+HEADER 5  - Mean B-factor of pocket residues  : 0.5844
+HEADER 6  - Hydrophobicity Score              : 27.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.2090
+HEADER 10  -Pocket volume (convex hull)       : 15.0292
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.6000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM    569  OD1 ASP A  78     -33.077  -3.028  22.660  0.00  0.00           O 0
+ATOM    571    N VAL A  79     -30.747  -5.494  26.177  0.75  2.19           N 0
+ATOM    577  CG2 VAL A  79     -32.315  -6.837  28.295  0.00  0.00           C 0
+ATOM    567   CB ASP A  78     -31.254  -4.426  23.326  0.00  0.00           C 0
+ATOM    575   CB VAL A  79     -31.213  -7.510  27.520  0.00  0.00           C 0
+ATOM    574    O VAL A  79     -28.967  -7.563  25.328  0.38  7.50           O 0
+ATOM    753  CG1 VAL A 103     -35.121  -3.660  30.169  0.00  0.00           C 0
+ATOM    564   CA ASP A  78     -30.729  -3.661  24.548  0.00  0.00           C 0
+ATOM    562    O GLY A  77     -30.455  -1.130  25.660  0.36  4.29           O 0
+ATOM    754  CG2 VAL A 103     -32.777  -4.407  30.553  0.00  0.00           C 0
+ATOM    368   CG ARG A  55     -35.384   1.234  29.696  0.00  0.00           C 0
+ATOM    366    O ARG A  55     -31.995   2.022  28.715  0.53  3.21           O 0
+ATOM    370   NE ARG A  55     -36.296   1.433  27.427  0.63  3.28           N 0
+ATOM    770  OD2 ASP A 105     -38.518  -3.244  27.661  0.48  9.64           O 0
+ATOM    752   CB VAL A 103     -34.214  -4.863  30.374  0.00  0.00           C 0
+ATOM    751    O VAL A 103     -36.437  -6.913  30.555  0.55  8.57           O 0
+ATOM    727  CD2 LEU A 100     -29.902  -3.162  29.001  0.00  0.00           C 0
+ATOM    813  CD1 LEU A 110     -31.680  -0.589  32.655  0.00  0.00           C 0
+TER
+END

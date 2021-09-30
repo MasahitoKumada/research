@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : 0.0382
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7332
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4395
+HEADER 5  - Mean B-factor of pocket residues  : 0.6144
+HEADER 6  - Hydrophobicity Score              : 47.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.2767
+HEADER 10  -Pocket volume (convex hull)       : 16.1799
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.3333
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   6723  CD1 ILE C 220     -13.468  39.760 -32.899  0.00  0.00           C 0
+ATOM   6412  CD2 LEU C 155     -11.980  35.554 -32.571  0.00  0.00           C 0
+ATOM   6807  ND2 ASN C 230     -17.254  36.497 -34.989  0.18  9.84           N 0
+ATOM   6408    O LEU C 155     -10.691  38.974 -34.848  0.00  0.00           O 0
+ATOM   6706  ND2AASN C 218     -15.628  38.781 -40.665  0.56  8.75           N 0
+ATOM   6704  OD1AASN C 218     -16.307  40.003 -38.910  0.69  8.57           O 0
+ATOM   6720   CB ILE C 220     -14.681  41.661 -34.130  0.00  0.00           C 0
+ATOM   6722  CG2 ILE C 220     -13.388  42.364 -34.536  0.00  0.00           C 0
+ATOM   6424    O ASP C 157      -9.476  40.105 -38.852  0.00  0.00           O 0
+ATOM   6826  CD1 ILE C 232     -18.519  37.924 -38.862  0.00  0.00           C 0
+ATOM   6698    OAASN C 218     -16.557  43.058 -39.774  0.76  2.14           O 0
+ATOM   6804   CB ASN C 230     -17.534  38.765 -34.238  0.00  0.00           C 0
+ATOM   6526   CB ALA C 190     -12.314  45.874 -36.134  0.00  0.00           C 0
+ATOM   6416    O MET C 156      -8.600  42.274 -36.108  0.00  0.00           O 0
+ATOM   6542   CE MET C 192     -13.114  43.113 -42.745  0.00  0.00           C 0
+ATOM   6525    O ALA C 190     -15.179  45.474 -36.706  0.71  2.14           O 0
+ATOM   6524    C ALA C 190     -14.633  46.570 -36.829  0.00  0.00           C 0
+ATOM   6529    C LEU C 191     -15.864  47.134 -39.971  0.00  0.00           C 0
+TER
+END

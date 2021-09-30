@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0854
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9967
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5681
+HEADER 5  - Mean B-factor of pocket residues  : 0.7892
+HEADER 6  - Hydrophobicity Score              : 7.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 2.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.2246
+HEADER 10  -Pocket volume (convex hull)       : 8.9346
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM    805   CB ALA A  77       3.696   8.223  -3.019  0.00  0.00           C 0
+ATOM   1379    N ALA A 134      -2.379   5.093  -0.273  0.68  1.09           N 0
+ATOM   1351    O ALA A 130      -0.615   6.770   1.510  0.46  2.14           O 0
+ATOM   1375   CBASER A 133      -3.160   8.136  -0.852  0.00  0.00           C 0
+ATOM   1383   CB ALA A 134      -0.345   3.736  -0.154  0.00  0.00           C 0
+ATOM    804    O ALA A  77       4.302   5.565  -1.287  0.77  2.14           O 0
+ATOM    836  ND2AASN A  81       1.572   1.497  -2.499  0.00  0.00           N 0
+ATOM   1373    C SER A 133      -3.402   5.635  -0.925  0.00  0.00           C 0
+ATOM   1374    O SER A 133      -3.892   5.130  -1.942  0.00  0.00           O 0
+ATOM   1380   CA ALA A 134      -1.759   3.844  -0.710  0.00  0.00           C 0
+ATOM   1349   CA ALA A 130      -0.123   8.967   2.336  0.00  0.00           C 0
+ATOM   1377   OGASER A 133      -3.650   9.339  -0.286  0.00  0.00           O 0
+ATOM   1352   CB ALA A 130       1.393   9.215   2.353  0.00  0.00           C 0
+ATOM    802   CA ALA A  77       4.479   7.917  -1.752  0.00  0.00           C 0
+ATOM    789    O PRO A  75       5.715  11.572   0.771  0.00  0.00           O 0
+ATOM    801    N ALA A  77       5.571   8.875  -1.574  0.00  0.00           N 0
+TER
+END

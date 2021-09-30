@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.1630
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0563
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6450
+HEADER 5  - Mean B-factor of pocket residues  : 0.4201
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.4928
+HEADER 10  -Pocket volume (convex hull)       : 5.1672
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM    707   CB GLN B 105      73.953 -84.893  57.577  0.00  0.00           C 0
+ATOM    719  OD1 ASN B 106      77.782 -87.553  55.835  0.00  0.00           O 0
+ATOM    710  NE2 GLN B 105      72.134 -86.749  56.539  0.38  9.84           N 0
+ATOM    718  ND2 ASN B 106      79.145 -86.376  54.462  0.00  0.00           N 0
+ATOM    692   CA GLY B 103      75.411 -79.768  54.116  0.00  0.00           C 0
+ATOM    694    O GLY B 103      77.397 -80.227  55.402  0.00  0.00           O 0
+ATOM    693    C GLY B 103      76.174 -80.072  55.403  0.00  0.00           C 0
+ATOM   1739   CE MET B 234      75.307 -80.288  50.585  0.00  0.00           C 0
+ATOM    717   CG ASN B 106      78.645 -86.666  55.664  0.00  0.00           C 0
+ATOM    712    N ASN B 106      77.083 -85.049  57.796  0.59  2.19           N 0
+ATOM    670    O ILE B 100      72.019 -80.948  53.435  0.59  2.14           O 0
+ATOM    703    N GLN B 105      75.155 -82.741  57.773  0.61  2.19           N 0
+ATOM    668   CA ILE B 100      71.014 -82.300  55.118  0.00  0.00           C 0
+ATOM    673  CG2 ILE B 100      70.114 -83.493  53.065  0.00  0.00           C 0
+ATOM    672  CG1 ILE B 100      70.152 -84.654  55.316  0.00  0.00           C 0
+ATOM   1731   OH TYR B 233      72.318 -82.923  48.159  0.27  9.64           O 0
+TER
+END

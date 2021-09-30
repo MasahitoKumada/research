@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.1144
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9890
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6162
+HEADER 5  - Mean B-factor of pocket residues  : 0.5183
+HEADER 6  - Hydrophobicity Score              : 27.7000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.5141
+HEADER 10  -Pocket volume (convex hull)       : 16.1954
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   4888    O ASN A 661      -3.082  48.842  41.107  0.00  0.00           O 0
+ATOM   4910  CD2 HIS A 663       0.012  50.847  41.454  0.00  0.00           C 0
+ATOM   4896    O HIS A 662      -4.153  52.981  41.673  0.51  3.21           O 0
+ATOM   5149  OE1 GLU A 691       1.456  51.474  45.673  0.64  7.50           O 0
+ATOM   4912  NE2 HIS A 663       1.121  50.370  42.112  0.67  5.47           N 0
+ATOM   4399  CE2 TYR A 598      -8.311  54.554  43.829  0.00  0.00           C 0
+ATOM   4401   OH TYR A 598      -6.280  53.414  43.310  0.57  8.57           O 0
+ATOM   4420    O LEU A 601     -10.831  53.593  48.352  0.00  0.00           O 0
+ATOM   4412   CB GLN A 600     -10.267  51.656  44.705  0.00  0.00           C 0
+ATOM   5146   CB GLU A 691       0.642  54.344  45.018  0.00  0.00           C 0
+ATOM   5157  CG2 ILE A 692      -5.307  56.463  47.452  0.00  0.00           C 0
+ATOM   4430  CG1 ILE A 602      -9.586  56.781  47.413  0.00  0.00           C 0
+ATOM   5155   CB ILE A 692      -4.498  55.882  46.274  0.00  0.00           C 0
+ATOM   5165  OD1 ASN A 693      -2.541  54.607  51.202  0.64  5.36           O 0
+ATOM   5166  ND2 ASN A 693      -1.313  52.937  50.321  0.53  8.75           N 0
+ATOM   5151    N ILE A 692      -2.180  55.799  45.298  0.58  4.37           N 0
+ATOM   5159    N ASN A 693      -1.803  56.145  48.099  0.70  2.19           N 0
+ATOM   4897   CB HIS A 662      -5.539  50.427  41.746  0.00  0.00           C 0
+TER
+END

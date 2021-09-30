@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0603
+HEADER 1  - Drug Score                        : 0.0050
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.1093
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5765
+HEADER 5  - Mean B-factor of pocket residues  : 0.3241
+HEADER 6  - Hydrophobicity Score              : 2.8000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 317.8391
+HEADER 10  -Pocket volume (convex hull)       : 15.5962
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.1111
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3600
+ATOM    177  CD2 HIS D  25      10.079  26.393   8.828  0.00  0.00           C 0
+ATOM   2025   CG ARG D 261      10.282  27.928   5.139  0.00  0.00           C 0
+ATOM   1995    O TYR D 258       4.278  26.406   9.115  0.17  5.36           O 0
+ATOM    175   CB HIS D  25      10.950  28.512  10.029  0.00  0.00           C 0
+ATOM   2018    O ALA D 260       6.078  25.533   5.811  0.42  2.14           O 0
+ATOM   2021   CA ARG D 261       8.327  26.467   4.496  0.00  0.00           C 0
+ATOM   2360   CB GLU D 303       3.572  34.385   8.245  0.00  0.00           C 0
+ATOM   2365    N THR D 304       1.503  32.338   7.613  0.00  0.00           N 0
+ATOM   2358    C GLU D 303       1.410  33.626   7.298  0.00  0.00           C 0
+ATOM   2359    O GLU D 303       0.866  34.038   6.272  0.55  2.14           O 0
+ATOM   2035   CB PRO D 262       5.395  28.178   1.197  0.00  0.00           C 0
+ATOM   2141  NH1 ARG D 275       3.669  27.110   4.647  0.00  0.00           N 1
+ATOM   2036   CG PRO D 262       6.400  29.102   1.696  0.00  0.00           C 0
+ATOM   2391  OD2 ASP D 307       1.628  32.209   0.300  0.72  9.64           O 1
+ATOM   2037   CD PRO D 262       6.784  28.468   3.004  0.00  0.00           C 0
+ATOM   2371  OG1 THR D 304       1.882  29.903   8.610  0.00  0.00           O 0
+ATOM    176   CG HIS D  25      10.993  27.363   9.082  0.00  0.00           C 0
+ATOM   2366   CA THR D 304       0.996  31.246   6.781  0.00  0.00           C 0
+ATOM   2368    O THR D 304      -0.414  31.125   4.830  0.58  3.21           O 0
+ATOM   2138   CD ARG D 275       1.180  26.562   3.387  0.00  0.00           C 0
+ATOM   2115  CD1 TYR D 272       2.239  28.787  -2.303  0.00  0.00           C 0
+TER
+END

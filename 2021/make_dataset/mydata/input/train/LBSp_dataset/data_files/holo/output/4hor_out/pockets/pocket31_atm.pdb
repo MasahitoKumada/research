@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0643
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0011
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4549
+HEADER 5  - Mean B-factor of pocket residues  : 0.6885
+HEADER 6  - Hydrophobicity Score              : 41.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 249.0940
+HEADER 10  -Pocket volume (convex hull)       : 7.4467
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   1997    O LEU A 242     -28.762 -14.637  39.064  0.00  0.00           O 0
+ATOM   2278   NZ LYS A 274     -23.805 -17.809  44.261  0.00  0.00           N 1
+ATOM   2031   CB SER A 246     -27.029 -20.262  37.794  0.00  0.00           C 0
+ATOM   2022    O ILE A 245     -27.662 -16.965  36.994  0.57  3.21           O 0
+ATOM   1998   CB LEU A 242     -26.734 -12.340  39.402  0.00  0.00           C 0
+ATOM   2222   NZ LYS A 267     -24.422 -12.532  45.285  0.00  0.00           N 1
+ATOM   2028   CA SER A 246     -26.185 -19.310  36.949  0.00  0.00           C 0
+ATOM   2276   CD LYS A 274     -22.017 -18.836  42.848  0.00  0.00           C 0
+ATOM   2038   OG SER A 247     -23.352 -22.497  38.509  0.13  8.57           O 0
+ATOM   2277   CE LYS A 274     -22.760 -18.871  44.189  0.00  0.00           C 0
+ATOM   2252  CD2 LEU A 271     -21.703 -14.076  41.814  0.00  0.00           C 0
+ATOM   2000  CD1 LEU A 242     -24.626 -11.428  40.452  0.00  0.00           C 0
+ATOM   2001  CD2 LEU A 242     -24.506 -13.113  38.601  0.00  0.00           C 0
+ATOM   2081  CD2 LEU A 252     -21.979 -15.728  38.097  0.00  0.00           C 0
+ATOM   2033    N SER A 247     -23.873 -19.977  37.189  0.66  1.09           N 0
+TER
+END

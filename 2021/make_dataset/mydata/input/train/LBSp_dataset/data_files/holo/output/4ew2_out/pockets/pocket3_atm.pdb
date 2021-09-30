@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2207
+HEADER 1  - Drug Score                        : 0.2362
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8919
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7120
+HEADER 5  - Mean B-factor of pocket residues  : 0.7350
+HEADER 6  - Hydrophobicity Score              : -12.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 2.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.6087
+HEADER 10  -Pocket volume (convex hull)       : 7.3024
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6316
+ATOM    141    O SER A 827     -23.717  58.570 101.116  0.59  2.14           O 0
+ATOM    169   CG GLU A 830     -25.728  56.183 100.067  0.00  0.00           C 0
+ATOM    142   CBASER A 827     -21.052  57.964  99.319  0.00  0.00           C 0
+ATOM   1443   CG GLN A 989     -19.498  56.538 104.165  0.00  0.00           C 0
+ATOM   1445  OE1 GLN A 989     -20.741  57.603 105.982  0.68  5.36           O 0
+ATOM    183    O ASN A 832     -24.755  56.764 107.743  0.14  4.29           O 0
+ATOM   1444   CD GLN A 989     -20.460  57.583 104.735  0.00  0.00           C 0
+ATOM    168   CB GLU A 830     -26.268  56.586 101.421  0.00  0.00           C 0
+ATOM   1421   CA ALA A 986     -16.300  53.834 101.885  0.00  0.00           C 0
+ATOM   1416    O PRO A 985     -16.979  56.448 102.009  0.00  0.00           O 0
+ATOM   1420    N ALA A 986     -16.306  54.730 100.730  0.66  1.09           N 0
+ATOM   1446  NE2 GLN A 989     -20.985  58.438 103.834  0.81  1.09           N 0
+ATOM   1415    C PRO A 985     -16.658  56.003 100.901  0.00  0.00           C 0
+ATOM   1417   CB PRO A 985     -17.835  56.714  98.807  0.00  0.00           C 0
+ATOM    189   CA SER A 833     -24.296  58.684 105.871  0.00  0.00           C 0
+ATOM    188    N SER A 833     -25.579  57.984 106.055  0.00  0.00           N 0
+ATOM    182    C ASN A 832     -25.686  57.055 106.990  0.00  0.00           C 0
+TER
+END

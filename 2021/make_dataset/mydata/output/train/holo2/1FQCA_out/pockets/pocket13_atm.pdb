@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0320
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9961
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5644
+HEADER 5  - Mean B-factor of pocket residues  : 0.6531
+HEADER 6  - Hydrophobicity Score              : -1.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.7899
+HEADER 10  -Pocket volume (convex hull)       : 10.5846
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    656  OE1 GLN A  86      -0.060   2.286  59.040  0.56  7.50           O 0
+ATOM    725  CD1 TRP A  94       2.188   2.055  54.680  0.00  0.00           C 0
+ATOM    723   CB TRP A  94       3.668   4.089  55.183  0.00  0.00           C 0
+ATOM    763  NH2 ARG A  98       3.783   5.292  59.290  0.52  8.75           N 0
+ATOM    698   CB PRO A  91       6.578  -0.774  55.920  0.00  0.00           C 0
+ATOM    697    O PRO A  91       6.783   2.363  55.101  0.56  2.14           O 0
+ATOM    652   CB GLN A  86      -0.926   0.724  56.905  0.00  0.00           C 0
+ATOM    663  OD1 ASP A  87      -0.372  -3.993  58.304  0.00  0.00           O 0
+ATOM    651    O GLN A  86       0.281  -1.118  54.535  0.66  2.14           O 0
+ATOM    695   CA PRO A  91       5.996   0.137  54.835  0.00  0.00           C 0
+ATOM    739  OD1 ASP A  95       8.061   4.999  57.818  0.77  5.36           O 0
+ATOM    740  OD2 ASP A  95       9.553   3.686  56.868  0.52  4.29           O 1
+ATOM    700   CD PRO A  91       6.103  -2.161  54.037  0.00  0.00           C 0
+ATOM   2356   NZ LYS A 305       2.873  -5.315  53.262  0.39  5.47           N 1
+ATOM    699   CG PRO A  91       7.024  -1.998  55.203  0.00  0.00           C 0
+ATOM    677    O LEU A  89       2.579  -1.676  52.843  0.00  0.00           O 0
+ATOM    658   CA ASP A  87      -0.605  -3.560  55.535  0.00  0.00           C 0
+TER
+END

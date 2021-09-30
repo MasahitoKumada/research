@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0835
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8776
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4512
+HEADER 5  - Mean B-factor of pocket residues  : 0.4673
+HEADER 6  - Hydrophobicity Score              : 2.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.4029
+HEADER 10  -Pocket volume (convex hull)       : 3.0725
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   1601   CE LYS A 200      -5.782  14.732  17.888  0.00  0.00           C 0
+ATOM   1617   NE ARG A 202     -10.765  10.711  14.021  0.00  0.00           N 0
+ATOM   1602   NZ LYS A 200      -6.256  14.730  19.310  0.67  9.84           N 0
+ATOM   1704  OD2 ASP A 212      -8.203  17.395  16.978  0.53  7.50           O 0
+ATOM   1620  NH2 ARG A 202     -12.698  11.971  14.075  0.47  7.66           N 0
+ATOM   1600   CD LYS A 200      -5.199  13.389  17.477  0.00  0.00           C 0
+ATOM   1599   CG LYS A 200      -4.788  13.349  15.993  0.00  0.00           C 0
+ATOM   1614   CB ARG A 202      -8.488  10.753  12.069  0.00  0.00           C 0
+ATOM   1616   CD ARG A 202      -9.977   9.531  13.664  0.00  0.00           C 0
+ATOM   1682   CB PHE A 210     -10.226  14.655  11.606  0.00  0.00           C 0
+ATOM   1685  CD2 PHE A 210     -12.463  15.266  12.554  0.00  0.00           C 0
+ATOM   1597    O LYS A 200      -4.694  15.115  13.038  0.00  0.00           O 0
+ATOM   1701   CB ASP A 212      -6.480  17.164  15.368  0.00  0.00           C 0
+ATOM   1681    O PHE A 210      -7.419  14.836  10.530  0.00  0.00           O 0
+TER
+END

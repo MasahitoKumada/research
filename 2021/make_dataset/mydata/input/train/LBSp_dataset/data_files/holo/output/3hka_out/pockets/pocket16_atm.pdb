@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0380
+HEADER 1  - Drug Score                        : 0.0983
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8895
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4712
+HEADER 5  - Mean B-factor of pocket residues  : 0.7350
+HEADER 6  - Hydrophobicity Score              : -11.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.4342
+HEADER 10  -Pocket volume (convex hull)       : 6.2915
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM   3512  ND2 ASN B  18      28.037   6.224  38.089  0.35  8.75           N 0
+ATOM   3511  OD1 ASN B  18      29.297   6.275  36.232  0.00  0.00           O 0
+ATOM   3482   CD LYS B  14      26.618  11.601  40.053  0.00  0.00           C 0
+ATOM   6420   CB SER B 371      32.941  12.239  35.597  0.00  0.00           C 0
+ATOM   6417   CA SER B 371      31.663  12.105  34.760  0.00  0.00           C 0
+ATOM   3481   CG LYS B  14      25.929  11.225  38.751  0.00  0.00           C 0
+ATOM   3483   CE LYS B  14      26.789  13.111  40.175  0.00  0.00           C 0
+ATOM   3484   NZ LYS B  14      27.419  13.510  41.469  0.00  0.00           N 0
+ATOM   6450  OE1 GLU B 375      31.891  16.797  36.755  0.00  0.00           O 0
+ATOM   6448   CG GLU B 375      29.636  16.711  35.971  0.00  0.00           C 0
+ATOM   6442   CB ALA B 374      27.195  12.294  34.680  0.00  0.00           C 0
+ATOM   6419    O SER B 371      30.374  14.129  34.741  0.63  1.07           O 0
+ATOM   6410    O LYS B 370      29.746  11.426  32.939  0.00  0.00           O 0
+ATOM   3480   CB LYS B  14      25.623   9.737  38.701  0.00  0.00           C 0
+ATOM   3477   CA LYS B  14      24.937   9.282  37.412  0.00  0.00           C 0
+TER
+END

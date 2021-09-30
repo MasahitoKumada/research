@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.1864
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1852
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4804
+HEADER 5  - Mean B-factor of pocket residues  : 0.4290
+HEADER 6  - Hydrophobicity Score              : 6.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.5770
+HEADER 10  -Pocket volume (convex hull)       : 1.8157
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   3716  OE2 GLU B 407      21.599  35.785  13.297  0.62  9.64           O 0
+ATOM   1334    O LYS A 373      17.843  43.368  10.695  0.70  2.14           O 0
+ATOM   1338   CE LYS A 373      23.145  42.092  11.837  0.00  0.00           C 0
+ATOM   3715  OE1 GLU B 407      21.282  35.061  11.225  0.60  8.57           O 0
+ATOM   1814   CD LYS A 434      16.745  35.654  15.322  0.00  0.00           C 0
+ATOM   1371  CD2 LEU A 377      14.590  40.052  12.774  0.00  0.00           C 0
+ATOM   1816   NZ LYS A 434      15.917  34.304  13.425  0.20  6.56           N 0
+ATOM   3714   CD GLU B 407      21.255  34.895  12.470  0.00  0.00           C 0
+ATOM   1363   CB ALA A 376      17.324  41.865   8.202  0.00  0.00           C 0
+ATOM   1332   CA LYS A 373      19.939  44.467  10.265  0.00  0.00           C 0
+ATOM   1335   CB LYS A 373      20.987  44.177  11.345  0.00  0.00           C 0
+ATOM   1850   NZ LYS A 438      18.654  40.989  15.328  0.00  0.00           N 0
+TER
+END

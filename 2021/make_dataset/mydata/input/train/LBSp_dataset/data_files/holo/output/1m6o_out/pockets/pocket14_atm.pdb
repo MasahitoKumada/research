@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0095
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9897
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6944
+HEADER 5  - Mean B-factor of pocket residues  : 0.4454
+HEADER 6  - Hydrophobicity Score              : 2.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.0071
+HEADER 10  -Pocket volume (convex hull)       : 3.7725
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM    625  NH1 ARG A  99      28.667  -2.076  20.795  0.00  0.00           N 0
+ATOM    626  NH2 ARG A  99      27.222  -2.409  22.554  0.25  6.56           N 0
+ATOM    587  CG2 THR A  95      26.267   0.977  20.973  0.00  0.00           C 0
+ATOM    310   CB SER A  62      23.152  -1.654  22.677  0.00  0.00           C 0
+ATOM    309    O SER A  62      22.238  -4.503  22.017  0.50  9.64           O 0
+ATOM    562   CG LYS A  92      21.845   0.783  15.548  0.00  0.00           C 0
+ATOM    297   CZ PHE A  60      20.354   0.608  19.525  0.00  0.00           C 0
+ATOM    342   CB PRO A  67      19.413  -3.071  18.936  0.00  0.00           C 0
+ATOM    563   CD LYS A  92      21.679  -0.169  14.374  0.00  0.00           C 0
+ATOM    561   CB LYS A  92      22.975   1.776  15.337  0.00  0.00           C 0
+ATOM    595  OE1 GLN A  96      28.739  -0.253  17.353  0.48  7.50           O 0
+ATOM    586  OG1 THR A  95      24.186   2.122  20.589  0.86  1.07           O 0
+ATOM    585   CB THR A  95      25.578   2.133  20.248  0.00  0.00           C 0
+ATOM    560    O LYS A  92      25.649   2.835  16.973  0.52  2.14           O 0
+ATOM    307   CA SER A  62      21.730  -2.213  22.530  0.00  0.00           C 0
+ATOM    558   CA LYS A  92      23.293   2.583  16.602  0.00  0.00           C 0
+TER
+END

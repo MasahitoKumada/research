@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0501
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1197
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5442
+HEADER 5  - Mean B-factor of pocket residues  : 0.2395
+HEADER 6  - Hydrophobicity Score              : 9.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.4986
+HEADER 10  -Pocket volume (convex hull)       : 2.5998
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   1747  CD1 TYR B  21      21.215 -23.274  29.744  0.00  0.00           C 0
+ATOM   1749  CE1 TYR B  21      22.410 -22.570  29.654  0.00  0.00           C 0
+ATOM   1806    O VAL B  29      22.783 -24.291  33.794  0.62  1.07           O 0
+ATOM   1519  NE2 GLN A 199      22.618 -27.150  33.789  0.38  4.37           N 0
+ATOM   1746   CG TYR B  21      20.435 -23.516  28.616  0.00  0.00           C 0
+ATOM   1748  CD2 TYR B  21      20.889 -23.021  27.384  0.00  0.00           C 0
+ATOM   1845    O LYS B  34      21.159 -31.920  27.568  0.00  0.00           O 0
+ATOM   1745   CB TYR B  21      19.167 -24.315  28.713  0.00  0.00           C 0
+ATOM   1838    O PRO B  33      19.430 -29.718  30.250  0.56  8.57           O 0
+ATOM   1843   CA LYS B  34      21.638 -31.075  29.708  0.00  0.00           C 0
+ATOM   1834   OG SER B  32      19.775 -25.615  32.191  0.00  0.00           O 0
+ATOM   1832    O SER B  32      20.364 -28.432  33.260  0.69  1.07           O 0
+ATOM   1846   CB LYS B  34      23.135 -31.230  29.868  0.00  0.00           C 0
+TER
+END

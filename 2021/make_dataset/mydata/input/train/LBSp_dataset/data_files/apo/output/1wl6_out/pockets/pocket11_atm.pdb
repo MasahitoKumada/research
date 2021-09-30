@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0387
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0133
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6154
+HEADER 5  - Mean B-factor of pocket residues  : 0.5270
+HEADER 6  - Hydrophobicity Score              : -12.9000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 308.4561
+HEADER 10  -Pocket volume (convex hull)       : 18.3249
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0455
+ATOM   2020   CB CYS A 249      68.290  42.146  70.850  0.00  0.00           C 0
+ATOM   2069  OD2 ASP A 255      68.869  35.148  67.283  0.75  9.64           O 0
+ATOM   2025    O GLU A 250      71.249  39.281  70.706  0.47  3.21           O 0
+ATOM   2044   CG ARG A 252      70.788  35.460  70.605  0.00  0.00           C 0
+ATOM   1923   CG GLU A 237      61.926  35.615  66.764  0.00  0.00           C 0
+ATOM   3209   CA GLY A 400      61.608  33.484  63.167  0.00  0.00           C 0
+ATOM   3200    O ARG A 399      62.132  30.771  63.198  0.46  9.64           O 0
+ATOM   1926  OE2 GLU A 237      61.386  34.076  68.460  0.00  0.00           O 0
+ATOM   3211    O GLY A 400      63.617  34.647  62.626  0.69  4.29           O 0
+ATOM   2068  OD1 ASP A 255      68.836  33.150  66.400  0.00  0.00           O 0
+ATOM   1915   CA GLY A 236      66.664  36.770  65.027  0.00  0.00           C 0
+ATOM   1918    N GLU A 237      64.324  37.031  65.561  0.63  4.37           N 0
+ATOM   1924   CD GLU A 237      61.200  35.252  68.057  0.00  0.00           C 0
+ATOM   1922   CB GLU A 237      62.059  37.078  66.544  0.00  0.00           C 0
+ATOM   1934  ND2 ASN A 238      65.656  41.925  67.961  0.43  2.19           N 0
+ATOM   1933  OD1 ASN A 238      63.424  41.662  67.804  0.68  5.36           O 0
+ATOM   1911    O SER A 235      66.676  39.445  65.752  0.38  3.21           O 0
+ATOM   1913   OG SER A 235      69.548  40.182  66.735  0.32  3.21           O 0
+TER
+END

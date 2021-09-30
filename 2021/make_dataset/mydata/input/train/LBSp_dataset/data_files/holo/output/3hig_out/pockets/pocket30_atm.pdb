@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0047
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7333
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4395
+HEADER 5  - Mean B-factor of pocket residues  : 0.6201
+HEADER 6  - Hydrophobicity Score              : 21.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.8730
+HEADER 10  -Pocket volume (convex hull)       : 12.0842
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   9429   CG GLU B 493     -35.659 -28.618  13.148  0.00  0.00           C 0
+ATOM   7508    O GLY B 240     -32.649 -27.168   6.677  0.45  4.29           O 0
+ATOM   7506   CA GLY B 240     -33.349 -25.051   7.424  0.00  0.00           C 0
+ATOM   8346    O HIS B 362     -29.514 -25.620  12.595  0.00  0.00           O 0
+ATOM   9431  OE1 GLU B 493     -36.862 -27.000  11.821  0.75  6.43           O 0
+ATOM   9430   CD GLU B 493     -36.891 -28.120  12.383  0.00  0.00           C 0
+ATOM   7517   NZ LYS B 241     -35.741 -29.760   5.100  0.00  0.00           N 0
+ATOM   9428   CB GLU B 493     -35.010 -27.554  14.047  0.00  0.00           C 0
+ATOM   9415  OG1 THR B 491     -35.580 -24.121  12.632  0.78  2.14           O 0
+ATOM   8347   CB HIS B 362     -31.445 -25.140  14.864  0.00  0.00           C 0
+ATOM   7479  NE1 TRP B 237     -29.702 -24.663   7.770  0.00  0.00           N 0
+ATOM   7527  CE2 PHE B 242     -27.055 -27.979   6.669  0.00  0.00           C 0
+ATOM   7482  CZ2 TRP B 237     -31.212 -23.169   9.110  0.00  0.00           C 0
+ATOM   8350  CD2 HIS B 362     -32.856 -23.139  13.961  0.00  0.00           C 0
+ATOM   7528   CZ PHE B 242     -26.155 -26.992   7.088  0.00  0.00           C 0
+ATOM   8383   CE MET B 367     -26.156 -27.191  13.488  0.00  0.00           C 0
+ATOM   8366   CD PRO B 364     -26.854 -23.595   9.725  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0598
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0340
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7572
+HEADER 5  - Mean B-factor of pocket residues  : 0.1102
+HEADER 6  - Hydrophobicity Score              : 35.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.8844
+HEADER 10  -Pocket volume (convex hull)       : 2.8518
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   3006  OG1ATHR A 199      47.303  26.095  44.072  0.00  0.00           O 0
+ATOM   3028   NE ARG A 200      44.340  28.414  48.937  0.59  2.19           N 0
+ATOM   3004  CG2ATHR A 199      48.019  26.189  46.374  0.00  0.00           C 0
+ATOM   3031  NH2 ARG A 200      44.085  30.677  48.664  0.44  8.75           N 0
+ATOM   3002   CBATHR A 199      46.990  25.639  45.387  0.00  0.00           C 0
+ATOM   2922   CB LYS A 195      44.340  27.707  40.467  0.00  0.00           C 0
+ATOM   2882   CA ALA A 192      40.625  30.133  39.696  0.00  0.00           C 0
+ATOM   2885   CB ALA A 192      40.087  31.519  40.123  0.00  0.00           C 0
+ATOM   2924   CD LYS A 195      45.298  29.097  38.665  0.00  0.00           C 0
+ATOM   2921    O LYS A 195      44.655  25.802  43.120  0.00  0.00           O 0
+ATOM   2920    C LYS A 195      43.748  26.297  42.452  0.00  0.00           C 0
+ATOM   2941   CA LEU A 196      42.453  26.835  44.446  0.00  0.00           C 0
+ATOM   2946  CD1 LEU A 196      41.718  28.733  46.795  0.00  0.00           C 0
+ATOM   2940    N LEU A 196      42.649  26.782  43.000  0.74  1.09           N 0
+ATOM   2884    O ALA A 192      40.973  28.709  41.594  0.00  0.00           O 0
+ATOM   2684  CD1 ILE A 175      39.624  32.159  43.987  0.00  0.00           C 0
+ATOM   2682  CG1 ILE A 175      40.119  33.596  44.097  0.00  0.00           C 0
+ATOM   2944   CB LEU A 196      41.110  27.522  44.735  0.00  0.00           C 0
+TER
+END

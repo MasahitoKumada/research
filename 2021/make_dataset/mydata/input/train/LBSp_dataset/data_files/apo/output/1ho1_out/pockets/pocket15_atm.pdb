@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0869
+HEADER 1  - Drug Score                        : 0.0045
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9884
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7744
+HEADER 5  - Mean B-factor of pocket residues  : 0.5650
+HEADER 6  - Hydrophobicity Score              : 25.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 332.8346
+HEADER 10  -Pocket volume (convex hull)       : 11.8181
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   3083    O THR B 180      34.809  35.460  26.027  0.00  0.00           O 0
+ATOM   3113   OG SER B 184      36.575  38.041  28.456  0.75  4.29           O 0
+ATOM   3112   CB SER B 184      36.895  38.207  27.092  0.00  0.00           C 0
+ATOM   3086  CG2 THR B 180      32.417  36.550  24.073  0.00  0.00           C 0
+ATOM   3088   CA PHE B 181      33.790  35.148  28.533  0.00  0.00           C 0
+ATOM   3093  CD1 PHE B 181      33.638  36.730  31.222  0.00  0.00           C 0
+ATOM   3064    O LYS B 177      30.450  33.772  27.692  0.48  2.14           O 0
+ATOM   3087    N PHE B 181      33.175  34.632  27.311  0.72  2.19           N 0
+ATOM   3084   CB THR B 180      31.892  35.167  24.478  0.00  0.00           C 0
+ATOM   3091   CB PHE B 181      32.933  34.831  29.747  0.00  0.00           C 0
+ATOM   3085  OG1 THR B 180      31.214  34.579  23.362  0.47  9.64           O 0
+ATOM   3066   CG LYS B 177      26.070  34.686  27.187  0.00  0.00           C 0
+ATOM   3060   CB ALA B 176      26.762  30.970  23.444  0.00  0.00           C 0
+ATOM   3059    O ALA B 176      29.529  32.256  24.763  0.46  2.14           O 0
+ATOM   3058    C ALA B 176      28.471  31.746  25.118  0.00  0.00           C 0
+ATOM   3061    N LYS B 177      27.770  32.210  26.144  0.00  0.00           N 0
+ATOM   3062   CA LYS B 177      28.251  33.369  26.895  0.00  0.00           C 0
+ATOM   3065   CB LYS B 177      27.185  33.891  27.861  0.00  0.00           C 0
+TER
+END

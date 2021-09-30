@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0612
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8936
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6390
+HEADER 5  - Mean B-factor of pocket residues  : 0.2868
+HEADER 6  - Hydrophobicity Score              : 20.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 317.0766
+HEADER 10  -Pocket volume (convex hull)       : 18.6595
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   1609   CA ARG A 204      -6.470  38.272  12.520  0.00  0.00           C 0
+ATOM   1612   CB ARG A 204      -7.639  37.454  12.019  0.00  0.00           C 0
+ATOM   1611    O ARG A 204      -7.256  39.388  14.488  0.00  0.00           O 0
+ATOM   1613   CG ARG A 204      -7.667  37.388  10.520  0.00  0.00           C 0
+ATOM   1587  OE2 GLU A 200      -4.622  38.858   5.712  0.00  0.00           O 0
+ATOM   1606    C GLY A 203      -4.037  38.223  12.333  0.00  0.00           C 0
+ATOM   1608    N ARG A 204      -5.197  37.619  12.135  0.00  0.00           N 0
+ATOM   1582    O GLU A 200      -4.654  36.076   9.014  0.50  1.07           O 0
+ATOM   1607    O GLY A 203      -3.962  39.342  12.849  0.44  4.29           O 0
+ATOM   1669  CD2 LEU A 211      -0.520  38.058   7.849  0.00  0.00           C 0
+ATOM   1605   CA GLY A 203      -2.794  37.454  11.889  0.00  0.00           C 0
+ATOM   1636   CA PRO A 207      -5.004  43.592  14.587  0.00  0.00           C 0
+ATOM   1626    O TYR A 206      -2.610  42.202  14.390  0.00  0.00           O 0
+ATOM   1653    O VAL A 209      -0.900  43.423  11.833  0.76  3.21           O 0
+ATOM   1639   CB PRO A 207      -6.433  43.977  15.102  0.00  0.00           C 0
+ATOM   1666   CB LEU A 211       0.239  40.499   8.238  0.00  0.00           C 0
+ATOM   1662    N LEU A 211       0.674  42.937   8.423  0.35  2.19           N 0
+ATOM   1665    O LEU A 211       0.378  42.239   5.661  0.60  6.43           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0274
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9057
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4697
+HEADER 5  - Mean B-factor of pocket residues  : 0.8169
+HEADER 6  - Hydrophobicity Score              : 35.9000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 345.7093
+HEADER 10  -Pocket volume (convex hull)       : 26.8113
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM    479  CD2 LEU A  59      -0.393  -5.720  23.723  0.00  0.00           C 0
+ATOM    677  NH1 ARG A  85       5.340  -8.240  25.480  0.00  0.00           N 1
+ATOM    568  CG2 THR A  71       1.712  -8.989  20.856  0.00  0.00           C 0
+ATOM    863  CD1 PHE A 108       4.428  -5.448  22.798  0.00  0.00           C 0
+ATOM     79  CD1 ILE A   8      -2.797  -9.602  25.480  0.00  0.00           C 0
+ATOM    569  OG1 THR A  71       2.737 -10.964  20.347  0.00  0.00           O 0
+ATOM    494  OE1 GLU A  61      -0.565 -14.029  22.012  0.00  0.00           O 0
+ATOM    676   CZ ARG A  85       6.358  -9.125  25.388  0.00  0.00           C 0
+ATOM    675   NE ARG A  85       6.889  -9.602  24.232  0.00  0.00           N 0
+ATOM     52  OE1 GLN A   5      -0.013  -6.129  30.891  0.00  0.00           O 0
+ATOM    881  OD1 ASP A 110       5.561  -6.606  28.486  0.00  0.00           O 0
+ATOM     78  CG2 ILE A   8      -3.041 -10.147  22.428  0.00  0.00           C 0
+ATOM    674   CD ARG A  85       6.414  -9.193  22.937  0.00  0.00           C 0
+ATOM     56    O TYR A   6      -4.095  -5.448  25.526  0.47  2.14           O 0
+ATOM     49   CG GLN A   5      -2.273  -5.652  30.289  0.00  0.00           C 0
+ATOM     53    N TYR A   6      -3.147  -3.269  26.914  0.00  0.00           N 0
+ATOM    852    O LEU A 107       3.742  -2.588  24.925  0.58  4.29           O 0
+ATOM     60  CD2 TYR A   6      -0.756  -1.634  25.388  0.00  0.00           C 0
+TER
+END

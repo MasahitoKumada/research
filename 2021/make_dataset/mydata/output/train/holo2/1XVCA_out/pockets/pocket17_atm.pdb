@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0048
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8821
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6782
+HEADER 5  - Mean B-factor of pocket residues  : 0.4218
+HEADER 6  - Hydrophobicity Score              : -23.4286
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 288.9026
+HEADER 10  -Pocket volume (convex hull)       : 15.4094
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   3700   CA GLU A 471      93.340  74.488 106.503  0.00  0.00           C 0
+ATOM   3704   CG GLU A 471      91.353  75.147 107.962  0.00  0.00           C 0
+ATOM   3702    O GLU A 471      94.756  72.558 106.568  0.00  0.00           O 0
+ATOM   3737  OE2 GLU A 474      97.337  74.101 109.808  0.36  5.36           O 1
+ATOM   3466  OE1 GLU A 444      89.341  74.068 113.466  0.40  9.64           O 0
+ATOM   4101  ND2 ASN A 521      93.227  77.281 109.898  0.65  3.28           N 0
+ATOM   3706  OE1 GLU A 471      89.446  75.276 109.376  0.45  1.07           O 0
+ATOM   4125   NZ LYS A 524      96.140  75.738 112.801  0.55  6.56           N 1
+ATOM   3467  OE2 GLU A 444      88.079  73.170 111.914  0.00  0.00           O 1
+ATOM   3705   CD GLU A 471      89.889  74.902 108.268  0.00  0.00           C 0
+ATOM   4124   CE LYS A 524      94.981  76.497 113.353  0.00  0.00           C 0
+ATOM   3668   CG GLN A 467      88.577  70.104 106.271  0.00  0.00           C 0
+ATOM   3707  OE2 GLU A 471      89.176  74.349 107.399  0.00  0.00           O 1
+ATOM   3703   CB GLU A 471      91.905  74.186 106.928  0.00  0.00           C 0
+ATOM   3701    C GLU A 471      93.971  73.233 105.914  0.00  0.00           C 0
+ATOM   3715  NE2 GLN A 472      92.656  68.261 102.627  0.20  4.37           N 0
+ATOM   3709   CA GLN A 472      94.137  71.751 103.980  0.00  0.00           C 0
+ATOM   3716  OE1 GLN A 472      94.835  68.509 103.110  0.00  9.64           O 0
+ATOM   3708    N GLN A 472      93.623  72.931 104.669  0.00  0.00           N 0
+ATOM   3714   CD GLN A 472      93.797  68.936 102.595  0.00  0.00           C 0
+TER
+END

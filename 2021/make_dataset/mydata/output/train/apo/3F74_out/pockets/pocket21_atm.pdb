@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0300
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9708
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6280
+HEADER 5  - Mean B-factor of pocket residues  : 0.4600
+HEADER 6  - Hydrophobicity Score              : 44.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.6373
+HEADER 10  -Pocket volume (convex hull)       : 2.4968
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   2745    N SER B 283       5.771 -12.550 -10.778  0.74  1.09           N 0
+ATOM   2746   CA SER B 283       4.995 -13.623 -11.417  0.00  0.00           C 0
+ATOM   1474  CD1 ILE A 306       0.701  -9.811 -12.572  0.00  0.00           C 0
+ATOM   1471   CB ILE A 306       3.208  -9.311 -12.593  0.00  0.00           C 0
+ATOM   1473  CG2 ILE A 306       3.079  -8.230 -11.514  0.00  0.00           C 0
+ATOM   2691  CE1 HIS B 275       3.421  -8.552  -7.014  0.00  0.00           C 0
+ATOM   2744   CB ALA B 282       6.023 -10.385  -8.358  0.00  0.00           C 0
+ATOM   2774    O VAL B 286       3.974 -15.824  -6.887  0.00  0.00           O 0
+ATOM   2743    O ALA B 282       5.755 -13.567  -8.759  0.00  0.00           O 0
+ATOM   2692  NE2 HIS B 275       3.163  -9.448  -6.079  0.00  0.00           N 0
+ATOM   2775   CB VAL B 286       5.179 -13.510  -5.480  0.00  0.00           C 0
+ATOM   2776  CG1 VAL B 286       4.032 -13.444  -4.451  0.00  0.00           C 0
+ATOM   2792  CG1 ILE B 288      -0.030 -14.793  -4.004  0.00  0.00           C 0
+ATOM   2657  OE1 GLN B 271      -2.768 -12.044  -5.100  0.00  0.00           O 0
+ATOM   2654   CB GLN B 271      -1.155 -10.856  -3.156  0.00  0.00           C 0
+ATOM   2742    C ALA B 282       6.089 -12.616  -9.485  0.00  0.00           C 0
+TER
+END

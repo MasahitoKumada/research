@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1599
+HEADER 1  - Drug Score                        : 0.0755
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.8508
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5268
+HEADER 5  - Mean B-factor of pocket residues  : 0.2030
+HEADER 6  - Hydrophobicity Score              : 21.3750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.8331
+HEADER 10  -Pocket volume (convex hull)       : 11.2471
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   1473  CG2AILE A 168      20.425  26.592  -3.444  0.00  0.00           C 0
+ATOM   1465   CAAILE A 168      22.955  26.308  -3.168  0.00  0.00           C 0
+ATOM    986  CD2APHE A 119      17.755  23.921  -0.924  0.00  0.00           C 0
+ATOM    990  CE2APHE A 119      17.929  22.633  -0.348  0.00  0.00           C 0
+ATOM   1460    O PRO A 167      25.302  25.032  -3.524  0.58  2.14           O 0
+ATOM    391  ND2 ASN A  42      19.912  21.070   2.000  0.00  0.00           N 0
+ATOM   1471  CG1AILE A 168      21.497  26.645  -1.106  0.00  0.00           C 0
+ATOM   1464    N ILE A 168      24.169  26.647  -2.389  0.00  0.00           N 0
+ATOM   1461   CB PRO A 167      26.645  25.493  -0.621  0.00  0.00           C 0
+ATOM   1459    C PRO A 167      25.272  25.958  -2.680  0.00  0.00           C 0
+ATOM   1025   CEALYS A 122      20.626  21.567  -6.740  0.00  0.00           C 0
+ATOM   1497   CA GLY A 171      24.811  23.016  -6.612  0.00  0.00           C 0
+ATOM   1023   CDALYS A 122      19.776  22.801  -6.757  0.00  0.00           C 0
+ATOM   1468    O ILE A 168      22.756  26.106  -5.549  0.00  0.00           O 0
+ATOM    415   OGASER A  45      17.536  17.776  -1.921  0.62  4.29           O 0
+ATOM   1027   NZALYS A 122      19.903  20.297  -6.294  0.00  0.00           N 0
+ATOM    992   CZAPHE A 119      16.897  21.709  -0.407  0.00  0.00           C 0
+ATOM    979    O PHE A 119      15.348  23.886  -4.831  0.00  0.00           O 0
+ATOM   1036   CGAMET A 123      14.495  20.540  -4.543  0.00  0.00           C 0
+TER
+END

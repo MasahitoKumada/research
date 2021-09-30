@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0201
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8576
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6605
+HEADER 5  - Mean B-factor of pocket residues  : 0.4163
+HEADER 6  - Hydrophobicity Score              : 7.9091
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.8520
+HEADER 10  -Pocket volume (convex hull)       : 20.5285
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2045   CB SER A 265      23.033 -13.564  32.159  0.00  0.00           C 0
+ATOM   2074    O MET A 269      18.972 -14.241  32.028  0.61  3.21           O 0
+ATOM   2084   CG GLU A 270      17.664 -18.179  33.796  0.00  0.00           C 0
+ATOM   2087  OE2 GLU A 270      18.094 -16.635  35.565  0.00  0.00           O 1
+ATOM   2091    O SER A 271      18.597 -14.983  27.667  0.00  0.00           O 0
+ATOM   2041    N SER A 265      21.370 -12.143  31.074  0.00  0.00           N 0
+ATOM   2046   OGASER A 265      24.036 -12.970  31.355  0.72  5.36           O 0
+ATOM   2040   CD PRO A 264      20.288 -11.844  27.462  0.00  0.00           C 0
+ATOM   2082    O GLU A 270      17.915 -17.599  29.487  0.00  0.00           O 0
+ATOM   2068   CA GLY A 268      19.364 -11.946  36.123  0.00  0.00           C 0
+ATOM   2044    O SER A 265      22.572 -11.499  34.380  0.00  0.00           O 0
+ATOM   2099    N GLY A 273      19.350 -13.774  24.217  0.00  0.00           N 0
+ATOM   2095   CA ALA A 272      18.160 -15.747  25.032  0.00  0.00           C 0
+ATOM   2129  OE2 GLU A 276      22.645 -17.317  22.649  0.00  0.00           O 1
+ATOM   2029   CB GLN A 263      24.530 -10.546  27.929  0.00  0.00           C 0
+ATOM   2026   CA GLN A 263      23.097 -10.832  27.457  0.00  0.00           C 0
+ATOM   2033  OE1 GLN A 263      27.282 -11.920  28.106  0.00  0.00           O 0
+ATOM   2030   CG GLN A 263      25.583 -10.774  26.854  0.00  0.00           C 0
+ATOM   2080   CA GLU A 270      17.717 -16.675  31.744  0.00  0.00           C 0
+ATOM   2042   CA SER A 265      21.892 -12.559  32.373  0.00  0.00           C 0
+ATOM   2017    O PHE A 262      22.717 -11.610  24.825  0.56  7.50           O 0
+TER
+END

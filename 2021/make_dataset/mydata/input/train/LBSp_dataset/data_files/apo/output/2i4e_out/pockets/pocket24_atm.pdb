@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0773
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2368
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5830
+HEADER 5  - Mean B-factor of pocket residues  : 0.2769
+HEADER 6  - Hydrophobicity Score              : 16.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.7342
+HEADER 10  -Pocket volume (convex hull)       : 1.7353
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM    658    O TYR A1762      20.520 -10.853  45.363  0.00  0.00           O 0
+ATOM    659   CB TYR A1762      21.227 -13.581  46.450  0.00  0.00           C 0
+ATOM    546  CG2 THR A1742      23.852  -8.273  47.732  0.00  0.00           C 0
+ATOM   2089  CD2 HIS A1942      20.203  -7.975  47.829  0.00  0.00           C 0
+ATOM    721    O ARG A1769      17.043 -12.554  49.070  0.79  2.14           O 0
+ATOM    538    O ALA A1741      26.457  -9.887  49.532  0.00  0.00           O 0
+ATOM    541   CA THR A1742      25.416 -10.194  47.077  0.00  0.00           C 0
+ATOM    544   CB THR A1742      24.270  -9.274  46.610  0.00  0.00           C 0
+ATOM    736   NE ARG A1770      21.643 -15.914  50.335  0.00  0.00           N 0
+ATOM   2091  NE2 HIS A1942      19.457  -7.529  48.900  0.60  3.28           N 0
+ATOM    725   NE ARG A1769      17.226  -9.664  53.279  0.00  0.00           N 0
+ATOM    734   CG ARG A1770      19.323 -15.462  49.588  0.00  0.00           C 0
+ATOM    722   CB ARG A1769      16.364 -12.296  52.072  0.00  0.00           C 0
+ATOM    662  CD2 TYR A1762      23.307 -14.856  47.073  0.00  0.00           C 0
+ATOM    739  NH2 ARG A1770      23.894 -16.029  50.803  0.58  7.66           N 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0235
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7786
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4473
+HEADER 5  - Mean B-factor of pocket residues  : 0.2515
+HEADER 6  - Hydrophobicity Score              : 29.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 120.8553
+HEADER 10  -Pocket volume (convex hull)       : 1.7878
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    296  CG1 VAL A  40      -2.014  20.923  -3.425  0.00  0.00           C 0
+ATOM    279   CB ASN A  38       2.767  24.696  -4.419  0.00  0.00           C 0
+ATOM    278    O ASN A  38       3.511  22.005  -3.968  0.69  3.21           O 0
+ATOM    246  OD2 ASP A  33       2.607  22.929  -8.723  0.48  9.64           O 0
+ATOM    334  CG2 ILE A  45       1.964  15.534  -5.236  0.00  0.00           C 0
+ATOM    289  CD1 LEU A  39       3.219  17.738  -2.123  0.00  0.00           C 0
+ATOM    217    O GLN A  30       5.567  19.193  -7.526  0.00  0.00           O 0
+ATOM    333  CG1 ILE A  45       4.461  15.748  -5.582  0.00  0.00           C 0
+ATOM    243   CB ASP A  33       4.416  22.376  -7.290  0.00  0.00           C 0
+ATOM    215   CA GLN A  30       4.457  18.723  -9.579  0.00  0.00           C 0
+ATOM    291    N VAL A  40       0.309  19.427  -2.378  0.00  0.00           N 0
+ATOM    297  CG2 VAL A  40      -1.508  18.758  -4.628  0.00  0.00           C 0
+ATOM    219   CG GLN A  30       2.460  17.288 -10.141  0.00  0.00           C 0
+ATOM    218   CB GLN A  30       3.830  17.341  -9.510  0.00  0.00           C 0
+ATOM    222  NE2 GLN A  30       0.895  15.691  -9.202  0.00  0.00           N 0
+TER
+END

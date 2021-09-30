@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0030
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8134
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4649
+HEADER 5  - Mean B-factor of pocket residues  : 0.5193
+HEADER 6  - Hydrophobicity Score              : 23.0909
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 391.8301
+HEADER 10  -Pocket volume (convex hull)       : 26.3952
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0357
+ATOM   2791   CB ALA A 356      70.632  46.585 -17.403  0.00  0.00           C 0
+ATOM   2212    N LEU A 282      75.091  45.004 -14.173  0.57  1.09           N 0
+ATOM   2216   CB LEU A 282      72.713  44.377 -14.446  0.00  0.00           C 0
+ATOM   2215    O LEU A 282      74.550  44.967 -17.001  0.58  6.43           O 0
+ATOM   1411  OE2 GLU A 179      71.781  47.857 -11.928  0.64  6.43           O 0
+ATOM   2796   CB SER A 357      70.163  50.161 -21.085  0.00  0.00           C 0
+ATOM   2801    O TYR A 358      72.885  49.766 -24.010  0.66  3.21           O 0
+ATOM   2827   CB VAL A 361      71.169  51.999 -26.114  0.00  0.00           C 0
+ATOM   2835   CG GLN A 362      75.638  54.563 -24.593  0.00  0.00           C 0
+ATOM   3653  CD1 TRP A 463      77.468  48.534 -18.857  0.00  0.00           C 0
+ATOM   1145   CD ARG A 146      76.140  50.548 -15.882  0.00  0.00           C 0
+ATOM   1146   NE ARG A 146      75.783  51.386 -17.014  0.72  6.56           N 0
+ATOM   1149  NH2 ARG A 146      76.180  52.832 -18.744  0.00  0.00           N 0
+ATOM   2837  OE1 GLN A 362      76.406  54.498 -22.340  0.48  7.50           O 0
+ATOM   3655  NE1 TRP A 463      76.896  49.503 -19.673  0.59  4.37           N 0
+ATOM   2797   OG SER A 357      68.940  50.744 -20.706  0.00  0.00           O 0
+ATOM   2792    N SER A 357      69.691  48.151 -19.767  0.71  2.19           N 0
+ATOM    517  NH1 ARG A  64      73.095  53.727 -12.338  0.45  7.66           N 0
+ATOM   2795    O SER A 357      72.131  47.812 -20.959  0.58  6.43           O 0
+ATOM   3658  CZ2 TRP A 463      77.805  51.091 -21.394  0.00  0.00           C 0
+ATOM   2811   CA PRO A 359      75.604  49.353 -23.858  0.00  0.00           C 0
+ATOM   1143   CB ARG A 146      76.337  50.686 -13.382  0.00  0.00           C 0
+ATOM   1144   CG ARG A 146      76.060  51.427 -14.648  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1017
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8727
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6701
+HEADER 5  - Mean B-factor of pocket residues  : 0.6431
+HEADER 6  - Hydrophobicity Score              : -3.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.6666
+HEADER 10  -Pocket volume (convex hull)       : 19.0830
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    835  OE2 GLU A2549       5.006  15.438  11.092  0.68  1.07           O 0
+ATOM    834  OE1 GLU A2549       2.810  15.395  11.123  0.85  5.36           O 0
+ATOM    825   CE LYS A2548       2.226  20.211  11.004  0.00  0.00           C 0
+ATOM    765  NH1 ARG A2540       5.043  15.295   6.472  0.00  0.00           N 0
+ATOM    822   CB LYS A2548       4.770  18.987  12.157  0.00  0.00           C 0
+ATOM    731    O PRO A2536       8.887  22.199  10.777  0.59  3.21           O 0
+ATOM    826   NZ LYS A2548       2.169  21.573  11.609  0.00  0.00           N 0
+ATOM    813    N ALA A2547       8.960  17.209  10.512  0.00  0.00           N 0
+ATOM    810   CA GLY A2546       7.928  15.344   9.376  0.00  0.00           C 0
+ATOM    818    N LYS A2548       7.177  18.536  12.164  0.00  0.00           N 0
+ATOM    817   CB ALA A2547      10.064  19.290  11.164  0.00  0.00           C 0
+ATOM    748    O SER A2538      11.818  18.889   7.854  0.62  3.21           O 0
+ATOM    738    O HIS A2537      11.811  22.065   6.887  0.00  0.00           O 0
+ATOM    736   CA HIS A2537      10.539  22.853   8.759  0.00  0.00           C 0
+ATOM    737    C HIS A2537      11.660  22.045   8.109  0.00  0.00           C 0
+ATOM    756    N ARG A2540      11.233  16.495   5.776  0.00  0.00           N 0
+ATOM    752   CA ALA A2539      13.084  18.040   5.483  0.00  0.00           C 0
+ATOM    742  CD2 HIS A2537       7.733  24.642   7.414  0.00  0.00           C 0
+ATOM    744  NE2 HIS A2537       6.768  25.305   8.134  0.00  0.00           N 0
+ATOM    760   CB ARG A2540       9.099  15.253   5.837  0.00  0.00           C 0
+ATOM    761   CG ARG A2540       8.980  15.089   4.327  0.00  0.00           C 0
+ATOM    763   NE ARG A2540       6.526  15.211   4.712  0.00  0.00           N 0
+TER
+END

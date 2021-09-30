@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0414
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6652
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3815
+HEADER 5  - Mean B-factor of pocket residues  : 0.2583
+HEADER 6  - Hydrophobicity Score              : -9.6667
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.8359
+HEADER 10  -Pocket volume (convex hull)       : 13.0119
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM   2237  CG1 VAL A 283       8.370   4.662   3.146  0.00  0.00           C 0
+ATOM   2034    O LYS A 257       8.552  -1.018   7.061  0.12  4.29           O 0
+ATOM   2027    O THR A 256       5.826   2.312   8.788  0.00  0.00           O 0
+ATOM   2033    C LYS A 257       7.341  -0.766   7.181  0.00  0.00           C 0
+ATOM   2040    N SER A 258       6.463  -0.892   6.189  0.00  0.00           N 0
+ATOM   2029  OG1 THR A 256       3.662   2.769   6.487  0.58  4.29           O 0
+ATOM   2232    N VAL A 283       6.383   4.315   0.740  0.00  0.00           N 0
+ATOM   2043    O SER A 258       4.574  -0.784   4.327  0.00  0.00           O 0
+ATOM   2246  OD2 ASP A 284       9.360   0.734   2.570  0.33  5.36           O 0
+ATOM   2219    O ASN A 281       3.156   5.023   2.239  0.29  4.29           O 0
+ATOM   2053  ND2 ASN A 259       6.182   0.961   0.326  0.63  1.09           N 0
+ATOM   1907   CE LYS A 240       8.849   7.509   6.892  0.00  0.00           C 0
+ATOM   1908   NZ LYS A 240       9.352   7.667   8.278  0.00  0.00           N 0
+ATOM   1905   CG LYS A 240       6.977   8.144   5.361  0.00  0.00           C 0
+ATOM   1906   CD LYS A 240       7.511   8.227   6.759  0.00  0.00           C 0
+ATOM   2023  NH2 ARG A 255       8.527   1.918  13.294  0.36  8.75           N 0
+ATOM   2039   NZ LYS A 257       9.546  -1.924  11.865  0.48  7.66           N 0
+ATOM   2032   CA LYS A 257       6.763  -0.331   8.535  0.00  0.00           C 0
+ATOM   2042    C SER A 258       5.683  -1.142   3.906  0.00  0.00           C 0
+TER
+END

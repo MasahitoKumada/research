@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.1174
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7416
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3953
+HEADER 5  - Mean B-factor of pocket residues  : 0.5087
+HEADER 6  - Hydrophobicity Score              : 13.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 274.9093
+HEADER 10  -Pocket volume (convex hull)       : 20.9184
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4348
+ATOM    129    O ASP A  25      24.638  31.425  23.575  0.00  0.00           O 0
+ATOM    124  CE2 PHE A  24      25.606  27.216  19.830  0.00  0.00           C 0
+ATOM    126    N ASP A  25      26.612  28.703  24.393  0.00  0.00           N 0
+ATOM    128    C ASP A  25      24.684  30.246  23.932  0.00  0.00           C 0
+ATOM    125   CZ PHE A  24      26.697  27.129  18.983  0.00  0.00           C 0
+ATOM    192   CB SER A  32      24.523  34.413  17.161  0.00  0.00           C 0
+ATOM    193   OG SER A  32      25.051  34.791  18.412  0.00  0.00           O 0
+ATOM    283  CG2AVAL A  44      25.744  28.125  15.092  0.00  0.00           C 0
+ATOM    135   CA PHE A  26      22.700  29.674  22.641  0.00  0.00           C 0
+ATOM    281  CG1AVAL A  44      23.616  27.910  16.355  0.00  0.00           C 0
+ATOM    198   CB ASN A  33      22.782  32.650  12.965  0.00  0.00           C 0
+ATOM    194    N ASN A  33      22.375  34.070  14.892  0.00  0.00           N 0
+ATOM    145    N ASP A  27      21.107  31.495  22.818  0.71  1.09           N 0
+ATOM    149   CB ASP A  27      20.307  33.734  23.410  0.00  0.00           C 0
+ATOM    188    N SER A  32      22.133  34.255  17.721  0.55  2.19           N 0
+ATOM    176    O ASN A  30      20.115  35.813  20.226  0.34  2.14           O 0
+ATOM    140  CD1 PHE A  26      21.429  28.899  19.688  0.00  0.00           C 0
+TER
+END

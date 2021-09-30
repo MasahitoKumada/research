@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0318
+HEADER 1  - Drug Score                        : 0.0318
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8036
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5046
+HEADER 5  - Mean B-factor of pocket residues  : 0.2380
+HEADER 6  - Hydrophobicity Score              : 66.5714
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.5787
+HEADER 10  -Pocket volume (convex hull)       : 4.6748
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.7083
+ATOM   1225  CD1 TRP A 155      17.627  56.068  -0.360  0.00  0.00           C 0
+ATOM   1365    O PHE A 173      17.664  63.105  -2.511  0.00  0.00           O 0
+ATOM   1227  NE1 TRP A 155      17.904  55.934  -1.703  0.74  7.66           N 0
+ATOM   1413  CG1 VAL A 178      14.882  58.062   2.062  0.00  0.00           C 0
+ATOM   1414  CG2 VAL A 178      12.741  59.275   1.356  0.00  0.00           C 0
+ATOM   1380    N GLU A 175      13.987  63.012  -0.217  0.68  2.19           N 0
+ATOM   1228  CE2 TRP A 155      19.250  56.112  -1.898  0.00  0.00           C 0
+ATOM   1230  CZ2 TRP A 155      20.009  56.088  -3.077  0.00  0.00           C 0
+ATOM   1355   CGAMET A 172      21.303  63.050  -1.732  0.00  0.00           C 0
+ATOM   1232  CH2 TRP A 155      21.360  56.305  -2.979  0.00  0.00           C 0
+ATOM   1205   CEAMET A 153      23.361  59.536  -1.477  0.00  0.00           C 0
+ATOM   1357   CEAMET A 172      21.035  61.017   0.257  0.00  0.00           C 0
+ATOM   1226  CD2 TRP A 155      19.831  56.366  -0.621  0.00  0.00           C 0
+ATOM   1224   CG TRP A 155      18.780  56.313   0.345  0.00  0.00           C 0
+ATOM   1379  CG2 VAL A 174      18.583  62.806   1.150  0.00  0.00           C 0
+ATOM   1374   CA VAL A 174      16.384  63.352  -0.001  0.00  0.00           C 0
+ATOM   1378  CG1 VAL A 174      16.458  61.861   2.048  0.00  0.00           C 0
+TER
+END

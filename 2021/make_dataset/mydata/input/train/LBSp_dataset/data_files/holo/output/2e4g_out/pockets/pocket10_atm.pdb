@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1373
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5680
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4128
+HEADER 5  - Mean B-factor of pocket residues  : 0.0401
+HEADER 6  - Hydrophobicity Score              : 2.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 78.8729
+HEADER 10  -Pocket volume (convex hull)       : 0.4147
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   7361   CB GLU B 393     -18.291  43.182  10.945  0.00  0.00           C 0
+ATOM   7324    O ASN B 389     -14.973  43.073  12.400  0.47  1.07           O 0
+ATOM   6904    O ARG B 336     -18.629  47.594  14.515  0.15  1.07           O 0
+ATOM   6923    N ALA B 338     -16.349  44.895  17.595  0.66  3.28           N 0
+ATOM   7357    N GLU B 393     -17.208  41.183  11.894  0.00  0.00           N 0
+ATOM   7355  CG2 ILE B 392     -17.132  39.880  15.309  0.00  0.00           C 0
+ATOM   6896    O ASN B 335     -20.723  45.616  16.036  0.00  0.00           O 0
+ATOM   6886   CB ARG B 334     -22.728  42.283  15.699  0.00  0.00           C 0
+ATOM   6888   CD ARG B 334     -21.631  42.690  13.436  0.00  0.00           C 0
+ATOM   6891  NH1 ARG B 334     -20.928  45.383  12.817  0.00  0.00           N 0
+ATOM   7010   OG SER B 350     -18.800  40.058  19.063  0.67  2.14           O 0
+ATOM   7008    O SER B 350     -21.588  41.650  19.198  0.00  0.00           O 0
+ATOM   6927   CB ALA B 338     -15.904  42.501  17.926  0.00  0.00           C 0
+TER
+END

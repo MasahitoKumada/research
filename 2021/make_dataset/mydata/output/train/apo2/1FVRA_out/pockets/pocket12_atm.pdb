@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0815
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1636
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6141
+HEADER 5  - Mean B-factor of pocket residues  : 0.7148
+HEADER 6  - Hydrophobicity Score              : 59.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.2784
+HEADER 10  -Pocket volume (convex hull)       : 3.7024
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM    702    N GLY A 880     -10.067 -20.400  11.892  0.48  1.09           N 0
+ATOM    715  NE2 HIS A 881     -14.412 -19.454  16.098  0.50  8.75           N 0
+ATOM    703   CA GLY A 880     -11.096 -21.339  12.288  0.00  0.00           C 0
+ATOM    705    O GLY A 880     -10.657 -20.536  14.491  0.58  3.21           O 0
+ATOM    771  CD1 LEU A 888      -9.760 -14.193  14.431  0.00  0.00           C 0
+ATOM    682    O CYS A 877     -10.945 -17.436   8.652  0.38  7.50           O 0
+ATOM    244  CG2 ILE A 815     -13.193 -12.143  13.920  0.00  0.00           C 0
+ATOM    684   SG CYS A 877     -11.299 -12.896   8.761  0.00  0.00           S 0
+ATOM    680   CA CYS A 877      -9.979 -15.320   9.228  0.00  0.00           C 0
+ATOM    683   CB CYS A 877     -10.662 -14.470   8.153  0.00  0.00           C 0
+ATOM    239   CA ILE A 815     -14.496 -11.316  11.924  0.00  0.00           C 0
+ATOM    674    O LEU A 876      -8.547 -15.807  11.552  0.54  1.07           O 0
+ATOM    769   CB LEU A 888     -11.022 -14.859  16.472  0.00  0.00           C 0
+ATOM    249    O TYR A 816     -16.480 -13.894  15.108  0.32  5.36           O 0
+ATOM    768    O LEU A 888     -13.207 -16.170  18.186  0.52  2.14           O 0
+ATOM    770   CG LEU A 888      -9.676 -14.979  15.742  0.00  0.00           C 0
+TER
+END

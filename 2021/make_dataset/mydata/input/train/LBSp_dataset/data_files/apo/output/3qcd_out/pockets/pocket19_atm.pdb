@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0238
+HEADER 1  - Drug Score                        : 0.0089
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1896
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6979
+HEADER 5  - Mean B-factor of pocket residues  : 0.3100
+HEADER 6  - Hydrophobicity Score              : 16.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.6063
+HEADER 10  -Pocket volume (convex hull)       : 1.9935
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   1320  CE1 TYR A 989       8.102  28.396  50.404  0.00  0.00           C 0
+ATOM   1311   SG CYS A 988       8.510  32.865  55.629  0.00  0.00           S 0
+ATOM   1306    N CYS A 988       8.456  33.521  52.563  0.00  0.00           N 0
+ATOM   1305   CB ALA A 987       5.641  34.728  53.267  0.00  0.00           C 0
+ATOM   1310   CB CYS A 988       9.558  32.214  54.313  0.00  0.00           C 0
+ATOM   1295   CB HIS A 986       6.374  31.866  49.080  0.00  0.00           C 0
+ATOM   1301    N ALA A 987       6.172  34.173  50.957  0.68  3.28           N 0
+ATOM   1318  CD1 TYR A 989       9.190  29.185  50.728  0.00  0.00           C 0
+ATOM   1636    O PRO A1037       9.623  27.141  55.624  0.56  1.07           O 0
+ATOM   1634   CA PRO A1037       8.485  28.101  57.499  0.00  0.00           C 0
+ATOM   1637   CB PRO A1037       8.758  29.598  57.661  0.00  0.00           C 0
+ATOM   1661  CG2 THR A1040       5.958  25.037  53.320  0.00  0.00           C 0
+ATOM   1659   CB THR A1040       6.735  25.032  54.628  0.00  0.00           C 0
+ATOM   1660  OG1 THR A1040       5.823  24.901  55.726  0.59  6.43           O 0
+ATOM   1707  NH2 ARG A1044       4.669  25.797  50.036  0.00  0.00           N 0
+ATOM   1297  ND1 HIS A 986       4.877  30.190  47.929  0.62  6.56           N 0
+TER
+END

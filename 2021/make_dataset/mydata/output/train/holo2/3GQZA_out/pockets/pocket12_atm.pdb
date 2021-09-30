@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0298
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8857
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4384
+HEADER 5  - Mean B-factor of pocket residues  : 0.6905
+HEADER 6  - Hydrophobicity Score              : 20.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.3514
+HEADER 10  -Pocket volume (convex hull)       : 6.3966
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2400
+ATOM   1614  NH1 ARG A 204     -44.317   6.698  11.897  0.49  5.47           N 1
+ATOM   1672   OG SER A 212     -41.773   3.042   4.960  0.00  0.00           O 0
+ATOM   2559    N GLY A 320     -41.283   3.026  13.275  0.38  7.66           N 0
+ATOM   2560   CA GLY A 320     -42.643   3.563  13.296  0.00  0.00           C 0
+ATOM   1667    N SER A 212     -40.045   1.213   6.343  0.53  4.37           N 0
+ATOM   1649  CG2 VAL A 209     -46.438   0.453  11.347  0.00  0.00           C 0
+ATOM   1647   CB VAL A 209     -46.659   0.283   9.839  0.00  0.00           C 0
+ATOM   1653    O HIS A 210     -42.937  -0.297   7.487  0.52  8.57           O 0
+ATOM   2563    N GLY A 321     -43.413   1.387  14.029  0.55  1.09           N 0
+ATOM   1611   CD ARG A 204     -46.597   5.358  12.921  0.00  0.00           C 0
+ATOM   1648  CG1 VAL A 209     -47.806   1.164   9.350  0.00  0.00           C 0
+ATOM   1652    C HIS A 210     -42.496  -1.238   8.150  0.00  0.00           C 0
+ATOM   1660    N VAL A 211     -41.237  -1.303   8.573  0.00  0.00           N 0
+ATOM   1661   CA VAL A 211     -40.269  -0.245   8.285  0.00  0.00           C 0
+ATOM   1666  CG2 VAL A 211     -37.945   0.669   8.816  0.00  0.00           C 0
+TER
+END

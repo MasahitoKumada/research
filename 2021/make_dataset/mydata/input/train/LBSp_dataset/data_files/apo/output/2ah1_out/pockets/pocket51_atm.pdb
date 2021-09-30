@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.0681
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0104
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5714
+HEADER 5  - Mean B-factor of pocket residues  : 0.7510
+HEADER 6  - Hydrophobicity Score              : 2.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 2.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.8308
+HEADER 10  -Pocket volume (convex hull)       : 3.0899
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   5643    O THR B 220     -13.986 -10.616  -6.279  0.55  1.07           O 0
+ATOM   5519    O THR B 203     -10.549  -8.475  -3.436  0.55  3.21           O 0
+ATOM   5644   CB THR B 220     -13.728 -13.558  -5.304  0.00  0.00           C 0
+ATOM   5661   CB ALA B 223     -11.444  -8.328  -7.044  0.00  0.00           C 0
+ATOM   5641   CA THR B 220     -14.204 -12.302  -4.585  0.00  0.00           C 0
+ATOM   5646  CG2 THR B 220     -13.017 -14.499  -4.326  0.00  0.00           C 0
+ATOM   5515   CB ALA B 202      -5.811  -9.518  -4.200  0.00  0.00           C 0
+ATOM   5632  OD2 ASP B 218     -10.617 -14.883  -0.254  0.62  7.50           O 0
+ATOM   5296   NZ LYS B 174      -8.223 -14.045   0.463  0.33  7.66           N 0
+ATOM   5514    O ALA B 202      -6.933  -8.526  -1.482  0.70  1.07           O 0
+ATOM   5503   OG SER B 200      -4.339 -10.782  -1.304  0.48  5.36           O 0
+ATOM   5527   CB SER B 204     -11.821 -10.614  -1.243  0.00  0.00           C 0
+ATOM   5528   OG SER B 204     -11.101 -11.088  -0.125  0.74  2.14           O 0
+TER
+END

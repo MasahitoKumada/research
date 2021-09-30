@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0373
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9830
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6002
+HEADER 5  - Mean B-factor of pocket residues  : 0.2767
+HEADER 6  - Hydrophobicity Score              : 13.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 328.8062
+HEADER 10  -Pocket volume (convex hull)       : 13.6901
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM    625  NH1 ARG F  87     -15.258 184.120 -28.114  0.00  0.00           N 1
+ATOM    624   CZ ARG F  87     -16.371 183.417 -28.289  0.00  0.00           C 0
+ATOM    585    O ALA F  82     -15.449 186.999 -27.766  0.00  0.00           O 0
+ATOM    626  NH2 ARG F  87     -17.511 184.046 -28.544  0.50  7.66           N 0
+ATOM   1554  CD2 LEU F 211     -12.322 182.582 -25.193  0.00  0.00           C 0
+ATOM    623   NE ARG F  87     -16.353 182.090 -28.210  0.00  0.00           N 0
+ATOM   1553  CD1 LEU F 211     -11.008 183.878 -23.501  0.00  0.00           C 0
+ATOM   1540   CD GLN F 209     -12.065 185.801 -18.883  0.00  0.00           C 0
+ATOM   1542  OE1 GLN F 209     -12.867 186.712 -18.685  0.00  0.00           O 0
+ATOM   1538   CB GLN F 209     -12.467 183.351 -19.436  0.00  0.00           C 0
+ATOM   1541  NE2 GLN F 209     -10.934 185.972 -19.557  0.70  2.19           N 0
+ATOM   1546    O GLY F 210     -13.212 178.656 -23.461  0.20  5.36           O 0
+ATOM   1537    O GLN F 209     -14.021 181.472 -20.928  0.00  0.00           O 0
+ATOM    622   CD ARG F  87     -15.161 181.287 -27.940  0.00  0.00           C 0
+ATOM   1552   CG LEU F 211     -11.559 182.511 -23.873  0.00  0.00           C 0
+ATOM    563  OE1 GLU F  79     -13.152 190.060 -21.562  0.48  6.43           O 0
+ATOM    586   CB ALA F  82     -12.830 186.887 -25.852  0.00  0.00           C 0
+ATOM    557   CA GLU F  79     -10.770 190.221 -23.981  0.00  0.00           C 0
+TER
+END

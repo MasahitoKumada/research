@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0648
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8243
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6308
+HEADER 5  - Mean B-factor of pocket residues  : 0.2163
+HEADER 6  - Hydrophobicity Score              : 30.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.1814
+HEADER 10  -Pocket volume (convex hull)       : 5.7301
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   1001    O THR F 138       1.143 169.202 -30.177  0.00  0.00           O 0
+ATOM   1003  CG2 THR F 138      -1.185 167.136 -29.068  0.00  0.00           C 0
+ATOM   1032  OE1 GLU F 142       3.129 165.021 -31.436  0.00  0.00           O 0
+ATOM   1023  CG1 VAL F 141       5.426 168.104 -28.571  0.00  0.00           C 0
+ATOM    802  CG2 THR F 111       3.863 171.679 -20.545  0.00  0.00           C 0
+ATOM    996  CG2 THR F 137       1.705 171.999 -24.326  0.00  0.00           C 0
+ATOM    974  CE2 PHE F 134      -2.158 166.507 -23.303  0.00  0.00           C 0
+ATOM    972  CD2 PHE F 134      -2.660 167.748 -22.914  0.00  0.00           C 0
+ATOM    999   CA THR F 138      -0.120 169.253 -28.134  0.00  0.00           C 0
+ATOM    998    N THR F 138      -0.341 170.417 -27.274  0.72  1.09           N 0
+ATOM   1024  CG2 VAL F 141       4.749 170.106 -27.234  0.00  0.00           C 0
+ATOM   1022   CB VAL F 141       4.515 169.331 -28.523  0.00  0.00           C 0
+ATOM    994    O THR F 137       1.691 171.343 -27.622  0.00  0.00           O 0
+ATOM   1004  OG1 THR F 138      -1.416 167.662 -26.818  0.93  1.07           O 0
+ATOM    995   CB THR F 137       0.253 172.216 -24.740  0.00  0.00           C 0
+TER
+END

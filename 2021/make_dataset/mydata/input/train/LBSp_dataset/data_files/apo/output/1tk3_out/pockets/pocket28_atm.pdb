@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : 0.0689
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9514
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5634
+HEADER 5  - Mean B-factor of pocket residues  : 0.4683
+HEADER 6  - Hydrophobicity Score              : -7.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.0643
+HEADER 10  -Pocket volume (convex hull)       : 6.1206
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM  10611   CB GLU B 604     124.096  56.142 119.552  0.00  0.00           C 0
+ATOM  10646   CG GLU B 608     127.537  59.238 123.782  0.00  0.00           C 0
+ATOM  10435  NH2 ARG B 581     128.636  54.205 119.197  0.00  0.00           N 0
+ATOM  10622  OD1 ASP B 605     128.511  57.094 118.821  0.44  1.07           O 0
+ATOM  10614  OE1 GLU B 604     124.216  53.347 120.430  0.57  5.36           O 0
+ATOM  10649  OE2 GLU B 608     126.725  59.359 126.017  0.65  6.43           O 0
+ATOM  10669  NH1 ARG B 611     124.039  59.734 125.310  0.60  6.56           N 0
+ATOM  10610    O GLU B 604     124.946  59.180 120.423  0.74  2.14           O 0
+ATOM  10612   CG GLU B 604     122.981  55.118 119.374  0.00  0.00           C 0
+ATOM  10670  NH2 ARG B 611     121.829  59.687 125.943  0.00  0.00           N 0
+ATOM  10640  CD1 ILE B 607     120.419  59.936 120.612  0.00  0.00           C 0
+ATOM  10608   CA GLU B 604     123.718  57.566 119.138  0.00  0.00           C 0
+ATOM  10639  CG2 ILE B 607     122.024  61.279 122.979  0.00  0.00           C 0
+ATOM  10637   CB ILE B 607     122.476  61.159 121.525  0.00  0.00           C 0
+TER
+END

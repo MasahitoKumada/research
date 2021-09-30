@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0433
+HEADER 1  - Drug Score                        : 0.0682
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9632
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6039
+HEADER 5  - Mean B-factor of pocket residues  : 0.4454
+HEADER 6  - Hydrophobicity Score              : 45.2222
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 343.4512
+HEADER 10  -Pocket volume (convex hull)       : 29.2207
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.8571
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM   3837  CG1 ILE B2246      44.363  25.192  -8.396  0.00  0.00           C 0
+ATOM   3806   CB GLN B2242      42.803  20.527  -6.936  0.00  0.00           C 0
+ATOM   3809  OE1 GLN B2242      40.095  21.365  -7.246  0.00  0.00           O 0
+ATOM   3807   CG GLN B2242      41.737  19.655  -7.566  0.00  0.00           C 0
+ATOM   3494    O ARG B2201      35.821  26.771  -6.422  0.50  5.36           O 0
+ATOM   3496   CG ARG B2201      35.776  24.300  -4.663  0.00  0.00           C 0
+ATOM   3779  CD1 LEU B2238      41.089  24.231  -4.651  0.00  0.00           C 0
+ATOM   3805    O GLN B2242      45.401  21.918  -7.596  0.46  2.14           O 0
+ATOM   3803   CA GLN B2242      44.210  19.928  -6.981  0.00  0.00           C 0
+ATOM   3839  CD1 ILE B2246      43.342  25.358  -7.287  0.00  0.00           C 0
+ATOM   3536  CD1 PHE B2205      41.780  26.607 -11.724  0.00  0.00           C 0
+ATOM   3530    N PHE B2205      39.545  29.087  -8.065  0.46  2.19           N 0
+ATOM   3526   CB ILE B2204      38.717  28.429  -5.229  0.00  0.00           C 0
+ATOM   3534   CB PHE B2205      40.489  27.922 -10.008  0.00  0.00           C 0
+ATOM   3538  CE1 PHE B2205      42.938  26.337 -12.462  0.00  0.00           C 0
+ATOM   3831    O GLY B2245      47.938  24.424 -11.496  0.59  6.43           O 0
+ATOM   3861   CB ALA B2249      47.403  27.341 -12.987  0.00  0.00           C 0
+ATOM   3540   CZ PHE B2205      44.079  27.114 -12.271  0.00  0.00           C 0
+ATOM   3829   CA GLY B2245      47.783  22.157 -10.741  0.00  0.00           C 0
+ATOM   3830    C GLY B2245      47.564  23.653 -10.609  0.00  0.00           C 0
+ATOM   3828    N GLY B2245      48.243  21.524  -9.519  0.47  1.09           N 0
+ATOM   3799    O SER B2241      45.677  17.605  -7.305  0.00  0.00           O 0
+ATOM   3832    N ILE B2246      46.953  24.073  -9.505  0.00  0.00           N 0
+TER
+END

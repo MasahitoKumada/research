@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    50:
+HEADER 0  - Pocket Score                      : -0.0243
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9663
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6246
+HEADER 5  - Mean B-factor of pocket residues  : 0.3812
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.4371
+HEADER 10  -Pocket volume (convex hull)       : 6.1893
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM  10026  CZ3 TRP F  12      33.377  40.621  -9.832  0.00  0.00           C 0
+ATOM    630   CD PRO A  85      32.404  37.497  -7.651  0.00  0.00           C 0
+ATOM  10027  CH2 TRP F  12      33.875  41.861  -9.404  0.00  0.00           C 0
+ATOM  10065  OE1 GLU F  16      29.622  39.899 -10.483  0.42  8.57           O 0
+ATOM    623   CZ PHE A  84      36.003  41.536  -4.539  0.00  0.00           C 0
+ATOM   1684    O PRO A 218      33.308  45.049  -0.338  0.00  0.00           O 0
+ATOM   1721    O ALA A 223      35.702  44.827  -6.787  0.75  4.29           O 0
+ATOM   1685   CB PRO A 218      30.778  43.057  -0.609  0.00  0.00           C 0
+ATOM    622  CE2 PHE A  84      35.642  41.144  -5.799  0.00  0.00           C 0
+ATOM    610  CD2 HIS A  83      32.296  39.832  -1.797  0.00  0.00           C 0
+ATOM    612  NE2 HIS A  83      33.391  40.620  -1.538  0.79  2.19           N 0
+ATOM   1719   CA ALA A 223      35.646  46.912  -5.621  0.00  0.00           C 0
+ATOM   1707    O THR A 221      36.041  46.581  -1.456  0.61  2.14           O 0
+ATOM   1714    O PRO A 222      37.594  45.548  -4.109  0.80  1.07           O 0
+ATOM    620  CD2 PHE A  84      35.384  39.822  -6.072  0.00  0.00           C 0
+ATOM    614   CA PHE A  84      33.729  37.041  -5.092  0.00  0.00           C 0
+ATOM    606    O HIS A  83      31.304  36.763  -3.882  0.05  4.29           O 0
+TER
+END

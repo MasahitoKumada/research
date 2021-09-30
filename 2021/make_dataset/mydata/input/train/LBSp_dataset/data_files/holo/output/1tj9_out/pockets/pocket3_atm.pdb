@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0785
+HEADER 1  - Drug Score                        : 0.0059
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9352
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6946
+HEADER 5  - Mean B-factor of pocket residues  : 0.2935
+HEADER 6  - Hydrophobicity Score              : 13.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.3746
+HEADER 10  -Pocket volume (convex hull)       : 5.8710
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6500
+ATOM    397   CB ASN A  53      54.720  47.867   1.590  0.00  0.00           C 0
+ATOM    644  NH1 ARG A  84      51.322  51.875   0.910  0.68  9.84           N 0
+ATOM    400  ND2 ASN A  53      55.628  46.497  -0.330  0.77  9.84           N 0
+ATOM    642   NE ARG A  84      49.369  51.045   0.090  0.77  5.47           N 0
+ATOM    408  CD2 LEU A  54      50.429  48.686   2.017  0.00  0.00           C 0
+ATOM    674   SG CYS A  88      50.801  43.645  -0.542  0.00  0.00           S 0
+ATOM    376   SG CYS A  50      52.571  43.494  -1.545  0.00  0.00           S 0
+ATOM    374    O CYS A  50      53.055  44.991   1.862  0.00  0.00           O 0
+ATOM    639   CB ARG A  84      47.675  48.400  -0.573  0.00  0.00           C 0
+ATOM    638    O ARG A  84      47.921  45.217  -1.453  0.71  2.14           O 0
+ATOM    635    N ARG A  84      45.517  47.800  -1.541  0.00  0.00           N 0
+ATOM    640   CG ARG A  84      47.619  49.827  -1.090  0.00  0.00           C 0
+ATOM    629    C ASN A  83      44.710  47.297  -2.458  0.00  0.00           C 0
+ATOM    631   CB ASN A  83      43.311  49.219  -3.139  0.00  0.00           C 0
+ATOM    630    O ASN A  83      45.071  46.435  -3.271  0.74  1.07           O 0
+ATOM    665   CG GLU A  87      46.971  45.800  -6.042  0.00  0.00           C 0
+ATOM    636   CA ARG A  84      46.913  47.408  -1.461  0.00  0.00           C 0
+ATOM    664   CB GLU A  87      47.942  44.961  -5.208  0.00  0.00           C 0
+TER
+END

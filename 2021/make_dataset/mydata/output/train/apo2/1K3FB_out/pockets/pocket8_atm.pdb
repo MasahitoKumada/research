@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0823
+HEADER 1  - Drug Score                        : 0.0241
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8396
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7007
+HEADER 5  - Mean B-factor of pocket residues  : 0.4413
+HEADER 6  - Hydrophobicity Score              : 13.2500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.3521
+HEADER 10  -Pocket volume (convex hull)       : 6.0810
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   1407   CE MET B1190      -5.294  12.954  27.546  0.00  0.00           C 0
+ATOM   1397    C ALA B1189      -8.437  17.838  27.267  0.00  0.00           C 0
+ATOM   1399   CB ALA B1189      -6.597  19.386  27.683  0.00  0.00           C 0
+ATOM   1398    O ALA B1189      -8.682  17.849  26.079  0.00  0.00           O 0
+ATOM   1357    O GLU B1185      -5.745  19.107  31.079  0.56  3.21           O 0
+ATOM   1368   CG GLU B1186      -1.818  16.628  30.588  0.00  0.00           C 0
+ATOM   1364   CA GLU B1186      -4.234  16.901  31.204  0.00  0.00           C 0
+ATOM   1366    O GLU B1186      -5.889  15.822  29.856  0.57  3.21           O 0
+ATOM   1359   CG GLU B1185      -2.845  20.438  32.926  0.00  0.00           C 0
+ATOM   1360   CD GLU B1185      -1.819  21.568  32.778  0.00  0.00           C 0
+ATOM   1362  OE2 GLU B1185      -2.221  22.727  32.510  0.00  0.00           O 1
+ATOM   1405   CG MET B1190      -7.950  13.065  27.494  0.00  0.00           C 0
+ATOM   1401   CA MET B1190      -8.802  15.443  27.474  0.00  0.00           C 0
+ATOM   1404   CB MET B1190      -7.865  14.412  28.095  0.00  0.00           C 0
+ATOM   1400    N MET B1190      -8.447  16.744  28.003  0.00  0.00           N 0
+TER
+END

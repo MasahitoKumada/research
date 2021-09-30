@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.1462
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9327
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5616
+HEADER 5  - Mean B-factor of pocket residues  : 0.7132
+HEADER 6  - Hydrophobicity Score              : 14.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.8542
+HEADER 10  -Pocket volume (convex hull)       : 4.5458
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   3744   CB GLN A 476      45.897  68.331  81.335  0.00  0.00           C 0
+ATOM   3875   CB LEU A 493      41.452  66.318  80.193  0.00  0.00           C 0
+ATOM   3743    O GLN A 476      43.778  68.779  78.998  0.00  0.00           O 0
+ATOM   3747  OE1 GLN A 476      47.275  65.863  81.953  0.00  0.00           O 0
+ATOM   3752    O THR A 477      46.725  67.286  77.007  0.74  4.29           O 0
+ATOM   3745   CG GLN A 476      47.164  67.855  80.657  0.00  0.00           C 0
+ATOM   3757   CA LYS A 478      44.895  65.873  75.296  0.00  0.00           C 0
+ATOM   3878  CD2 LEU A 493      41.811  64.025  81.200  0.00  0.00           C 0
+ATOM   3761   CG LYS A 478      42.499  65.515  76.212  0.00  0.00           C 0
+ATOM   1982  OE2 GLU A 253      42.773  60.170  76.554  0.00  0.00           O 0
+ATOM   3760   CB LYS A 478      43.476  65.358  75.033  0.00  0.00           C 0
+ATOM   1980   CD GLU A 253      41.960  60.303  77.502  0.00  0.00           C 0
+ATOM   1981  OE1 GLU A 253      42.106  59.722  78.604  0.20  9.64           O 0
+ATOM   5794  CE2 TYR B 240      43.831  60.924  73.706  0.00  0.00           C 0
+ATOM   3759    O LYS A 478      46.078  64.605  73.636  0.67  2.14           O 0
+ATOM   3650  OE1 GLN A 464      50.072  63.645  73.930  0.00  0.00           O 0
+TER
+END

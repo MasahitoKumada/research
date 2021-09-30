@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : 0.0031
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.7572
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5021
+HEADER 5  - Mean B-factor of pocket residues  : 0.2363
+HEADER 6  - Hydrophobicity Score              : 10.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.7691
+HEADER 10  -Pocket volume (convex hull)       : 7.9621
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM     49   CB SER A  19       9.627 -32.130  36.695  0.00  0.00           C 0
+ATOM     61    O PHE A  21       9.085 -28.146  35.541  0.41  4.29           O 0
+ATOM     45    N SER A  19       9.873 -32.400  39.129  0.36  3.28           N 0
+ATOM     48    O SER A  19      10.669 -29.734  38.396  0.23  9.64           O 0
+ATOM   2275   CB SER A 303       7.739 -28.342  30.820  0.00  0.00           C 0
+ATOM     50   OG SER A  19      10.175 -31.407  35.603  0.51  1.07           O 0
+ATOM   2296  OE1 GLU A 306       6.003 -33.691  32.630  0.67  3.21           O 0
+ATOM     62   CB PHE A  21      10.899 -29.208  33.038  0.00  0.00           C 0
+ATOM   2297  OE2 GLU A 306       4.549 -33.747  34.276  0.85  5.36           O 0
+ATOM   1998  NH2 ARG A 268       6.491 -34.634  36.084  0.65  4.37           N 0
+ATOM   2272   CA SER A 303       7.146 -29.523  30.041  0.00  0.00           C 0
+ATOM   2274    O SER A 303       4.731 -29.465  29.908  0.46  1.07           O 0
+ATOM     84   CD PRO A  23       5.121 -26.199  33.656  0.00  0.00           C 0
+ATOM   2333  OE1 GLN A 310       0.295 -31.470  33.723  0.65  6.43           O 0
+ATOM   2294   CG GLU A 306       3.701 -33.414  32.095  0.00  0.00           C 0
+ATOM   2298    N LEU A 307       1.880 -30.637  30.221  0.00  0.00           N 0
+ATOM   2293   CB GLU A 306       4.160 -32.687  30.848  0.00  0.00           C 0
+ATOM   2302   CB LEU A 307       0.997 -28.393  30.739  0.00  0.00           C 0
+ATOM     83   CG PRO A  23       3.812 -25.802  33.032  0.00  0.00           C 0
+ATOM   2295   CD GLU A 306       4.833 -33.625  33.071  0.00  0.00           C 0
+TER
+END

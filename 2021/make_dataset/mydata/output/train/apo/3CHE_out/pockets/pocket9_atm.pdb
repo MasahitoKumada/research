@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.2075
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9982
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5587
+HEADER 5  - Mean B-factor of pocket residues  : 0.7638
+HEADER 6  - Hydrophobicity Score              : 3.5556
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 291.6651
+HEADER 10  -Pocket volume (convex hull)       : 11.0607
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   3620   OG SER B 103      79.818  39.171  10.060  0.00  0.00           O 0
+ATOM    724  NH1 ARG A 126      81.303  44.215  11.117  0.00  0.00           N 0
+ATOM    725  NH2 ARG A 126      80.364  45.751   9.682  0.45  1.09           N 0
+ATOM   2925  OE1 GLN A 414      78.039  46.299  12.354  0.09  3.21           O 0
+ATOM   2958   CGAASP A 418      75.831  41.108   2.660  0.00  0.00           C 0
+ATOM   2956   CBAASP A 418      76.594  42.168   3.444  0.00  0.00           C 0
+ATOM   2962  OD2AASP A 418      74.593  41.153   2.710  0.00  0.00           O 0
+ATOM   3610    O ASP B 102      76.795  35.770   8.604  0.00  0.00           O 0
+ATOM   3616   CA SER B 103      79.199  37.034   9.046  0.00  0.00           C 0
+ATOM   2950  CD1 LEU A 417      82.799  43.269   7.672  0.00  0.00           C 0
+ATOM   2948   CB LEU A 417      81.249  43.571   5.733  0.00  0.00           C 0
+ATOM   2943  OE2 GLU A 416      76.583  45.251   4.875  0.58  5.36           O 0
+ATOM   2944    N LEU A 417      79.792  45.456   5.162  0.00  0.00           N 0
+ATOM   3580  ND1 HIS B  98      77.027  34.680   5.144  0.00  0.00           N 0
+ATOM   3627  CD1 TRP B 104      79.704  39.129   3.612  0.00  0.00           C 0
+ATOM   2952    N ASP A 418      78.595  43.591   3.580  0.00  0.00           N 0
+ATOM   2960  OD1AASP A 418      76.443  40.225   2.017  0.20  4.29           O 0
+ATOM   3621    N TRP B 104      80.588  38.166   7.397  0.52  2.19           N 0
+ATOM   3625   CB TRP B 104      81.544  39.239   5.409  0.00  0.00           C 0
+TER
+END

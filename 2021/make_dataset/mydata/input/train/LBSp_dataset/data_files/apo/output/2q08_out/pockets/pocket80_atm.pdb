@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    80:
+HEADER 0  - Pocket Score                      : -0.0052
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8325
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4995
+HEADER 5  - Mean B-factor of pocket residues  : 0.5327
+HEADER 6  - Hydrophobicity Score              : -13.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.7025
+HEADER 10  -Pocket volume (convex hull)       : 12.9262
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3200
+ATOM  37276   CB LYS K 397      86.749 -32.815 -13.766  0.00  0.00           C 0
+ATOM  34174  OE1 GLN K  20      81.483 -35.026 -11.794  0.00  0.00           O 0
+ATOM  37277   CG LYS K 397      87.599 -32.521 -12.542  0.00  0.00           C 0
+ATOM  37278   CD LYS K 397      87.531 -31.037 -12.198  0.00  0.00           C 0
+ATOM  34167    N GLN K  20      82.735 -35.716  -7.437  0.00  0.00           N 0
+ATOM  34162    O ASN K  19      81.787 -33.914  -6.508  0.00  0.00           O 0
+ATOM  34161    C ASN K  19      82.686 -34.750  -6.529  0.00  0.00           C 0
+ATOM  34163   CB ASN K  19      84.710 -33.514  -5.795  0.00  0.00           C 0
+ATOM  34168   CA GLN K  20      81.719 -35.811  -8.483  0.00  0.00           C 0
+ATOM  37245  OE2 GLU K 393      92.074 -31.459  -9.688  0.36  8.57           O 0
+ATOM  37279   CE LYS K 397      88.422 -30.691 -11.012  0.00  0.00           C 0
+ATOM  34166  ND2 ASN K  19      86.890 -32.785  -5.019  0.00  0.00           N 0
+ATOM  37280   NZ LYS K 397      88.305 -29.249 -10.624  0.00  0.00           N 0
+ATOM  34135   CB ASN K  15      90.520 -34.785  -5.599  0.00  0.00           C 0
+ATOM  34137  OD1 ASN K  15      92.366 -33.840  -4.391  0.00  0.00           O 0
+ATOM  34139    N ALA K  16      88.695 -35.965  -7.776  0.00  0.00           N 0
+ATOM  34140   CA ALA K  16      87.654 -35.828  -8.783  0.00  0.00           C 0
+ATOM  34142    O ALA K  16      85.356 -36.482  -8.588  0.00  0.00           O 0
+ATOM  37273   CA LYS K 397      86.751 -34.289 -14.168  0.00  0.00           C 0
+TER
+END

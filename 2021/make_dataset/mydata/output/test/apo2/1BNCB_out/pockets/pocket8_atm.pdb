@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1227
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9221
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6703
+HEADER 5  - Mean B-factor of pocket residues  : 0.4675
+HEADER 6  - Hydrophobicity Score              : 0.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.9762
+HEADER 10  -Pocket volume (convex hull)       : 14.1262
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   3149  CG2 THR B 435      11.922 103.292  63.796  0.00  0.00           C 0
+ATOM   3183  CD1 TYR B 439       8.414 103.933  66.194  0.00  0.00           C 0
+ATOM   3103   CG ASN B 429       8.051  99.519  63.865  0.00  0.00           C 0
+ATOM   3185  CE1 TYR B 439       8.006 102.600  66.270  0.00  0.00           C 0
+ATOM   3104  ND2 ASN B 429       7.928  99.128  62.586  0.00  0.00           N 0
+ATOM   3143    O GLY B 434      12.650 105.874  59.740  0.00  0.00           O 0
+ATOM   3139    O GLY B 433      13.516 101.543  58.985  0.65  5.36           O 0
+ATOM   3105  OD1 ASN B 429       7.101  99.752  64.621  0.00  0.00           O 0
+ATOM   3142    C GLY B 434      13.360 104.973  60.179  0.00  0.00           C 0
+ATOM   3144    N THR B 435      13.386 104.644  61.473  0.00  0.00           N 0
+ATOM   3145   CA THR B 435      12.573 105.307  62.461  0.00  0.00           C 0
+ATOM   3151    N ASN B 436      11.961 107.463  63.146  0.52  2.19           N 0
+ATOM   3157  ND2 ASN B 436       8.575 109.474  62.267  0.00  0.00           N 0
+ATOM   3181   CB TYR B 439       9.983 105.796  66.810  0.00  0.00           C 0
+ATOM   3101    O ASN B 429      12.149  99.858  62.741  0.54  1.07           O 0
+ATOM   3133  ND1 HIS B 432      11.757  98.996  57.825  0.24  4.37           N 0
+ATOM   3158  OD1 ASN B 436       9.315 109.786  64.324  0.00  0.00           O 0
+ATOM   3178   CA TYR B 439       9.068 106.766  67.547  0.00  0.00           C 0
+ATOM   3214   NZ LYS B 442       5.170 109.079  65.545  0.69  6.56           N 1
+ATOM   3156   CG ASN B 436       9.551 109.640  63.125  0.00  0.00           C 0
+TER
+END

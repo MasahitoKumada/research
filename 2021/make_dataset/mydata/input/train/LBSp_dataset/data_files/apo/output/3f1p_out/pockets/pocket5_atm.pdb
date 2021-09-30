@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0578
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9117
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6086
+HEADER 5  - Mean B-factor of pocket residues  : 0.1977
+HEADER 6  - Hydrophobicity Score              : 10.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 332.1187
+HEADER 10  -Pocket volume (convex hull)       : 15.3041
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   3283  NH2 ARG B 430      11.262 -68.779  30.847  0.72  8.75           N 0
+ATOM   2664    OAGLU B 398       8.791 -70.059  28.136  0.50  6.43           O 0
+ATOM   2595   NZ LYS B 394      14.762 -72.046  26.428  0.00  0.00           N 0
+ATOM   3282  NH1 ARG B 430       9.128 -69.659  31.087  0.70  7.66           N 0
+ATOM   2672  OE1AGLU B 398      12.196 -72.419  24.600  0.75  4.29           O 0
+ATOM   2666   CBAGLU B 398       9.836 -70.854  25.422  0.00  0.00           C 0
+ATOM   2697  CE2 PHE B 399      12.553 -66.636  28.235  0.00  0.00           C 0
+ATOM   2594   CE LYS B 394      15.709 -70.953  26.071  0.00  0.00           C 0
+ATOM   2448  CE1 TYR B 386      14.614 -65.555  31.372  0.00  0.00           C 0
+ATOM   2533  OE1 GLU B 390      19.245 -66.124  31.558  0.00  0.00           O 0
+ATOM   2529    O GLU B 390      16.659 -66.927  26.638  0.00  0.00           O 0
+ATOM   2531   CG GLU B 390      19.871 -65.716  29.338  0.00  0.00           C 0
+ATOM   2527   CA GLU B 390      18.798 -66.025  27.043  0.00  0.00           C 0
+ATOM   2530   CB GLU B 390      18.600 -65.566  28.482  0.00  0.00           C 0
+ATOM   2698   CZ PHE B 399      12.989 -66.998  26.966  0.00  0.00           C 0
+ATOM   2593   CD LYS B 394      14.828 -69.930  25.467  0.00  0.00           C 0
+TER
+END

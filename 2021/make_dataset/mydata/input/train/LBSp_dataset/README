@@ -1,0 +1,31 @@
+This sub-dataset is based on the full dataset used in Protein Flexibility work accomplished in: PLOS Computational Biology 15 (1), e1006705.
+
+This prediction subset contains only those PDBs which were used in the binding-site prediction work from the citation below.
+Each family was allowed a maximum of 10 structures of each type (bound, unbound). 
+These structures were derived as the most diverse set of structures for their families via RMSD.
+
+
+The dataset (in PDB/Biounit format) is split between two directories:
+data_files contains the bulk of the dataset
+CryptoSite_overlap_data_files contains the files belonging to families which have sequence overlap with the contents of the CryptoSite database/dataset
+
+The data files are biounit files which are renumbered for all of the proteins in the dataset from this manuscript such that all files of the same family have the same numbering for the core residues of the protein (as much as possible, limited only by what residue mapping was available from PDBSWS). Each protein family (designated by sequence) has all of its apo and holo protein files numbered the same so that calculations involving the unified binding site (UBS) residues could be accomplished.
+
+All data files:
+
+1. Have no PDB headers. This is mostly to reduce the amount of space the files take, and reduce the amount of parseable lines in the files due to the heavy number of calculations completed in the manuscript.
+2. Contain only the relevant chains to represent one copy of the binding site. This is further detailed in the UBS_index file.
+3. Have been stripped of all waters, het groups, and extraneous atoms, as only the proteins themselves were used in this work.
+  ** The coordinates have not been altered in any way, so if you desire the ligand from the original biounit or PDB file that was bound to the chain indicated in these data files, you may simple acquire those lines from those PDB files and the ligand should be positioned properly.
+
+
+Two .CSV index files are also included to help with identifying and labeling the data.
+The Family CSV file denotes which PDBs belong to which family, as well as which proteins are "apo", and which are "holo".
+The UBS CSV file denotes which residues are included in the UBS for each of the families.
+
+
+- J. Clark 2020
+
+
+From Publication:
+A Benchmark Study of Predicting Binding Sites from Unbound vs. Bound Protein Structures. Jordan J. Clark, Zachary J. Orban, and Heather A. Carlson. To Be Submitted.

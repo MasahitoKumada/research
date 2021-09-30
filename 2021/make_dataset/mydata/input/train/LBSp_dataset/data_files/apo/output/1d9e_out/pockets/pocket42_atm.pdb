@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.0248
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8684
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4822
+HEADER 5  - Mean B-factor of pocket residues  : 0.6471
+HEADER 6  - Hydrophobicity Score              : -4.7000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.3974
+HEADER 10  -Pocket volume (convex hull)       : 17.4753
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM   1800   CB ALA A1254     114.752  18.272 197.934  0.00  0.00           C 0
+ATOM   1781  OE1 GLU A1245     112.981  11.810 195.966  0.00  0.00           O 0
+ATOM   1749  CD2 HIS A1241     110.324  15.329 195.661  0.00  0.00           C 0
+ATOM   1786    O PRO A1252     118.429  16.583 195.657  0.00  0.00           O 0
+ATOM   1735  OE1 GLU A1239     115.315  21.571 192.997  0.68  3.21           O 0
+ATOM   1732   CB GLU A1239     114.031  22.476 195.248  0.00  0.00           C 0
+ATOM    188    N ASN A1026     111.841  20.416 192.249  0.60  1.09           N 0
+ATOM   1747   CG HIS A1241     110.604  15.336 196.986  0.00  0.00           C 0
+ATOM    192   CB ASN A1026     113.708  19.253 191.219  0.00  0.00           C 0
+ATOM   1783    N PRO A1252     118.504  18.392 192.985  0.53  8.75           N 0
+ATOM    219  OE2 GLU A1029     110.050  14.470 192.112  0.00  0.00           O 0
+ATOM    202  CG2 VAL A1027     112.317  17.434 187.946  0.00  0.00           C 0
+ATOM    194  OD1 ASN A1026     114.608  18.655 189.080  0.26  4.29           O 0
+ATOM   1740    O ALA A1240     110.615  19.409 197.038  0.00  0.00           O 0
+ATOM    193   CG ASN A1026     114.767  19.302 190.110  0.00  0.00           C 0
+ATOM   1746   CB HIS A1241     111.247  16.375 197.848  0.00  0.00           C 0
+ATOM   1768   CA PRO A1244     113.977  13.478 199.493  0.00  0.00           C 0
+TER
+END

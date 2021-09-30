@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.3821
+HEADER 1  - Drug Score                        : 0.0075
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.5716
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3762
+HEADER 5  - Mean B-factor of pocket residues  : 0.3372
+HEADER 6  - Hydrophobicity Score              : 32.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.2933
+HEADER 10  -Pocket volume (convex hull)       : 4.7948
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.1923
+ATOM   1436    O ILE C  10       6.475  16.134  21.544  0.00  0.00           O 0
+ATOM    277  ND1 HIS A 319      10.336  12.993  20.143  0.00  0.00           N 0
+ATOM   1431  CG2 ILE C   9      10.758  16.055  23.430  0.00  0.00           C 0
+ATOM    702  CG1 ILE B 286       7.717  15.152  26.002  0.00  0.00           C 0
+ATOM    697    N ILE B 286       7.827  12.150  26.544  0.00  0.00           N 0
+ATOM    280  NE2 HIS A 319      12.463  13.224  20.026  0.79  2.19           N 0
+ATOM    279  CE1 HIS A 319      11.317  13.876  20.129  0.00  0.00           C 0
+ATOM    689    O GLY B 284      11.673  10.436  26.460  0.00  0.00           O 0
+ATOM   1340  CG2 VAL B 368      11.378  13.486  27.847  0.00  0.00           C 0
+ATOM   1432  CD1 ILE C   9      13.745  16.652  24.181  0.00  0.00           C 0
+ATOM    129   CA GLY A 300       6.250  12.750  20.102  0.00  0.00           C 0
+ATOM    701   CB ILE B 286       6.569  14.251  26.432  0.00  0.00           C 0
+ATOM    128    N GLY A 300       5.214  13.686  20.504  0.43  1.09           N 0
+ATOM    306  OE1AGLN A 322       4.660   8.849  23.838  0.71  1.07           O 0
+ATOM    116    N GLY A 298       2.743  13.620  25.067  0.29  1.09           N 0
+ATOM    691   CA PRO B 285       8.903  10.002  26.226  0.00  0.00           C 0
+ATOM    275   CB HIS A 319      10.014  10.490  20.001  0.00  0.00           C 0
+ATOM    276   CG HIS A 319      10.863  11.720  20.062  0.00  0.00           C 0
+ATOM    278  CD2 HIS A 319      12.206  11.877  19.963  0.00  0.00           C 0
+ATOM    302   CGAGLN A 322       6.496   8.831  22.289  0.00  0.00           C 0
+TER
+END

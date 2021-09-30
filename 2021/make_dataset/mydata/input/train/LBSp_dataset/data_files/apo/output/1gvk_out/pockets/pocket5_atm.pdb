@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1498
+HEADER 1  - Drug Score                        : 0.0048
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9232
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5099
+HEADER 5  - Mean B-factor of pocket residues  : 0.2731
+HEADER 6  - Hydrophobicity Score              : 8.1111
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 378.7467
+HEADER 10  -Pocket volume (convex hull)       : 39.9507
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.5000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2963
+HETATM    3  CH3 ACE A   4     -16.763  18.367  40.584  0.00  0.00           C 0
+ATOM   2720  CG2 THR B 175     -18.081  17.583  45.217  0.00  0.00           C 0
+ATOM   2719  OG1 THR B 175     -20.035  16.353  45.570  0.70  6.43           O 0
+ATOM   3349  NH1AARG B 217A    -19.192  14.045  38.855  0.00  0.00           N 0
+ATOM   2675  CZ3 TRP B 172     -19.120  20.543  42.713  0.00  0.00           C 0
+ATOM   1528   CB ALA B  99A    -15.313  14.807  45.761  0.00  0.00           C 0
+HETATM    2    O ACE A   4     -15.183  16.977  39.386  0.40  3.21           O 0
+ATOM   1513  CG1 VAL B  99     -12.492  16.429  41.972  0.00  0.00           C 0
+ATOM   3341   CGAARG B 217A    -18.730  17.368  36.940  0.00  0.00           C 0
+ATOM   3351  NH2AARG B 217A    -16.990  13.590  38.859  0.00  0.00           N 0
+ATOM   3389  CD1ALEU B 218     -24.422  21.991  37.530  0.00  0.00           C 0
+ATOM   3339   CBAARG B 217A    -19.670  18.167  36.032  0.00  0.00           C 0
+ATOM   3387   CGALEU B 218     -23.974  21.427  36.179  0.00  0.00           C 0
+ATOM   3326   OG SER B 217     -21.430  22.126  38.068  0.53  2.14           O 0
+ATOM   3343   CDAARG B 217A    -18.781  15.897  36.612  0.00  0.00           C 0
+ATOM   1497   CA ASP B  98     -11.545  11.393  43.564  0.00  0.00           C 0
+ATOM   1508    N VAL B  99     -11.325  13.789  43.203  0.54  3.28           N 0
+ATOM   1487    O ASP B  97     -12.238   9.898  41.364  0.53  6.43           O 0
+ATOM   1502  OD1 ASP B  98     -13.388  11.520  45.565  0.69  4.29           O 0
+ATOM   3331    NAARG B 217A    -19.173  20.328  37.107  0.00  0.00           N 0
+ATOM   1524    N ALA B  99A    -13.040  15.114  44.927  0.00  0.00           N 0
+ATOM   2673  CE3 TRP B 172     -19.676  20.623  43.978  0.00  0.00           C 0
+ATOM   3506   CE LYS B 224     -23.837  22.012  42.289  0.00  0.00           C 0
+ATOM   2666    O TRP B 172     -21.907  18.863  47.146  0.00  0.00           O 0
+TER
+END

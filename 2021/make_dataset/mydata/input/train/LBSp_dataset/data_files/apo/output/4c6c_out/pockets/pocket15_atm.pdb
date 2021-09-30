@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0786
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9929
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5567
+HEADER 5  - Mean B-factor of pocket residues  : 0.4523
+HEADER 6  - Hydrophobicity Score              : 4.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 310.2644
+HEADER 10  -Pocket volume (convex hull)       : 5.2823
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1538
+ATOM   5295   NEAARG A1784     -19.300 -33.664 -32.015  0.70  1.09           N 0
+ATOM   4787  ND1 HIS A1756     -23.201 -27.649 -33.533  0.00  0.00           N 0
+ATOM   4790  NE2 HIS A1756     -24.485 -28.539 -34.998  0.00  0.00           N 0
+ATOM   4789  CE1 HIS A1756     -24.418 -28.116 -33.750  0.00  0.00           C 0
+ATOM   5253  CG2ATHR A1782     -20.219 -28.969 -31.068  0.00  0.00           C 0
+ATOM   5512   OH TYR A1794     -22.724 -32.563 -24.917  0.00  0.00           O 0
+ATOM   5543    C ASP A1796     -23.644 -35.709 -27.299  0.00  0.00           C 0
+ATOM   5553    N GLY A1797     -23.771 -35.074 -26.149  0.59  1.09           N 0
+ATOM   5252  OG1ATHR A1782     -21.564 -28.374 -29.131  0.00  0.00           O 0
+ATOM   5294   CDAARG A1784     -18.786 -32.346 -31.657  0.00  0.00           C 0
+ATOM   5297  NH1AARG A1784     -18.519 -33.615 -34.185  0.75  7.66           N 0
+ATOM   4747  OD2 ASP A1753     -18.420 -29.899 -35.353  0.61  8.57           O 0
+ATOM   5296   CZAARG A1784     -19.170 -34.234 -33.208  0.00  0.00           C 0
+ATOM   4788  CD2 HIS A1756     -23.268 -28.341 -35.602  0.00  0.00           C 0
+ATOM   5298  NH2AARG A1784     -19.684 -35.441 -33.415  0.00  0.00           N 0
+ATOM   5547  OD1 ASP A1796     -20.630 -34.840 -30.080  0.78  4.29           O 0
+ATOM   4786   CG HIS A1756     -22.449 -27.783 -34.681  0.00  0.00           C 0
+ATOM   5542   CA ASP A1796     -22.312 -35.556 -28.015  0.00  0.00           C 0
+ATOM   5275    O VAL A1783     -19.634 -31.502 -27.699  0.47  1.07           O 0
+TER
+END

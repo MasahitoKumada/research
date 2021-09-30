@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0059
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7964
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4550
+HEADER 5  - Mean B-factor of pocket residues  : 0.4094
+HEADER 6  - Hydrophobicity Score              : 40.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.7709
+HEADER 10  -Pocket volume (convex hull)       : 1.9701
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   2809   CB LYS B  51      43.033   6.123  91.451  0.00  0.00           C 0
+ATOM   2811   CD LYS B  51      43.503   3.981  92.530  0.00  0.00           C 0
+ATOM   2698  CG2 THR B  36      39.681   2.823  86.570  0.00  0.00           C 0
+ATOM   2680   OG SER B  34      44.461   4.559  88.834  0.60  6.43           O 0
+ATOM   2813   NZ LYS B  51      43.824   1.762  93.523  0.00  0.00           N 0
+ATOM   2678    O SER B  34      42.925   6.945  87.770  0.00  0.00           O 0
+ATOM   3269  CE2 TYR B 106      40.036   4.820  93.715  0.00  0.00           C 0
+ATOM   2796  CD2 LEU B  49      36.751   6.391  91.456  0.00  0.00           C 0
+ATOM   3267  CD2 TYR B 106      39.634   6.147  93.710  0.00  0.00           C 0
+ATOM   3271   OH TYR B 106      40.486   2.830  94.948  0.62  5.36           O 0
+ATOM   3855  CE1 PHE B 182      36.059   3.131  92.610  0.00  0.00           C 0
+ATOM   2697  OG1 THR B  36      38.021   4.249  87.552  0.71  2.14           O 0
+ATOM   2794   CG LEU B  49      37.173   7.692  90.802  0.00  0.00           C 0
+ATOM   2792    O LEU B  49      39.314   7.913  87.645  0.55  1.07           O 0
+TER
+END

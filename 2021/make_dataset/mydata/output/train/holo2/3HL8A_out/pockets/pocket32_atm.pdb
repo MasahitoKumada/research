@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.1884
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1307
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4470
+HEADER 5  - Mean B-factor of pocket residues  : 0.3728
+HEADER 6  - Hydrophobicity Score              : 0.3000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 393.3401
+HEADER 10  -Pocket volume (convex hull)       : 24.7751
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    935  CG2 ILE A  66      21.849  35.532  35.465  0.00  0.00           C 0
+ATOM   2795  OD1 ASP A 186      29.162  32.434  35.436  0.73  4.29           O 0
+ATOM    932    O ILE A  66      22.890  38.452  34.634  0.00  0.00           O 0
+ATOM   2796  OD2 ASP A 186      30.491  34.037  36.159  0.00  0.00           O 1
+ATOM   2743    O ASP A 182      32.182  38.873  31.771  0.00  0.00           O 0
+ATOM   2783   CB ALA A 185      33.360  37.403  34.691  0.00  0.00           C 0
+ATOM   2732    O SER A 178      31.591  40.250  36.216  0.00  0.00           O 0
+ATOM    951    O THR A  67      24.231  39.537  30.974  0.42  6.43           O 0
+ATOM   2740    N ASP A 182      32.307  41.876  31.716  0.00  0.00           N 0
+ATOM   2789    N ASP A 186      33.029  34.328  34.270  0.68  1.09           N 0
+ATOM    199  OE2 GLU A  17      27.314  34.500  31.646  0.43  3.21           O 1
+ATOM   2755    O ALA A 183      32.253  35.651  29.654  0.27  2.14           O 0
+ATOM    198  OE1 GLU A  17      25.154  34.111  31.563  0.65  4.29           O 0
+ATOM    949   CA THR A  67      22.832  37.823  31.918  0.00  0.00           C 0
+ATOM   2525  NH2 ARG A 165      23.486  32.906  41.312  0.45  7.66           N 0
+ATOM   2565  OE1 GLU A 167      27.702  33.301  41.329  0.61  8.57           O 0
+ATOM   2566  OE2 GLU A 167      25.904  34.249  42.226  0.75  9.64           O 1
+TER
+END

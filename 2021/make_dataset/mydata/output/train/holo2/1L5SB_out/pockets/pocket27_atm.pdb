@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0548
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8964
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6171
+HEADER 5  - Mean B-factor of pocket residues  : 0.7092
+HEADER 6  - Hydrophobicity Score              : 16.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.6968
+HEADER 10  -Pocket volume (convex hull)       : 4.8150
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM   5383   CG GLU B 705      49.469 -98.959  31.568  0.00  0.00           C 0
+ATOM   5382   CB GLU B 705      50.764 -98.801  30.800  0.00  0.00           C 0
+ATOM   5385  OE1 GLU B 705      48.021 -98.401  29.740  0.00  0.00           O 0
+ATOM   5350   CB ALA B 700      50.829 -95.748  34.091  0.00  0.00           C 0
+ATOM   5356   CG GLU B 701      50.769 -91.289  31.268  0.00  0.00           C 0
+ATOM   5359  OE2 GLU B 701      49.121 -89.784  30.404  0.00  0.00           O 1
+ATOM   5327  CG1 VAL B 697      46.776 -91.548  33.429  0.00  0.00           C 0
+ATOM   5296   CE MET B 692      46.484 -96.986  32.840  0.00  0.00           C 0
+ATOM   5294   CG MET B 692      44.541 -95.422  34.078  0.00  0.00           C 0
+ATOM   5463  NH1 ARG B 714      43.631 -97.370  30.360  0.00  0.00           N 1
+ATOM   5325    O VAL B 697      49.835 -92.591  34.025  0.63  2.14           O 0
+ATOM   5351    N GLU B 701      52.394 -93.363  32.608  0.73  1.09           N 0
+ATOM   5375   CA GLY B 704      55.422 -97.510  30.895  0.00  0.00           C 0
+ATOM   5378    N GLU B 705      53.120 -98.183  31.084  0.58  4.37           N 0
+ATOM   5349    O ALA B 700      53.493 -95.280  32.170  0.50  1.07           O 0
+ATOM   5354    O GLU B 701      55.029 -92.610  30.391  0.00  0.00           O 0
+ATOM   5348    C ALA B 700      52.768 -94.605  32.916  0.00  0.00           C 0
+ATOM   5352   CA GLU B 701      52.863 -92.740  31.374  0.00  0.00           C 0
+TER
+END

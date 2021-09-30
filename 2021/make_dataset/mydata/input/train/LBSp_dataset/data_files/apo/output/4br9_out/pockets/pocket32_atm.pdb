@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : 0.0022
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8367
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5124
+HEADER 5  - Mean B-factor of pocket residues  : 0.6949
+HEADER 6  - Hydrophobicity Score              : 37.2222
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.6365
+HEADER 10  -Pocket volume (convex hull)       : 6.3522
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   5235   CA GLY B 299      72.857  10.306  36.109  0.00  0.00           C 0
+ATOM   5264  ND2 ASN B 302      76.149  12.019  34.809  0.76  5.47           N 0
+ATOM   5261   CB ASN B 302      75.357  14.230  35.365  0.00  0.00           C 0
+ATOM   5237    O GLY B 299      72.476  12.530  36.862  0.55  2.14           O 0
+ATOM   4688  OE1 GLN B 231      69.891  10.352  32.187  0.71  4.29           O 0
+ATOM   5738  CD1 LEU B 353      68.158  14.083  32.549  0.00  0.00           C 0
+ATOM   5265    N LEU B 303      72.976  15.549  36.998  0.71  1.09           N 0
+ATOM   5714  CE1 TYR B 350      70.379  18.200  32.857  0.00  0.00           C 0
+ATOM   5671  CD1 TYR B 346      73.095  15.740  28.215  0.00  0.00           C 0
+ATOM   4689  NE2 GLN B 231      69.546  11.249  30.182  0.55  6.56           N 0
+ATOM   5670   CG TYR B 346      73.444  16.884  28.979  0.00  0.00           C 0
+ATOM   5704  OE1 GLN B 349      68.038  13.837  28.536  0.62  4.29           O 0
+ATOM   5778   OH TYR B 357      69.537  11.134  35.962  0.71  1.07           O 0
+ATOM   5669   CB TYR B 346      72.363  17.768  29.620  0.00  0.00           C 0
+ATOM   5717   OH TYR B 350      72.518  19.163  33.002  0.86  5.36           O 0
+ATOM   5270   CBALEU B 303      70.554  15.731  37.192  0.00  0.00           C 0
+ATOM   5266   CAALEU B 303      71.891  16.514  37.064  0.00  0.00           C 0
+TER
+END

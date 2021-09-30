@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0358
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9691
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6154
+HEADER 5  - Mean B-factor of pocket residues  : 0.3136
+HEADER 6  - Hydrophobicity Score              : 19.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 6.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.3999
+HEADER 10  -Pocket volume (convex hull)       : 8.8191
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM   2831   CD LYS A 405      26.452  39.375  -1.297  0.00  0.00           C 0
+ATOM   2826   CA LYS A 405      23.131  38.736  -1.028  0.00  0.00           C 0
+ATOM   2832   CE LYS A 405      26.760  40.699  -0.676  0.00  0.00           C 0
+ATOM   2833   NZ LYS A 405      27.422  41.564  -1.679  0.00  0.00           N 1
+ATOM   2825    N LYS A 405      21.843  39.268  -0.633  0.77  1.09           N 0
+ATOM   2829   CB LYS A 405      24.222  39.165  -0.078  0.00  0.00           C 0
+ATOM     84  NH1 ARG A  51      21.153  46.350   0.759  0.00  0.00           N 1
+ATOM   2851  CD2 TRP A 408      25.137  38.648  -6.655  0.00  0.00           C 0
+ATOM   2849   CG TRP A 408      23.708  38.757  -6.535  0.00  0.00           C 0
+ATOM   2818   CA ASN A 404      19.451  39.642  -0.772  0.00  0.00           C 0
+ATOM   2814  CE2 TYR A 403      18.715  41.937  -5.038  0.00  0.00           C 0
+ATOM   2816   OH TYR A 403      20.386  41.249  -6.623  0.00  0.00           O 0
+ATOM     85  NH2 ARG A  51      22.077  47.859  -0.729  0.41  9.84           N 0
+ATOM     83   CZ ARG A  51      21.004  47.281  -0.188  0.00  0.00           C 0
+ATOM   2848   CB TRP A 408      22.836  38.267  -5.399  0.00  0.00           C 0
+ATOM   2819    C ASN A 404      20.753  39.062  -1.344  0.00  0.00           C 0
+ATOM   2820    O ASN A 404      20.734  38.374  -2.395  0.00  0.00           O 0
+ATOM   2812  CD2 TYR A 403      17.563  41.582  -4.312  0.00  0.00           C 0
+ATOM     82   NE ARG A  51      19.785  47.652  -0.579  0.54  6.56           N 0
+TER
+END

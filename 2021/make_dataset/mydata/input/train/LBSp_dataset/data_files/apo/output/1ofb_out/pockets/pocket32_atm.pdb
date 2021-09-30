@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0587
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1335
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6801
+HEADER 5  - Mean B-factor of pocket residues  : 0.5804
+HEADER 6  - Hydrophobicity Score              : 24.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.7564
+HEADER 10  -Pocket volume (convex hull)       : 8.4153
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    919  NE2 GLN A 139      80.785  11.875  50.525  0.00  0.00           N 0
+ATOM    153  CG1 ILE A  41      81.466  17.571  49.913  0.00  0.00           C 0
+ATOM    949  OE1 GLN A 143      80.631  18.434  54.154  0.00  0.00           O 0
+ATOM    155  CD1 ILE A  41      82.380  16.472  50.165  0.00  0.00           C 0
+ATOM    914    O GLN A 139      84.706  15.014  52.784  0.76  1.07           O 0
+ATOM    915   CB GLN A 139      83.470  12.753  50.899  0.00  0.00           C 0
+ATOM    895   CG LYS A 136      83.677   7.799  53.484  0.00  0.00           C 0
+ATOM    897   CE LYS A 136      82.506   6.848  55.490  0.00  0.00           C 0
+ATOM    925   OG SER A 140      85.281  11.113  55.421  0.00  0.00           O 0
+ATOM    893    O LYS A 136      85.607  10.382  52.660  0.00  0.00           O 0
+ATOM    920    N SER A 140      85.432  13.009  53.271  0.74  1.09           N 0
+ATOM    921   CA SER A 140      85.688  13.394  54.651  0.00  0.00           C 0
+ATOM    947   CG GLN A 143      82.042  17.648  55.904  0.00  0.00           C 0
+ATOM    946   CB GLN A 143      83.287  17.143  54.953  0.00  0.00           C 0
+ATOM    456  CD2 LEU A  81      84.714  15.159  58.759  0.00  0.00           C 0
+ATOM    913    C GLN A 139      84.999  13.919  52.423  0.00  0.00           C 0
+TER
+END

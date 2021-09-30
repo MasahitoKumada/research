@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1124
+HEADER 1  - Drug Score                        : 0.0068
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0881
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6563
+HEADER 5  - Mean B-factor of pocket residues  : 0.3241
+HEADER 6  - Hydrophobicity Score              : 40.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.5209
+HEADER 10  -Pocket volume (convex hull)       : 1.4746
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM   1375  CD1 TYR B 814     -18.006   4.542  -7.119  0.00  0.00           C 0
+ATOM   1370   CA TYR B 814     -15.575   4.403  -9.260  0.00  0.00           C 0
+ATOM   1373   CB TYR B 814     -16.284   3.310  -8.489  0.00  0.00           C 0
+ATOM   1347  NE2 GLN B 810     -20.422   0.319 -10.488  0.59  8.75           N 0
+ATOM   1342    O GLN B 810     -16.190   1.045 -11.201  0.42  1.07           O 0
+ATOM   1580  CG2 THR B 840     -18.449   2.431 -15.529  0.00  0.00           C 0
+ATOM   1346  OE1 GLN B 810     -20.224   0.037 -12.742  0.68  3.21           O 0
+ATOM   1407  CD2 LEU B 817     -18.325   8.545  -9.348  0.00  0.00           C 0
+ATOM   1369    N TYR B 814     -15.130   3.852 -10.535  0.00  0.00           N 0
+ATOM   1366    C ALA B 813     -14.629   4.656 -11.478  0.00  0.00           C 0
+ATOM   1367    O ALA B 813     -14.452   5.858 -11.292  0.00  0.00           O 0
+ATOM   1608   CB ALA B 844     -15.674   7.326 -14.739  0.00  0.00           C 0
+ATOM   1368   CB ALA B 813     -15.389   3.699 -13.662  0.00  0.00           C 0
+TER
+END

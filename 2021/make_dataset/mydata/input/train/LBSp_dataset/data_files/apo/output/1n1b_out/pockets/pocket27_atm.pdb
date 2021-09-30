@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0070
+HEADER 1  - Drug Score                        : 0.0073
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8137
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4800
+HEADER 5  - Mean B-factor of pocket residues  : 0.5928
+HEADER 6  - Hydrophobicity Score              : -11.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.5963
+HEADER 10  -Pocket volume (convex hull)       : 10.3956
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.5714
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM     71   CD GLN A  71      56.425  35.593  28.692  0.00  0.00           C 0
+ATOM   1928   CG ARG A 299      49.321  37.139  26.671  0.00  0.00           C 0
+ATOM   1924   CA ARG A 299      49.858  38.114  28.975  0.00  0.00           C 0
+ATOM     73  NE2 GLN A  71      56.442  36.876  29.043  0.53  7.66           N 0
+ATOM     70   CG GLN A  71      55.919  34.614  29.737  0.00  0.00           C 0
+ATOM   1923    N ARG A 299      49.961  37.746  30.385  0.00  0.00           N 0
+ATOM   1922   OG SER A 298      53.035  37.897  32.675  0.68  2.14           O 0
+ATOM   1895    O LYS A 295      49.901  34.762  31.074  0.55  4.29           O 0
+ATOM   1896   CB LYS A 295      50.959  31.782  31.927  0.00  0.00           C 0
+ATOM   1933  NH2 ARG A 299      48.960  32.741  27.695  0.09  4.37           N 0
+ATOM   1930   NE ARG A 299      49.194  34.668  26.451  0.67  6.56           N 0
+ATOM   1898   CD LYS A 295      52.559  29.846  31.786  0.00  0.00           C 0
+ATOM   1897   CG LYS A 295      52.219  31.149  32.496  0.00  0.00           C 0
+ATOM     66   CA GLN A  71      56.548  32.643  31.239  0.00  0.00           C 0
+ATOM     69   CB GLN A  71      56.927  33.523  30.047  0.00  0.00           C 0
+ATOM   1927   CB ARG A 299      49.207  36.980  28.179  0.00  0.00           C 0
+ATOM     68    O GLN A  71      57.251  30.427  30.658  0.64  7.50           O 0
+ATOM   1966   CB SER A 302      52.732  41.748  29.067  0.00  0.00           C 0
+ATOM   1967   OG SER A 302      53.256  40.904  30.075  0.89  2.14           O 0
+ATOM   1926    O ARG A 299      49.397  40.316  28.121  0.48  3.21           O 0
+TER
+END

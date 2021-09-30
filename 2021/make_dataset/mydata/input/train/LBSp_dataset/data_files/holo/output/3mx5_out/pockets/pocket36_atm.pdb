@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.1669
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9266
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5028
+HEADER 5  - Mean B-factor of pocket residues  : 0.5264
+HEADER 6  - Hydrophobicity Score              : 16.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.1686
+HEADER 10  -Pocket volume (convex hull)       : 7.0454
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM    649  OE1 GLN A  85      19.947  13.803 -16.878  0.44  3.21           O 0
+ATOM   1979   CB PRO A 272      21.869  17.526 -20.986  0.00  0.00           C 0
+ATOM   1980   CG PRO A 272      20.574  17.386 -20.232  0.00  0.00           C 0
+ATOM    654    O LYS A  86      22.723  13.756 -15.361  0.65  6.43           O 0
+ATOM    664   CB SER A  87      25.038  16.679 -14.975  0.00  0.00           C 0
+ATOM   1976   CA PRO A 272      22.233  19.006 -20.822  0.00  0.00           C 0
+ATOM   1978    O PRO A 272      24.201  19.393 -22.127  0.64  5.36           O 0
+ATOM    665   OG SER A  87      23.699  17.136 -15.076  0.84  4.29           O 0
+ATOM   2012  OD1 ASP A 276      28.914  20.008 -19.278  0.71  4.29           O 0
+ATOM   2004   SD MET A 275      25.251  20.189 -15.810  0.00  0.00           S 0
+ATOM    681  CD2 LEU A  89      29.196  18.960 -16.275  0.00  0.00           C 0
+ATOM    669    O ILE A  88      29.198  14.942 -17.582  0.17  8.57           O 0
+ATOM   2013  OD2 ASP A 276      30.194  19.529 -20.978  0.21  6.43           O 0
+ATOM   2002   CB MET A 275      24.869  21.682 -17.990  0.00  0.00           C 0
+ATOM    666    N ILE A  88      27.177  14.134 -15.644  0.66  5.47           N 0
+ATOM    661   CA SER A  87      25.115  15.150 -14.927  0.00  0.00           C 0
+TER
+END

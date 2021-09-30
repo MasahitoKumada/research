@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0664
+HEADER 1  - Drug Score                        : 0.0174
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9073
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4815
+HEADER 5  - Mean B-factor of pocket residues  : 0.6424
+HEADER 6  - Hydrophobicity Score              : 8.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.1784
+HEADER 10  -Pocket volume (convex hull)       : 3.8320
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.6800
+ATOM   1683   CZ ARG A 242      16.946   3.911  56.657  0.00  0.00           C 0
+ATOM   1454  CE1APHE A 212      16.279   7.129  64.453  0.00  0.00           C 0
+ATOM   1409   CG GLU A 207      19.708   7.672  58.377  0.00  0.00           C 0
+ATOM   1408   CB GLU A 207      18.558   8.649  58.355  0.00  0.00           C 0
+ATOM   1219   CG PRO A 182      11.750   5.459  60.564  0.00  0.00           C 0
+ATOM   1684  NH1 ARG A 242      16.240   2.920  57.190  0.56  7.66           N 0
+ATOM   1685  NH2 ARG A 242      18.272   3.926  56.751  0.52  5.47           N 0
+ATOM   1427    O GLY A 210      22.080   6.258  62.554  0.00  0.00           O 0
+ATOM   1450  CD1APHE A 212      17.130   8.218  64.381  0.00  0.00           C 0
+ATOM   1434    OAALA A 211      20.401   9.902  62.028  0.00  0.00           O 0
+ATOM   1702  ND1 HIS A 244      13.090   9.258  62.577  0.87  2.19           N 0
+ATOM   1404    N GLU A 207      17.488  10.760  59.057  0.50  1.09           N 0
+ATOM   1218   CB PRO A 182      11.777   5.976  59.172  0.00  0.00           C 0
+ATOM   1682   NE ARG A 242      16.313   4.885  56.039  0.82  5.47           N 0
+ATOM   1681   CD ARG A 242      14.836   4.925  55.889  0.00  0.00           C 0
+ATOM   1679   CB ARG A 242      14.683   7.425  56.207  0.00  0.00           C 0
+ATOM   1677    C ARG A 242      14.415   9.847  56.567  0.00  0.00           C 0
+ATOM   1686    N HIS A 243      13.179  10.112  56.953  0.00  0.00           N 0
+TER
+END

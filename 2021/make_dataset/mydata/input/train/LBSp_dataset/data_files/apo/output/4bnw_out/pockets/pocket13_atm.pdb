@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1149
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6275
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4078
+HEADER 5  - Mean B-factor of pocket residues  : 0.2212
+HEADER 6  - Hydrophobicity Score              : 33.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 135.3763
+HEADER 10  -Pocket volume (convex hull)       : 2.8069
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   4902   CB ALA C 176     -13.206 -27.501  13.491  0.00  0.00           C 0
+ATOM   5307    O ALA C 231     -12.672 -20.565  14.978  0.80  2.14           O 0
+ATOM   4901    O ALA C 176     -15.650 -26.318  13.774  0.00  0.00           O 0
+ATOM   4899   CA ALA C 176     -13.775 -27.300  14.925  0.00  0.00           C 0
+ATOM   5308   CB ALA C 231     -12.537 -20.227  11.918  0.00  0.00           C 0
+ATOM   3310  NH2 ARG B 211      -9.382 -21.457  13.444  0.00  0.00           N 0
+ATOM   4614  NH1 ARG C 135     -17.043 -22.549  12.390  0.00  0.00           N 0
+ATOM   4593  CD1 TRP C 133     -15.911 -25.470   9.487  0.00  0.00           C 0
+ATOM   3291    O LEU B 209      -8.461 -26.620  17.721  0.21  6.43           O 0
+ATOM   3307   NE ARG B 211      -8.114 -23.290  14.079  0.00  0.00           N 0
+ATOM   4586  NH2 ARG C 132     -10.016 -29.574  14.334  0.00  3.28           N 0
+ATOM   4595  NE1 TRP C 133     -16.241 -24.207   9.209  0.00  0.00           N 0
+ATOM   4615  NH2 ARG C 135     -16.112 -20.802  11.235  0.00  0.00           N 0
+ATOM   3295  CD2 LEU B 209     -12.411 -24.196  17.937  0.00  0.00           C 0
+ATOM   3292   CB LEU B 209      -9.954 -24.063  18.317  0.00  0.00           C 0
+ATOM   3294  CD1 LEU B 209     -11.204 -22.134  17.373  0.00  0.00           C 0
+TER
+END

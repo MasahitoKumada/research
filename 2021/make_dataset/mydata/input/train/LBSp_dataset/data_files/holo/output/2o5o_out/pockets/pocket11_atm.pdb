@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0983
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9320
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6788
+HEADER 5  - Mean B-factor of pocket residues  : 0.7517
+HEADER 6  - Hydrophobicity Score              : -16.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 178.9740
+HEADER 10  -Pocket volume (convex hull)       : 2.5194
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM     92   CG ASN X  13     -19.729 -10.367  19.667  0.00  0.00           C 0
+ATOM     59   CG GLN X   9     -23.329  -9.238  14.429  0.00  0.00           C 0
+ATOM     61  OE1 GLN X   9     -24.765 -10.924  13.528  0.00  0.00           O 0
+ATOM     60   CD GLN X   9     -24.664  -9.921  14.233  0.00  0.00           C 0
+ATOM     71  NE2 GLN X  10     -18.148 -13.886  15.124  0.00  0.00           N 0
+ATOM     94  ND2 ASN X  13     -20.728  -9.892  20.395  0.00  0.00           N 0
+ATOM     62  NE2 GLN X   9     -25.696  -9.389  14.875  0.00  0.00           N 0
+ATOM     91   CB ASN X  13     -19.389  -9.604  18.409  0.00  0.00           C 0
+ATOM     57    O GLN X   9     -20.184  -8.546  15.363  0.47  3.21           O 0
+ATOM     93  OD1 ASN X  13     -19.077 -11.356  19.995  0.62  5.36           O 0
+ATOM     64   CA GLN X  10     -18.433 -10.437  14.349  0.00  0.00           C 0
+ATOM     68   CG GLN X  10     -18.664 -12.632  13.109  0.00  0.00           C 0
+ATOM     63    N GLN X  10     -19.527  -9.806  13.612  0.00  0.00           N 0
+ATOM     56    C GLN X   9     -20.297  -8.884  14.180  0.00  0.00           C 0
+TER
+END

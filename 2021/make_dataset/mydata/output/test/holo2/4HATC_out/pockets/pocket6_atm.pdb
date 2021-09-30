@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2166
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.6851
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4103
+HEADER 5  - Mean B-factor of pocket residues  : 0.6432
+HEADER 6  - Hydrophobicity Score              : 27.8462
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.3077
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.4575
+HEADER 10  -Pocket volume (convex hull)       : 28.2821
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.5000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3077
+ATOM   2705  CD2 LEU C 329     -27.827  31.966  63.217  0.00  0.00           C 0
+ATOM   2240   CE LYS C 272     -28.951  27.785  63.579  0.00  0.00           C 0
+ATOM   2191  NE2 GLN C 266     -25.771  26.431  57.996  0.40  9.84           N 0
+ATOM   2238   CG LYS C 272     -27.026  28.619  64.930  0.00  0.00           C 0
+ATOM   2681  OD1 ASN C 326     -23.593  32.435  59.859  0.57  6.43           O 0
+ATOM   2704  CD1 LEU C 329     -25.390  32.624  63.399  0.00  0.00           C 0
+ATOM   2703   CG LEU C 329     -26.793  33.071  63.010  0.00  0.00           C 0
+ATOM   2666    O ARG C 325     -25.591  33.416  57.129  0.00  0.00           O 0
+ATOM   2697   CB ALA C 328     -30.679  35.011  59.493  0.00  0.00           C 0
+ATOM   2176  CD1 ILE C 264     -19.196  27.357  61.345  0.00  0.00           C 0
+ATOM   2672  NH1 ARG C 325     -19.903  29.143  56.969  0.56  1.09           N 1
+ATOM   2671   CZ ARG C 325     -21.183  28.855  56.783  0.00  0.00           C 0
+ATOM   2175  CG2 ILE C 264     -21.624  25.555  61.783  0.00  0.00           C 0
+ATOM   2180    O PRO C 265     -24.752  24.411  61.655  0.62  3.21           O 0
+ATOM   2231  CG2 ILE C 271     -22.144  25.973  65.003  0.00  0.00           C 0
+ATOM   2268  OG1 THR C 275     -21.239  30.151  64.321  0.00  0.00           O 0
+ATOM   2267  CG2 THR C 275     -21.594  32.368  63.362  0.00  0.00           C 0
+ATOM   2234   CA LYS C 272     -25.050  29.291  66.386  0.00  0.00           C 0
+ATOM   2675   CA ASN C 326     -24.972  34.966  59.395  0.00  0.00           C 0
+ATOM   2698    N LEU C 329     -28.796  35.268  62.205  0.00  0.00           N 0
+ATOM   2680  ND2 ASN C 326     -21.682  33.607  59.989  0.00  0.00           N 0
+ATOM   1905   OH TYR C 230     -18.796  29.413  63.810  0.00  0.00           O 0
+ATOM   2141    O SER C 260     -18.568  31.540  57.374  0.00  0.00           O 0
+ATOM   2134    O VAL C 259     -16.082  30.142  59.701  0.00  0.00           O 0
+ATOM   2139   CA SER C 260     -16.961  32.608  58.806  0.00  0.00           C 0
+TER
+END

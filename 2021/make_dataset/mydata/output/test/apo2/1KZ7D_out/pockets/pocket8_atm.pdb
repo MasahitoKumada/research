@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1558
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9678
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6398
+HEADER 5  - Mean B-factor of pocket residues  : 0.4495
+HEADER 6  - Hydrophobicity Score              : -18.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 337.9553
+HEADER 10  -Pocket volume (convex hull)       : 23.9301
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM    570   CD GLN D1074      -0.545  36.512 126.772  0.00  0.00           C 0
+ATOM    587  OD2 ASP D1076      -4.453  42.648 125.482  0.52  7.50           O 1
+ATOM    571  NE2 GLN D1074      -1.372  35.935 127.644  0.00  0.00           N 0
+ATOM    572  OE1 GLN D1074       0.509  37.055 127.115  0.50  4.29           O 0
+ATOM    567    O GLN D1074      -1.353  40.376 123.925  0.00  0.00           O 0
+ATOM    566    C GLN D1074      -1.605  39.543 123.060  0.00  0.00           C 0
+ATOM    565   CA GLN D1074      -1.642  38.063 123.405  0.00  0.00           C 0
+ATOM    576    O THR D1075      -4.262  41.315 121.557  0.29  4.29           O 0
+ATOM     39   CD LYS D1005       1.737  41.588 122.745  0.00  0.00           C 0
+ATOM     37   CB LYS D1005       0.581  43.543 123.827  0.00  0.00           C 0
+ATOM    568   CB GLN D1074      -0.724  37.805 124.606  0.00  0.00           C 0
+ATOM    569   CG GLN D1074      -0.957  36.470 125.307  0.00  0.00           C 0
+ATOM     41   NZ LYS D1005       2.830  39.676 121.579  0.66  9.84           N 1
+ATOM    560    O PRO D1073       0.772  37.934 121.937  0.00  0.00           O 0
+ATOM     21    O THR D1003      -1.141  45.076 128.613  0.32  4.29           O 0
+ATOM    586  OD1 ASP D1076      -2.754  43.935 126.039  0.82  4.29           O 0
+ATOM     22   CB THR D1003       1.565  45.738 129.970  0.00  0.00           C 0
+ATOM     23  CG2 THR D1003       2.285  46.154 128.683  0.00  0.00           C 0
+TER
+END

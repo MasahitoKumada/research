@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0625
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8062
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6469
+HEADER 5  - Mean B-factor of pocket residues  : 0.3244
+HEADER 6  - Hydrophobicity Score              : 34.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 316.8051
+HEADER 10  -Pocket volume (convex hull)       : 20.7565
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.2500
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM   2109   CB THR B 300      28.624  -4.930  73.975  0.00  0.00           C 0
+ATOM   2084   CG ARG B 297      29.701   0.482  76.443  0.00  0.00           C 0
+ATOM   2111  OG1 THR B 300      30.021  -4.857  73.676  0.62  4.29           O 0
+ATOM   2080   CA ARG B 297      28.763  -0.562  74.344  0.00  0.00           C 0
+ATOM   2110  CG2 THR B 300      28.382  -6.027  75.010  0.00  0.00           C 0
+ATOM   2082    O ARG B 297      26.739  -1.759  73.894  0.50  3.21           O 0
+ATOM   2083   CB ARG B 297      28.516   0.406  75.501  0.00  0.00           C 0
+ATOM   2086   NE ARG B 297      30.847   1.810  78.157  0.72  2.19           N 0
+ATOM   2055    O LEU B 293      31.510   2.510  74.316  0.54  5.36           O 0
+ATOM   2059  CD2 LEU B 293      35.408   3.658  76.556  0.00  0.00           C 0
+ATOM   2077    C GLY B 296      30.373  -0.789  72.532  0.00  0.00           C 0
+ATOM   2078    O GLY B 296      30.051  -1.965  72.334  0.60  2.14           O 0
+ATOM   2076   CA GLY B 296      31.452  -0.127  71.692  0.00  0.00           C 0
+ATOM   2540   CD ARG B 355      32.572  -7.349  70.202  0.00  0.00           C 0
+ATOM   2543  NH1 ARG B 355      32.117  -7.175  72.982  0.58  7.66           N 1
+ATOM   2516  CE2 TYR B 352      34.548  -1.580  69.456  0.00  0.00           C 0
+ATOM   2103  CG2 ILE B 299      29.322  -4.259  68.396  0.00  0.00           C 0
+ATOM   2514  CD2 TYR B 352      35.436  -2.636  69.309  0.00  0.00           C 0
+ATOM   2079    N ARG B 297      29.809  -0.036  73.474  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0062
+HEADER 1  - Drug Score                        : 0.0095
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0641
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6034
+HEADER 5  - Mean B-factor of pocket residues  : 0.3233
+HEADER 6  - Hydrophobicity Score              : 37.3750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.9073
+HEADER 10  -Pocket volume (convex hull)       : 5.9391
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3810
+ATOM   1367   CA ALA D 179      32.140  62.154  60.216  0.00  0.00           C 0
+ATOM   1370   CB ALA D 179      32.921  63.089  59.296  0.00  0.00           C 0
+ATOM   1396   NE ARG D 182      33.841  57.292  62.141  0.56  5.47           N 0
+ATOM   1399  NH2 ARG D 182      34.559  55.878  60.475  0.00  0.00           N 0
+ATOM   1366    N ALA D 179      31.277  61.279  59.432  0.59  1.09           N 0
+ATOM   1364  CG1 VAL D 178      31.313  57.603  59.386  0.00  0.00           C 0
+ATOM   1342   CA ALA D 175      31.970  60.689  54.501  0.00  0.00           C 0
+ATOM   1548  CD1 ILE D 200      30.546  54.451  57.330  0.00  0.00           C 0
+ATOM   1365  CG2 VAL D 178      29.633  57.541  57.537  0.00  0.00           C 0
+ATOM   1339  CG2 THR D 174      28.648  57.529  53.161  0.00  0.00           C 0
+ATOM     67  OE2 GLU D  13      32.161  55.079  49.214  0.22  1.07           O 1
+ATOM   1511   CE MET D 196      30.374  53.750  52.171  0.00  0.00           C 0
+ATOM   1345   CB ALA D 175      33.257  61.069  53.757  0.00  0.00           C 0
+ATOM   1510   SD MET D 196      30.272  53.280  53.899  0.00  0.00           S 0
+ATOM   1341    N ALA D 175      30.868  60.535  53.557  0.67  1.09           N 0
+ATOM   1338   CB THR D 174      28.725  58.671  52.167  0.00  0.00           C 0
+ATOM   1363   CB VAL D 178      30.529  58.435  58.373  0.00  0.00           C 0
+ATOM   1344    O ALA D 175      31.874  61.618  56.717  0.73  1.07           O 0
+TER
+END

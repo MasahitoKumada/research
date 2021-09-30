@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.1456
+HEADER 1  - Drug Score                        : 0.5509
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8863
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6702
+HEADER 5  - Mean B-factor of pocket residues  : 0.2089
+HEADER 6  - Hydrophobicity Score              : 68.4000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 390.6166
+HEADER 10  -Pocket volume (convex hull)       : 30.4972
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.9091
+ATOM    124  CD2 PHE A  12     -10.507  17.543  38.835  0.00  0.00           C 0
+ATOM     92   CG LEU A   8     -13.963  11.670  39.298  0.00  0.00           C 0
+ATOM     94  CD2 LEU A   8     -15.124  11.480  40.340  0.00  0.00           C 0
+ATOM     93  CD1 LEU A   8     -14.430  12.423  38.053  0.00  0.00           C 0
+ATOM    101  CG2 VAL A   9      -8.986   9.773  41.526  0.00  0.00           C 0
+ATOM    123  CD1 PHE A  12      -8.235  17.145  39.538  0.00  0.00           C 0
+ATOM    135  CD2 LEU A  13      -4.477  14.654  40.048  0.00  0.00           C 0
+ATOM     96   CA VAL A   9      -8.967  10.749  39.240  0.00  0.00           C 0
+ATOM    100  CG1 VAL A   9      -6.776   9.942  40.297  0.00  0.00           C 0
+ATOM    133   CG LEU A  13      -4.754  13.411  39.099  0.00  0.00           C 0
+ATOM     98    O VAL A   9      -7.526  12.104  37.889  0.61  1.07           O 0
+ATOM    121   CB PHE A  12      -9.451  15.349  38.235  0.00  0.00           C 0
+ATOM     90    O LEU A   8     -10.793  12.115  37.645  0.00  0.00           O 0
+ATOM     64   CG ASN A   5     -14.324   5.949  43.082  0.00  0.00           C 0
+ATOM     66  OD1 ASN A   5     -15.121   6.827  42.763  0.54  4.29           O 0
+ATOM     63   CB ASN A   5     -13.074   5.759  42.283  0.00  0.00           C 0
+ATOM     91   CB LEU A   8     -13.409  10.324  38.884  0.00  0.00           C 0
+ATOM    122   CG PHE A  12      -9.402  16.708  38.881  0.00  0.00           C 0
+ATOM     62    O ASN A   5     -11.377   7.725  40.276  0.79  1.07           O 0
+ATOM     89    C LEU A   8     -11.095  10.985  38.058  0.00  0.00           C 0
+ATOM     95    N VAL A   9     -10.276  10.249  38.807  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1583
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6089
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4165
+HEADER 5  - Mean B-factor of pocket residues  : 0.5841
+HEADER 6  - Hydrophobicity Score              : 20.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 99.9888
+HEADER 10  -Pocket volume (convex hull)       : 0.9528
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4762
+ATOM    914    C GLY B  11      12.199  31.304  49.282  0.00  0.00           C 0
+ATOM     61   OG SER A   8       8.246  27.429  46.264  0.71  1.07           O 0
+ATOM    916    N MET B  12      11.865  31.895  48.133  0.00  0.00           N 0
+ATOM    922   SD MET B  12      13.089  30.207  44.509  0.00  0.00           S 0
+ATOM    947   SDAMET B  15      16.436  28.002  46.029  0.00  0.00           S 0
+ATOM    944   CB MET B  15      16.301  29.835  48.117  0.00  0.00           C 0
+ATOM     35   CB ALA A   5      13.795  25.655  44.976  0.00  0.00           C 0
+ATOM     29  OE1 GLN A   4      11.662  26.259  51.180  0.64  5.36           O 0
+ATOM    915    O GLY B  11      13.345  30.883  49.542  0.58  3.21           O 0
+ATOM   1160  ND2 ASN B  38      17.282  24.983  47.400  0.36  8.75           N 0
+ATOM     28   CD GLN A   4      10.658  26.413  50.468  0.00  0.00           C 0
+ATOM     30  NE2 GLN A   4       9.863  27.501  50.623  0.70  1.09           N 0
+ATOM     32   CA ALA A   5      12.328  25.409  45.248  0.00  0.00           C 0
+ATOM     27   CG GLN A   4      10.360  25.393  49.433  0.00  0.00           C 0
+ATOM    923   CE MET B  12      11.938  29.123  43.662  0.00  0.00           C 0
+ATOM     31    N ALA A   5      12.137  24.510  46.363  0.58  3.28           N 0
+ATOM     26   CB GLN A   4      11.139  24.064  49.331  0.00  0.00           C 0
+TER
+END

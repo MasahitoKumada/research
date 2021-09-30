@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0425
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8899
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5583
+HEADER 5  - Mean B-factor of pocket residues  : 0.1008
+HEADER 6  - Hydrophobicity Score              : 46.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.9748
+HEADER 10  -Pocket volume (convex hull)       : 8.8170
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   2618   OH TYR A 351      30.745  51.530  64.249  0.00  0.00           O 0
+ATOM   2142   NZ LYS A 279      29.248  49.714  56.915  0.00  0.00           N 1
+ATOM   2140   CD LYS A 279      30.847  48.301  58.277  0.00  0.00           C 0
+ATOM   2527  CE1 PHE A 339      29.047  46.759  62.472  0.00  0.00           C 0
+ATOM   2598  CG2 VAL A 349      32.191  48.082  61.961  0.00  0.00           C 0
+ATOM   2529   CZ PHE A 339      29.540  47.373  63.608  0.00  0.00           C 0
+ATOM   2597  CG1 VAL A 349      33.721  49.933  62.713  0.00  0.00           C 0
+ATOM   2124   CB SER A 277      35.000  54.135  61.051  0.00  0.00           C 0
+ATOM   2138   CB LYS A 279      33.342  48.730  57.993  0.00  0.00           C 0
+ATOM   2061   CE MET A 268      32.708  53.784  54.943  0.00  0.00           C 0
+ATOM   2123    O SER A 277      36.989  53.368  58.748  0.00  0.00           O 0
+ATOM   2073   CB ALA A 270      34.562  56.067  56.931  0.00  0.00           C 0
+ATOM   2616  CE2 TYR A 351      32.583  53.032  64.418  0.00  0.00           C 0
+ATOM   2125   OG SER A 277      34.647  55.113  62.019  0.73  7.50           O 0
+ATOM   2057    O MET A 268      36.507  50.954  56.271  0.57  1.07           O 0
+ATOM   2134    N LYS A 279      35.686  49.341  58.455  0.81  1.09           N 0
+TER
+END

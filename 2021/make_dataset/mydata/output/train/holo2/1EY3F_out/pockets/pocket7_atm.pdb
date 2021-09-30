@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0515
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8719
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5395
+HEADER 5  - Mean B-factor of pocket residues  : 0.4472
+HEADER 6  - Hydrophobicity Score              : 13.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.1696
+HEADER 10  -Pocket volume (convex hull)       : 2.1555
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   1221    O GLY F 195      54.763  68.508   4.850  0.77  2.14           O 0
+ATOM   1239  NH1 ARG F 197      59.220  73.248   4.010  0.00  0.00           N 1
+ATOM   1021  CD1 LEU F 166      54.533  68.510   0.176  0.00  0.00           C 0
+ATOM   1240  NH2 ARG F 197      58.049  75.038   4.834  0.00  0.00           N 0
+ATOM    995   CB PRO F 163      57.466  66.575   2.231  0.00  0.00           C 0
+ATOM   1235   CG ARG F 197      58.007  70.983   6.908  0.00  0.00           C 0
+ATOM   1238   CZ ARG F 197      58.618  73.854   5.020  0.00  0.00           C 0
+ATOM   1223   CA ASP F 196      53.092  69.804   6.599  0.00  0.00           C 0
+ATOM   1228  OD1 ASP F 196      51.006  71.036   5.344  0.48  5.36           O 0
+ATOM   1230    N ARG F 197      55.021  70.646   7.784  0.70  3.28           N 0
+ATOM   1237   NE ARG F 197      58.555  73.264   6.209  0.00  0.00           N 0
+ATOM    996   CG PRO F 163      58.855  66.178   2.586  0.00  0.00           C 0
+ATOM    826  CD1 LEU F 139      62.105  69.599   4.034  0.00  0.00           C 0
+ATOM    827  CD2 LEU F 139      61.058  68.992   6.217  0.00  0.00           C 0
+TER
+END

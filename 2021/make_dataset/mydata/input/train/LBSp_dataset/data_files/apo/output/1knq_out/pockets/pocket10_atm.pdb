@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0246
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1307
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6556
+HEADER 5  - Mean B-factor of pocket residues  : 0.5573
+HEADER 6  - Hydrophobicity Score              : -31.4286
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 364.7023
+HEADER 10  -Pocket volume (convex hull)       : 11.4311
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0455
+ATOM   2039   CE LYS B  92       3.373  21.624  20.401  0.00  0.00           C 0
+ATOM   2497   CB ASP B 147      -1.521  24.864  19.852  0.00  0.00           C 0
+ATOM   2500  OD2 ASP B 147       0.543  23.916  18.911  0.65  6.43           O 0
+ATOM   2040   NZ LYS B  92       3.565  20.269  21.002  0.00  0.00           N 0
+ATOM   2496    O ASP B 147      -0.756  26.415  22.530  0.00  0.00           O 0
+ATOM   2110  NH1 ARG B  99       6.268  24.838  23.868  0.00  0.00           N 0
+ATOM   2083  OD1 ASP B  96       5.923  21.788  24.249  0.00  0.00           O 0
+ATOM   2502   CA GLU B 148       1.610  27.600  21.742  0.00  0.00           C 0
+ATOM   2109   CZ ARG B  99       5.995  26.019  24.408  0.00  0.00           C 0
+ATOM   2506   CG GLU B 148       3.198  26.105  20.429  0.00  0.00           C 0
+ATOM   2510    N THR B 149       0.668  29.006  23.429  0.00  0.00           N 0
+ATOM   2523  OD1 ASP B 150       4.425  28.856  25.122  0.66  1.07           O 0
+ATOM   2515  OG1 THR B 149      -0.724  29.193  25.971  0.75  7.50           O 0
+ATOM   2524  OD2 ASP B 150       5.387  28.541  27.026  0.55  4.29           O 0
+ATOM   2522   CG ASP B 150       4.669  29.260  26.289  0.00  0.00           C 0
+ATOM   2108   NE ARG B  99       5.942  26.153  25.725  0.00  0.00           N 0
+ATOM   2107   CD ARG B  99       6.194  25.057  26.667  0.00  0.00           C 0
+ATOM   2521   CB ASP B 150       4.085  30.595  26.756  0.00  0.00           C 0
+TER
+END

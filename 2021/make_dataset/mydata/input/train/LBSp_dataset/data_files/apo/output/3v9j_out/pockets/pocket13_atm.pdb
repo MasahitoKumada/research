@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0669
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8670
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6277
+HEADER 5  - Mean B-factor of pocket residues  : 0.6155
+HEADER 6  - Hydrophobicity Score              : 25.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.3169
+HEADER 10  -Pocket volume (convex hull)       : 10.3543
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   3117  CD2 TYR A 428      39.466 -11.501  -5.276  0.00  0.00           C 0
+ATOM   3068   CB ASN A 422      39.061 -17.393  -7.029  0.00  0.00           C 0
+ATOM   3069   CG ASN A 422      40.395 -17.945  -6.554  0.00  0.00           C 0
+ATOM   3067    O ASN A 422      38.070 -15.749  -4.785  0.45  1.07           O 0
+ATOM   3071  ND2 ASN A 422      41.222 -18.370  -7.506  0.43  4.37           N 0
+ATOM   3070  OD1 ASN A 422      40.689 -17.977  -5.360  0.00  0.00           O 0
+ATOM   3119  CE2 TYR A 428      40.234 -10.359  -5.037  0.00  0.00           C 0
+ATOM   3093  CG2 VAL A 425      44.862 -14.255  -3.043  0.00  0.00           C 0
+ATOM   3091   CB VAL A 425      43.710 -13.342  -2.639  0.00  0.00           C 0
+ATOM   3086   OG SER A 424      43.100 -17.372  -4.100  0.53  5.36           O 0
+ATOM   3087    N VAL A 425      42.291 -15.273  -1.976  0.44  1.09           N 0
+ATOM   2720    O VAL A 377      39.484  -7.973 -10.578  0.41  5.36           O 0
+ATOM   3120   CZ TYR A 428      39.776  -9.130  -5.468  0.00  0.00           C 0
+ATOM   3118  CE1 TYR A 428      38.567  -9.029  -6.127  0.00  0.00           C 0
+ATOM   3116  CD1 TYR A 428      37.811 -10.163  -6.353  0.00  0.00           C 0
+ATOM   3115   CG TYR A 428      38.241 -11.416  -5.932  0.00  0.00           C 0
+ATOM   3136  OE1 GLU A 430      36.975 -12.329 -11.683  0.63  3.21           O 0
+ATOM   3114   CB TYR A 428      37.434 -12.658  -6.239  0.00  0.00           C 0
+TER
+END

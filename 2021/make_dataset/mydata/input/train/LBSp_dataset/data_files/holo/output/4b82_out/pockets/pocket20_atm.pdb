@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.1055
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0780
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6440
+HEADER 5  - Mean B-factor of pocket residues  : 0.2174
+HEADER 6  - Hydrophobicity Score              : 4.5714
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.0147
+HEADER 10  -Pocket volume (convex hull)       : 3.5215
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   1365  CD2 LEU A 205      40.961   1.817  22.043  0.00  0.00           C 0
+ATOM   1364  CD1 LEU A 205      43.003   3.240  21.829  0.00  0.00           C 0
+ATOM   1362   CB LEU A 205      40.974   4.128  23.020  0.00  0.00           C 0
+ATOM    384   CB PRO A  80      45.922   3.981  24.277  0.00  0.00           C 0
+ATOM    390    O PRO A  81      44.373   4.483  28.322  0.46  8.57           O 0
+ATOM   1361    O LEU A 205      38.791   4.490  25.356  0.76  2.14           O 0
+ATOM    392   CG PRO A  81      42.007   5.973  26.671  0.00  0.00           C 0
+ATOM    393   CD PRO A  81      43.000   5.908  25.539  0.00  0.00           C 0
+ATOM   1398   CB LEU A 209      38.543   4.396  28.800  0.00  0.00           C 0
+ATOM   1422  OE1 GLN A 212      38.288  -0.076  29.562  0.00  0.00           O 0
+ATOM   1389   CD ARG A 208      37.589  -0.319  24.224  0.00  0.00           C 0
+ATOM   1400  CD1 LEU A 209      39.429   3.144  30.792  0.00  0.00           C 0
+ATOM   1394    N LEU A 209      36.875   3.497  27.226  0.00  0.00           N 0
+ATOM    409   CD PRO A  83      43.949   2.986  32.284  0.00  0.00           C 0
+ATOM    408   CG PRO A  83      42.854   2.235  32.981  0.00  0.00           C 0
+ATOM   1388   CG ARG A 208      36.703   0.534  25.115  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0123
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.2096
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7699
+HEADER 5  - Mean B-factor of pocket residues  : 0.8191
+HEADER 6  - Hydrophobicity Score              : -6.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.6635
+HEADER 10  -Pocket volume (convex hull)       : 2.3735
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   1408  NE2 GLN B  34       4.242 -33.573  10.586  0.59  5.47           N 0
+ATOM   2068  OD1 ASN B 114       2.749 -29.350  15.503  0.75  3.21           O 0
+ATOM   1926   CA PHE B  98       4.988 -30.069  13.197  0.00  0.00           C 0
+ATOM   1936    N GLU B  99       2.677 -29.767  12.525  0.50  1.09           N 0
+ATOM   1407  OE1 GLN B  34       2.011 -33.722  10.206  0.59  7.50           O 0
+ATOM   1940   CB GLU B  99       0.321 -30.255  11.958  0.00  0.00           C 0
+ATOM   1920    C PRO B  97       6.740 -31.605  14.046  0.00  0.00           C 0
+ATOM   1921    O PRO B  97       6.577 -31.265  15.217  0.00  0.00           O 0
+ATOM   1925    N PHE B  98       6.059 -31.075  13.022  0.00  0.00           N 0
+ATOM   2063   CA ASN B 114       0.063 -28.578  16.050  0.00  0.00           C 0
+ATOM   2078   NZ LYS B 115      -3.773 -32.792  13.536  0.60  8.75           N 0
+ATOM   2075   CG LYS B 115      -3.877 -30.686  15.594  0.00  0.00           C 0
+ATOM   1927    C PHE B  98       3.896 -30.130  12.129  0.00  0.00           C 0
+ATOM   1922   CB PRO B  97       7.104 -34.061  13.563  0.00  0.00           C 0
+ATOM   1923   CG PRO B  97       7.202 -34.682  14.939  0.00  0.00           C 0
+ATOM   2066   CB ASN B 114       1.098 -28.834  17.155  0.00  0.00           C 0
+ATOM   2065    O ASN B 114      -1.480 -28.842  17.794  0.00  0.00           O 0
+ATOM   2064    C ASN B 114      -1.313 -28.538  16.629  0.00  0.00           C 0
+TER
+END

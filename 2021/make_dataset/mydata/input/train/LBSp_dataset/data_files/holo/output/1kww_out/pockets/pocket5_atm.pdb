@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0759
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6806
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6187
+HEADER 5  - Mean B-factor of pocket residues  : 0.4241
+HEADER 6  - Hydrophobicity Score              : 31.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.6646
+HEADER 10  -Pocket volume (convex hull)       : 3.3192
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   1275  CD1 LEU B 105       8.458  22.972  35.805  0.00  0.00           C 0
+ATOM   1300   NZ LYS B 108      14.169  23.162  37.337  0.00  0.00           N 0
+ATOM   1298   CD LYS B 108      12.778  24.869  36.106  0.00  0.00           C 0
+ATOM   1268  CG2 THR B 104       9.015  28.262  39.339  0.00  0.00           C 0
+ATOM   1246    N ILE B 102       2.803  26.165  38.887  0.00  0.00           N 0
+ATOM   1251  CG1 ILE B 102       0.677  24.537  37.580  0.00  0.00           C 0
+ATOM   1247   CA ILE B 102       2.648  26.071  37.445  0.00  0.00           C 0
+ATOM   1276  CD2 LEU B 105       6.049  22.185  35.857  0.00  0.00           C 0
+ATOM   1270   CA LEU B 105       7.415  25.840  35.736  0.00  0.00           C 0
+ATOM   1269    N LEU B 105       6.971  26.875  36.658  0.00  0.00           N 0
+ATOM   1240    O GLU B 101       5.036  26.049  38.764  0.56  1.07           O 0
+ATOM   1245  OE2 GLU B 101       6.350  24.632  42.442  0.65  4.29           O 0
+ATOM   1241   CB GLU B 101       3.775  24.871  41.570  0.00  0.00           C 0
+ATOM   1239    C GLU B 101       4.010  26.147  39.435  0.00  0.00           C 0
+ATOM   1273   CB LEU B 105       6.548  24.602  35.937  0.00  0.00           C 0
+TER
+END

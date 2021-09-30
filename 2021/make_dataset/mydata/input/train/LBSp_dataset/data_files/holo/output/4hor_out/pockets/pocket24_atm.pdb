@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0226
+HEADER 1  - Drug Score                        : 0.0326
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 4.0745
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5435
+HEADER 5  - Mean B-factor of pocket residues  : 0.5485
+HEADER 6  - Hydrophobicity Score              : 10.8182
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4545
+HEADER 9  - Pocket volume (Monte Carlo)       : 538.3845
+HEADER 10  -Pocket volume (convex hull)       : 60.7841
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.4839
+ATOM   1649  CD1 PHE A 199     -14.984   7.638  21.780  0.00  0.00           C 0
+ATOM   1648   CG PHE A 199     -14.473   6.473  22.337  0.00  0.00           C 0
+ATOM   1342   CE LYS A 160     -13.311   1.695  16.507  0.00  0.00           C 0
+ATOM   1343   NZ LYS A 160     -12.804   2.531  15.393  0.46  4.37           N 1
+ATOM   1650  CD2 PHE A 199     -13.207   6.504  22.915  0.00  0.00           C 0
+ATOM   1651  CE1 PHE A 199     -14.245   8.812  21.784  0.00  0.00           C 0
+ATOM   1341   CD LYS A 160     -12.430   0.456  16.672  0.00  0.00           C 0
+ATOM   1320  NE2 GLN A 157      -7.260   1.644  17.922  0.48  5.47           N 0
+ATOM   1559  CD1 LEU A 187     -10.151  -0.619  19.343  0.00  0.00           C 0
+ATOM   1647   CB PHE A 199     -15.281   5.211  22.330  0.00  0.00           C 0
+ATOM   1528  CG1 VAL A 184     -15.492   1.383  21.332  0.00  0.00           C 0
+ATOM   1587   CB ASP A 191      -2.877   2.236  23.705  0.00  0.00           C 0
+ATOM   1580    O SER A 190      -5.925   2.053  25.023  0.61  2.14           O 0
+ATOM   1560  CD2 LEU A 187      -8.075  -0.728  20.745  0.00  0.00           C 0
+ATOM   1556    O LEU A 187      -9.136   1.641  24.232  0.62  4.29           O 0
+ATOM   1634   CD LYS A 197      -9.687   6.107  24.991  0.00  0.00           C 0
+ATOM   1636   NZ LYS A 197      -7.961   4.260  25.216  0.00  0.00           N 1
+ATOM   1678   CD PRO A 203     -20.826   2.628  21.204  0.00  0.00           C 0
+ATOM   1502   OH TYR A 180     -17.426   1.846  16.406  0.78  8.57           O 0
+ATOM   1646    O PHE A 199     -18.141   3.947  22.232  0.29  9.64           O 0
+ATOM   1677   CG PRO A 203     -20.078   1.707  20.267  0.00  0.00           C 0
+ATOM   1557   CB LEU A 187     -10.243   0.045  21.768  0.00  0.00           C 0
+ATOM   1635   CE LYS A 197      -8.201   5.732  25.027  0.00  0.00           C 0
+ATOM   1567  OD1 ASP A 188     -13.360   3.506  24.875  0.71  1.07           O 0
+ATOM   1526    O VAL A 184     -13.453   0.031  23.377  0.00  0.00           O 0
+TER
+END

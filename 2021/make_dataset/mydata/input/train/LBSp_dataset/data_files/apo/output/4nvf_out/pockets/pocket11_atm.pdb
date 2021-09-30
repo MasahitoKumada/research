@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0534
+HEADER 1  - Drug Score                        : 0.0160
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.2216
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6907
+HEADER 5  - Mean B-factor of pocket residues  : 0.5369
+HEADER 6  - Hydrophobicity Score              : 15.3636
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.3636
+HEADER 9  - Pocket volume (Monte Carlo)       : 363.1352
+HEADER 10  -Pocket volume (convex hull)       : 12.2576
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   1088  CG2 VAL A 131     -51.286 -70.692 129.476  0.00  0.00           C 0
+ATOM     56   CG GLU A  11     -44.585 -69.732 132.228  0.00  0.00           C 0
+ATOM     52   CA GLU A  11     -45.725 -68.406 134.086  0.00  0.00           C 0
+ATOM   1087  CG1 VAL A 131     -51.647 -73.181 129.751  0.00  0.00           C 0
+ATOM   1074    O ARG A 130     -47.803 -70.646 127.991  0.61  1.07           O 0
+ATOM   1083   CA VAL A 131     -50.030 -72.365 128.018  0.00  0.00           C 0
+ATOM     64   CB LYS A  12     -46.707 -69.026 138.763  0.00  0.00           C 0
+ATOM     43   OG SER A   9     -51.911 -67.765 133.286  0.64  9.64           O 0
+ATOM     66   CD LYS A  12     -48.283 -67.737 140.195  0.00  0.00           C 0
+ATOM     47    O VAL A  10     -48.021 -66.893 134.590  0.55  8.57           O 0
+ATOM     60    N LYS A  12     -46.023 -68.549 136.480  0.48  8.75           N 0
+ATOM     41    O SER A   9     -48.999 -67.630 131.342  0.49  2.14           O 0
+ATOM    870   CB SER A 103     -45.633 -72.733 128.254  0.00  0.00           C 0
+ATOM   1089    NAASP A 132     -49.473 -74.693 127.730  0.00  0.00           N 0
+ATOM   1099   CGAASP A 132     -47.199 -76.824 127.572  0.00  0.00           C 0
+ATOM   1097   CBAASP A 132     -48.669 -77.002 127.901  0.00  0.00           C 0
+ATOM    861    O ILE A 102     -42.135 -74.371 129.855  0.45  3.21           O 0
+ATOM   1101  OD1AASP A 132     -46.400 -77.695 127.967  0.00  0.00           O 0
+ATOM    840    O PRO A 100     -41.366 -76.247 133.060  0.53  6.43           O 0
+ATOM    847    O TRP A 101     -43.028 -72.554 132.899  0.52  9.64           O 0
+ATOM    867   CA SER A 103     -44.327 -73.424 128.509  0.00  0.00           C 0
+ATOM    866    N SER A 103     -43.488 -72.656 129.394  0.00  0.00           N 0
+TER
+END

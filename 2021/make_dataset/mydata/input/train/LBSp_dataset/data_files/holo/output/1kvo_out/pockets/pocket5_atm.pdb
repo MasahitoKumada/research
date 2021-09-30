@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0044
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9288
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6044
+HEADER 5  - Mean B-factor of pocket residues  : 0.5358
+HEADER 6  - Hydrophobicity Score              : 26.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.6824
+HEADER 10  -Pocket volume (convex hull)       : 2.7694
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM     84   CB LYS A  30     -44.920  50.738  34.431  0.00  0.00           C 0
+ATOM     58   CG ARG A  27     -49.453  53.782  32.361  0.00  0.00           C 0
+ATOM     54   CA ARG A  27     -46.970  53.668  31.975  0.00  0.00           C 0
+ATOM     56    O ARG A  27     -45.650  51.866  31.201  0.71  1.07           O 0
+ATOM    527  CE2 PHE A  88     -47.707  52.283  26.184  0.00  0.00           C 0
+ATOM    541  OD1 ASN A  90     -49.223  47.389  26.169  0.00  0.00           O 0
+ATOM    528   CZ PHE A  88     -48.270  53.173  27.068  0.00  0.00           C 0
+ATOM    521    O PHE A  88     -50.946  52.281  23.403  0.79  7.50           O 0
+ATOM     57   CB ARG A  27     -48.357  53.622  31.350  0.00  0.00           C 0
+ATOM     94   CG LEU A  31     -45.912  48.820  29.837  0.00  0.00           C 0
+ATOM     96  CD2 LEU A  31     -46.384  47.452  30.347  0.00  0.00           C 0
+ATOM     95  CD1 LEU A  31     -46.583  49.200  28.528  0.00  0.00           C 0
+ATOM     59   CD ARG A  27     -50.773  53.345  31.782  0.00  0.00           C 0
+ATOM     85   CG LYS A  30     -45.345  49.697  35.466  0.00  0.00           C 0
+TER
+END

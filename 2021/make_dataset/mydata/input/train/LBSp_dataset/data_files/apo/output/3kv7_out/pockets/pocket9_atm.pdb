@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0274
+HEADER 1  - Drug Score                        : 0.0130
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6336
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4807
+HEADER 5  - Mean B-factor of pocket residues  : 0.6823
+HEADER 6  - Hydrophobicity Score              : 19.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 89.2871
+HEADER 10  -Pocket volume (convex hull)       : 0.2526
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8235
+ATOM   1300   CD PRO B  37      15.487 -15.345  15.970  0.00  0.00           C 0
+ATOM   1284   CA PHE B  36      17.967 -13.752  15.594  0.00  0.00           C 0
+ATOM   1290  CD2 PHE B  36      18.039 -11.936  18.148  0.00  0.00           C 0
+ATOM    911  CD2 LEU A 125      16.214 -18.582  18.558  0.00  0.00           C 0
+ATOM    494    N SER A  67      14.899 -15.349  22.469  0.50  2.19           N 0
+ATOM    497    O SER A  67      13.706 -13.423  20.977  0.55  1.07           O 0
+ATOM    491   CA GLY A  66      16.549 -17.195  22.485  0.00  0.00           C 0
+ATOM    910  CD1 LEU A 125      18.581 -19.250  19.284  0.00  0.00           C 0
+ATOM   1292  CE2 PHE B  36      17.872 -11.605  19.471  0.00  0.00           C 0
+ATOM   1293   CZ PHE B  36      16.617 -11.345  19.950  0.00  0.00           C 0
+ATOM   1279   CG GLU B  35      22.139 -14.278  17.816  0.00  0.00           C 0
+ATOM   1289  CD1 PHE B  36      15.652 -11.817  17.754  0.00  0.00           C 0
+ATOM   1288   CG PHE B  36      16.962 -12.031  17.267  0.00  0.00           C 0
+ATOM   1277    O GLU B  35      19.918 -15.701  15.452  0.25  1.07           O 0
+TER
+END

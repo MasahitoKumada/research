@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0506
+HEADER 1  - Drug Score                        : 0.0040
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1846
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6812
+HEADER 5  - Mean B-factor of pocket residues  : 0.2723
+HEADER 6  - Hydrophobicity Score              : 57.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.4097
+HEADER 10  -Pocket volume (convex hull)       : 0.4151
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    114    O GLN D3054      70.164  55.982  10.778  0.00  0.00           O 0
+ATOM    119  OE1 GLN D3054      68.437  59.437  10.345  0.67  7.50           O 0
+ATOM    117   CD GLN D3054      69.287  60.270  10.031  0.00  0.00           C 0
+ATOM    143   CB TRP D3058      69.989  53.814   8.376  0.00  0.00           C 0
+ATOM    137    O ALA D3057      66.019  53.673   9.912  0.00  0.00           O 0
+ATOM    138   CB ALA D3057      66.619  56.504  11.480  0.00  0.00           C 0
+ATOM    140   CA TRP D3058      68.537  53.533   8.758  0.00  0.00           C 0
+ATOM    145  CD1 TRP D3058      70.268  53.755   5.822  0.00  0.00           C 0
+ATOM     77  CE1 PHE D3049      73.622  54.791   8.439  0.00  0.00           C 0
+ATOM    115   CB GLN D3054      71.274  58.993  11.005  0.00  0.00           C 0
+ATOM    118  NE2 GLN D3054      69.099  61.147   9.045  0.00  0.00           N 0
+ATOM    139    N TRP D3058      68.197  54.231   9.994  0.73  1.09           N 0
+ATOM    136    C ALA D3057      66.956  54.245  10.468  0.00  0.00           C 0
+TER
+END

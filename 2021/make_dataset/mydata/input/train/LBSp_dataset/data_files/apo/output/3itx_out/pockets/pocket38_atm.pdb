@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : 0.0044
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6368
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4763
+HEADER 5  - Mean B-factor of pocket residues  : 0.8217
+HEADER 6  - Hydrophobicity Score              : 23.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.5322
+HEADER 10  -Pocket volume (convex hull)       : 7.4544
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM   3951  NH1 ARG B  93     -34.158  39.500  40.302  0.38  9.84           N 0
+ATOM   4148    O LEU B 119     -34.991  40.957  33.132  0.76  7.50           O 0
+ATOM   4154   CA GLY B 120     -32.488  41.901  33.677  0.00  0.00           C 0
+ATOM   4156    O GLY B 120     -31.577  39.709  34.039  0.70  3.21           O 0
+ATOM   3914   CG GLN B  89     -33.407  36.542  35.861  0.00  0.00           C 0
+ATOM   3917  NE2 GLN B  89     -31.730  36.838  37.594  0.26  3.28           N 0
+ATOM   3273   CG ARG B   5     -41.054  39.222  31.871  0.00  0.00           C 0
+ATOM   3268    N ARG B   5     -42.000  40.947  34.159  0.47  1.09           N 0
+ATOM   4152  CD2 LEU B 119     -38.104  41.786  29.820  0.00  0.00           C 0
+ATOM   3926  NE2 GLN B  90     -40.848  38.925  36.722  0.68  2.19           N 0
+ATOM   3258   CA PHE B   4     -41.371  42.934  35.408  0.00  0.00           C 0
+ATOM   3919   CA GLN B  90     -37.393  36.655  37.865  0.00  0.00           C 0
+ATOM   3893   CB ALA B  86     -37.690  38.274  31.389  0.00  0.00           C 0
+ATOM   3922   CB GLN B  90     -38.598  37.447  37.338  0.00  0.00           C 0
+ATOM   3263  CD1 PHE B   4     -39.629  43.235  38.066  0.00  0.00           C 0
+ATOM   3923   CG GLN B  90     -39.291  38.245  38.450  0.00  0.00           C 0
+ATOM   3892    O ALA B  86     -37.709  36.643  34.158  0.63  2.14           O 0
+ATOM   3952  NH2 ARG B  93     -36.434  39.456  40.584  0.74  3.28           N 0
+ATOM   3918    N GLN B  90     -36.711  35.943  36.788  0.00  0.00           N 0
+TER
+END

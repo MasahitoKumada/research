@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0562
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8381
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5869
+HEADER 5  - Mean B-factor of pocket residues  : 0.4858
+HEADER 6  - Hydrophobicity Score              : -20.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 306.0262
+HEADER 10  -Pocket volume (convex hull)       : 15.2713
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.4000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM  10552  NH1AARG B 170      34.396  -2.604  76.792  0.64  8.75           N 0
+ATOM  10704   CDAGLU B 174      29.563  -6.945  74.424  0.00  0.00           C 0
+ATOM  10706  OE1AGLU B 174      29.827  -7.078  75.634  0.64  9.64           O 0
+ATOM  10708  OE2AGLU B 174      28.797  -6.062  73.973  0.73  3.21           O 0
+ATOM  10540    OAARG B 170      32.913  -4.441  71.516  0.62  2.14           O 0
+ATOM  10550   CZAARG B 170      35.597  -2.964  76.349  0.00  0.00           C 0
+ATOM  10554  NH2AARG B 170      36.151  -4.084  76.804  0.00  0.00           N 0
+ATOM  10702   CGAGLU B 174      30.230  -7.876  73.449  0.00  0.00           C 0
+ATOM  10700   CBAGLU B 174      31.020  -7.101  72.430  0.00  0.00           C 0
+ATOM  10694   CAAGLU B 174      31.773  -7.943  71.409  0.00  0.00           C 0
+ATOM  10678  OE2AGLU B 173      36.955  -4.532  72.472  0.67  4.29           O 0
+ATOM  10674   CDAGLU B 173      36.621  -4.562  71.251  0.00  0.00           C 0
+ATOM  10670   CBAGLU B 173      35.535  -6.127  69.501  0.00  0.00           C 0
+ATOM  10790   CGAARG B 177      36.106 -11.184  69.511  0.00  0.00           C 0
+ATOM  10542   CBAARG B 170      34.094  -1.750  73.040  0.00  0.00           C 0
+ATOM  10592   CGAARG B 171      29.013  -1.723  71.950  0.00  0.00           C 0
+ATOM  10672   CGAGLU B 173      35.354  -5.349  70.804  0.00  0.00           C 0
+ATOM  10668    OAGLU B 173      33.492  -8.794  69.408  0.00  0.00           O 0
+ATOM  10666    CAGLU B 173      33.405  -7.592  69.609  0.00  0.00           C 0
+ATOM  10788   CBAARG B 177      34.803 -11.784  70.009  0.00  0.00           C 0
+ATOM  10538    CAARG B 170      32.858  -3.214  71.377  0.00  0.00           C 0
+ATOM  10582    NAARG B 171      31.739  -2.607  70.998  0.00  0.00           N 0
+TER
+END

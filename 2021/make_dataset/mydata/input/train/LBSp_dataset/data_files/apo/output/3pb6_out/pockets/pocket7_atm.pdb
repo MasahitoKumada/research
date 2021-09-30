@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.2148
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6452
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4987
+HEADER 5  - Mean B-factor of pocket residues  : 0.3985
+HEADER 6  - Hydrophobicity Score              : 19.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 128.7723
+HEADER 10  -Pocket volume (convex hull)       : 1.9803
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   1455    O ILE X 259      24.628  32.627  17.281  0.51  1.07           O 0
+ATOM   2104    O GLY X 335      20.607  33.570  11.955  0.00  0.00           O 0
+ATOM   1458  CG2 ILE X 259      25.385  35.308  15.755  0.00  0.00           C 0
+ATOM   1461   CA GLN X 260      26.341  30.958  15.946  0.00  0.00           C 0
+ATOM   1465   CG GLN X 260      27.513  31.440  13.761  0.00  0.00           C 0
+ATOM   2093    O ARG X 334      23.923  36.479  12.359  0.00  0.00           O 0
+ATOM   1467  OE1 GLN X 260      27.796  33.840  13.569  0.62  1.07           O 0
+ATOM    713  NH1 ARG X 161      23.168  27.846  15.185  0.49  7.66           N 0
+ATOM   1477    O ILE X 262      21.445  29.913  17.179  0.48  1.07           O 0
+ATOM   2103    C GLY X 335      20.884  34.738  12.314  0.00  0.00           C 0
+ATOM   2106   CA VAL X 336      20.114  34.222  14.552  0.00  0.00           C 0
+ATOM   2118   CD PRO X 337      18.914  31.450  14.417  0.00  0.00           C 0
+ATOM   1663  NH2 ARG X 284      18.984  30.568  10.471  0.00  0.00           N 0
+ATOM   2117   CG PRO X 337      17.926  30.458  14.037  0.00  0.00           C 0
+ATOM   2111  CG2 VAL X 336      21.754  35.140  16.247  0.00  0.00           C 0
+TER
+END

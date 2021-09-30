@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0292
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9494
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5190
+HEADER 5  - Mean B-factor of pocket residues  : 0.3056
+HEADER 6  - Hydrophobicity Score              : 5.7000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 365.4012
+HEADER 10  -Pocket volume (convex hull)       : 31.1546
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM   2086   CB ALA B  69       4.667  75.745  13.687  0.00  0.00           C 0
+ATOM    907   OGASER A 116       8.767  74.088   7.263  0.53  9.64           O 0
+ATOM    900   CG PRO A 115       8.180  79.397   9.736  0.00  0.00           C 0
+ATOM    899   CB PRO A 115       9.028  78.231  10.162  0.00  0.00           C 0
+ATOM    901   CD PRO A 115       8.450  79.530   8.209  0.00  0.00           C 0
+ATOM   2062  OG1 THR B  65       7.106  77.697  13.240  0.78  5.36           O 0
+ATOM   2069   OG SER B  66       3.130  79.097  13.407  0.26  8.57           O 0
+ATOM   1724  OE1AGLN B  21      10.783  71.711  12.475  0.72  9.64           O 0
+ATOM   2085    O ALA B  69       3.984  73.192  15.352  0.00  0.00           O 0
+ATOM   1656  CD2 LEU B  14       3.493  69.210  15.783  0.00  0.00           C 0
+ATOM   1678   CBAASP B  17       8.536  67.899  16.082  0.00  0.00           C 0
+ATOM   1692   CD ARG B  18      10.736  74.169  14.748  0.00  0.00           C 0
+ATOM   1652    O LEU B  14       7.329  70.638  18.012  0.43  2.14           O 0
+ATOM   1686    N ARG B  18      10.075  70.416  16.850  0.77  1.09           N 0
+ATOM   1690   CB ARG B  18       9.790  72.855  16.720  0.00  0.00           C 0
+ATOM   1082   CB ALA A 139       9.040  66.983   9.243  0.00  0.00           C 0
+ATOM   1681  OD2AASP B  17       6.670  66.416  15.708  0.70  6.43           O 0
+ATOM   1695  NH1 ARG B  18      11.517  74.771  12.105  0.00  0.00           N 0
+ATOM   1725  NE2AGLN B  21      11.692  72.186  10.475  0.67  7.66           N 0
+TER
+END

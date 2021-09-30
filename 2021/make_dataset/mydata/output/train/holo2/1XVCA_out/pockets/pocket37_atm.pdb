@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.1487
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0569
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5230
+HEADER 5  - Mean B-factor of pocket residues  : 0.0906
+HEADER 6  - Hydrophobicity Score              : 14.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.7260
+HEADER 10  -Pocket volume (convex hull)       : 17.6691
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   1266  NH1 ARG A 172      83.647  63.872  82.459  0.00  0.00           N 1
+ATOM    821  CE2 TYR A 115      76.804  62.801  87.226  0.00  0.00           C 0
+ATOM   1073  CG2 THR A 148      77.203  65.856  83.291  0.00  0.00           C 0
+ATOM   1084  NE2 HIS A 149      77.085  61.750  79.971  0.59  4.37           N 0
+ATOM   1267  NH2 ARG A 172      82.126  65.513  81.933  0.86  6.56           N 0
+ATOM   1081  CD2 HIS A 149      77.472  62.982  79.500  0.00  0.00           C 0
+ATOM    819  CD2 TYR A 115      76.710  64.128  86.839  0.00  0.00           C 0
+ATOM   1265   CZ ARG A 172      83.185  65.102  82.630  0.00  0.00           C 0
+ATOM   1264   NE ARG A 172      83.793  65.930  83.476  0.65  3.28           N 0
+ATOM    817   CG TYR A 115      76.772  65.157  87.778  0.00  0.00           C 0
+ATOM   1295  NH1 ARG A 175      84.330  68.309  89.161  0.00  0.00           N 1
+ATOM    798  CG2 VAL A 112      79.863  69.498  90.077  0.00  0.00           C 0
+ATOM    818  CD1 TYR A 115      76.940  64.820  89.119  0.00  0.00           C 0
+ATOM   1262   CG ARG A 172      85.504  66.778  85.010  0.00  0.00           C 0
+ATOM   1263   CD ARG A 172      84.975  65.581  84.254  0.00  0.00           C 0
+ATOM   1261   CB ARG A 172      86.731  66.458  85.853  0.00  0.00           C 0
+ATOM    791  OE2 GLU A 111      82.005  67.988  84.256  0.00  0.00           O 1
+ATOM    816   CB TYR A 115      76.597  66.586  87.357  0.00  0.00           C 0
+ATOM    793   CA VAL A 112      78.641  70.250  88.021  0.00  0.00           C 0
+ATOM   1296  NH2 ARG A 175      83.376  69.763  87.680  0.75  2.19           N 0
+TER
+END

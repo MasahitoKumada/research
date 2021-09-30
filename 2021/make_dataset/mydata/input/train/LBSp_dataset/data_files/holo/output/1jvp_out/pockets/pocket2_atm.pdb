@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0681
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.6578
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3913
+HEADER 5  - Mean B-factor of pocket residues  : 0.3561
+HEADER 6  - Hydrophobicity Score              : 22.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.2588
+HEADER 10  -Pocket volume (convex hull)       : 5.6783
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5926
+ATOM    742    O MET P  91      15.418  23.107  16.129  0.69  5.36           O 0
+ATOM    753  OD1 ASP P  92      11.921  20.203  15.931  0.00  0.00           O 0
+ATOM    770   CB ALA P  95      17.756  20.071  16.601  0.00  0.00           C 0
+ATOM   1570    O ARG P 199      15.656  19.979  22.310  0.00  0.00           O 0
+ATOM   1571   CB ARG P 199      17.715  21.833  21.980  0.00  0.00           C 0
+ATOM    795  CG1 ILE P  99      16.869  28.503  17.493  0.00  0.00           C 0
+ATOM    744   CG MET P  91      12.794  25.935  18.096  0.00  0.00           C 0
+ATOM   1548    O MET P 196      16.886  26.931  22.316  0.61  1.07           O 0
+ATOM    797  CD1 ILE P  99      15.442  28.635  17.961  0.00  0.00           C 0
+ATOM   1572   CG ARG P 199      18.368  22.936  21.197  0.00  0.00           C 0
+ATOM    790    N ILE P  99      19.443  27.487  18.499  0.00  0.00           N 0
+ATOM    763    O SER P  94      19.660  23.893  16.560  0.00  0.00           O 0
+ATOM   1568   CA ARG P 199      16.397  22.259  22.613  0.00  0.00           C 0
+ATOM   1541   CG GLU P 195      11.197  23.609  23.300  0.00  0.00           C 0
+ATOM    745   SD MET P  91      11.872  25.691  19.620  0.00  0.00           S 0
+ATOM   1569    C ARG P 199      15.572  21.023  22.967  0.00  0.00           C 0
+ATOM   1544  OE2 GLU P 195       9.847  22.707  21.595  0.69  9.64           O 0
+ATOM    743   CB MET P  91      12.803  24.715  17.200  0.00  0.00           C 0
+ATOM   1539    O GLU P 195      14.386  24.764  23.342  0.00  0.00           O 0
+TER
+END

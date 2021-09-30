@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    61:
+HEADER 0  - Pocket Score                      : -0.1803
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8186
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4861
+HEADER 5  - Mean B-factor of pocket residues  : 0.2006
+HEADER 6  - Hydrophobicity Score              : 2.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 319.6145
+HEADER 10  -Pocket volume (convex hull)       : 19.1381
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0435
+ATOM   6045   CG ARG A 431      64.266  67.838  47.179  0.00  0.00           C 0
+ATOM   6117   CB SER A 435      62.531  70.529  41.445  0.00  0.00           C 0
+ATOM   6049  NH1 ARG A 431      66.155  66.209  44.890  0.00  0.00           N 1
+ATOM   5951  CD1 LEU A 424      61.120  67.379  42.786  0.00  0.00           C 0
+ATOM   6078    O ARG A 433      65.490  72.064  45.459  0.67  6.43           O 0
+ATOM   6114   CA SER A 435      63.552  71.655  41.305  0.00  0.00           C 0
+ATOM   6102    O PRO A 434      65.624  73.243  42.207  0.52  6.43           O 0
+ATOM   6085  NH2 ARG A 433      71.563  69.127  44.447  0.00  0.00           N 0
+ATOM   6082   NE ARG A 433      70.977  71.167  45.328  0.74  3.28           N 0
+ATOM   6044   CB ARG A 431      64.754  69.193  47.655  0.00  0.00           C 0
+ATOM   6064    N SER A 432      66.594  70.939  49.629  0.32  5.47           N 0
+ATOM   6075    N ARG A 433      67.217  72.576  47.572  0.70  1.09           N 0
+ATOM   6079   CB ARG A 433      68.541  72.882  45.540  0.00  0.00           C 0
+ATOM   6084  NH1 ARG A 433      72.496  71.044  43.596  0.00  0.00           N 1
+ATOM   6081   CD ARG A 433      71.027  72.622  45.429  0.00  0.00           C 0
+ATOM   6083   CZ ARG A 433      71.681  70.448  44.458  0.00  0.00           C 0
+ATOM   6068   CB SER A 432      68.570  72.064  50.545  0.00  0.00           C 0
+ATOM   6046   CD ARG A 431      65.245  66.735  47.525  0.00  0.00           C 0
+TER
+END

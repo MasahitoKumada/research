@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1602
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.5949
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4933
+HEADER 5  - Mean B-factor of pocket residues  : 0.0623
+HEADER 6  - Hydrophobicity Score              : 3.9091
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 84.3457
+HEADER 10  -Pocket volume (convex hull)       : 0.8418
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0417
+ATOM   2515  OG1 THR A 112      75.366  28.465   9.159  0.19  3.21           O 0
+ATOM   2499   NZ LYS A 111      73.085  30.917   7.599  0.11  1.09           N 0
+ATOM   3202   CBAALA A 141      79.657  32.313   7.384  0.00  0.00           C 0
+ATOM   4630  OD2AASP A 187      75.213  27.227   6.796  0.39  2.14           O 0
+ATOM   3064   CBAASP A 135      78.059  33.123   3.523  0.00  0.00           C 0
+ATOM   4668   CAAALA A 189      74.263  33.769   4.513  0.00  0.00           C 0
+ATOM   3018   CAAALA A 133      77.845  26.936   2.435  0.00  0.00           C 0
+ATOM   3024   CBAALA A 133      79.147  26.836   3.198  0.00  0.00           C 0
+ATOM   4622    OAASP A 187      74.414  29.168   3.175  0.60  2.14           O 0
+ATOM   3036    NAALA A 134      76.775  28.836   1.438  0.00  0.00           N 0
+ATOM   3200    OAALA A 141      79.904  29.098   7.521  0.00  0.00           O 0
+ATOM   4686    NAGLY A 190      74.056  34.345   6.841  0.42  4.37           N 0
+ATOM   4628  OD1AASP A 187      73.432  28.456   6.291  0.00  0.00           O 0
+ATOM   4626   CGAASP A 187      74.271  27.558   6.041  0.00  0.00           C 0
+ATOM   3056    NAASP A 135      77.424  31.548   1.748  0.00  0.00           N 0
+ATOM   3214    NAARG A 142      81.376  29.948   6.051  0.00  0.00           N 0
+ATOM   3224   CGAARG A 142      81.368  30.056   3.121  0.00  0.00           C 0
+ATOM   4646    OATHR A 188      72.893  31.487   5.096  0.00  0.00           O 0
+TER
+END

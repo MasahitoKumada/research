@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2943
+HEADER 1  - Drug Score                        : 0.2944
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9806
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5859
+HEADER 5  - Mean B-factor of pocket residues  : 0.5021
+HEADER 6  - Hydrophobicity Score              : 23.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.9960
+HEADER 10  -Pocket volume (convex hull)       : 5.1257
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM    429  CG2 VAL A  78     -14.736 -39.530 -52.945  0.00  0.00           C 0
+ATOM    305   CB THR A  60     -12.888 -37.327 -49.380  0.00  0.00           C 0
+ATOM    304    O THR A  60     -10.356 -38.513 -48.213  0.00  0.00           O 0
+ATOM    314   CA GLY A  62      -9.231 -36.796 -51.828  0.00  0.00           C 0
+ATOM    428  CG1 VAL A  78     -15.733 -41.242 -51.386  0.00  0.00           C 0
+ATOM    452  CD2 TYR A  81     -11.159 -46.170 -51.278  0.00  0.00           C 0
+ATOM    555   OH TYR A  93     -14.578 -40.129 -46.373  0.65  5.36           O 0
+ATOM    466  NE2 HIS A  82     -14.840 -43.899 -48.745  0.52  2.19           N 0
+ATOM    424   CA VAL A  78     -15.149 -41.899 -53.752  0.00  0.00           C 0
+ATOM    399  OE1 GLN A  74     -12.418 -37.715 -55.496  0.65  6.43           O 0
+ATOM    423    N VAL A  78     -15.200 -41.523 -55.151  0.00  0.00           N 0
+ATOM    418    O ASN A  77     -14.116 -43.399 -55.721  0.64  5.36           O 0
+ATOM    417    C ASN A  77     -14.675 -42.347 -56.047  0.00  0.00           C 0
+ATOM    419   CB ASN A  77     -13.662 -40.906 -57.787  0.00  0.00           C 0
+ATOM    449   CB TYR A  81     -12.378 -45.481 -53.343  0.00  0.00           C 0
+ATOM    450   CG TYR A  81     -11.152 -45.940 -52.650  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0501
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0027
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5388
+HEADER 5  - Mean B-factor of pocket residues  : 0.4448
+HEADER 6  - Hydrophobicity Score              : 32.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.4613
+HEADER 10  -Pocket volume (convex hull)       : 2.8606
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM  10357   CA VAL B 604     -19.112 -26.598  29.147  0.00  0.00           C 0
+ATOM  10361  CG1 VAL B 604     -19.875 -25.009  27.340  0.00  0.00           C 0
+ATOM  10359    O VAL B 604     -19.513 -28.415  27.667  0.00  0.00           O 0
+ATOM  10350    O GLN B 603     -19.886 -27.971  31.419  0.00  0.00           O 0
+ATOM   9574  OG1 THR B 511     -22.759 -22.269  29.145  0.57  4.29           O 0
+ATOM  10343   CB ASP B 602     -21.099 -25.967  35.014  0.00  0.00           C 0
+ATOM  10362  CG2 VAL B 604     -19.640 -24.219  29.744  0.00  0.00           C 0
+ATOM  10339    N ASP B 602     -19.946 -23.807  35.042  0.59  2.19           N 0
+ATOM  10952  CD2 LEU B 674     -27.743 -23.366  31.481  0.00  0.00           C 0
+ATOM  10951  CD1 LEU B 674     -26.280 -22.446  29.596  0.00  0.00           C 0
+ATOM  10945    N LEU B 674     -24.591 -19.771  32.668  0.47  1.09           N 0
+ATOM   9575  CG2 THR B 511     -21.274 -20.951  30.480  0.00  0.00           C 0
+ATOM  10325    O MET B 600     -22.903 -21.649  36.493  0.48  5.36           O 0
+ATOM  10949   CB LEU B 674     -26.051 -21.576  31.931  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0400
+HEADER 1  - Drug Score                        : 0.0080
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6708
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4970
+HEADER 5  - Mean B-factor of pocket residues  : 0.3896
+HEADER 6  - Hydrophobicity Score              : -27.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.3193
+HEADER 10  -Pocket volume (convex hull)       : 10.1736
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5909
+ATOM   4749   CB ASP A 643       2.812  69.423  46.068  0.00  0.00           C 0
+ATOM   4777    N PRO A 647       5.887  74.415  44.274  0.00  0.00           N 0
+ATOM   4782   CG PRO A 647       5.092  75.428  46.231  0.00  0.00           C 0
+ATOM   4783   CD PRO A 647       6.101  74.425  45.736  0.00  0.00           C 0
+ATOM   4752  OD2 ASP A 643       4.055  68.926  48.071  0.25  3.21           O 0
+ATOM   4582  NE2 GLN A 623      -1.483  72.391  45.693  0.00  0.00           N 0
+ATOM   4778   CA PRO A 647       4.939  75.454  43.849  0.00  0.00           C 0
+ATOM   4569    O GLY A 621       0.280  73.281  41.426  0.61  1.07           O 0
+ATOM   4579   CG GLN A 623      -1.370  70.997  43.730  0.00  0.00           C 0
+ATOM   4567   CA GLY A 621       2.444  74.288  41.262  0.00  0.00           C 0
+ATOM   4514    O ASN A 614      -1.058  76.652  42.591  0.20  6.43           O 0
+ATOM   4781   CB PRO A 647       4.787  76.334  45.102  0.00  0.00           C 0
+ATOM   4750   CG ASP A 643       2.937  68.849  47.502  0.00  0.00           C 0
+ATOM   4751  OD1 ASP A 643       1.930  68.344  48.069  0.55  8.57           O 0
+ATOM   4568    C GLY A 621       1.411  73.223  40.946  0.00  0.00           C 0
+ATOM   4573    O GLY A 622       1.251  70.001  41.770  0.67  1.07           O 0
+ATOM   4764    O ASP A 645       5.337  70.904  43.446  0.73  1.07           O 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0107
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 4.0582
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5420
+HEADER 5  - Mean B-factor of pocket residues  : 0.7050
+HEADER 6  - Hydrophobicity Score              : 65.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.7615
+HEADER 10  -Pocket volume (convex hull)       : 16.3170
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.4848
+ATOM    125    N TYR J  20     -45.335  45.255  34.163  0.00  0.00           N 0
+ATOM     90    O LEU J  13     -51.263  47.477  38.456  0.00  0.00           O 0
+ATOM    102  CD2 PHE J  14     -49.074  47.758  42.312  0.00  0.00           C 0
+ATOM    503  CD2 LEU J  65     -47.136  51.311  39.200  0.00  0.00           C 0
+ATOM    495   OG SER J  64     -45.831  50.173  34.115  0.75  1.07           O 0
+ATOM    129   CB TYR J  20     -43.595  46.960  34.521  0.00  0.00           C 0
+ATOM    653    O ASP J  84     -45.713  46.055  43.055  0.83  3.21           O 0
+ATOM     98    O PHE J  14     -50.924  43.846  39.803  0.00  0.00           O 0
+ATOM    664  CG2 ILE J  85     -44.665  49.385  42.647  0.00  0.00           C 0
+ATOM    480  CD1 LEU J  62     -42.667  50.808  36.208  0.00  0.00           C 0
+ATOM    501   CG LEU J  65     -46.178  52.059  38.275  0.00  0.00           C 0
+ATOM     96   CA PHE J  14     -51.011  46.023  40.816  0.00  0.00           C 0
+ATOM    666    N TRP J  86     -41.689  47.085  40.544  0.69  5.47           N 0
+ATOM    128    O TYR J  20     -42.754  44.247  35.251  0.00  0.00           O 0
+ATOM    494   CB SER J  64     -47.162  50.095  33.621  0.00  0.00           C 0
+ATOM    493    O SER J  64     -49.299  51.319  35.495  0.86  1.07           O 0
+ATOM    662   CB ILE J  85     -43.267  48.843  42.429  0.00  0.00           C 0
+ATOM    502  CD1 LEU J  65     -44.832  52.255  38.941  0.00  0.00           C 0
+ATOM    659   CA ILE J  85     -43.303  47.298  42.328  0.00  0.00           C 0
+ATOM    660    C ILE J  85     -41.940  46.843  41.826  0.00  0.00           C 0
+ATOM    670   CB TRP J  86     -40.435  46.928  38.433  0.00  0.00           C 0
+TER
+END

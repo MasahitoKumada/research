@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0892
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0291
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6370
+HEADER 5  - Mean B-factor of pocket residues  : 0.7743
+HEADER 6  - Hydrophobicity Score              : 11.2500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.1599
+HEADER 10  -Pocket volume (convex hull)       : 6.2084
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1739
+ATOM   1183   SD MET E 148      -9.237 167.274  38.461  0.00  0.00           S 0
+ATOM   1629    N ASN E 205     -15.266 165.704  35.248  0.74  1.09           N 0
+ATOM   1182   CG MET E 148     -10.780 167.556  39.360  0.00  0.00           C 0
+ATOM   1622   CA MET E 204     -15.868 167.848  36.234  0.00  0.00           C 0
+ATOM   1605    O LYS E 202     -15.305 171.623  33.095  0.25  4.29           O 0
+ATOM   1614    O HIS E 203     -14.896 170.431  36.925  0.74  4.29           O 0
+ATOM   1613    C HIS E 203     -15.864 170.319  36.173  0.00  0.00           C 0
+ATOM   1162   CB SER E 145     -10.343 172.396  37.683  0.00  0.00           C 0
+ATOM   1130   NZ LYS E 140     -12.473 173.149  34.391  0.42  6.56           N 1
+ATOM   1624    O MET E 204     -16.494 167.150  34.021  0.76  4.29           O 0
+ATOM   1607   CG LYS E 202     -16.686 170.098  29.478  0.00  0.00           C 0
+ATOM   1606   CB LYS E 202     -16.510 171.081  30.633  0.00  0.00           C 0
+ATOM   1603   CA LYS E 202     -17.166 170.611  31.942  0.00  0.00           C 0
+ATOM   1635  ND2 ASN E 205     -13.264 164.348  31.381  0.00  0.00           N 0
+ATOM   1163   OG SER E 145      -9.785 171.415  38.540  0.76  4.29           O 0
+ATOM   1623    C MET E 204     -15.899 166.864  35.063  0.00  0.00           C 0
+ATOM   1633   CB ASN E 205     -13.768 164.458  33.747  0.00  0.00           C 0
+ATOM   1184   CE MET E 148      -9.396 165.550  38.023  0.00  0.00           C 0
+ATOM   1656  OG1 THR E 208     -12.607 163.305  36.707  0.70  1.07           O 0
+TER
+END

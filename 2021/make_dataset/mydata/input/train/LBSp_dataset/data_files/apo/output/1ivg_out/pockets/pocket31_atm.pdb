@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : 0.0152
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.9460
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6110
+HEADER 5  - Mean B-factor of pocket residues  : 0.4399
+HEADER 6  - Hydrophobicity Score              : 18.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.9553
+HEADER 10  -Pocket volume (convex hull)       : 11.1793
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5714
+ATOM    123   SG CYS A  92      24.325  29.439  -2.545  0.00  0.00           S 0
+ATOM   3244   CB ASN A 419      27.280  27.212  -3.019  0.00  0.00           C 0
+ATOM   3229   SG CYS A 417      22.561  29.463  -1.541  0.00  0.00           S 0
+ATOM   3199   CA GLY A 414      22.337  23.659  -1.240  0.00  0.00           C 0
+ATOM   3245   CG ASN A 419      28.379  28.075  -2.452  0.00  0.00           C 0
+ATOM    122   CB CYS A  92      24.862  31.170  -2.468  0.00  0.00           C 0
+ATOM   3247  ND2 ASN A 419      28.379  29.346  -2.819  0.00  0.00           N 0
+ATOM   3246  OD1 ASN A 419      29.205  27.612  -1.677  0.68  4.29           O 0
+ATOM   3576   OG SER A 450      26.360  33.016   4.061  0.00  0.00           O 0
+ATOM   3560    O GLY A 448      30.779  29.301   0.418  0.56  5.36           O 0
+ATOM   3227    O CYS A 417      22.253  26.595  -3.230  0.00  0.00           O 0
+ATOM   3563   CA THR A 449      30.628  31.533   1.937  0.00  0.00           C 0
+ATOM   3567  OG1 THR A 449      30.911  31.479   4.365  0.00  0.00           O 0
+ATOM    143  CG2 ILE A  94      28.999  33.141  -2.158  0.00  0.00           C 0
+ATOM   3575   CB SER A 450      26.816  33.999   3.140  0.00  0.00           C 0
+ATOM    128    O GLN A  93      26.218  35.153  -0.343  0.67  2.14           O 0
+ATOM   3571    N SER A 450      29.037  32.985   3.042  0.00  0.00           N 0
+ATOM   3564    C THR A 449      29.937  32.888   2.072  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.0864
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1316
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6960
+HEADER 5  - Mean B-factor of pocket residues  : 0.9286
+HEADER 6  - Hydrophobicity Score              : 8.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.6214
+HEADER 10  -Pocket volume (convex hull)       : 1.9735
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2440   CG ARG B 409       4.178 -12.376  55.287  0.00  0.00           C 0
+ATOM   2446    N HIS B 410       7.941 -12.914  53.831  0.56  1.09           N 0
+ATOM   2524   CE MET B 419       5.306  -8.531  56.100  0.00  0.00           C 0
+ATOM   2444  NH1 ARG B 409       3.367 -10.898  57.873  0.00  0.00           N 0
+ATOM   2523   SD MET B 419       6.336  -8.217  54.725  0.00  0.00           S 0
+ATOM   2422  NH2 ARG B 407      11.046  -6.941  54.917  0.38  7.66           N 0
+ATOM   2522   CG MET B 419       7.117  -6.706  55.373  0.00  0.00           C 0
+ATOM   2462   CD PRO B 411      10.587 -14.807  56.512  0.00  0.00           C 0
+ATOM    172    O ALA A  26       5.940 -17.989  57.260  0.18  6.43           O 0
+ATOM   2438    O ARG B 409       6.145 -14.275  54.135  0.90  1.07           O 0
+ATOM   2437    C ARG B 409       6.639 -13.173  53.852  0.00  0.00           C 0
+ATOM   2447   CA HIS B 410       8.942 -13.854  54.265  0.00  0.00           C 0
+ATOM   2456    N PRO B 411      10.954 -13.626  55.699  0.00  0.00           N 0
+ATOM   2449    O HIS B 410      10.650 -12.229  53.916  0.62  1.07           O 0
+ATOM   2457   CA PRO B 411      12.266 -13.070  56.127  0.00  0.00           C 0
+ATOM   2448    C HIS B 410      10.270 -13.178  54.608  0.00  0.00           C 0
+TER
+END

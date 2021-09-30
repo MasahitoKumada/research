@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0933
+HEADER 1  - Drug Score                        : 0.0055
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8354
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5858
+HEADER 5  - Mean B-factor of pocket residues  : 0.6267
+HEADER 6  - Hydrophobicity Score              : 32.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.6862
+HEADER 10  -Pocket volume (convex hull)       : 3.1392
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   2319   CB CYS A 303      -6.389  34.330  35.886  0.00  0.00           C 0
+ATOM   2320   SG CYS A 303      -5.246  34.432  37.244  0.00  0.00           S 0
+ATOM   2300   CA SER A 300      -4.717  38.174  34.572  0.00  0.00           C 0
+ATOM   2375   SG CYS A 311      -8.613  34.915  38.731  0.00  0.00           S 0
+ATOM   2302    O SER A 300      -6.185  36.657  33.438  0.58  2.14           O 0
+ATOM   2326   CG ARG A 304      -9.075  35.907  31.991  0.00  0.00           C 0
+ATOM   2328   NE ARG A 304      -9.744  38.223  31.985  0.65  2.19           N 0
+ATOM   2303   CB SER A 300      -5.139  39.631  34.432  0.00  0.00           C 0
+ATOM   2304   OG SER A 300      -4.920  40.340  35.628  0.85  2.14           O 0
+ATOM   2388   CG MET A 313      -4.621  38.140  40.114  0.00  0.00           C 0
+ATOM   2389   SD MET A 313      -3.597  37.714  38.724  0.00  0.00           S 0
+ATOM   2317    C CYS A 303      -7.238  32.915  34.048  0.00  0.00           C 0
+ATOM   2331  NH2 ARG A 304     -10.506  40.327  32.425  0.62  4.37           N 0
+ATOM   2318    O CYS A 303      -7.998  32.022  34.374  0.00  0.00           O 0
+ATOM   2352    O LEU A 308     -11.199  31.660  37.458  0.00  0.00           O 0
+ATOM   2322   CA ARG A 304      -8.578  33.443  32.082  0.00  0.00           C 0
+ATOM   2343   CA LYS A 307     -10.415  29.191  33.978  0.00  0.00           C 0
+TER
+END

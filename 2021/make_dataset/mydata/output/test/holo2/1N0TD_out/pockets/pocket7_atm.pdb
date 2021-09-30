@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0600
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9812
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5025
+HEADER 5  - Mean B-factor of pocket residues  : 0.4103
+HEADER 6  - Hydrophobicity Score              : 10.5000
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 346.1661
+HEADER 10  -Pocket volume (convex hull)       : 20.9436
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    376   OH TYR D  51      38.596  40.574  36.552  0.86  8.57           O 0
+ATOM    293   CB ALA D  41      37.456  37.954  39.098  0.00  0.00           C 0
+ATOM    206  OE2 GLU D  30      44.649  40.696  37.538  0.38  8.57           O 1
+ATOM    205  OE1 GLU D  30      45.188  40.517  39.663  0.46  8.57           O 0
+ATOM    266  CG1 VAL D  37      39.229  42.971  41.891  0.00  0.00           C 0
+ATOM    193    O ASN D  29      43.023  44.749  39.428  0.63  2.14           O 0
+ATOM    274  OD1 ASP D  38      38.286  39.387  44.708  0.00  0.00           O 0
+ATOM    124   NZ LYS D  20      45.799  42.397  43.594  0.23  8.75           N 1
+ATOM    194   CB ASN D  29      42.215  43.961  36.518  0.00  0.00           C 0
+ATOM   1953  CH2 TRP D 254      39.498  42.611  49.402  0.00  0.00           C 0
+ATOM   1951  CZ2 TRP D 254      38.690  41.719  48.743  0.00  0.00           C 0
+ATOM   1939   NZ LYS D 253      38.799  37.722  48.510  0.00  0.00           N 1
+ATOM   1996   NZ LYS D 258      41.220  40.045  52.799  0.65  8.75           N 1
+ATOM    264    O VAL D  37      36.709  41.216  40.788  0.00  0.00           O 0
+ATOM    221    O TYR D  32      42.469  44.395  43.161  0.63  4.29           O 0
+ATOM    234   CB GLU D  33      41.810  44.239  46.544  0.00  0.00           C 0
+ATOM    123   CE LYS D  20      45.232  43.305  44.639  0.00  0.00           C 0
+ATOM    231   CA GLU D  33      40.831  44.588  45.425  0.00  0.00           C 0
+ATOM    237  OE1 GLU D  33      43.131  43.616  48.841  0.68  7.50           O 0
+TER
+END

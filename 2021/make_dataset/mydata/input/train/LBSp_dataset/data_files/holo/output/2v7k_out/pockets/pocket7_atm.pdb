@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0031
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9479
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6566
+HEADER 5  - Mean B-factor of pocket residues  : 0.2350
+HEADER 6  - Hydrophobicity Score              : 9.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 299.4713
+HEADER 10  -Pocket volume (convex hull)       : 17.0659
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    596  NH1 ARG A  83      12.445   0.829   6.954  0.00  0.00           N 0
+ATOM    595   CZ ARG A  83      11.293   1.473   6.759  0.00  0.00           C 0
+ATOM    270   CE LYS A  40       8.417  -2.886   3.213  0.00  0.00           C 0
+ATOM    597  NH2 ARG A  83      10.238   1.183   7.512  0.37  6.56           N 0
+ATOM    604  ND1 HIS A  84      12.732   0.680   1.762  0.79  2.19           N 0
+ATOM    267   CB LYS A  40      10.062  -1.995  -0.188  0.00  0.00           C 0
+ATOM    266    O LYS A  40      11.614  -2.059  -2.467  0.50  6.43           O 0
+ATOM    602   CB HIS A  84      15.234   0.478   1.481  0.00  0.00           C 0
+ATOM    599   CA HIS A  84      15.690   0.442   2.941  0.00  0.00           C 0
+ATOM    269   CD LYS A  40       9.328  -3.042   1.997  0.00  0.00           C 0
+ATOM    590    O ARG A  83      15.109   1.210   5.576  0.00  0.00           O 0
+ATOM    601    O HIS A  84      17.163  -1.440   2.555  0.00  0.00           O 0
+ATOM    286  CG2 VAL A  42      15.582  -0.496  -1.979  0.00  0.00           C 0
+ATOM    600    C HIS A  84      17.011  -0.337   3.097  0.00  0.00           C 0
+ATOM    609   CA GLY A  85      19.164  -0.516   4.221  0.00  0.00           C 0
+ATOM    608    N GLY A  85      17.955   0.228   3.847  0.00  0.00           N 0
+TER
+END

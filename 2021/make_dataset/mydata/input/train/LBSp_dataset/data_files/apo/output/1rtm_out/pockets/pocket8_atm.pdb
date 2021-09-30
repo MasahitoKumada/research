@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1060
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8046
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5807
+HEADER 5  - Mean B-factor of pocket residues  : 0.5077
+HEADER 6  - Hydrophobicity Score              : -8.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 2.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.1073
+HEADER 10  -Pocket volume (convex hull)       : 8.2488
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0417
+ATOM   3398   SG CYS 3 209      33.966  47.647  30.333  0.00  0.00           S 0
+ATOM   3028   CG GLU 3 162      33.408  48.583  34.618  0.00  0.00           C 0
+ATOM   3285  OD2 ASP 3 194      36.435  51.721  33.537  0.48  3.21           O 0
+ATOM   3031  OE2 GLU 3 162      31.394  48.314  33.355  0.67  8.57           O 0
+ATOM   3282   CB ASP 3 194      36.678  49.530  32.648  0.00  0.00           C 0
+ATOM   3407  NE2 GLN 3 210      30.891  51.219  27.599  0.00  0.00           N 0
+ATOM   3397   CB CYS 3 209      32.951  47.973  28.873  0.00  0.00           C 0
+ATOM   3406  OE1 GLN 3 210      33.017  51.329  26.890  0.00  0.00           O 0
+ATOM   3268    O GLY 3 192      39.330  52.259  27.612  0.56  5.36           O 0
+ATOM   3388   CA SER 3 208      36.864  48.880  26.194  0.00  0.00           C 0
+ATOM   3392   OG SER 3 208      35.387  50.499  25.151  0.00  0.00           O 0
+ATOM   3262    O SER 3 191      39.357  56.400  28.524  0.26  8.57           O 0
+ATOM   3283   CG ASP 3 194      37.240  50.837  33.175  0.00  0.00           C 0
+ATOM   3278    N ASP 3 194      38.275  49.145  30.824  0.00  0.00           N 0
+ATOM   3393    N CYS 3 209      34.805  48.277  27.310  0.00  0.00           N 0
+ATOM   3267    C GLY 3 192      39.912  52.475  28.677  0.00  0.00           C 0
+ATOM   3266   CA GLY 3 192      40.317  53.886  29.062  0.00  0.00           C 0
+TER
+END

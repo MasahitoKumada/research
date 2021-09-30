@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0236
+HEADER 1  - Drug Score                        : 0.0105
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0240
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5509
+HEADER 5  - Mean B-factor of pocket residues  : 0.5549
+HEADER 6  - Hydrophobicity Score              : 7.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 320.5231
+HEADER 10  -Pocket volume (convex hull)       : 20.0150
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM   2054   CG ARG X 333      19.584   9.077 -26.445  0.00  0.00           C 0
+ATOM   2024   CA PRO X 330      20.628   8.473 -21.673  0.00  0.00           C 0
+ATOM   2053   CB ARG X 333      20.769   8.181 -26.417  0.00  0.00           C 0
+ATOM   2069  NH1 ARG X 334      24.469   8.514 -22.522  0.67  5.47           N 0
+ATOM   1284    O ARG X 241      25.212  10.527 -18.065  0.00  0.00           O 0
+ATOM   1285   CB ARG X 241      22.893  12.881 -18.090  0.00  0.00           C 0
+ATOM   2070  NH2 ARG X 334      26.565   9.321 -22.580  0.00  0.00           N 0
+ATOM   1286   CG ARG X 241      21.657  13.149 -18.973  0.00  0.00           C 0
+ATOM   1287   CD ARG X 241      21.551  14.569 -19.396  0.00  0.00           C 0
+ATOM   2021  CG2 ILE X 329      17.039  10.612 -23.474  0.00  0.00           C 0
+ATOM   2027   CB PRO X 330      21.215   8.978 -20.357  0.00  0.00           C 0
+ATOM   1224    O PRO X 233      19.599  18.025 -20.556  0.41  3.21           O 0
+ATOM   1225   CB PRO X 233      18.285  18.838 -23.454  0.00  0.00           C 0
+ATOM   1257  CD1 LEU X 237      16.569  12.722 -19.055  0.00  0.00           C 0
+ATOM   2028   CG PRO X 330      20.171   9.805 -19.783  0.00  0.00           C 0
+ATOM   1222   CA PRO X 233      17.822  18.721 -21.966  0.00  0.00           C 0
+ATOM   1250   OG SER X 236      16.179  16.977 -18.153  0.37  2.14           O 0
+TER
+END

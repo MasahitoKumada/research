@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0078
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7052
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3897
+HEADER 5  - Mean B-factor of pocket residues  : 0.7372
+HEADER 6  - Hydrophobicity Score              : 22.3000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.4019
+HEADER 10  -Pocket volume (convex hull)       : 11.4535
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    765  OD2 ASP A  98      16.129   9.997   9.980  0.62  2.14           O 0
+ATOM   2009   CB TYR B  49      17.819   8.512   4.635  0.00  0.00           C 0
+ATOM   2011  CD1 TYR B  49      18.832   6.491   5.790  0.00  0.00           C 0
+ATOM    762   CB ASP A  98      15.156   8.084  10.994  0.00  0.00           C 0
+ATOM    975    O GLY A 124      14.514   2.045   2.286  0.00  0.00           O 0
+ATOM   2007    C TYR B  49      16.770   8.774   2.352  0.00  0.00           C 0
+ATOM   2008    O TYR B  49      15.685   9.069   2.870  0.50  7.50           O 0
+ATOM   1007   CG PRO A 128      18.149   3.311   3.181  0.00  0.00           C 0
+ATOM   2006   CA TYR B  49      17.858   8.061   3.168  0.00  0.00           C 0
+ATOM   2000    O LEU B  48      19.397   6.237   1.732  0.68  4.29           O 0
+ATOM    984  NE2 GLN A 125      12.449   4.292   6.598  0.70  8.75           N 0
+ATOM    799   NZ LYS A 102      10.678   6.705   7.356  0.63  8.75           N 0
+ATOM    741    O GLY A  95      17.355   5.448  10.977  0.53  4.29           O 0
+ATOM    766    N LEU A  99      14.290   5.236  11.856  0.00  0.00           N 0
+ATOM    983  OE1 GLN A 125      11.381   4.213   4.629  0.61  5.36           O 0
+ATOM    977   CA GLN A 125      13.787   1.504   4.936  0.00  0.00           C 0
+ATOM    979    O GLN A 125      15.994   1.409   5.872  0.68  3.21           O 0
+ATOM   1018  CE2 PHE A 129      18.566   1.707   8.328  0.00  0.00           C 0
+ATOM    770   CB LEU A  99      14.242   2.932  10.978  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0317
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.7508
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4402
+HEADER 5  - Mean B-factor of pocket residues  : 0.4835
+HEADER 6  - Hydrophobicity Score              : 33.1818
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.9091
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.6536
+HEADER 10  -Pocket volume (convex hull)       : 10.5284
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   2518    N VAL B   9      22.633  19.536  10.297  0.00  0.00           N 0
+ATOM   3346   CEAMET B  99      20.833  16.826   3.602  0.00  0.00           C 0
+ATOM   2522    O VAL B   9      20.023  19.849   9.365  0.36  4.29           O 0
+ATOM   3283  CG1 VAL B  93      24.982  21.491   6.454  0.00  0.00           C 0
+ATOM   2510   CA GLN B   8      24.175  17.670  10.413  0.00  0.00           C 0
+ATOM   2504    O ILE B   7      26.423  17.395   8.777  0.00  0.00           O 0
+ATOM   3340   CBAMET B  99      18.179  17.050   4.949  0.00  0.00           C 0
+ATOM   3339    O MET B  99      17.917  15.861   7.649  0.32  1.07           O 0
+ATOM   2513   CB GLN B   8      23.460  16.359  10.774  0.00  0.00           C 0
+ATOM   2514   CG GLN B   8      24.030  15.138  10.128  0.00  0.00           C 0
+ATOM   3288    O LYS B  94      21.520  23.053   5.549  0.33  5.36           O 0
+ATOM   2525  CG1AVAL B   9      22.305  22.187   8.884  0.00  0.00           C 0
+ATOM   3312   CB ASP B  96      17.762  21.152   3.650  0.00  0.00           C 0
+ATOM   3308    N ASP B  96      18.058  22.465   5.684  0.00  0.00           N 0
+ATOM   3344   SDAMET B  99      19.566  17.733   2.715  0.00  0.00           S 0
+ATOM   2020  CG1 VAL A 231      22.024  11.568   6.526  0.00  0.00           C 0
+ATOM   2006  OE2 GLU A 229      23.819  12.188   2.448  0.00  0.00           O 0
+ATOM   2516  OE1 GLN B   8      22.016  13.913   9.784  0.63  2.14           O 0
+ATOM   2137  CZ2 TRP A 244      19.587  13.152   4.712  0.00  0.00           C 0
+ATOM   2053  NH1 ARG A 234      19.286  14.867   9.933  0.43  1.09           N 0
+TER
+END

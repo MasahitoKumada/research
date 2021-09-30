@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1207
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8060
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5285
+HEADER 5  - Mean B-factor of pocket residues  : 0.1767
+HEADER 6  - Hydrophobicity Score              : 28.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.6412
+HEADER 10  -Pocket volume (convex hull)       : 11.9903
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    614    N SER A  86      34.855  30.876 107.324  0.66  1.09           N 0
+ATOM    607   CA LEU A  85      33.635  32.178 108.970  0.00  0.00           C 0
+ATOM    613  CD2 LEU A  85      30.743  31.176 109.828  0.00  0.00           C 0
+ATOM    592  NH1 ARG A  82      30.808  28.276 112.349  0.04  6.56           N 0
+ATOM   1868    O VAL B 127      29.871  27.379 109.870  0.17  4.29           O 0
+ATOM   1852    O GLY B 125      33.969  26.030 106.841  0.00  0.00           O 0
+ATOM   1844   CA SER B 124      38.263  24.635 106.133  0.00  0.00           C 0
+ATOM   1849    N GLY B 125      35.923  24.345 105.546  0.00  0.00           N 0
+ATOM   1845    C SER B 124      36.905  25.216 105.731  0.00  0.00           C 0
+ATOM    785    O LYS A 107      40.292  26.631 110.664  0.52  7.50           O 0
+ATOM    601    O ILE A  84      34.314  31.708 111.700  0.63  4.29           O 0
+ATOM    788   CD LYS A 107      37.298  29.552 114.423  0.00  0.00           C 0
+ATOM    786   CB LYS A 107      38.844  28.477 112.713  0.00  0.00           C 0
+ATOM    593  NH2 ARG A  82      31.441  29.921 113.826  0.50  4.37           N 0
+ATOM   1865    N VAL B 127      30.807  26.901 107.134  0.57  2.19           N 0
+ATOM    619   OG SER A  86      36.695  28.701 106.857  0.45  4.29           O 0
+ATOM    782    N LYS A 107      39.627  29.385 110.577  0.37  1.09           N 0
+TER
+END

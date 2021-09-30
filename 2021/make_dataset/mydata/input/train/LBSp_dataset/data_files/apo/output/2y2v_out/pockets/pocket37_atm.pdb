@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0373
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0117
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5590
+HEADER 5  - Mean B-factor of pocket residues  : 0.6311
+HEADER 6  - Hydrophobicity Score              : 24.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.9053
+HEADER 10  -Pocket volume (convex hull)       : 6.4256
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   7042  CG2 VAL B 379      19.933  -4.058 -15.750  0.00  0.00           C 0
+ATOM   7016   CA GLU B 376      24.159  -2.005 -15.366  0.00  0.00           C 0
+ATOM   6914  CD1 LEU B 360      21.199  -8.317 -13.459  0.00  0.00           C 0
+ATOM   6912   CB LEU B 360      20.249  -8.555 -15.763  0.00  0.00           C 0
+ATOM   7015    N GLU B 376      24.419  -2.066 -16.798  0.00  0.00           N 0
+ATOM   6992    O ASP B 372      27.087  -3.161 -17.398  0.00  0.00           O 0
+ATOM   6941  NH1 ARG B 364      26.414  -7.163 -20.008  0.00  0.00           N 0
+ATOM   7022  OE1 GLU B 376      27.378  -3.817 -13.745  0.61  5.36           O 0
+ATOM   6882  NH2 ARG B 356      18.200  -4.741 -10.282  0.43  2.19           N 0
+ATOM   7041  CG1 VAL B 379      19.194  -3.827 -13.360  0.00  0.00           C 0
+ATOM   7050  CD2 LEU B 380      21.679  -1.602 -10.397  0.00  0.00           C 0
+ATOM   7020   CG GLU B 376      25.307  -2.777 -13.242  0.00  0.00           C 0
+ATOM   7040   CB VAL B 379      19.867  -3.144 -14.538  0.00  0.00           C 0
+ATOM   6938   CD ARG B 364      23.675  -6.882 -20.567  0.00  0.00           C 0
+ATOM   6911    O LEU B 360      20.449  -8.243 -18.952  0.62  1.07           O 0
+ATOM   7019   CB GLU B 376      25.464  -2.156 -14.601  0.00  0.00           C 0
+ATOM   7014   CB ALA B 375      24.170  -3.519 -19.559  0.00  0.00           C 0
+ATOM   7013    O ALA B 375      22.242  -2.027 -17.353  0.00  0.00           O 0
+ATOM   7012    C ALA B 375      23.426  -2.064 -17.679  0.00  0.00           C 0
+TER
+END

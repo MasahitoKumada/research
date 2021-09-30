@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1961
+HEADER 1  - Drug Score                        : 0.0111
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8170
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6129
+HEADER 5  - Mean B-factor of pocket residues  : 0.3083
+HEADER 6  - Hydrophobicity Score              : 19.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.7363
+HEADER 10  -Pocket volume (convex hull)       : 1.6408
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    617    O ASP A  81     -11.874  67.065 110.463  0.00  0.00           O 0
+ATOM    609    O ILE A  80     -13.013  71.148 110.457  0.00  0.00           O 0
+ATOM    801   NZALYS A 103      -9.615  65.677 114.546  0.44  9.84           N 0
+ATOM    771  CZ3 TRP A 100      -9.701  69.551 108.955  0.00  0.00           C 0
+ATOM    615   CA ASP A  81     -13.867  68.422 110.611  0.00  0.00           C 0
+ATOM    620  OD1 ASP A  81     -15.533  68.869 113.051  0.00  0.00           O 0
+ATOM    753    O LYS A  99      -4.624  69.328 112.322  0.48  8.57           O 0
+ATOM    769  CE3 TRP A 100      -8.420  69.056 108.757  0.00  0.00           C 0
+ATOM    795   CGALYS A 103      -9.076  65.123 111.942  0.00  0.00           C 0
+ATOM    799   CEALYS A 103     -10.484  64.599 113.975  0.00  0.00           C 0
+ATOM    770  CZ2 TRP A 100      -8.962  71.856 108.725  0.00  0.00           C 0
+ATOM    772  CH2 TRP A 100      -9.957  70.945 108.951  0.00  0.00           C 0
+ATOM    757   CE LYS A  99      -6.331  74.124 111.979  0.00  0.00           C 0
+ATOM    755   CG LYS A  99      -4.505  72.382 111.775  0.00  0.00           C 0
+ATOM    768  CE2 TRP A 100      -7.672  71.366 108.522  0.00  0.00           C 0
+ATOM    766  CD2 TRP A 100      -7.377  69.977 108.521  0.00  0.00           C 0
+TER
+END

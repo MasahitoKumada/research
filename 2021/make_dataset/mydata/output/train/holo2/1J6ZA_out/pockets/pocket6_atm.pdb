@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0539
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.6399
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4620
+HEADER 5  - Mean B-factor of pocket residues  : 0.0635
+HEADER 6  - Hydrophobicity Score              : 10.2000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 78.5656
+HEADER 10  -Pocket volume (convex hull)       : 0.6097
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM    528    N ILE A  76      -3.054  -5.165  26.180  0.00  0.00           N 0
+ATOM    533  CG1 ILE A  76      -4.302  -2.626  25.417  0.00  0.00           C 0
+ATOM    835  OD1 ASN A 111      -3.955  -8.094  22.208  0.71  1.07           O 0
+ATOM    864  OD1 ASN A 115      -6.562  -6.383  23.184  0.00  0.00           O 0
+ATOM    519    O GLY A  74       0.291  -4.607  23.982  0.40  3.21           O 0
+ATOM    803   CB GLU A 107      -3.041  -4.899  18.494  0.00  0.00           C 0
+ATOM    808    N ALA A 108      -0.280  -5.287  19.776  0.00  0.00           N 0
+ATOM     58   CB ASN A  12      -1.986   0.954  22.230  0.00  0.00           C 0
+ATOM    795    O THR A 106      -2.855  -1.363  19.028  0.42  1.07           O 0
+ATOM    535  CD1 ILE A  76      -5.301  -2.093  24.377  0.00  0.00           C 0
+ATOM    834  ND2 ASN A 111      -5.074  -7.219  20.512  0.00  0.00           N 0
+ATOM    800   CA GLU A 107      -1.859  -3.917  18.638  0.00  0.00           C 0
+ATOM     57    O ASN A  12       0.446   0.052  22.882  0.00  0.00           O 0
+ATOM   1049  NE2 GLN A 137       1.019  -2.043  19.825  0.00  0.00           N 0
+ATOM    900   SD MET A 119      -6.688  -3.775  20.761  0.00  0.00           S 0
+ATOM    901   CE MET A 119      -6.196  -2.087  20.243  0.00  0.00           C 0
+TER
+END

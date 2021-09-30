@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0686
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.1173
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6879
+HEADER 5  - Mean B-factor of pocket residues  : 0.1356
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.0254
+HEADER 10  -Pocket volume (convex hull)       : 5.2149
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0870
+ATOM   3343    C SER B 219     -12.862  -2.649  41.588  0.00  0.00           C 0
+ATOM   3352   CG ARG B 220     -10.337  -0.843  39.158  0.00  0.00           C 0
+ATOM   3341    N SER B 219     -14.044  -1.835  43.688  0.00  0.00           N 0
+ATOM   3336    O ASP B 218     -12.766  -0.876  45.291  0.42  6.43           O 0
+ATOM   3333    N ASP B 218     -15.586   0.688  44.661  0.51  1.09           N 0
+ATOM   3335    C ASP B 218     -13.865  -1.086  44.794  0.00  0.00           C 0
+ATOM   3314    O ILE B 215     -16.564  -0.830  42.235  0.00  0.00           O 0
+ATOM   3328    N ALA B 217     -17.231   2.296  43.212  0.00  0.00           N 0
+ATOM   3307  CD2 PHE B 214     -13.382  -0.318  36.686  0.00  0.00           C 0
+ATOM   3320   CA GLU B 216     -18.489   1.005  41.675  0.00  0.00           C 0
+ATOM   3304   CB PHE B 214     -15.216  -1.713  37.712  0.00  0.00           C 0
+ATOM   3342   CA SER B 219     -12.882  -2.626  43.146  0.00  0.00           C 0
+ATOM   3347    N ARG B 220     -11.658  -2.750  40.992  0.58  1.09           N 0
+ATOM   3344    O SER B 219     -13.926  -2.595  40.970  0.00  0.00           O 0
+ATOM   2166   CA GLU B  77      -5.509  -1.308  44.793  0.00  0.00           C 0
+ATOM   2169   CB GLU B  77      -4.920  -1.176  43.371  0.00  0.00           C 0
+ATOM   3356  NH1 ARG B 220      -6.732  -0.589  40.227  0.76  5.47           N 0
+ATOM   2170   CG GLU B  77      -4.090   0.054  43.171  0.00  0.00           C 0
+ATOM   2177    O ARG B  78      -9.459  -3.184  43.066  0.46  1.07           O 0
+ATOM   2174    N ARG B  78      -7.634  -2.355  45.227  0.00  0.00           N 0
+ATOM   3353   CD ARG B 220      -9.112   0.074  38.856  0.00  0.00           C 0
+TER
+END

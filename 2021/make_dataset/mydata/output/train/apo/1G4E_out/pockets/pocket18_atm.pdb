@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.1170
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0621
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4981
+HEADER 5  - Mean B-factor of pocket residues  : 0.2254
+HEADER 6  - Hydrophobicity Score              : 9.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.3877
+HEADER 10  -Pocket volume (convex hull)       : 9.1744
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0870
+ATOM   1712    O ILE B1017      50.095  47.614   6.662  0.43  7.50           O 0
+ATOM   1708  NH2 ARG B1016      52.362  43.267   3.181  0.62  6.56           N 0
+ATOM   2674    O ASP B1146      55.474  44.359   7.941  0.43  7.50           O 0
+ATOM   2677  OD1 ASP B1146      51.214  43.277   6.148  0.47  2.14           O 0
+ATOM   1727   CB ARG B1019      54.875  50.564   5.986  0.00  0.00           C 0
+ATOM   2904   CD PRO B1182      57.681  46.523   7.177  0.00  0.00           C 0
+ATOM   1724   CA ARG B1019      54.026  50.108   7.175  0.00  0.00           C 0
+ATOM   1723    N ARG B1019      52.624  50.287   6.855  0.45  3.28           N 0
+ATOM   2669    O ALA B1145      54.943  41.972   4.667  0.50  2.14           O 0
+ATOM   2895  CG1 ILE B1181      58.938  44.154   5.257  0.00  0.00           C 0
+ATOM   2641   CG GLU B1141      58.610  43.285   0.384  0.00  0.00           C 0
+ATOM   2639    O GLU B1141      56.091  41.145  -0.020  0.43  6.43           O 0
+ATOM   1731   NEAARG B1019      56.886  50.276   3.803  0.00  0.00           N 0
+ATOM   1737  NH2AARG B1019      57.014  49.863   1.545  0.00  0.00           N 0
+ATOM   2891   CA ILE B1181      59.908  46.491   5.168  0.00  0.00           C 0
+ATOM   2672   CA ASP B1146      53.914  42.742   7.097  0.00  0.00           C 0
+ATOM   2644  OE2 GLU B1141      59.592  45.410   0.766  0.56  7.50           O 0
+TER
+END

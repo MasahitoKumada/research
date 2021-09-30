@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0633
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7759
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5566
+HEADER 5  - Mean B-factor of pocket residues  : 0.1795
+HEADER 6  - Hydrophobicity Score              : 27.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.4812
+HEADER 10  -Pocket volume (convex hull)       : 15.2794
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1304
+ATOM   2550  NH2 ARG A 342      12.342  27.969  16.696  0.00  0.00           N 0
+ATOM   2549  NH1 ARG A 342      12.591  26.069  18.059  0.50  1.09           N 0
+ATOM   2263    O TRP A 309      11.661  29.095  19.354  0.00  0.00           O 0
+ATOM   2019  OE1 GLN A 279       8.858  29.801  15.517  0.67  3.21           O 0
+ATOM   3084  NH1 ARG A 409       7.898  26.750  12.059  0.00  0.00           N 0
+ATOM    150  CD1 LEU A  38      10.389  25.461  14.787  0.00  0.00           C 0
+ATOM   2040   CE MET A 282       3.870  28.695  16.237  0.00  0.00           C 0
+ATOM   2268  NE1 TRP A 309       8.140  27.965  21.762  0.00  0.00           N 0
+ATOM   2266  CD1 TRP A 309       8.799  29.164  21.511  0.00  0.00           C 0
+ATOM   2037   CB MET A 282       3.070  30.306  18.823  0.00  0.00           C 0
+ATOM   2036    O MET A 282       2.121  29.381  21.827  0.58  3.21           O 0
+ATOM   2066   CB GLU A 286       1.947  26.286  23.632  0.00  0.00           C 0
+ATOM   2271  CZ2 TRP A 309       8.431  25.966  23.327  0.00  0.00           C 0
+ATOM   2067   CG GLU A 286       2.315  24.851  23.939  0.00  0.00           C 0
+ATOM   2042   CA ALA A 283       4.511  29.969  23.015  0.00  0.00           C 0
+ATOM   2016   CB GLN A 279       7.584  32.032  17.259  0.00  0.00           C 0
+ATOM   2015    O GLN A 279       6.065  31.792  20.020  0.62  1.07           O 0
+ATOM   2035    C MET A 282       2.837  30.263  21.284  0.00  0.00           C 0
+ATOM   2079  CE1 HIS A 287       5.440  26.064  25.657  0.00  0.00           C 0
+ATOM   2041    N ALA A 283       4.025  30.612  21.796  0.00  0.00           N 0
+TER
+END

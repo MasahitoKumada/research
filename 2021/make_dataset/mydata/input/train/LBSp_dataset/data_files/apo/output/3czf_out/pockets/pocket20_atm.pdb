@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0100
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6599
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5245
+HEADER 5  - Mean B-factor of pocket residues  : 0.7526
+HEADER 6  - Hydrophobicity Score              : 15.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 119.7707
+HEADER 10  -Pocket volume (convex hull)       : 1.5413
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   2149   CB ALA A 246      17.830   9.376   0.765  0.00  0.00           C 0
+ATOM   2167  CG2 VAL A 248      19.320   9.816  -5.876  0.00  0.00           C 0
+ATOM   2148    O ALA A 246      19.348   6.805  -0.338  0.00  0.00           O 0
+ATOM   2147    C ALA A 246      18.176   7.177  -0.334  0.00  0.00           C 0
+ATOM   2005  OE1 GLU A 229      22.358  11.868   0.845  0.00  0.00           O 0
+ATOM   2002   CB GLU A 229      22.436   9.070   1.094  0.00  0.00           C 0
+ATOM   1998    N GLU A 229      22.033   6.666   0.621  0.69  1.09           N 0
+ATOM   1986    O ASP A 227      21.653   5.105  -2.931  0.00  0.00           O 0
+ATOM   2161    N VAL A 248      17.930   7.413  -4.883  0.28  1.09           N 0
+ATOM   2153    C VAL A 247      17.194   7.352  -3.777  0.00  0.00           C 0
+ATOM   2150    N VAL A 247      17.343   7.043  -1.367  0.00  0.00           N 0
+ATOM   1765  CG2 THR A 200      16.107  11.258  -1.843  0.00  0.00           C 0
+ATOM   1784  NH2 ARG A 202      17.663  13.455   1.001  0.60  6.56           N 0
+ATOM   1764  OG1 THR A 200      16.806  12.414  -3.877  0.00  0.00           O 0
+TER
+END

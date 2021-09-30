@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.2023
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8837
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4583
+HEADER 5  - Mean B-factor of pocket residues  : 0.6371
+HEADER 6  - Hydrophobicity Score              : -20.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.0038
+HEADER 10  -Pocket volume (convex hull)       : 13.4356
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.3333
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2143
+ATOM   1785  OD1 ASP A1235     -17.816   8.166  45.312  0.00  0.00           O 0
+ATOM   1784   CG ASP A1235     -17.401   7.423  46.215  0.00  0.00           C 0
+ATOM   1777   CG PRO A1234     -13.041   8.481  48.998  0.00  0.00           C 0
+ATOM   1783   CB ASP A1235     -17.931   7.579  47.624  0.00  0.00           C 0
+ATOM   1778   CD PRO A1234     -12.691   7.467  47.946  0.00  0.00           C 0
+ATOM   1786  OD2 ASP A1235     -16.558   6.546  45.955  0.00  0.00           O 1
+ATOM   2488  OE2 GLU A1326     -10.400  11.803  44.119  0.40  4.29           O 1
+ATOM   1730   CG ARG A1229      -9.489   8.797  46.466  0.00  0.00           C 0
+ATOM   1744   NZ LYS A1230     -10.255   9.086  41.638  0.61  4.37           N 1
+ATOM   1535   NZ LYS A1205     -14.885  10.467  39.808  0.00  7.66           N 1
+ATOM   1821  CE1 TYR A1240     -12.308   7.179  38.936  0.00  0.00           C 0
+ATOM   1769   CB PRO A1233     -13.478   4.870  45.318  0.00  0.00           C 0
+ATOM   1770   CG PRO A1233     -13.033   3.688  44.506  0.00  0.00           C 0
+ATOM   1819  CD1 TYR A1240     -11.658   5.953  38.902  0.00  0.00           C 0
+ATOM   1731   CD ARG A1229      -9.392  10.304  46.412  0.00  0.00           C 0
+ATOM   1734  NH1 ARG A1229      -9.443  12.989  46.850  0.00  0.00           N 1
+ATOM   1800   OG SER A1237     -16.138   5.651  43.475  0.44  4.29           O 0
+ATOM   2487  OE1 GLU A1326     -11.056  12.354  42.168  0.52  2.14           O 0
+ATOM   1728    O ARG A1229      -9.812   5.777  44.878  0.53  2.14           O 0
+TER
+END

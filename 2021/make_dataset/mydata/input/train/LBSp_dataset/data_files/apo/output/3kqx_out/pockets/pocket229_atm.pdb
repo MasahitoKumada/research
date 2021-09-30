@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   229:
+HEADER 0  - Pocket Score                      : -0.0725
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1321
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5983
+HEADER 5  - Mean B-factor of pocket residues  : 0.6222
+HEADER 6  - Hydrophobicity Score              : 32.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.9964
+HEADER 10  -Pocket volume (convex hull)       : 10.5024
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  30583  CZ2 TRP H 526     120.888  50.060 112.482  0.00  0.00           C 0
+ATOM  30604    O ILE H 529     112.798  49.480 110.392  0.52  8.57           O 0
+ATOM  42325  CH2 TRP K 525     118.715  47.500 114.587  0.00  0.00           C 0
+ATOM  30601    N ILE H 529     114.075  50.907 112.619  0.52  3.28           N 0
+ATOM  30595   CA PRO H 528     115.230  49.769 114.445  0.00  0.00           C 0
+ATOM  42324  CZ3 TRP K 525     118.046  46.261 114.367  0.00  0.00           C 0
+ATOM  30585  CH2 TRP H 526     121.898  49.107 112.506  0.00  0.00           C 0
+ATOM  30404    O GLY H 504     117.429  54.132 109.554  0.00  0.00           O 0
+ATOM  30605   CB ILE H 529     113.155  52.403 110.842  0.00  0.00           C 0
+ATOM  30868   NZ LYS H 563     113.505  53.898 104.840  0.56  8.75           N 0
+ATOM  30624  ND2 ASN H 531     112.150  48.707 105.961  0.41  8.75           N 0
+ATOM  30598   CB PRO H 528     114.965  48.218 114.511  0.00  0.00           C 0
+ATOM  42130   OH TYR K 499     113.820  43.794 111.475  0.32  7.50           O 0
+ATOM  30580  NE1 TRP H 526     119.690  51.744 113.946  0.39  2.19           N 0
+ATOM  30867   CE LYS H 563     112.437  53.882 105.854  0.00  0.00           C 0
+ATOM  30623  OD1 ASN H 531     110.926  50.368 106.841  0.71  4.29           O 0
+TER
+END

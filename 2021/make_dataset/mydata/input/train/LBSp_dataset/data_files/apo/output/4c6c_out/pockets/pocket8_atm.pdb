@@ -1,0 +1,52 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1165
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    37
+HEADER 3  - Mean alpha-sphere radius          : 3.8374
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5467
+HEADER 5  - Mean B-factor of pocket residues  : 0.3765
+HEADER 6  - Hydrophobicity Score              : 11.3636
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 488.2642
+HEADER 10  -Pocket volume (convex hull)       : 91.9189
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.2432
+ATOM   3137   CA PRO A1655     -37.118  -8.837 -13.946  0.00  0.00           C 0
+ATOM   3139    O PRO A1655     -35.900  -9.841 -12.194  0.51  2.14           O 0
+ATOM   3194  OE2 GLU A1659     -33.524  -8.194  -9.643  0.00  0.00           O 0
+ATOM   3140   CB PRO A1655     -38.203  -7.995 -13.273  0.00  0.00           C 0
+ATOM   3181    C GLY A1658     -31.987 -10.879 -13.824  0.00  0.00           C 0
+ATOM   3182    O GLY A1658     -30.928 -10.247 -13.852  0.48  2.14           O 0
+ATOM   3132    O GLY A1654     -35.824 -10.092 -16.107  0.79  1.07           O 0
+ATOM   3131    C GLY A1654     -37.022  -9.753 -16.229  0.00  0.00           C 0
+ATOM   3055    O LEU A1650     -35.670  -7.773 -19.355  0.00  0.00           O 0
+ATOM   3056   CB LEU A1650     -33.129  -6.002 -18.550  0.00  0.00           C 0
+ATOM   3054    C LEU A1650     -34.828  -7.152 -20.010  0.00  0.00           C 0
+ATOM   3071    N GLU A1651     -35.142  -6.488 -21.121  0.00  0.00           N 0
+ATOM   3136    N PRO A1655     -37.730  -9.210 -15.225  0.00  0.00           N 0
+ATOM   3142   CD PRO A1655     -39.153  -8.829 -15.284  0.00  0.00           C 0
+ATOM   3201    N VAL A1660     -29.504 -11.194 -11.096  0.00  0.00           N 0
+ATOM   3204    O VAL A1660     -27.591  -9.649 -10.125  0.41  1.07           O 0
+ATOM   3059  CD2 LEU A1650     -32.010  -7.415 -16.802  0.00  0.00           C 0
+ATOM   3058  CD1 LEU A1650     -31.660  -4.940 -16.859  0.00  0.00           C 0
+ATOM   3019  NE2 HIS A1647     -27.259  -2.083 -16.328  0.00  0.00           N 0
+ATOM   3261   CDAGLU A1663     -27.264  -3.662 -11.253  0.00  0.00           C 0
+ATOM   3285    O LEU A1664     -26.243  -4.805 -15.219  0.00  0.00           O 0
+ATOM   3017  CD2 HIS A1647     -27.876  -2.912 -17.235  0.00  0.00           C 0
+ATOM   3262  OE1AGLU A1663     -28.241  -3.898 -10.512  0.00  0.00           O 0
+ATOM   3263  OE2AGLU A1663     -26.973  -2.511 -11.618  0.32  4.29           O 0
+ATOM   3259   CBAGLU A1663     -27.086  -6.152 -11.608  0.00  0.00           C 0
+ATOM   3282    N LEU A1664     -26.466  -7.408 -14.356  0.68  1.09           N 0
+ATOM   3226  NH1 ARG A1661     -29.634  -9.031  -7.998  0.65  2.19           N 0
+ATOM   3227  NH2 ARG A1661     -30.689  -8.133  -6.158  0.54  7.66           N 0
+ATOM   3225   CZ ARG A1661     -29.576  -8.510  -6.772  0.00  0.00           C 0
+ATOM   3224   NE ARG A1661     -28.411  -8.365  -6.152  0.69  2.19           N 0
+TER
+END

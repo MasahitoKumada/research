@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0728
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9099
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4952
+HEADER 5  - Mean B-factor of pocket residues  : 0.8340
+HEADER 6  - Hydrophobicity Score              : 24.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 190.1337
+HEADER 10  -Pocket volume (convex hull)       : 2.4328
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9000
+ATOM     60   CB ALA B  16       1.334   1.065  47.356  0.00  0.00           C 0
+ATOM   1559  CG1 ILE B 200      -0.080  -2.260  44.687  0.00  0.00           C 0
+ATOM   1560  CG2 ILE B 200       1.844  -3.863  44.600  0.00  0.00           C 0
+ATOM   1535  OE1 GLN B 197      -1.841  -5.405  46.800  0.00  0.00           O 0
+ATOM     59    O ALA B  16       4.381  -0.391  46.830  0.69  2.14           O 0
+ATOM     91   CB ALA B  20       4.534  -3.630  45.935  0.00  0.00           C 0
+ATOM      6   CG MET B   9       2.253  -3.212  53.037  0.00  0.00           C 0
+ATOM     87    N ALA B  20       6.254  -2.333  47.103  0.00  0.00           N 0
+ATOM     88   CA ALA B  20       5.936  -3.642  46.539  0.00  0.00           C 0
+ATOM      8   CE MET B   9       4.528  -4.708  53.756  0.00  0.00           C 0
+ATOM     81    O GLU B  19       8.229  -2.948  47.998  0.57  5.36           O 0
+ATOM     80    C GLU B  19       7.339  -2.113  47.840  0.00  0.00           C 0
+ATOM     82   CB GLU B  19       6.363  -0.575  49.547  0.00  0.00           C 0
+ATOM     15   CD PRO B  10       2.478   0.789  51.580  0.00  0.00           C 0
+ATOM     57   CA ALA B  16       2.812   1.209  47.692  0.00  0.00           C 0
+ATOM     83   CG GLU B  19       6.781  -0.983  50.944  0.00  0.00           C 0
+TER
+END

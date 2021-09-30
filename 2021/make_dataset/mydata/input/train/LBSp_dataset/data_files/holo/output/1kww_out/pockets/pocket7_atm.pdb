@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0188
+HEADER 1  - Drug Score                        : 0.0070
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8108
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5759
+HEADER 5  - Mean B-factor of pocket residues  : 0.2979
+HEADER 6  - Hydrophobicity Score              : 27.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.1637
+HEADER 10  -Pocket volume (convex hull)       : 6.9755
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9000
+ATOM   1908   SD MET B 186       3.469  35.031  -4.384  0.00  0.00           S 0
+ATOM   1949   CG ARG B 192       3.704  38.790  -4.294  0.00  0.00           C 0
+ATOM   1950   CD ARG B 192       3.497  39.874  -5.331  0.00  0.00           C 0
+ATOM   1909   CE MET B 186       2.244  35.293  -3.078  0.00  0.00           C 0
+ATOM   1859   CB VAL B 180       0.105  30.080  -7.090  0.00  0.00           C 0
+ATOM   1861  CG2 VAL B 180      -0.047  29.557  -5.667  0.00  0.00           C 0
+ATOM   1860  CG1 VAL B 180      -1.212  30.675  -7.578  0.00  0.00           C 0
+ATOM   1951   NE ARG B 192       4.297  39.621  -6.527  0.50  2.19           N 0
+ATOM   1907   CG MET B 186       3.642  33.251  -4.312  0.00  0.00           C 0
+ATOM   1888   CD GLN B 184       4.612  36.712 -10.286  0.00  0.00           C 0
+ATOM   1889  OE1 GLN B 184       5.386  36.991  -9.365  0.30  4.29           O 0
+ATOM   1887   CG GLN B 184       4.031  35.306 -10.439  0.00  0.00           C 0
+ATOM   1886   CB GLN B 184       4.439  34.361  -9.304  0.00  0.00           C 0
+ATOM   1867  OG1 THR B 181      -0.032  32.481 -10.884  0.00  0.00           O 0
+ATOM   1866   CB THR B 181       1.383  32.397 -11.082  0.00  0.00           C 0
+ATOM   1862    N THR B 181       1.577  30.388  -9.657  0.61  1.09           N 0
+ATOM   1885    O GLN B 184       5.420  32.475  -7.487  0.44  2.14           O 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0016
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7800
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4250
+HEADER 5  - Mean B-factor of pocket residues  : 0.3589
+HEADER 6  - Hydrophobicity Score              : 12.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 141.8741
+HEADER 10  -Pocket volume (convex hull)       : 1.7245
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6087
+ATOM   3789  NH1 ARG A 485      11.266   4.721  30.717  0.79  5.47           N 0
+ATOM    910   CD PRO A 113      16.151   0.897  33.406  0.00  0.00           C 0
+ATOM   3786   CD ARG A 485      11.742   1.889  30.504  0.00  0.00           C 0
+ATOM   3785   CG ARG A 485      13.050   1.312  29.865  0.00  0.00           C 0
+ATOM    908   CB PRO A 113      17.029   1.062  31.214  0.00  0.00           C 0
+ATOM    903  CG2 THR A 112      16.453   3.638  35.266  0.00  0.00           C 0
+ATOM   3753   CB THR A 481      13.020   6.245  27.691  0.00  0.00           C 0
+ATOM   3752    O THR A 481      13.181   3.125  27.057  0.00  0.00           O 0
+ATOM   3779   CB ALA A 484      16.826   2.836  26.282  0.00  0.00           C 0
+ATOM   1144   CB ALA A 144      16.769   7.938  31.604  0.00  0.00           C 0
+ATOM   3755  CG2 THR A 481      13.974   7.405  27.883  0.00  0.00           C 0
+ATOM    907    O PRO A 113      18.556   3.540  32.269  0.72  4.29           O 0
+ATOM   1141   CA ALA A 144      16.604   7.375  32.994  0.00  0.00           C 0
+ATOM    923   CG LEU A 115      18.955   6.247  27.453  0.00  0.00           C 0
+ATOM   1130    O GLU A 142      12.225   6.999  33.121  0.00  0.00           O 0
+ATOM   1139    O GLY A 143      15.308   6.416  35.267  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0275
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0916
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6698
+HEADER 5  - Mean B-factor of pocket residues  : 0.3941
+HEADER 6  - Hydrophobicity Score              : -1.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 266.2171
+HEADER 10  -Pocket volume (convex hull)       : 7.6536
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    435   CD PRO X 883      69.389   4.342  70.900  0.00  0.00           C 0
+ATOM    419    N HIS X 882      66.502   2.344  68.408  0.70  2.19           N 0
+ATOM    420   CA HIS X 882      67.247   3.458  68.960  0.00  0.00           C 0
+ATOM    412    O HIS X 881      67.721   2.161  66.512  0.68  7.50           O 0
+ATOM    421    C HIS X 882      67.045   3.431  70.471  0.00  0.00           C 0
+ATOM    429    N PRO X 883      68.050   3.848  71.256  0.00  0.00           N 0
+ATOM    413   CB HIS X 881      66.519  -0.716  67.102  0.00  0.00           C 0
+ATOM    411    C HIS X 881      66.791   1.791  67.233  0.00  0.00           C 0
+ATOM    464   CB ASN X 887      63.171  -2.164  72.346  0.00  0.00           C 0
+ATOM    466  ND2 ASN X 887      64.666  -4.048  72.634  0.40  6.56           N 0
+ATOM    465   CG ASN X 887      64.015  -3.290  71.749  0.00  0.00           C 0
+ATOM    543  OE2 GLU X 903      65.304  -3.409  75.323  0.00  0.00           O 1
+ATOM    467  OD1 ASN X 887      64.114  -3.459  70.530  0.00  0.00           O 0
+ATOM   1134   CE LYS X 979      64.544   1.844  76.513  0.00  0.00           C 0
+ATOM   1135   NZ LYS X 979      65.944   2.335  76.386  0.69  7.66           N 1
+ATOM    447    O ILE X 885      63.084   2.690  72.233  0.44  1.07           O 0
+ATOM    422    O HIS X 882      65.998   3.011  70.932  0.51  4.29           O 0
+ATOM    430   CA PRO X 883      67.857   3.762  72.717  0.00  0.00           C 0
+ATOM    416  ND1 HIS X 881      64.791  -2.380  67.900  0.79  1.09           N 0
+TER
+END

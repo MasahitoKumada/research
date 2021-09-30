@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0322
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7597
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6166
+HEADER 5  - Mean B-factor of pocket residues  : 0.3024
+HEADER 6  - Hydrophobicity Score              : -2.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 134.8663
+HEADER 10  -Pocket volume (convex hull)       : 2.4101
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   6635   CD ARG D  68     -21.616  33.674  67.241  0.00  0.00           C 0
+ATOM   6643    O LYS D  69     -15.678  31.349  67.225  0.00  0.00           O 0
+ATOM   6633   CB ARG D  68     -19.387  34.480  66.459  0.00  0.00           C 0
+ATOM   8040   CD PRO D 243     -18.702  35.614  72.633  0.00  0.00           C 0
+ATOM   6657  OE2 GLU D  70     -20.278  30.324  65.113  0.81  4.29           O 0
+ATOM   6634   CG ARG D  68     -20.706  34.873  67.099  0.00  0.00           C 0
+ATOM   6640    N LYS D  69     -16.178  34.320  67.039  0.62  1.09           N 0
+ATOM   8026    O PHE D 242     -15.950  35.527  73.250  0.00  0.00           O 0
+ATOM   8038   CB PRO D 243     -19.565  36.719  70.721  0.00  0.00           C 0
+ATOM   8039   CG PRO D 243     -19.962  36.214  72.085  0.00  0.00           C 0
+ATOM   8027   CB PHE D 242     -14.872  36.310  70.338  0.00  0.00           C 0
+ATOM   6644   CB LYS D  69     -13.898  33.678  67.723  0.00  0.00           C 0
+ATOM   8025    C PHE D 242     -16.346  36.288  72.358  0.00  0.00           C 0
+ATOM   8034    N PRO D 243     -17.638  36.435  72.025  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2151
+HEADER 1  - Drug Score                        : 0.0326
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.5759
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4263
+HEADER 5  - Mean B-factor of pocket residues  : 0.5427
+HEADER 6  - Hydrophobicity Score              : 20.1111
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 128.3815
+HEADER 10  -Pocket volume (convex hull)       : 3.5309
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    130   CD PRO X  90       2.179  -7.929   2.457  0.00  0.00           C 0
+ATOM   2314  ND1 HIS X 366       1.415  -3.883  -0.943  0.81  1.09           N 0
+ATOM   2312   CB HIS X 366      -0.343  -4.747  -2.530  0.00  0.00           C 0
+ATOM    129   CG PRO X  90       0.969  -7.091   2.549  0.00  0.00           C 0
+ATOM    938   CG GLU X 196       8.094  -5.910  -1.217  0.00  0.00           C 0
+ATOM   2339   SG CYS X 369       5.689  -5.735  -4.149  0.00  0.00           S 0
+ATOM    119    O ASP X  89       5.381  -6.166   2.718  0.00  0.00           O 0
+ATOM    158  CD2 LEU X  93       5.047  -2.792  -1.592  0.00  0.00           C 0
+ATOM    125   CA PRO X  90       2.769  -5.551   2.337  0.00  0.00           C 0
+ATOM   2347   NE ARG X 370      -0.645  -9.752  -3.648  0.51  1.09           N 0
+ATOM   2350  NH2 ARG X 370      -1.514 -10.733  -1.701  0.23  8.75           N 0
+ATOM    118    C ASP X  89       4.530  -7.095   2.726  0.00  0.00           C 0
+ATOM    941  OE2 GLU X 196       7.723  -7.743   0.326  0.00  0.00           O 0
+ATOM    112   CB LEU X  88       4.865  -9.853  -1.394  0.00  0.00           C 0
+ATOM    116    N ASP X  89       5.559  -8.954   1.603  0.00  0.00           N 0
+ATOM    124    N PRO X  90       3.236  -6.898   2.614  0.00  0.00           N 0
+ATOM   2338   CB CYS X 369       4.166  -5.195  -4.966  0.00  0.00           C 0
+ATOM    111    O LEU X  88       4.436 -10.895   1.570  0.27  3.21           O 0
+ATOM     91    O VAL X  85       3.253 -12.744  -2.020  0.17  1.07           O 0
+TER
+END

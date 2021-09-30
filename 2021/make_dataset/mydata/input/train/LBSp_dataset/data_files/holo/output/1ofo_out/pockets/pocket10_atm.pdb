@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0886
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7516
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5199
+HEADER 5  - Mean B-factor of pocket residues  : 0.7122
+HEADER 6  - Hydrophobicity Score              : 15.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 156.2416
+HEADER 10  -Pocket volume (convex hull)       : 3.1530
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   2449  OE2 GLU A 351     -13.769  53.474 -14.448  0.00  0.00           O 0
+ATOM    517    O ARG A  90     -11.588  53.614  -8.884  0.66  1.07           O 0
+ATOM   2415  CZ2 TRP A 347     -13.892  51.589 -10.862  0.00  0.00           C 0
+ATOM    518   CB ARG A  90     -10.588  50.620  -9.709  0.00  0.00           C 0
+ATOM    556   CG LEU A  94     -15.547  55.517 -10.511  0.00  0.00           C 0
+ATOM    552   CA LEU A  94     -13.691  56.981  -9.270  0.00  0.00           C 0
+ATOM    580  OE1 GLU A  97     -13.738  59.916 -13.324  0.48  8.57           O 0
+ATOM   2412  NE1 TRP A 347     -13.362  50.439 -13.043  0.00  0.00           N 0
+ATOM    551    N LEU A  94     -12.332  56.607  -8.922  0.00  0.00           N 0
+ATOM    546   CB LYS A  93      -9.288  56.243  -9.415  0.00  0.00           C 0
+ATOM    548   CD LYS A  93      -8.161  56.446 -11.719  0.00  0.00           C 0
+ATOM    547   CG LYS A  93      -8.815  57.189 -10.528  0.00  0.00           C 0
+ATOM    549   CE LYS A  93      -8.473  57.202 -13.028  0.00  0.00           C 0
+ATOM    515   CA ARG A  90      -9.984  51.816  -8.967  0.00  0.00           C 0
+ATOM    519   CG ARG A  90      -9.603  49.657 -10.358  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0470
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.8901
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6259
+HEADER 5  - Mean B-factor of pocket residues  : 0.2242
+HEADER 6  - Hydrophobicity Score              : 54.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 328.4714
+HEADER 10  -Pocket volume (convex hull)       : 23.0418
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.5484
+ATOM    736    C ALA X  93      33.028  -2.854   6.267  0.00  0.00           C 0
+ATOM    745  CG2 VAL X  94      36.421  -4.031   4.219  0.00  0.00           C 0
+ATOM   1279  CZ2 TRP X 158      38.315  -0.771   6.869  0.00  0.00           C 0
+ATOM    738   CB ALA X  93      32.560  -4.847   7.733  0.00  0.00           C 0
+ATOM      4    O MET X   1      40.767  -2.950   9.490  0.38  6.43           O 0
+ATOM     10   CA ASN X   2      39.421  -0.725  10.638  0.00  0.00           C 0
+ATOM     13   CB ASN X   2      39.260  -1.424  11.998  0.00  0.00           C 0
+ATOM     17    N ILE X   3      37.838   1.070  11.092  0.00  0.00           N 0
+ATOM     21   CB ILE X   3      35.857   2.575  11.464  0.00  0.00           C 0
+ATOM    772   CB ALA X  97      35.115   1.475   7.566  0.00  0.00           C 0
+ATOM     23  CG2 ILE X   3      35.495   1.904  12.802  0.00  0.00           C 0
+ATOM    737    O ALA X  93      33.195  -1.835   6.931  0.67  6.43           O 0
+ATOM    735   CA ALA X  93      31.969  -3.875   6.702  0.00  0.00           C 0
+ATOM    761   CB ARG X  96      29.994  -0.289   7.155  0.00  0.00           C 0
+ATOM    763   CD ARG X  96      28.272  -1.993   7.749  0.00  0.00           C 0
+ATOM   1276  NE1 TRP X 158      39.445  -2.843   5.997  0.73  2.19           N 0
+ATOM    790  CD1 ILE X 100      31.244   2.885  10.811  0.00  0.00           C 0
+ATOM    768    N ALA X  97      32.760   1.309   6.853  0.00  0.00           N 0
+ATOM    769   CA ALA X  97      33.774   2.188   7.440  0.00  0.00           C 0
+ATOM    739    N VAL X  94      33.764  -3.138   5.193  0.00  0.00           N 0
+ATOM    703   OH TYR X  88      28.265   0.512  10.791  0.00  0.00           O 0
+ATOM    766  NH1 ARG X  96      27.210  -4.408   8.797  0.00  0.00           N 0
+ATOM    740   CA VAL X  94      34.788  -2.191   4.731  0.00  0.00           C 0
+TER
+END

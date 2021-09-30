@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0101
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9116
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5446
+HEADER 5  - Mean B-factor of pocket residues  : 0.4316
+HEADER 6  - Hydrophobicity Score              : 24.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 305.7261
+HEADER 10  -Pocket volume (convex hull)       : 12.4498
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   3734   CB SER B  94      49.808  36.561  -7.619  0.00  0.00           C 0
+ATOM   3737   CA HIS B  95      49.963  35.231 -11.830  0.00  0.00           C 0
+ATOM   3732    C SER B  94      49.392  36.739 -10.056  0.00  0.00           C 0
+ATOM   3733    O SER B  94      49.944  37.713 -10.689  0.19  5.36           O 0
+ATOM   3736    N HIS B  95      49.335  35.510 -10.520  0.65  2.19           N 0
+ATOM   3434  OD1 ASN B  55      50.008  29.704  -6.930  0.65  2.14           O 0
+ATOM   3709  OD1 ASN B  91      47.161  34.245  -6.574  0.00  0.00           O 0
+ATOM   3708   CG ASN B  91      47.682  33.755  -5.552  0.00  0.00           C 0
+ATOM   3710  ND2 ASN B  91      48.534  34.443  -4.818  0.65  6.56           N 0
+ATOM   3740   CB HIS B  95      49.909  33.708 -12.071  0.00  0.00           C 0
+ATOM   3474  CD2 PHE B  60      50.873  29.541 -10.286  0.00  0.00           C 0
+ATOM   3769  CE2 PHE B  98      46.004  31.705 -10.978  0.00  0.00           C 0
+ATOM   3706    O ASN B  91      46.019  31.451  -7.257  0.34  1.07           O 0
+ATOM   3471   CB PHE B  60      53.235  29.493  -9.433  0.00  0.00           C 0
+ATOM   3742  ND1 HIS B  95      51.757  32.521 -13.314  0.67  8.75           N 0
+ATOM   3432   CB ASN B  55      51.148  30.377  -4.886  0.00  0.00           C 0
+ATOM   3735   OG SER B  94      49.211  36.531  -6.330  0.86  4.29           O 0
+ATOM   3431    O ASN B  55      53.355  30.974  -2.900  0.52  6.43           O 0
+ATOM   3467    N PHE B  60      54.608  28.670  -7.567  0.56  2.19           N 0
+TER
+END

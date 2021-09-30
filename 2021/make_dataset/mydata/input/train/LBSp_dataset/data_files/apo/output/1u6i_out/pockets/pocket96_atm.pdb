@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    96:
+HEADER 0  - Pocket Score                      : -0.0090
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1397
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7355
+HEADER 5  - Mean B-factor of pocket residues  : 0.6163
+HEADER 6  - Hydrophobicity Score              : -6.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.5179
+HEADER 10  -Pocket volume (convex hull)       : 3.5293
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM  18911   CG GLU I 190      26.384  31.634  83.914  0.00  0.00           C 0
+ATOM  18888  OG1 THR I 187      28.001  28.372  88.983  0.00  0.00           O 0
+ATOM  18889  CG2 THR I 187      29.523  29.146  87.299  0.00  0.00           C 0
+ATOM  18844    O VAL I 182      28.365  30.555  91.882  0.40  5.36           O 0
+ATOM  18877    C ASN I 186      25.030  27.336  86.407  0.00  0.00           C 0
+ATOM  18862  OD1 ASP I 184      25.309  27.718  90.051  0.00  0.00           O 0
+ATOM  18883    N THR I 187      26.167  27.369  87.092  0.00  0.00           N 0
+ATOM  18878    O ASN I 186      24.847  28.008  85.393  0.00  0.00           O 0
+ATOM  18884   CA THR I 187      27.271  28.217  86.665  0.00  0.00           C 0
+ATOM  18913  OE1 GLU I 190      24.059  32.050  84.093  0.00  0.00           O 0
+ATOM  18879   CB ASN I 186      22.838  27.240  87.584  0.00  0.00           C 0
+ATOM  17038  NH2 ARG H 229      21.972  30.425  84.520  0.58  3.28           N 0
+ATOM  17037  NH1 ARG H 229      20.213  29.973  85.923  0.62  8.75           N 0
+ATOM  18880   CG ASN I 186      21.611  26.421  87.879  0.00  0.00           C 0
+ATOM  18882  ND2 ASN I 186      21.418  26.087  89.151  0.57  5.47           N 0
+ATOM  18863  OD2 ASP I 184      23.533  26.898  91.050  0.38  6.43           O 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1133
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0337
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6200
+HEADER 5  - Mean B-factor of pocket residues  : 0.3989
+HEADER 6  - Hydrophobicity Score              : 16.1111
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 289.6844
+HEADER 10  -Pocket volume (convex hull)       : 9.3269
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1186    C HIS D 156      19.635   6.513  28.990  0.00  0.00           C 0
+ATOM   1187    O HIS D 156      19.646   7.616  28.442  0.64  4.29           O 0
+ATOM   1204    O PRO D 158      19.623  10.386  31.781  0.00  0.00           O 0
+ATOM   1178    O GLU D 155      22.202   3.742  29.936  0.00  0.00           O 0
+ATOM   1197    O THR D 157      18.405   6.300  32.770  0.46  1.07           O 0
+ATOM   1194    N THR D 157      18.865   6.240  30.039  0.00  0.00           N 0
+ATOM   1185   CA HIS D 156      20.529   5.389  28.475  0.00  0.00           C 0
+ATOM   1526  NH2 ARG D 200      20.871   4.162  34.683  0.51  2.19           N 0
+ATOM   1196    C THR D 157      18.077   7.299  32.128  0.00  0.00           C 0
+ATOM   1560  CG2 VAL D 204      19.737   7.384  38.014  0.00  0.00           C 0
+ATOM   1525  NH1 ARG D 200      22.164   4.577  36.530  0.00  0.00           N 1
+ATOM   1551  CE2 TYR D 203      24.992   8.910  38.336  0.00  0.00           C 0
+ATOM   1207   CD PRO D 158      17.692   8.592  34.192  0.00  0.00           C 0
+ATOM   1239  CD1 ILE D 163      19.365  13.598  34.276  0.00  0.00           C 0
+ATOM   1559  CG1 VAL D 204      17.894   9.085  37.955  0.00  0.00           C 0
+ATOM   1582   CG LYS D 207      23.122  12.471  38.945  0.00  0.00           C 0
+ATOM   1549  CD2 TYR D 203      24.054   8.272  39.148  0.00  0.00           C 0
+ATOM   1555   CA VAL D 204      19.787   9.338  39.589  0.00  0.00           C 0
+ATOM   1581   CB LYS D 207      21.833  13.228  38.624  0.00  0.00           C 0
+TER
+END

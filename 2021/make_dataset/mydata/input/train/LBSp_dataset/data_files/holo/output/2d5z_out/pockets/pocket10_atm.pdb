@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0255
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1029
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5957
+HEADER 5  - Mean B-factor of pocket residues  : 0.5458
+HEADER 6  - Hydrophobicity Score              : 54.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.6427
+HEADER 10  -Pocket volume (convex hull)       : 5.5172
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   3358    O TRP D  16     -25.276  10.029  17.511  0.00  0.00           O 0
+ATOM   3361  CD1 TRP D  16     -22.392  11.575  18.489  0.00  0.00           C 0
+ATOM   3369    N GLY D  17     -26.010  11.055  15.640  0.70  1.09           N 0
+ATOM   3370   CA GLY D  17     -27.362  11.322  16.172  0.00  0.00           C 0
+ATOM   3338    O THR D  13     -24.966  13.024  13.546  0.37  2.14           O 0
+ATOM   3341  CG2 THR D  13     -24.268  16.282  13.262  0.00  0.00           C 0
+ATOM   3359   CB TRP D  16     -22.705  11.064  15.995  0.00  0.00           C 0
+ATOM   3816    O LEU D  76     -18.169  17.347  16.294  0.46  6.43           O 0
+ATOM   3817   CB LEU D  76     -18.354  14.539  17.607  0.00  0.00           C 0
+ATOM   3815    C LEU D  76     -17.935  17.015  17.464  0.00  0.00           C 0
+ATOM   3340  OG1 THR D  13     -22.080  16.330  12.435  0.64  5.36           O 0
+ATOM   3336   CA THR D  13     -23.063  14.142  12.642  0.00  0.00           C 0
+ATOM   3821    N ALA D  77     -18.168  17.804  18.511  0.00  0.00           N 0
+ATOM   3825   CB ALA D  77     -19.386  19.636  19.592  0.00  0.00           C 0
+ATOM   3822   CA ALA D  77     -18.625  19.175  18.350  0.00  0.00           C 0
+ATOM   3333  CG1 VAL D  12     -18.797  12.493  12.809  0.00  0.00           C 0
+TER
+END

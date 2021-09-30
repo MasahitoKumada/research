@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1277
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9641
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7501
+HEADER 5  - Mean B-factor of pocket residues  : 0.2380
+HEADER 6  - Hydrophobicity Score              : 6.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.0251
+HEADER 10  -Pocket volume (convex hull)       : 2.9460
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM    570    N PRO X 142      20.446  59.634  26.470  0.00  0.00           N 0
+ATOM    575   CG PRO X 142      18.351  59.552  25.610  0.00  0.00           C 0
+ATOM    571   CA PRO X 142      19.969  61.036  26.540  0.00  0.00           C 0
+ATOM   1239  CD1 TRP X 231      17.225  62.542  22.424  0.00  0.00           C 0
+ATOM   1236    O TRP X 231      16.639  59.398  21.011  0.00  0.00           O 0
+ATOM   1300   OH TYR X 238      19.771  55.480  25.427  0.00  0.00           O 0
+ATOM    576   CD PRO X 142      19.334  58.731  26.081  0.00  0.00           C 0
+ATOM   1261    O LYS X 234      20.005  54.395  21.668  0.45  3.21           O 0
+ATOM   1271   CB ASP X 235      16.979  56.667  23.223  0.00  0.00           C 0
+ATOM    564   CA THR X 141      22.153  57.900  26.677  0.00  0.00           C 0
+ATOM    560    O SER X 140      23.833  56.235  25.173  0.40  6.43           O 0
+ATOM    565    C THR X 141      21.726  59.342  26.647  0.00  0.00           C 0
+ATOM    563    N THR X 141      23.583  57.849  26.674  0.00  0.00           N 0
+ATOM    559    C SER X 140      24.306  57.021  25.987  0.00  0.00           C 0
+ATOM    561   CB SER X 140      26.357  57.818  24.895  0.00  0.00           C 0
+ATOM    566    O THR X 141      22.549  60.256  26.862  0.81  5.36           O 0
+ATOM   1267    N ASP X 235      18.025  55.402  21.387  0.00  0.00           N 0
+ATOM   1268   CA ASP X 235      17.683  55.367  22.820  0.00  0.00           C 0
+ATOM   1262   CB LYS X 234      20.578  55.549  18.986  0.00  0.00           C 0
+TER
+END

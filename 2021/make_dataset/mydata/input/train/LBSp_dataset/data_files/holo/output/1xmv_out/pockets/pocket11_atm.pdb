@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1142
+HEADER 1  - Drug Score                        : 0.0061
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8901
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7072
+HEADER 5  - Mean B-factor of pocket residues  : 0.4823
+HEADER 6  - Hydrophobicity Score              : -24.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.0343
+HEADER 10  -Pocket volume (convex hull)       : 6.7769
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   2124   CB LYS A 318      52.414   5.933  10.439  0.00  0.00           C 0
+ATOM   2123    O LYS A 318      52.586   3.169   8.821  0.65  1.07           O 0
+ATOM   2126   CD LYS A 318      51.811   8.356  10.071  0.00  0.00           C 0
+ATOM   2161   CD LYS A 322      55.409   2.910   4.752  0.00  0.00           C 0
+ATOM   2153  OE1 GLU A 321      48.115   4.422   8.505  0.00  0.00           O 0
+ATOM   2125   CG LYS A 318      51.347   7.007  10.611  0.00  0.00           C 0
+ATOM   2156   CA LYS A 322      52.214   0.983   5.875  0.00  0.00           C 0
+ATOM   2159   CB LYS A 322      53.474   1.852   5.945  0.00  0.00           C 0
+ATOM   2155    N LYS A 322      51.530   0.989   7.162  0.00  0.00           N 0
+ATOM   2152   CD GLU A 321      47.596   3.574   7.749  0.00  0.00           C 0
+ATOM   2151   CG GLU A 321      48.204   2.183   7.670  0.00  0.00           C 0
+ATOM   2186   CD ARG A 325      47.827   1.654   3.535  0.00  0.00           C 0
+ATOM   2160   CG LYS A 322      54.241   1.946   4.634  0.00  0.00           C 0
+ATOM   2184   CB ARG A 325      48.985  -0.505   2.954  0.00  0.00           C 0
+ATOM   2158    O LYS A 322      52.438  -0.831   4.318  0.00  0.00           O 0
+ATOM   2196   CG GLU A 326      53.954  -1.553   1.931  0.00  0.00           C 0
+TER
+END

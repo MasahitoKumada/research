@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1369
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0787
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5999
+HEADER 5  - Mean B-factor of pocket residues  : 0.6162
+HEADER 6  - Hydrophobicity Score              : 39.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 364.2818
+HEADER 10  -Pocket volume (convex hull)       : 12.7319
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   4319   CB LEU B  23     100.939  27.798  95.069  0.00  0.00           C 0
+ATOM   4322  CD2 LEU B  23      99.097  28.158  93.439  0.00  0.00           C 0
+ATOM   4321  CD1 LEU B  23     101.308  29.129  92.940  0.00  0.00           C 0
+ATOM   7828  NH2 ARG B 467     102.421  25.751  89.131  0.00  0.00           N 0
+ATOM   5234  CE2 TYR B 137     106.729  29.412  96.804  0.00  0.00           C 0
+ATOM   5235   CZ TYR B 137     106.068  28.387  96.084  0.00  0.00           C 0
+ATOM   5228    O TYR B 137     108.121  31.956  93.446  0.53  8.57           O 0
+ATOM   5236   OH TYR B 137     106.266  27.002  96.351  0.00  0.00           O 0
+ATOM   5240    O THR B 138     108.954  31.095  90.164  0.00  0.00           O 0
+ATOM   5233  CE1 TYR B 137     105.183  28.711  95.063  0.00  0.00           C 0
+ATOM   4318    O LEU B  23     101.782  26.177  96.998  0.00  0.00           O 0
+ATOM   7827  NH1 ARG B 467     104.329  26.731  88.303  0.83  7.66           N 0
+ATOM   5238   CA THR B 138     106.815  31.464  91.094  0.00  0.00           C 0
+ATOM   5243  CG2 THR B 138     105.926  30.085  89.057  0.00  0.00           C 0
+ATOM   5242  OG1 THR B 138     104.459  30.858  90.729  0.87  1.07           O 0
+TER
+END

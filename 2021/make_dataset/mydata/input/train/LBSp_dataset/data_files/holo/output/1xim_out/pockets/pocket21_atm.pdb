@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0815
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0133
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5408
+HEADER 5  - Mean B-factor of pocket residues  : 0.4174
+HEADER 6  - Hydrophobicity Score              : 27.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.3046
+HEADER 10  -Pocket volume (convex hull)       : 4.0006
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   5664   CB LEU B 335      25.804  85.765 198.075  0.00  0.00           C 0
+ATOM   5666  CD1 LEU B 335      25.218  83.593 199.195  0.00  0.00           C 0
+ATOM   5698  CG1 VAL B 340      22.378  84.380 193.958  0.00  0.00           C 0
+ATOM   5667  CD2 LEU B 335      25.414  83.725 196.716  0.00  0.00           C 0
+ATOM   5704   CB ALA B 341      19.774  88.571 196.852  0.00  0.00           C 0
+ATOM   5599  NH1 ARG B 326      23.279  80.565 198.329  0.57  4.37           N 0
+ATOM   5644  OE1 GLN B 332      24.239  85.715 202.457  0.00  0.00           O 0
+ATOM   5697   CB VAL B 340      23.319  85.599 193.981  0.00  0.00           C 0
+ATOM   5645  NE2 GLN B 332      24.608  83.553 202.777  0.43  1.09           N 0
+ATOM   5730   NZ LYS B 344      16.722  84.722 197.587  0.00  0.00           N 0
+ATOM   5700    N ALA B 341      21.091  87.898 194.857  0.50  3.28           N 0
+ATOM   5701   CA ALA B 341      19.764  88.277 195.348  0.00  0.00           C 0
+TER
+END

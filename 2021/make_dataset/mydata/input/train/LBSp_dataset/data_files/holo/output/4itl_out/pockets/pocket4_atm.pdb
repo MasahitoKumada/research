@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0736
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8447
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6479
+HEADER 5  - Mean B-factor of pocket residues  : 0.6498
+HEADER 6  - Hydrophobicity Score              : -1.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 190.4901
+HEADER 10  -Pocket volume (convex hull)       : 3.6778
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   2429   CE LYS A 305     -11.294 -17.412 -14.455  0.00  0.00           C 0
+ATOM   2463  CD1 LEU A 309      -5.273 -17.265 -18.575  0.00  0.00           C 0
+ATOM   1552   CB PRO A 200      -8.814 -13.810 -16.266  0.00  0.00           C 0
+ATOM   2464  CD2 LEU A 309      -5.135 -16.028 -16.413  0.00  0.00           C 0
+ATOM   1553   CG PRO A 200      -8.939 -13.615 -17.724  0.00  0.00           C 0
+ATOM   2427   CG LYS A 305      -9.804 -19.274 -13.586  0.00  0.00           C 0
+ATOM   2461   CB LEU A 309      -4.563 -18.446 -16.508  0.00  0.00           C 0
+ATOM   2425    O LYS A 305      -6.562 -20.460 -14.129  0.00  0.00           O 0
+ATOM   2458   CA LEU A 309      -4.027 -19.710 -17.187  0.00  0.00           C 0
+ATOM   2493   CZ ARG A 312      -5.715 -24.458 -20.381  0.00  0.00           C 0
+ATOM   2490   CG ARG A 312      -3.694 -22.234 -21.056  0.00  0.00           C 0
+ATOM   2452   CB LYS A 308      -6.095 -23.488 -16.018  0.00  0.00           C 0
+ATOM   2457    N LEU A 309      -4.458 -20.873 -16.424  0.63  1.09           N 0
+ATOM   2450    C LYS A 308      -4.154 -22.108 -16.800  0.00  0.00           C 0
+ATOM   2494  NH1 ARG A 312      -6.932 -24.926 -20.130  0.00  0.00           N 0
+ATOM   2451    O LYS A 308      -3.533 -22.368 -17.833  0.00  0.00           O 0
+TER
+END

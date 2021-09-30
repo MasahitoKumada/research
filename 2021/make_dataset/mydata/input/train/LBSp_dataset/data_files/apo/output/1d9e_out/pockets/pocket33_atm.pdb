@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : 0.0005
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9419
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5653
+HEADER 5  - Mean B-factor of pocket residues  : 0.6184
+HEADER 6  - Hydrophobicity Score              : 9.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.4032
+HEADER 10  -Pocket volume (convex hull)       : 6.1129
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4762
+ATOM   5904  CD1 LEU C3257     147.607  33.830 157.632  0.00  0.00           C 0
+ATOM   4389  CD2 HIS C3040     150.948  30.812 155.345  0.00  0.00           C 0
+ATOM   4355   NE ARG C3036     146.855  37.310 154.887  0.70  7.66           N 0
+ATOM   4358  NH2 ARG C3036     148.488  38.485 155.998  0.00  0.00           N 0
+ATOM   5906    N ALA C3258     151.596  34.090 160.298  0.57  2.19           N 0
+ATOM   5902   CB LEU C3257     148.706  34.089 159.838  0.00  0.00           C 0
+ATOM   5910   CB ALA C3258     153.680  35.242 159.698  0.00  0.00           C 0
+ATOM   5837    O PRO C3242     148.867  38.847 161.786  0.22  4.29           O 0
+ATOM   4386   CB HIS C3040     148.360  30.616 155.422  0.00  0.00           C 0
+ATOM   4353   CG ARG C3036     145.340  35.667 153.925  0.00  0.00           C 0
+ATOM   4380  OE1 GLU C3039     148.392  31.148 151.401  0.21  5.36           O 0
+ATOM   4351    O ARG C3036     145.315  32.424 154.053  0.00  0.00           O 0
+ATOM   5835   CA PRO C3242     147.158  37.905 160.360  0.00  0.00           C 0
+ATOM   5907   CA ALA C3258     152.956  33.893 159.832  0.00  0.00           C 0
+ATOM   4391  NE2 HIS C3040     151.919  30.724 156.311  0.83  7.66           N 0
+ATOM   4387   CG HIS C3040     149.752  30.693 155.970  0.00  0.00           C 0
+TER
+END

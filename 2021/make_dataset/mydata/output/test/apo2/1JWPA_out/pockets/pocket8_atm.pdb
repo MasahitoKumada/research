@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0488
+HEADER 1  - Drug Score                        : 0.0108
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0904
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6319
+HEADER 5  - Mean B-factor of pocket residues  : 0.6020
+HEADER 6  - Hydrophobicity Score              : 28.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 309.3239
+HEADER 10  -Pocket volume (convex hull)       : 12.4050
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    905  CG2 THR A 141       2.314  -2.166  50.461  0.00  0.00           C 0
+ATOM    535  NH1 ARG A  93      -0.716  -1.937  54.614  0.00  0.00           N 1
+ATOM    536  NH2 ARG A  93      -0.275  -2.730  52.499  0.00  0.00           N 0
+ATOM    898  CG2 THR A 140       7.461  -2.567  52.373  0.00  0.00           C 0
+ATOM    555  CD1 ILE A  95       1.224   0.960  51.691  0.00  0.00           C 0
+ATOM    549   CA ILE A  95       0.241   3.094  54.819  0.00  0.00           C 0
+ATOM    556    N HIS A  96       1.538   4.148  56.575  0.00  0.00           N 0
+ATOM    540    O ARG A  94      -1.829   1.881  56.221  0.00  0.00           O 0
+ATOM    554  CG2 ILE A  95       2.488   2.909  53.632  0.00  0.00           C 0
+ATOM    901   CA THR A 141       3.641  -4.282  50.143  0.00  0.00           C 0
+ATOM    553  CG1 ILE A  95       0.620   1.344  53.041  0.00  0.00           C 0
+ATOM    872    O LEU A 137       4.894  -0.194  49.670  0.79  1.07           O 0
+ATOM    559    O HIS A  96       4.318   4.117  57.056  0.00  0.00           O 0
+ATOM    876  CD2 LEU A 137       6.439   3.637  52.087  0.00  0.00           C 0
+ATOM    897   CB THR A 140       7.415  -1.958  50.976  0.00  0.00           C 0
+TER
+END

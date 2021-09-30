@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.2031
+HEADER 1  - Drug Score                        : 0.1289
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0904
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6615
+HEADER 5  - Mean B-factor of pocket residues  : 0.3669
+HEADER 6  - Hydrophobicity Score              : 29.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 359.9080
+HEADER 10  -Pocket volume (convex hull)       : 13.9112
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM    292   NZ LYS A1011     -20.653  14.896   0.203  0.00  0.00           N 0
+ATOM    291   CE LYS A1011     -19.417  15.626   0.605  0.00  0.00           C 0
+ATOM    200   CB ALA A1001     -20.969  22.623  -3.292  0.00  0.00           C 0
+ATOM    280    O THR A1010     -20.406  19.149   1.865  0.64  3.21           O 0
+ATOM    281   CB THR A1010     -18.214  20.672   0.523  0.00  0.00           C 0
+ATOM    478  CG1 ILE A1035     -26.851  20.193  -1.727  0.00  0.00           C 0
+ATOM    479  CG2 ILE A1035     -28.316  18.178  -2.066  0.00  0.00           C 0
+ATOM    456   CBASER A1032     -23.265  17.460   2.131  0.00  0.00           C 0
+ATOM    477   CB ILE A1035     -27.699  19.119  -1.036  0.00  0.00           C 0
+ATOM    455    O SER A1032     -26.487  17.952   2.086  0.00  0.00           O 0
+ATOM    452   CAASER A1032     -24.206  18.655   1.860  0.00  0.00           C 0
+ATOM    446    O LEU A1031     -25.189  21.102   1.098  0.73  1.07           O 0
+ATOM    283  CG2 THR A1010     -17.975  21.844  -0.392  0.00  0.00           C 0
+ATOM    199    O ALA A1001     -17.958  22.934  -3.814  0.00  0.00           O 0
+ATOM    282  OG1 THR A1010     -16.956  20.101   0.895  0.37  4.29           O 0
+ATOM    253   CG ARG A1007     -12.879  21.326  -0.325  0.00  0.00           C 0
+ATOM    445    C LEU A1031     -24.171  21.092   1.813  0.00  0.00           C 0
+ATOM    451    N SER A1032     -23.593  19.945   2.195  0.00  0.00           N 0
+ATOM    447   CB LEU A1031     -22.648  22.976   1.164  0.00  0.00           C 0
+TER
+END

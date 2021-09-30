@@ -1,0 +1,2 @@
+#!/bin/bash
+pymol 2H4KA.pml

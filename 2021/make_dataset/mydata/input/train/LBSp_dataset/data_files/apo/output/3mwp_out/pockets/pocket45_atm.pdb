@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.0648
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8282
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4221
+HEADER 5  - Mean B-factor of pocket residues  : 0.3865
+HEADER 6  - Hydrophobicity Score              : -5.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.1181
+HEADER 10  -Pocket volume (convex hull)       : 12.3395
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM   5146   CB VAL B 160       5.636 -75.220 -60.732  0.00  0.00           C 0
+ATOM   5148  CG2 VAL B 160       4.354 -74.652 -61.269  0.00  0.00           C 0
+ATOM   5131   CA ASP B 158       5.549 -77.607 -65.823  0.00  0.00           C 0
+ATOM   5130    N ASP B 158       4.200 -78.004 -66.192  0.00  0.00           N 0
+ATOM   5165  NH1 ARG B 162       4.928 -78.748 -58.136  0.00  0.00           N 0
+ATOM   5145    O VAL B 160       8.641 -76.246 -61.058  0.50  6.43           O 0
+ATOM   4431  NH2 ARG B  58       9.428 -81.396 -60.733  0.54  8.75           N 0
+ATOM   5137  OD2 ASP B 158       8.135 -79.554 -65.794  0.29  5.36           O 0
+ATOM   6853   CB SER B 407      -0.672 -77.364 -62.175  0.00  0.00           C 0
+ATOM   5166  NH2 ARG B 162       3.665 -77.208 -56.997  0.59  3.28           N 0
+ATOM   6850   CA SER B 407      -1.157 -78.781 -62.482  0.00  0.00           C 0
+ATOM   5133    O ASP B 158       4.591 -75.404 -65.412  0.35  2.14           O 0
+ATOM   6632  NE2 GLN B 379       0.746 -75.355 -56.353  0.64  3.28           N 0
+ATOM   6627    O GLN B 379       1.559 -71.959 -59.785  0.65  5.36           O 0
+ATOM   6852    O SER B 407      -1.202 -79.920 -60.346  0.44  4.29           O 0
+ATOM   5142    N VAL B 160       6.814 -74.922 -62.973  0.38  1.09           N 0
+ATOM   7952   CD ARG B 551       0.704 -79.369 -56.802  0.00  0.00           C 0
+ATOM   6854   OG SER B 407      -1.714 -76.530 -61.659  0.65  6.43           O 0
+TER
+END

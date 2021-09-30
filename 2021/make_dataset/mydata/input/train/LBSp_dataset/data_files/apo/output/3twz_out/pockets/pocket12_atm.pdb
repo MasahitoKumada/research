@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1153
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9359
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5552
+HEADER 5  - Mean B-factor of pocket residues  : 0.5075
+HEADER 6  - Hydrophobicity Score              : 20.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.7166
+HEADER 10  -Pocket volume (convex hull)       : 5.8287
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   1990  OG1 THR A 251      13.141  10.820 -19.143  0.85  2.14           O 0
+ATOM   2008  OE2AGLU A 252      14.276   4.931 -20.569  0.00  0.00           O 0
+ATOM   1868  OD1 ASP A 234      14.486   9.269 -15.151  0.00  0.00           O 0
+ATOM   1882  CG1 ILE A 236      10.951   6.568 -18.788  0.00  0.00           C 0
+ATOM   1989   CB THR A 251      13.970  11.865 -19.663  0.00  0.00           C 0
+ATOM   1988    O THR A 251      15.511  10.460 -22.067  0.00  0.00           O 0
+ATOM   2000   CBAGLU A 252      14.077   7.360 -21.925  0.00  0.00           C 0
+ATOM   2162   SD MET A 272      12.814   1.706 -18.213  0.00  0.00           S 0
+ATOM   1884  CD1 ILE A 236      11.012   5.419 -17.784  0.00  0.00           C 0
+ATOM   2176   CB PHE A 274      11.918   5.647 -13.769  0.00  0.00           C 0
+ATOM   2167    O ASP A 273      14.682   3.885 -12.427  0.42  5.36           O 0
+ATOM   2163   CE MET A 272      14.308   1.685 -19.191  0.00  0.00           C 0
+ATOM   2160   CB MET A 272      12.629   0.998 -15.572  0.00  0.00           C 0
+ATOM   2161   CG MET A 272      13.254   0.558 -16.886  0.00  0.00           C 0
+ATOM   2164    N ASP A 273      13.660   1.095 -12.476  0.48  1.09           N 0
+TER
+END

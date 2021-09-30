@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    63:
+HEADER 0  - Pocket Score                      : -0.1236
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1026
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6069
+HEADER 5  - Mean B-factor of pocket residues  : 0.8328
+HEADER 6  - Hydrophobicity Score              : 4.3000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.7134
+HEADER 10  -Pocket volume (convex hull)       : 12.5339
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   9448   CA VAL E 231      10.014  47.898   1.947  0.00  0.00           C 0
+ATOM   8656  CD2 LEU E 133       8.976  43.817   6.694  0.00  0.00           C 0
+ATOM   8648  OE2 GLU E 132       5.664  40.480   2.992  0.00  0.00           O 0
+ATOM   8687  ND2 ASN E 136       9.769  41.823   1.968  0.47  7.66           N 0
+ATOM   9444    O SER E 230      11.110  45.426   1.504  0.51  4.29           O 0
+ATOM   9450    O VAL E 231       8.236  48.901   0.664  0.00  0.00           O 0
+ATOM   9457    O SER E 232       9.706  46.861  -2.657  0.00  0.00           O 0
+ATOM   8262  OD1 ASN E  84       5.099  45.378   7.794  0.51  5.36           O 0
+ATOM   9143   CD LYS E 194       5.062  41.789   8.045  0.00  0.00           C 0
+ATOM   8263  ND2 ASN E  84       4.603  47.393   6.885  0.31  4.37           N 0
+ATOM   9144   CE LYS E 194       4.134  40.708   7.474  0.00  0.00           C 0
+ATOM   9452  CG1 VAL E 231      10.085  47.988   4.513  0.00  0.00           C 0
+ATOM   8261   CG ASN E  84       5.314  46.599   7.689  0.00  0.00           C 0
+ATOM   9451   CB VAL E 231       9.722  48.761   3.227  0.00  0.00           C 0
+ATOM   7724  OG1 THR E  15       5.645  50.178   6.198  0.31  2.14           O 0
+ATOM   8044   NZ LYS E  55       5.320  49.712   1.133  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1442
+HEADER 1  - Drug Score                        : 0.0054
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4635
+HEADER 5  - Mean B-factor of pocket residues  : 0.5239
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.2897
+HEADER 10  -Pocket volume (convex hull)       : 3.7540
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4091
+ATOM    375    O LEU A1723      39.697  -8.061  37.868  0.49  5.36           O 0
+ATOM    425   CB ARG A1728      39.150 -11.084  32.680  0.00  0.00           C 0
+ATOM    427   CD ARG A1728      39.978  -9.292  31.065  0.00  0.00           C 0
+ATOM    389   CA PRO A1725      42.248 -11.221  36.449  0.00  0.00           C 0
+ATOM    428   NE ARG A1728      39.523  -8.215  30.183  0.00  0.00           N 0
+ATOM    379  CD2 LEU A1723      36.479  -5.155  37.033  0.00  0.00           C 0
+ATOM    426   CG ARG A1728      38.817 -10.190  31.472  0.00  0.00           C 0
+ATOM    370    O ALA A1722      35.663  -9.763  37.468  0.00  0.00           O 0
+ATOM    422   CA ARG A1728      37.905 -11.750  33.300  0.00  0.00           C 0
+ATOM    373   CA LEU A1723      37.384  -7.778  38.499  0.00  0.00           C 0
+ATOM    483  ND2 ASN A1734      35.092  -8.382  30.706  0.65  3.28           N 0
+ATOM    452  ND2 ASN A1731      33.865 -10.577  35.102  0.00  0.00           N 0
+ATOM    479    O ASN A1734      33.307  -5.176  33.362  0.85  5.36           O 0
+ATOM    480   CB ASN A1734      34.498  -5.987  30.656  0.00  0.00           C 0
+ATOM    481   CG ASN A1734      35.246  -7.206  30.075  0.00  0.00           C 0
+ATOM    506  CD1 LEU A1737      33.044  -6.146  36.889  0.00  0.00           C 0
+TER
+END

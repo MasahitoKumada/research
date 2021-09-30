@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0255
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0115
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5038
+HEADER 5  - Mean B-factor of pocket residues  : 0.4367
+HEADER 6  - Hydrophobicity Score              : 8.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 309.8895
+HEADER 10  -Pocket volume (convex hull)       : 12.9992
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM   1241   CB ILE B 133       9.944  33.500 -29.110  0.00  0.00           C 0
+ATOM   1222   NE ARG B 131      11.099  28.234 -30.784  0.00  0.00           N 0
+ATOM   1221   CD ARG B 131       9.898  29.025 -30.510  0.00  0.00           C 0
+ATOM   1246    N GLY B 134      12.258  34.394 -30.858  0.60  2.19           N 0
+ATOM   2280   OG SER B 240      14.100  33.932 -27.258  0.55  3.21           O 0
+ATOM   2272  OG1 THR B 239      14.565  30.904 -24.795  0.74  5.36           O 0
+ATOM   2132  NE2 GLN B 224      12.259  30.235 -23.210  0.33  2.19           N 0
+ATOM    366  OD1 ASN B  38       9.038  30.270 -25.075  0.59  3.21           O 0
+ATOM   2279   CB SER B 240      15.409  34.253 -27.692  0.00  0.00           C 0
+ATOM   1247   CA GLY B 134      13.559  34.995 -31.085  0.00  0.00           C 0
+ATOM   1244  CD1 ILE B 133       8.562  31.916 -27.639  0.00  0.00           C 0
+ATOM   1243  CG2 ILE B 133      10.420  34.316 -27.906  0.00  0.00           C 0
+ATOM   1065  OD1 ASP B 114      12.877  31.248 -35.175  0.04  7.50           O 0
+ATOM   2261    O VAL B 238      19.097  29.410 -26.213  0.54  9.64           O 0
+ATOM   1225  NH2 ARG B 131      12.129  26.227 -31.272  0.00  0.00           N 0
+ATOM   2267   CA THR B 239      16.966  30.620 -24.921  0.00  0.00           C 0
+ATOM   1066  OD2 ASP B 114      10.942  30.946 -34.182  0.59  1.07           O 1
+ATOM   2275    N SER B 240      16.239  32.701 -25.995  0.00  0.00           N 0
+TER
+END

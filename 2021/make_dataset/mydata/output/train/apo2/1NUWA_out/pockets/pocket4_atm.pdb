@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2030
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8931
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4958
+HEADER 5  - Mean B-factor of pocket residues  : 0.5171
+HEADER 6  - Hydrophobicity Score              : 21.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.9276
+HEADER 10  -Pocket volume (convex hull)       : 6.4526
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    225   CB ASN A1035       1.351  20.678   3.328  0.00  0.00           C 0
+ATOM    227  ND2 ASN A1035      -1.031  20.478   3.708  0.00  0.00           N 0
+ATOM    226   CG ASN A1035      -0.071  20.968   2.936  0.00  0.00           C 0
+ATOM    224    O ASN A1035       3.020  17.997   4.435  0.56  2.14           O 0
+ATOM    255  OG1 THR A1039       4.638  15.628   2.432  0.39  6.43           O 0
+ATOM     52  OG1 THR A1014      -2.987  19.267   2.762  0.43  6.43           O 0
+ATOM    276   NZ LYS A1042       1.442  12.050   1.556  0.63  7.66           N 1
+ATOM   1416  OE2 GLU A1192      -4.017  14.451   1.189  0.60  4.29           O 1
+ATOM     46    N THR A1014      -5.031  19.148   4.804  0.00  0.00           N 0
+ATOM     38    N LEU A1013      -6.427  17.001   5.749  0.41  1.09           N 0
+ATOM     42   CB LEU A1013      -4.658  17.297   7.407  0.00  0.00           C 0
+ATOM   1417    N PHE A1193      -4.197  12.405   4.995  0.53  1.09           N 0
+ATOM    247   CB CYS A1038       1.122  15.768   6.245  0.00  0.00           C 0
+ATOM   1407    O GLY A1191      -1.342  11.232   1.403  0.06  1.07           O 0
+ATOM    222   CA ASN A1035       1.527  19.904   4.639  0.00  0.00           C 0
+ATOM    248   SG CYS A1038      -0.210  16.349   7.312  0.00  0.00           S 0
+TER
+END

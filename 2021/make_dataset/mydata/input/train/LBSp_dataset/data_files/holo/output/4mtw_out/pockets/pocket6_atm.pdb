@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0433
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9515
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6900
+HEADER 5  - Mean B-factor of pocket residues  : 0.5934
+HEADER 6  - Hydrophobicity Score              : 1.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.0355
+HEADER 10  -Pocket volume (convex hull)       : 7.7859
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1274    O GLN E 390       5.204  37.806 -18.347  0.00  0.00           O 0
+ATOM   1302   OG SER E 393       6.206  34.947 -19.492  0.70  5.36           O 0
+ATOM   1287  ND2 ASN E 391       3.382  41.056 -21.084  0.00  0.00           N 0
+ATOM   1279  NE2 GLN E 390       7.406  40.791 -22.207  0.00  0.00           N 0
+ATOM   1257  CG2 ILE E 388       9.824  37.236 -20.717  0.00  0.00           C 0
+ATOM   1258  CD1 ILE E 388       9.648  34.974 -22.990  0.00  0.00           C 0
+ATOM   1297    N SER E 393       3.522  34.601 -18.331  0.00  0.00           N 0
+ATOM   1288    N GLU E 392       1.824  36.951 -18.277  0.79  2.19           N 0
+ATOM   1284   CB ASN E 391       2.618  39.393 -19.491  0.00  0.00           C 0
+ATOM   2224    O THR E 510       4.088  31.866 -23.094  0.52  8.57           O 0
+ATOM   1255   CB ILE E 388       9.588  35.742 -20.568  0.00  0.00           C 0
+ATOM   2222   CA THR E 510       6.480  31.944 -23.173  0.00  0.00           C 0
+ATOM   2227  CG2 THR E 510       7.615  32.950 -25.189  0.00  0.00           C 0
+ATOM   2225   CB THR E 510       6.387  32.192 -24.690  0.00  0.00           C 0
+ATOM   1292   CB GLU E 392       0.310  35.000 -18.609  0.00  0.00           C 0
+ATOM   1293   CG GLU E 392      -1.039  35.695 -18.459  0.00  0.00           C 0
+ATOM   2238   CB ASN E 512      -0.248  32.139 -21.543  0.00  0.00           C 0
+TER
+END

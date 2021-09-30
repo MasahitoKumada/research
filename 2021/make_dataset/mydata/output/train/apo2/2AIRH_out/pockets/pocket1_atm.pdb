@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.1528
+HEADER 1  - Drug Score                        : 0.0275
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.6279
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4398
+HEADER 5  - Mean B-factor of pocket residues  : 0.9086
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 139.7589
+HEADER 10  -Pocket volume (convex hull)       : 4.5803
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    345  OG1 THR H  43      97.204  90.077 -22.191  0.16  3.21           O 0
+ATOM     84    N ALA H  11      97.341  95.870 -22.572  0.55  2.19           N 0
+ATOM     87    O ALA H  11      95.982  96.167 -25.065  0.40  5.36           O 0
+ATOM    343   CB THR H  43      95.786  90.237 -22.069  0.00  0.00           C 0
+ATOM    470   CD LYS H  60      93.249  93.625 -23.219  0.00  0.00           C 0
+ATOM     86    C ALA H  11      97.207  96.297 -25.085  0.00  0.00           C 0
+ATOM    489  OE2 GLU H  62      99.357  91.842 -27.413  0.76  4.29           O 1
+ATOM     88   CB ALA H  11      99.329  95.628 -23.974  0.00  0.00           C 0
+ATOM    118   CA GLY H  15      94.248  91.310 -32.125  0.00  0.00           C 0
+ATOM    481    N GLU H  62      95.471  88.500 -28.688  0.00  0.00           N 0
+ATOM    482   CA GLU H  62      96.258  88.989 -29.815  0.00  0.00           C 0
+ATOM    486   CG GLU H  62      97.742  90.240 -28.131  0.00  0.00           C 0
+ATOM     90   CA ILE H  12      97.268  96.356 -27.542  0.00  0.00           C 0
+ATOM    468   CB LYS H  60      92.862  91.630 -24.680  0.00  0.00           C 0
+ATOM    134  CG2 VAL H  17      91.314  93.328 -27.541  0.00  0.00           C 0
+ATOM    678  CG2 ILE H  86      93.740  96.029 -31.032  0.00  0.00           C 0
+ATOM     95  CG2 ILE H  12      95.248  97.633 -28.313  0.00  0.00           C 0
+ATOM     97    N LYS H  13      97.511  95.606 -29.848  0.00  0.00           N 0
+ATOM    100    O LYS H  13      96.025  94.288 -31.686  0.44  1.07           O 0
+ATOM    473    N ILE H  61      92.630  88.943 -26.960  0.00  0.00           N 0
+ATOM    475    C ILE H  61      94.156  88.345 -28.778  0.00  0.00           C 0
+ATOM    120    O GLY H  15      92.519  92.936 -31.786  0.00  0.00           O 0
+ATOM    119    C GLY H  15      92.819  91.744 -31.846  0.00  0.00           C 0
+ATOM    124    O THR H  16      91.067  90.612 -29.088  0.00  0.00           O 0
+TER
+END

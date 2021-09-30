@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0365
+HEADER 1  - Drug Score                        : 0.0252
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9629
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6289
+HEADER 5  - Mean B-factor of pocket residues  : 0.2352
+HEADER 6  - Hydrophobicity Score              : -9.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.0934
+HEADER 10  -Pocket volume (convex hull)       : 5.1423
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    127   CG GLN C  17     -73.390  -6.084 -14.339  0.00  0.00           C 0
+ATOM    572   CA GLY C  71     -79.454  -4.224 -14.899  0.00  0.00           C 0
+ATOM    568    O SER C  70     -80.206  -5.666 -17.164  0.48  8.57           O 0
+ATOM    129  NE2 GLN C  17     -74.652  -8.149 -14.480  0.12  8.75           N 0
+ATOM    136   CG ARG C  18     -67.573  -3.709 -14.566  0.00  0.00           C 0
+ATOM    104   CA ASP C  14     -72.136  -1.404 -15.120  0.00  0.00           C 0
+ATOM    107   CB ASP C  14     -71.514  -0.665 -16.313  0.00  0.00           C 0
+ATOM    126   CB GLN C  17     -72.008  -5.531 -14.002  0.00  0.00           C 0
+ATOM    544  CE2 TYR C  67     -75.332  -0.286 -19.553  0.00  0.00           C 0
+ATOM    570   OG SER C  70     -78.665  -2.893 -19.012  0.80  8.57           O 0
+ATOM    100   CB PRO C  13     -76.665  -1.506 -15.179  0.00  0.00           C 0
+ATOM    103    N ASP C  14     -73.530  -1.006 -14.909  0.00  0.00           N 0
+ATOM     98    C PRO C  13     -74.367  -1.735 -14.171  0.00  0.00           C 0
+ATOM     99    O PRO C  13     -74.052  -2.808 -13.652  0.00  0.00           O 0
+TER
+END

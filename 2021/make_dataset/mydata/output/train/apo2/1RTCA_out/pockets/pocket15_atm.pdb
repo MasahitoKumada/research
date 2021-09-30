@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0032
+HEADER 1  - Drug Score                        : 0.0190
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8700
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5235
+HEADER 5  - Mean B-factor of pocket residues  : 0.6808
+HEADER 6  - Hydrophobicity Score              : 46.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.7397
+HEADER 10  -Pocket volume (convex hull)       : 2.6819
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   1949    N ASP A 244     -19.849  10.828  -4.948  0.00  0.00           N 0
+ATOM   1953   CB ASP A 244     -21.945  10.147  -4.624  0.00  0.00           C 0
+ATOM   1937    N TYR A 243     -18.489  10.555  -7.260  0.57  1.09           N 0
+ATOM   1952    O ASP A 244     -19.759   8.717  -3.145  0.71  1.07           O 0
+ATOM   1927    O SER A 241     -16.777   8.240 -10.405  0.00  0.00           O 0
+ATOM   1975  CG1 ILE A 247     -21.750   4.426  -6.197  0.00  0.00           C 0
+ATOM   1943  CD1 TYR A 243     -19.745  11.100 -10.035  0.00  0.00           C 0
+ATOM   1945  CE1 TYR A 243     -19.326  10.760 -11.330  0.00  0.00           C 0
+ATOM   1931   CA VAL A 242     -16.881   8.785  -7.538  0.00  0.00           C 0
+ATOM   1935  CG1 VAL A 242     -16.678   6.538  -6.705  0.00  0.00           C 0
+ATOM   1976  CG2 ILE A 247     -19.412   3.950  -5.780  0.00  0.00           C 0
+ATOM   1919  CD1 PHE A 240     -15.080   4.495 -10.590  0.00  0.00           C 0
+ATOM   1921  CE1 PHE A 240     -15.077   3.814  -9.387  0.00  0.00           C 0
+ATOM   1974   CB ILE A 247     -20.665   4.563  -5.133  0.00  0.00           C 0
+TER
+END

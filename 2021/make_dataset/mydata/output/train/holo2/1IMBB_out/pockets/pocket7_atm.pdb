@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0659
+HEADER 1  - Drug Score                        : 0.0468
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9406
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6646
+HEADER 5  - Mean B-factor of pocket residues  : 0.6912
+HEADER 6  - Hydrophobicity Score              : 27.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 319.3369
+HEADER 10  -Pocket volume (convex hull)       : 13.0937
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM    183   CB LYS B  28       1.910  67.358  39.684  0.00  0.00           C 0
+ATOM    174    O ILE B  27       0.884  63.490  39.321  0.85  1.07           O 0
+ATOM    177  CG2 ILE B  27      -1.582  65.190  37.660  0.00  0.00           C 0
+ATOM    750   CD ARG B 101       3.659  62.131  38.057  0.00  0.00           C 0
+ATOM    749   CG ARG B 101       2.413  61.419  37.563  0.00  0.00           C 0
+ATOM    748   CB ARG B 101       2.518  60.956  36.125  0.00  0.00           C 0
+ATOM    176  CG1 ILE B  27      -1.388  62.725  37.628  0.00  0.00           C 0
+ATOM    943    O VAL B 126      -4.210  68.179  30.223  0.07  9.64           O 0
+ATOM    937    O CYS B 125      -6.793  68.397  32.304  0.15  8.57           O 0
+ATOM    941   CA VAL B 126      -4.856  66.525  31.822  0.00  0.00           C 0
+ATOM    156   SG CYS B  24      -5.499  66.923  35.399  0.00  0.00           S 0
+ATOM    155   CB CYS B  24      -5.362  67.944  36.911  0.00  0.00           C 0
+ATOM    945  CG1 VAL B 126      -2.543  65.633  31.396  0.00  0.00           C 0
+ATOM    946  CG2 VAL B 126      -3.943  64.529  33.074  0.00  0.00           C 0
+ATOM    154    O CYS B  24      -2.782  68.043  38.666  0.57  2.14           O 0
+ATOM    178  CD1 ILE B  27      -1.943  62.579  36.230  0.00  0.00           C 0
+ATOM    747    O ARG B 101       1.921  60.606  33.458  0.00  0.00           O 0
+ATOM    770   CB PRO B 103      -0.753  62.409  30.110  0.00  0.00           C 0
+ATOM    767   CA PRO B 103      -1.591  61.437  30.935  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1261
+HEADER 1  - Drug Score                        : 0.0054
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0290
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7119
+HEADER 5  - Mean B-factor of pocket residues  : 0.2414
+HEADER 6  - Hydrophobicity Score              : 38.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.5037
+HEADER 10  -Pocket volume (convex hull)       : 8.9329
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    197  NE1 TRP X  94       1.610  37.319  42.591  0.67  1.09           N 0
+ATOM   2276  OE2 GLU X 357       1.502  39.891  43.718  0.00  0.00           O 0
+ATOM    200  CZ2 TRP X  94       0.577  37.479  40.298  0.00  0.00           C 0
+ATOM   2315   CG PRO X 362      -3.168  35.994  39.404  0.00  0.00           C 0
+ATOM   2271    O GLU X 357      -1.117  41.634  39.493  0.68  3.21           O 0
+ATOM    198  CE2 TRP X  94       1.282  36.895  41.339  0.00  0.00           C 0
+ATOM   2278   CA VAL X 358      -2.812  43.425  40.631  0.00  0.00           C 0
+ATOM   2281   CB VAL X 358      -3.447  44.549  41.504  0.00  0.00           C 0
+ATOM   2283  CG2 VAL X 358      -4.735  44.080  42.109  0.00  0.00           C 0
+ATOM   2273   CG GLU X 357       1.265  41.192  41.790  0.00  0.00           C 0
+ATOM   2277    N VAL X 358      -1.395  43.661  40.465  0.74  2.19           N 0
+ATOM   2280    O VAL X 358      -4.580  42.656  39.238  0.40  4.29           O 0
+ATOM   2272   CB GLU X 357       1.431  42.611  41.294  0.00  0.00           C 0
+ATOM   2274   CD GLU X 357       1.923  40.878  43.127  0.00  0.00           C 0
+ATOM   2295    O LEU X 360      -3.854  39.717  37.054  0.69  6.43           O 0
+ATOM   2316   CD PRO X 362      -3.981  36.513  38.224  0.00  0.00           C 0
+TER
+END

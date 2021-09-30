@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0601
+HEADER 1  - Drug Score                        : 0.0586
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9719
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6187
+HEADER 5  - Mean B-factor of pocket residues  : 0.4407
+HEADER 6  - Hydrophobicity Score              : 55.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.7276
+HEADER 10  -Pocket volume (convex hull)       : 4.0491
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM    639    O ARG A 191      55.361  30.182  -2.936  0.51  1.07           O 0
+ATOM     29  CE1 TYR A 116      56.439  32.288   2.530  0.00  0.00           C 0
+ATOM     32   OH TYR A 116      55.906  29.971   2.687  0.52  5.36           O 0
+ATOM    637   CA ARG A 191      56.820  29.737  -1.085  0.00  0.00           C 0
+ATOM    646  NH2 ARG A 191      57.158  36.086  -2.976  0.41  7.66           N 0
+ATOM    643   NE ARG A 191      57.803  34.603  -1.377  0.77  5.47           N 0
+ATOM    674  CD1 LEU A 195      52.165  34.235  -4.600  0.00  0.00           C 0
+ATOM    675  CD2 LEU A 195      54.633  34.409  -4.990  0.00  0.00           C 0
+ATOM    666  CG1 VAL A 194      51.160  28.750  -1.473  0.00  0.00           C 0
+ATOM    672   CB LEU A 195      53.593  32.165  -4.646  0.00  0.00           C 0
+ATOM    669   CA LEU A 195      52.463  31.152  -4.893  0.00  0.00           C 0
+ATOM    641   CG ARG A 191      57.290  32.283  -1.064  0.00  0.00           C 0
+ATOM    665   CB VAL A 194      52.408  27.991  -1.905  0.00  0.00           C 0
+TER
+END

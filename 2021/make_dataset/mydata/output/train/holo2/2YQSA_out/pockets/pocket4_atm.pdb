@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1061
+HEADER 1  - Drug Score                        : 0.0643
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.1001
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5407
+HEADER 5  - Mean B-factor of pocket residues  : 0.0893
+HEADER 6  - Hydrophobicity Score              : 28.4545
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 353.2155
+HEADER 10  -Pocket volume (convex hull)       : 15.7017
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 20.7273
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.7857
+ATOM    673  CD1 LEU A  96     -16.293  -6.031  44.563  0.00  0.00           C 0
+ATOM   1067  CD2 LEU A 150     -18.705  -2.091  39.617  0.00  0.00           C 0
+ATOM   1063    O LEU A 150     -18.644  -2.384  44.297  0.86  5.36           O 0
+ATOM   1064   CB LEU A 150     -17.001  -1.981  41.486  0.00  0.00           C 0
+ATOM   1066  CD1 LEU A 150     -16.304  -2.623  39.169  0.00  0.00           C 0
+ATOM   3525   CG GLU A 470     -18.343  -4.740  36.426  0.00  0.00           C 0
+ATOM   3524   CB GLU A 470     -18.563  -6.185  35.928  0.00  0.00           C 0
+ATOM   3528  OE2 GLU A 470     -16.166  -4.755  35.419  0.00  0.00           O 1
+ATOM   1950   NZ LYS A 262      -9.475  -8.987  36.071  0.19  6.56           N 1
+ATOM   3513   CA GLY A 468     -13.334  -5.516  33.448  0.00  0.00           C 0
+ATOM   3515    O GLY A 468     -14.248  -7.572  32.677  0.49  9.64           O 0
+ATOM   3507  CD2 TYR A 467     -11.882  -3.922  36.971  0.00  0.00           C 0
+ATOM   1949   CE LYS A 262      -8.998  -7.570  36.106  0.00  0.00           C 0
+ATOM   3509  CE2 TYR A 467     -10.633  -4.213  37.518  0.00  0.00           C 0
+ATOM   1970  OD2 ASP A 265      -8.678  -7.948  39.839  0.56  1.07           O 1
+ATOM   1977   CD PRO A 266     -10.337  -5.947  41.603  0.00  0.00           C 0
+ATOM   1976   CG PRO A 266     -11.527  -6.719  42.171  0.00  0.00           C 0
+ATOM   1985  CD1 ILE A 267     -10.751 -11.672  39.176  0.00  0.00           C 0
+ATOM    644  CG2 THR A  92     -14.675  -9.156  42.802  0.00  0.00           C 0
+ATOM   1041  CD1 ILE A 147     -12.748  -3.071  41.123  0.00  0.00           C 0
+ATOM    674  CD2 LEU A  96     -14.375  -4.408  44.415  0.00  0.00           C 0
+ATOM    645  OG1 THR A  92     -13.472 -11.072  41.925  0.72  4.29           O 0
+TER
+END

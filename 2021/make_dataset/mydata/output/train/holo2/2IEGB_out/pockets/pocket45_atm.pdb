@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.1471
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9950
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6425
+HEADER 5  - Mean B-factor of pocket residues  : 0.3801
+HEADER 6  - Hydrophobicity Score              : 5.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.3130
+HEADER 10  -Pocket volume (convex hull)       : 8.8732
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1968  CE1 TYR B 262      56.762  66.693  35.837  0.00  0.00           C 0
+ATOM   1993   CB ALA B 265      60.980  71.089  34.018  0.00  0.00           C 0
+ATOM   2000  CG2 VAL B 266      60.268  65.999  35.176  0.00  0.00           C 0
+ATOM   1966  CD1 TYR B 262      56.515  67.811  35.018  0.00  0.00           C 0
+ATOM   1947  OD1 ASN B 250      62.224  66.045  43.085  0.00  0.00           O 0
+ATOM   1942    C ASN B 250      61.568  69.987  43.950  0.00  0.00           C 0
+ATOM   1943    O ASN B 250      60.534  69.958  44.598  0.00  0.00           O 0
+ATOM   1945   CG ASN B 250      61.619  66.392  44.099  0.00  0.00           C 0
+ATOM   1992    O ALA B 265      63.726  69.423  34.666  0.32  8.57           O 0
+ATOM   1995   CA VAL B 266      62.533  66.874  34.519  0.00  0.00           C 0
+ATOM   2023   CD ARG B 269      64.661  66.347  37.811  0.00  0.00           C 0
+ATOM   1994    N VAL B 266      62.041  68.103  33.885  0.00  0.00           N 0
+ATOM   1951    O ASP B 251      61.367  72.504  40.661  0.00  0.00           O 0
+ATOM   1949   CA ASP B 251      61.056  72.193  43.018  0.00  0.00           C 0
+ATOM   1948    N ASP B 251      61.937  71.045  43.229  0.00  0.00           N 0
+ATOM   2026  NH1 ARG B 269      64.386  66.650  40.621  0.71  4.37           N 1
+ATOM   1936    O PRO B 249      64.758  69.078  42.296  0.59  3.21           O 0
+ATOM   2022   CG ARG B 269      65.507  67.502  37.333  0.00  0.00           C 0
+ATOM   1941   CA ASN B 250      62.511  68.792  43.942  0.00  0.00           C 0
+ATOM   1991    C ALA B 265      62.686  69.274  33.996  0.00  0.00           C 0
+TER
+END

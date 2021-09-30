@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0806
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8618
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5101
+HEADER 5  - Mean B-factor of pocket residues  : 0.2722
+HEADER 6  - Hydrophobicity Score              : 15.5556
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.1373
+HEADER 10  -Pocket volume (convex hull)       : 17.4925
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    129  CE1 HIS A  22       1.738  27.138   3.821  0.00  0.00           C 0
+ATOM    811  OE1 GLU A 110       7.920  30.218   8.019  0.00  0.00           O 0
+ATOM    136   CG PRO A  23       6.657  28.947   2.504  0.00  0.00           C 0
+ATOM    137   CD PRO A  23       5.290  28.555   1.983  0.00  0.00           C 0
+ATOM    135   CB PRO A  23       7.055  27.749   3.281  0.00  0.00           C 0
+ATOM    844  ND2 ASN A 114       7.143  25.627   6.811  0.69  1.09           N 0
+ATOM   2809  CE1 TYR A 368       5.813  29.680  10.670  0.00  0.00           C 0
+ATOM    142   CB ALA A  24       3.704  24.622   5.576  0.00  0.00           C 0
+ATOM    138    N ALA A  24       4.991  25.263   3.601  0.00  0.00           N 0
+ATOM   2807  CD1 TYR A 368       4.636  29.490  11.385  0.00  0.00           C 0
+ATOM    845  OD1 ASN A 114       5.995  24.046   7.937  0.53  2.14           O 0
+ATOM   2797   CB LEU A 367       5.400  24.921  11.786  0.00  0.00           C 0
+ATOM   2782    O ALA A 365      -0.029  25.263  10.191  0.00  0.00           O 0
+ATOM   2783   CB ALA A 365      -0.864  24.050   7.798  0.00  0.00           C 0
+ATOM    130  NE2 HIS A  22       0.659  27.730   3.338  0.00  0.00           N 0
+ATOM   2747   OG SER A 360      -4.803  25.492   7.747  0.44  4.29           O 0
+ATOM   2781    C ALA A 365       0.336  24.110   9.994  0.00  0.00           C 0
+ATOM   2780   CA ALA A 365       0.367  23.552   8.573  0.00  0.00           C 0
+ATOM   2793    N LEU A 367       3.080  24.247  12.278  0.00  0.00           N 0
+TER
+END

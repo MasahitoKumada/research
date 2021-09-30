@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0048
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9059
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5149
+HEADER 5  - Mean B-factor of pocket residues  : 0.4800
+HEADER 6  - Hydrophobicity Score              : -10.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.9569
+HEADER 10  -Pocket volume (convex hull)       : 3.2587
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM  10123    O GLY B 153      21.943 -14.033  57.417  0.64  4.29           O 0
+ATOM   9395   CGALYS B 123      25.212 -16.047  54.635  0.00  0.00           C 0
+ATOM  10934  NH1AARG B 181      26.739 -15.458  62.373  0.62  5.47           N 0
+ATOM   9399   CEALYS B 123      22.808 -16.568  55.135  0.00  0.00           C 0
+ATOM   9548  NH1AARG B 128      27.874 -19.150  62.128  0.00  0.00           N 0
+ATOM   9584   CD PRO B 129      28.569 -13.531  56.910  0.00  0.00           C 0
+ATOM  10155   CDAPRO B 155      24.151 -12.169  60.426  0.00  0.00           C 0
+ATOM   9581    O PRO B 129      27.610 -11.583  59.656  0.00  0.00           O 0
+ATOM  10133  CG2 VAL B 154      24.259 -11.846  55.840  0.00  0.00           C 0
+ATOM   9397   CDALYS B 123      23.803 -15.487  54.806  0.00  0.00           C 0
+ATOM   9532   CAAARG B 128      30.235 -15.406  58.647  0.00  0.00           C 0
+ATOM   9488    OAARG B 127      29.956 -16.859  56.283  0.00  0.00           O 0
+ATOM   9540   CGAARG B 128      30.061 -17.594  60.029  0.00  0.00           C 0
+TER
+END

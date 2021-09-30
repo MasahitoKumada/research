@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2117
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7613
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3796
+HEADER 5  - Mean B-factor of pocket residues  : 0.2592
+HEADER 6  - Hydrophobicity Score              : 19.2222
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.1657
+HEADER 10  -Pocket volume (convex hull)       : 5.8756
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   1700  CD1 TYR A 300      31.914  19.697  11.031  0.00  0.00           C 0
+ATOM   1698   CB TYR A 300      32.779  22.055  11.273  0.00  0.00           C 0
+ATOM    989  NE2 HIS A 212      27.632  19.032  13.193  0.00  0.00           N 0
+ATOM    979   SG CYS A 211      31.483  19.725  14.823  0.00  0.00           S 0
+ATOM   1709    O CYS A 301      29.272  25.314   9.083  0.33  6.43           O 0
+ATOM    988  CE1 HIS A 212      28.469  18.274  12.507  0.00  0.00           C 0
+ATOM   1785  NE2 HIS A 310      23.810  21.555   9.408  0.00  0.00           N 0
+ATOM   1783  CD2 HIS A 310      24.063  22.301   8.309  0.00  0.00           C 0
+ATOM   1723  CD2 HIS A 303      25.275  25.536   9.067  0.00  0.00           C 0
+ATOM   1981  OE2 GLU A 336      27.628  25.000  13.124  0.00  0.00           O 0
+ATOM   1995   SD MET A 338      32.734  23.554  14.714  0.00  0.00           S 0
+ATOM    978   CB CYS A 211      30.743  20.412  16.313  0.00  0.00           C 0
+ATOM   1121  OD2 ASP A 229      25.213  23.053  16.288  0.46  3.21           O 0
+ATOM   1706    N CYS A 301      31.864  24.356   8.975  0.52  2.19           N 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.1041
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.2303
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5476
+HEADER 5  - Mean B-factor of pocket residues  : 0.2928
+HEADER 6  - Hydrophobicity Score              : 19.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.5163
+HEADER 10  -Pocket volume (convex hull)       : 3.3605
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4400
+ATOM   1338  CD2 LEU A 189       9.473  15.469  -0.478  0.00  0.00           C 0
+ATOM   1337  CD1 LEU A 189       8.062  17.190   0.668  0.00  0.00           C 0
+ATOM   1335   CB LEU A 189       9.758  15.906   2.002  0.00  0.00           C 0
+ATOM    969   CB ALA A 140       9.348  17.887  -3.338  0.00  0.00           C 0
+ATOM   1309  OE1 GLU A 185      16.235  20.507   1.952  0.00  0.00           O 0
+ATOM    964  CG2 THR A 139      14.081  15.051  -3.739  0.00  0.00           C 0
+ATOM    962   CB THR A 139      14.095  16.143  -4.794  0.00  0.00           C 0
+ATOM    926  NH1 ARG A 134      18.166  17.247  -2.448  0.39  6.56           N 0
+ATOM   1306   CB GLU A 185      15.511  18.300   3.360  0.00  0.00           C 0
+ATOM    965    N ALA A 140      11.075  16.682  -4.622  0.62  3.28           N 0
+ATOM   1305    O GLU A 185      12.841  16.381   3.538  0.00  0.00           O 0
+ATOM   1304    C GLU A 185      14.063  16.257   3.520  0.00  0.00           C 0
+ATOM   1312   CA ALA A 186      13.937  14.270   2.118  0.00  0.00           C 0
+ATOM   1311    N ALA A 186      14.685  15.293   2.846  0.77  1.09           N 0
+ATOM   1282    O GLN A 182      17.763  15.360   2.277  0.43  1.07           O 0
+ATOM    927  NH2 ARG A 134      17.773  14.985  -2.376  0.00  0.00           N 0
+ATOM   1315   CB ALA A 186      14.879  13.381   1.322  0.00  0.00           C 0
+TER
+END

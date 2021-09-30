@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0487
+HEADER 1  - Drug Score                        : 0.0209
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8700
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4707
+HEADER 5  - Mean B-factor of pocket residues  : 0.5114
+HEADER 6  - Hydrophobicity Score              : 42.7143
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 165.6786
+HEADER 10  -Pocket volume (convex hull)       : 1.3578
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6842
+ATOM    936  CG2 THR A 108      27.312 -14.285 -12.727  0.00  0.00           C 0
+ATOM   1345    O GLY A 160      28.730 -10.293 -18.976  0.36  8.57           O 0
+ATOM    935  OG1 THR A 108      28.104 -16.195 -14.039  0.00  0.00           O 0
+ATOM    934   CB THR A 108      26.920 -15.499 -13.615  0.00  0.00           C 0
+ATOM   1156  CD1 LEU A 136      28.896 -10.914 -12.267  0.00  0.00           C 0
+ATOM   1157  CD2 LEU A 136      28.389  -9.071 -13.883  0.00  0.00           C 0
+ATOM   1343   CA GLY A 160      27.450  -8.799 -17.647  0.00  0.00           C 0
+ATOM    950   SD MET A 110      24.189 -10.342 -14.832  0.00  0.00           S 0
+ATOM   1356  CD1 LEU A 162      24.459 -11.333 -18.597  0.00  0.00           C 0
+ATOM   1357  CD2 LEU A 162      25.659 -13.129 -19.850  0.00  0.00           C 0
+ATOM     62   CD LYS A   6      27.757 -16.409 -21.387  0.00  0.00           C 0
+ATOM     60   CB LYS A   6      26.113 -16.853 -19.585  0.00  0.00           C 0
+ATOM     59    O LYS A   6      25.545 -17.279 -16.543  0.55  1.07           O 0
+ATOM     69   CB ALA A   7      23.719 -14.299 -16.584  0.00  0.00           C 0
+TER
+END

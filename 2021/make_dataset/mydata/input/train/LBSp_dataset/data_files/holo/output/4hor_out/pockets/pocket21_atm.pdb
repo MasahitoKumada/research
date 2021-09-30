@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0111
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6912
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4007
+HEADER 5  - Mean B-factor of pocket residues  : 0.0315
+HEADER 6  - Hydrophobicity Score              : 9.7778
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 131.2536
+HEADER 10  -Pocket volume (convex hull)       : 2.0092
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2064  CE2 TYR A 250     -14.377 -16.919  28.402  0.00  0.00           C 0
+ATOM    357  NE2 GLN A  41     -12.838 -17.455  24.724  0.28  3.28           N 0
+ATOM   1259   NZ LYS A 150      -9.132 -17.063  24.499  0.44  4.37           N 1
+ATOM   2066   OH TYR A 250     -13.246 -19.025  28.106  0.74  4.29           O 0
+ATOM   2092  NH2 ARG A 253     -12.879 -13.836  29.672  0.71  7.66           N 0
+ATOM   2091  NH1 ARG A 253     -12.523 -15.640  31.055  0.72  6.56           N 1
+ATOM    291  OE2 GLU A  33      -6.246 -17.256  28.043  0.00  9.64           O 1
+ATOM   2348  CD2 PHE A 284     -10.471 -12.861  32.102  0.00  0.00           C 0
+ATOM   2345   CB PHE A 284      -9.643 -14.949  33.242  0.00  0.00           C 0
+ATOM    327  CG2 THR A  37      -8.710 -19.840  27.998  0.00  0.00           C 0
+ATOM    325   CB THR A  37      -9.493 -20.007  26.682  0.00  0.00           C 0
+ATOM   2334   OG SER A 282     -10.156 -18.483  33.663  0.43  3.21           O 0
+ATOM   2341    N PHE A 284      -7.713 -16.234  34.013  0.50  1.09           N 0
+ATOM   2335    N SER A 283      -6.921 -18.888  33.942  0.50  1.09           N 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1843
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6766
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3858
+HEADER 5  - Mean B-factor of pocket residues  : 0.6723
+HEADER 6  - Hydrophobicity Score              : 11.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.8008
+HEADER 10  -Pocket volume (convex hull)       : 1.6205
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1663  NH2 ARG X 284      18.984  30.568  10.471  0.00  0.00           N 0
+ATOM   1485    O GLU X 263      18.364  28.106  16.332  0.45  5.36           O 0
+ATOM   2117   CG PRO X 337      17.926  30.458  14.037  0.00  0.00           C 0
+ATOM   1688  NH2 ARG X 287      14.402  24.817  12.981  0.22  6.56           N 0
+ATOM    714  NH2 ARG X 161      22.369  25.790  14.813  0.04  8.75           N 0
+ATOM   1660   NE ARG X 284      16.776  30.913   9.999  0.00  0.00           N 0
+ATOM   1687  NH1 ARG X 287      12.611  25.875  11.917  0.76  2.19           N 0
+ATOM   1658   CG ARG X 284      14.359  30.831   9.864  0.00  0.00           C 0
+ATOM   2116   CB PRO X 337      16.609  30.974  13.936  0.00  0.00           C 0
+ATOM   1497  CD1 LEU X 264      14.048  29.730  17.281  0.00  0.00           C 0
+ATOM   1670  CG2 THR X 285      12.779  30.681  13.917  0.00  0.00           C 0
+ATOM   1656    O ARG X 284      12.022  28.724  10.598  0.53  5.36           O 0
+ATOM   1697  NE1 TRP X 288      12.571  25.721  15.582  0.87  2.19           N 0
+TER
+END

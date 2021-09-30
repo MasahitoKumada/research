@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0668
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9447
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6081
+HEADER 5  - Mean B-factor of pocket residues  : 0.4167
+HEADER 6  - Hydrophobicity Score              : -14.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 373.9923
+HEADER 10  -Pocket volume (convex hull)       : 36.1787
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   2033  OE1 GLU A 275      39.309  68.341  43.829  0.00  0.00           O 0
+ATOM   3731   CGAASN B  95      42.559  61.840  43.014  0.00  0.00           C 0
+ATOM   3733  OD1AASN B  95      43.595  61.749  42.381  0.68  9.64           O 0
+ATOM   3735  ND2AASN B  95      42.500  62.365  44.212  0.54  4.37           N 0
+ATOM   4147  NE2 HIS B 153      40.145  63.330  45.936  0.00  0.00           N 0
+ATOM   4146  CE1 HIS B 153      39.414  63.497  44.848  0.00  0.00           C 0
+ATOM   2034  OE2 GLU A 275      37.846  66.679  44.135  0.00  0.00           O 0
+ATOM   3730   CB ASN B  95      41.273  61.351  42.438  0.00  0.00           C 0
+ATOM   3729    O ASN B  95      38.791  60.520  41.678  0.00  0.00           O 0
+ATOM   4144  ND1 HIS B 153      38.356  62.697  44.908  0.73  1.09           N 0
+ATOM   3750   CGAPRO B  97      34.005  61.152  43.113  0.00  0.00           C 0
+ATOM   2021   OG SER A 273      39.768  68.889  49.362  0.57  1.07           O 0
+ATOM   2019    O SER A 273      40.473  72.088  48.979  0.00  0.00           O 0
+ATOM   2030   CB GLU A 275      38.062  69.578  46.111  0.00  0.00           C 0
+ATOM   1980   CB ALA A 267      43.977  66.614  49.265  0.00  0.00           C 0
+ATOM   1967    O ASP A 265      40.899  64.637  48.838  0.34  2.14           O 0
+ATOM   2020   CB SER A 273      40.918  69.198  50.111  0.00  0.00           C 0
+ATOM   1975    O GLY A 266      44.107  63.054  48.426  0.00  0.00           O 0
+ATOM   2057   CD ARG A 279      34.644  65.371  45.160  0.00  0.00           C 0
+TER
+END

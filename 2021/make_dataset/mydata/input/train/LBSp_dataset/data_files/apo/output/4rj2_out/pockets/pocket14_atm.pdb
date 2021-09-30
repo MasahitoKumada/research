@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.1372
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.5767
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3867
+HEADER 5  - Mean B-factor of pocket residues  : 0.1100
+HEADER 6  - Hydrophobicity Score              : 54.7778
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 89.9978
+HEADER 10  -Pocket volume (convex hull)       : 0.6317
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2727
+ATOM   4761  NH2 ARG C 119     -16.860   2.286  32.852  0.00  0.00           N 0
+ATOM   4377    O SER C  70     -21.525   5.164  35.958  0.77  2.14           O 0
+ATOM   4378   CB SER C  70     -18.387   5.953  35.933  0.00  0.00           C 0
+ATOM   5306  CG2 VAL C 188     -19.777   4.439  32.495  0.00  0.00           C 0
+ATOM   8758  CD2 LEU E 158     -15.636   2.949  36.356  0.00  0.00           C 0
+ATOM   8773    O TYR E 160     -18.261  -1.068  36.905  0.72  1.07           O 0
+ATOM   5335  CE2 PHE C 192     -21.646  -0.221  32.613  0.00  0.00           C 0
+ATOM   8774   CB TYR E 160     -20.807  -0.364  37.966  0.00  0.00           C 0
+ATOM   4411   CB LYS C  74     -23.420   2.707  35.181  0.00  0.00           C 0
+ATOM   4412   CG LYS C  74     -23.605   1.197  35.214  0.00  0.00           C 0
+ATOM   8770    N TYR E 160     -19.208   0.222  39.732  0.78  1.09           N 0
+ATOM   8759    N PHE E 159     -17.406   1.952  40.873  0.71  1.09           N 0
+ATOM   8777  CD2 TYR E 160     -22.353   1.425  38.865  0.00  0.00           C 0
+ATOM   4385  CG1 ILE C  71     -20.786   5.488  40.745  0.00  0.00           C 0
+ATOM   4380    N ILE C  71     -20.957   6.350  37.799  0.00  0.00           N 0
+ATOM   4376    C SER C  70     -20.819   6.020  36.520  0.00  0.00           C 0
+TER
+END

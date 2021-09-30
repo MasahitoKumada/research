@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   128:
+HEADER 0  - Pocket Score                      : 0.0235
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9884
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5489
+HEADER 5  - Mean B-factor of pocket residues  : 0.3108
+HEADER 6  - Hydrophobicity Score              : 28.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.8193
+HEADER 10  -Pocket volume (convex hull)       : 5.0358
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  25357    O GLY G 345      91.691  86.642 131.263  0.33  2.14           O 0
+ATOM  25356    C GLY G 345      92.566  86.223 132.041  0.00  0.00           C 0
+ATOM  25336    O LEU G 342      95.489  87.645 133.825  0.00  0.00           O 0
+ATOM  25410  OD1 ASN G 352      90.925  89.116 134.370  0.00  0.00           O 0
+ATOM  27359  CG1 VAL H  92      96.749  91.485 130.723  0.00  0.00           C 0
+ATOM  25359   CA LYS G 346      94.256  86.245 130.293  0.00  0.00           C 0
+ATOM  25374    O SER G 348      89.266  87.167 127.901  0.17  9.64           O 0
+ATOM  25388    O TYR G 350      87.851  89.167 131.233  0.48  1.07           O 0
+ATOM  25398   CA PRO G 351      88.392  91.868 131.269  0.00  0.00           C 0
+ATOM  27352  CG1 VAL H  91      95.768  88.638 127.031  0.00  0.00           C 0
+ATOM  25361    O LYS G 346      93.178  86.085 128.181  0.51  3.21           O 0
+ATOM  25246  CG2 VAL G 330      92.068  94.221 132.209  0.00  0.00           C 0
+ATOM  25404    N ASN G 352      89.371  91.515 133.437  0.00  0.00           N 0
+ATOM  27350    O VAL H  91      96.891  91.789 127.184  0.00  0.00           O 0
+ATOM  25245  CG1 VAL G 330      94.363  94.905 131.779  0.00  0.00           C 0
+ATOM  25340  CD2 LEU G 342      94.988  91.993 134.694  0.00  0.00           C 0
+TER
+END

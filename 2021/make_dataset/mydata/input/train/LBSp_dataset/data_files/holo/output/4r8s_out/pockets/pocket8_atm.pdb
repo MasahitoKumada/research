@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1026
+HEADER 1  - Drug Score                        : 0.0485
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9095
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6056
+HEADER 5  - Mean B-factor of pocket residues  : 0.3377
+HEADER 6  - Hydrophobicity Score              : 59.3750
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 291.3453
+HEADER 10  -Pocket volume (convex hull)       : 13.8019
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6818
+ATOM   1846   SD MET A2723      12.427  21.583  38.497  0.00  0.00           S 0
+ATOM   1823   CB SER A2720       9.600  17.884  34.286  0.00  0.00           C 0
+ATOM   1820   CA SER A2720      11.065  17.863  34.721  0.00  0.00           C 0
+ATOM   1822    O SER A2720      11.350  16.615  36.696  0.85  2.14           O 0
+ATOM   1844   CB MET A2723      13.540  19.104  38.090  0.00  0.00           C 0
+ATOM   1845   CG MET A2723      13.413  20.208  39.126  0.00  0.00           C 0
+ATOM   1876   CB LEU A2727      13.606  17.196  44.145  0.00  0.00           C 0
+ATOM   1879  CD2 LEU A2727      11.198  17.043  44.838  0.00  0.00           C 0
+ATOM   1843    O MET A2723      14.401  17.420  40.815  0.00  0.00           O 0
+ATOM   1878  CD1 LEU A2727      12.719  18.718  45.956  0.00  0.00           C 0
+ATOM   1854  CG2 VAL A2724      10.121  15.610  39.776  0.00  0.00           C 0
+ATOM   1848    N VAL A2724      13.036  16.262  39.427  0.00  0.00           N 0
+ATOM   1849   CA VAL A2724      12.517  15.425  40.498  0.00  0.00           C 0
+ATOM   1629   CB ARG A2696       6.867  16.461  40.722  0.00  0.00           C 0
+ATOM   1723   CE MET A2707       8.033  15.285  36.701  0.00  0.00           C 0
+ATOM   1630   CG ARG A2696       7.144  16.004  42.171  0.00  0.00           C 0
+ATOM   1613    O LEU A2694       5.751  17.594  34.418  0.82  6.43           O 0
+ATOM   1625    N ARG A2696       5.239  16.961  38.961  0.00  0.00           N 0
+ATOM   1619   CA VAL A2695       4.175  17.307  36.805  0.00  0.00           C 0
+ATOM   1623  CG1 VAL A2695       3.033  19.152  38.150  0.00  0.00           C 0
+TER
+END

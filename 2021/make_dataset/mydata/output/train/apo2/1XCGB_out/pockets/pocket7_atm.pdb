@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1759
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7768
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5168
+HEADER 5  - Mean B-factor of pocket residues  : 0.4398
+HEADER 6  - Hydrophobicity Score              : 20.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.2073
+HEADER 10  -Pocket volume (convex hull)       : 3.4163
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM    329  OD1 ASP B  45     -31.646  34.630  51.594  0.62  3.21           O 0
+ATOM    384  OE1 GLN B  52     -27.251  35.713  56.392  0.42  4.29           O 0
+ATOM    382   CD GLN B  52     -27.436  36.888  56.751  0.00  0.00           C 0
+ATOM    383  NE2 GLN B  52     -28.186  37.219  57.811  0.72  8.75           N 0
+ATOM    379    O GLN B  52     -25.687  38.702  51.756  0.70  1.07           O 0
+ATOM      6    N ILE B   4     -27.494  41.685  49.140  0.38  1.09           N 0
+ATOM    397   CG GLU B  54     -30.840  37.585  48.925  0.00  0.00           C 0
+ATOM      5   CB ALA B   3     -30.821  42.099  49.488  0.00  0.00           C 0
+ATOM    380   CB GLN B  52     -26.965  37.867  54.463  0.00  0.00           C 0
+ATOM    400  OE2 GLU B  54     -32.776  38.720  49.713  0.62  5.36           O 1
+ATOM    328   CG ASP B  45     -31.991  33.469  51.908  0.00  0.00           C 0
+ATOM    378    C GLN B  52     -25.812  37.576  52.244  0.00  0.00           C 0
+ATOM    385    N VAL B  53     -26.007  36.496  51.498  0.75  1.09           N 0
+ATOM    327   CB ASP B  45     -30.903  32.501  52.331  0.00  0.00           C 0
+ATOM      2   CA ALA B   3     -29.537  42.830  49.889  0.00  0.00           C 0
+ATOM    387    C VAL B  53     -27.349  35.898  49.556  0.00  0.00           C 0
+TER
+END

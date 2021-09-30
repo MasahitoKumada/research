@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.1180
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5600
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3692
+HEADER 5  - Mean B-factor of pocket residues  : 0.7962
+HEADER 6  - Hydrophobicity Score              : 13.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 104.5785
+HEADER 10  -Pocket volume (convex hull)       : 0.8375
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   6630  OE1 GLU B 350      -5.299  16.406  -5.954  0.53  1.07           O 0
+ATOM   6165  CD1 TYR B 291      -9.569  14.283  -2.772  0.00  0.00           C 0
+ATOM   6624   CA GLU B 350      -4.852  19.025  -3.532  0.00  0.00           C 0
+ATOM   6180  CE2 TYR B 292     -10.500  18.879  -6.262  0.00  0.00           C 0
+ATOM   6631  OE2 GLU B 350      -4.624  15.508  -4.032  0.00  0.00           O 0
+ATOM   6617    O LYS B 349      -6.378  20.146  -1.493  0.55  4.29           O 0
+ATOM   6632    N GLY B 351      -4.426  17.688  -1.535  0.00  0.00           N 0
+ATOM   6163   CB TYR B 291     -11.741  15.464  -3.161  0.00  0.00           C 0
+ATOM   6162    O TYR B 291     -12.568  18.261  -1.969  0.62  3.21           O 0
+ATOM   6643    N HIS B 353      -7.528  16.772   2.048  0.00  0.00           N 0
+ATOM   6641  OG1 THR B 352      -7.734  20.532   1.463  0.67  1.07           O 0
+ATOM   6644   CA HIS B 353      -8.736  15.998   2.285  0.00  0.00           C 0
+ATOM   6649  ND1 HIS B 353      -6.754  14.567   0.070  0.60  1.09           N 0
+ATOM   6647   CB HIS B 353      -8.990  14.970   1.177  0.00  0.00           C 0
+TER
+END

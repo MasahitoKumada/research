@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.1106
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8183
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4634
+HEADER 5  - Mean B-factor of pocket residues  : 0.4465
+HEADER 6  - Hydrophobicity Score              : 18.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 118.1376
+HEADER 10  -Pocket volume (convex hull)       : 1.6900
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    965  NE2 GLN A 115      21.921  19.241  32.664  0.00  0.00           N 0
+ATOM   2753   CD LYS B  58      16.770  18.718  37.426  0.00  0.00           C 0
+ATOM   2752   CG LYS B  58      17.210  17.269  37.048  0.00  0.00           C 0
+ATOM   2751   CB LYS B  58      18.453  16.902  37.762  0.00  0.00           C 0
+ATOM    946  CE2 TYR A 113      18.258  22.937  31.535  0.00  0.00           C 0
+ATOM   2755   NZ LYS B  58      14.996  20.446  37.152  0.39  7.66           N 0
+ATOM   2754   CE LYS B  58      15.419  19.058  36.818  0.00  0.00           C 0
+ATOM    833   CEAMET A  98      19.075  15.670  33.322  0.00  0.00           C 0
+ATOM    944  CD2 TYR A 113      19.186  22.170  30.795  0.00  0.00           C 0
+ATOM     48   NE ARG A   6      16.003  18.412  30.142  0.74  2.19           N 0
+ATOM     51  NH2 ARG A   6      14.944  20.347  30.884  0.04  8.75           N 0
+ATOM    948   OH TYR A 113      16.018  23.875  31.676  0.59  4.29           O 0
+TER
+END

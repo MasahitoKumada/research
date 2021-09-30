@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0889
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8892
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5193
+HEADER 5  - Mean B-factor of pocket residues  : 0.5846
+HEADER 6  - Hydrophobicity Score              : 30.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.8553
+HEADER 10  -Pocket volume (convex hull)       : 4.9236
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1923   CZ TYR A 255       9.526 -36.681  38.809  0.00  0.00           C 0
+ATOM   1921  CE1 TYR A 255       9.863 -35.418  38.350  0.00  0.00           C 0
+ATOM   1924   OH TYR A 255       8.682 -37.468  38.060  0.24  7.50           O 0
+ATOM   2136  OE1 GLU A 283       2.670 -33.289  38.924  0.00  0.00           O 0
+ATOM   2137  OE2 GLU A 283       3.088 -33.724  36.799  0.28  9.64           O 1
+ATOM    960   CG PRO A 129       8.970 -34.705  33.483  0.00  0.00           C 0
+ATOM    959   CB PRO A 129       7.741 -35.325  32.908  0.00  0.00           C 0
+ATOM   2138    N PHE A 284       6.451 -30.472  35.609  0.62  2.19           N 0
+ATOM   2128    O GLY A 282       5.249 -29.862  39.769  0.82  7.50           O 0
+ATOM   2130   CA GLU A 283       4.530 -30.194  37.073  0.00  0.00           C 0
+ATOM   2144  CD1 PHE A 284       9.595 -29.806  37.056  0.00  0.00           C 0
+ATOM   1890  CD2 LEU A 252       8.738 -30.452  41.486  0.00  0.00           C 0
+ATOM   1919  CD1 TYR A 255      10.716 -34.620  39.107  0.00  0.00           C 0
+ATOM   1920  CD2 TYR A 255      10.895 -36.348  40.759  0.00  0.00           C 0
+ATOM   1922  CE2 TYR A 255      10.034 -37.155  40.013  0.00  0.00           C 0
+ATOM   1918   CG TYR A 255      11.244 -35.068  40.319  0.00  0.00           C 0
+ATOM   2141    O PHE A 284       6.533 -32.100  33.305  0.52  3.21           O 0
+ATOM   2135   CD GLU A 283       2.729 -32.949  37.720  0.00  0.00           C 0
+TER
+END

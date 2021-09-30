@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0109
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7485
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6163
+HEADER 5  - Mean B-factor of pocket residues  : 0.5779
+HEADER 6  - Hydrophobicity Score              : 1.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 348.0305
+HEADER 10  -Pocket volume (convex hull)       : 24.8668
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    603   CA GLY A  54      15.856   4.232 -21.007  0.00  0.00           C 0
+ATOM    562    O MET A  50      15.199   8.291 -23.247  0.00  0.00           O 0
+ATOM    142  NH1AARG A  15      19.380   4.247 -20.390  0.00  0.00           N 0
+ATOM    543    O LYS A  48      17.110   6.098 -26.616  0.00  0.00           O 0
+ATOM    552    C SER A  49      16.184   9.453 -26.859  0.00  0.00           C 0
+ATOM    561    C MET A  50      15.392   9.449 -23.629  0.00  0.00           C 0
+ATOM    553    O SER A  49      16.829  10.505 -26.735  0.00  0.00           O 0
+ATOM    571    N ALA A  51      16.133  10.317 -22.949  0.59  2.19           N 0
+ATOM    178  NE2 GLN A  19      16.004   1.920 -23.478  0.63  2.19           N 0
+ATOM    177  OE1 GLN A  19      16.250   0.125 -24.796  0.00  0.00           O 0
+ATOM    544   CB LYS A  48      15.555   3.794 -28.063  0.00  0.00           C 0
+ATOM    136   CDAARG A  15      19.201   1.548 -21.176  0.00  0.00           C 0
+ATOM    572   CA ALA A  51      16.872   9.901 -21.760  0.00  0.00           C 0
+ATOM    617  OD2AASP A  55      18.953   6.530 -18.106  0.60  8.57           O 0
+ATOM    575   CB ALA A  51      17.569  11.082 -21.117  0.00  0.00           C 0
+ATOM    574    O ALA A  51      16.426   8.158 -20.188  0.00  0.00           O 0
+TER
+END

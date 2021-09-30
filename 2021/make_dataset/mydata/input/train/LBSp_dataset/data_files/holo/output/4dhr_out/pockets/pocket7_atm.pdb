@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0691
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.1390
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5324
+HEADER 5  - Mean B-factor of pocket residues  : 0.4311
+HEADER 6  - Hydrophobicity Score              : -13.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.4332
+HEADER 10  -Pocket volume (convex hull)       : 2.7867
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    206  OE2AGLU A  20       9.326   2.423   0.048  0.00  0.00           O 0
+ATOM    214  OD1 ASP A  21       8.749   4.051   6.180  0.54  3.21           O 0
+ATOM    180  NH2 ARG A  18      10.068   0.903   7.706  0.00  0.00           N 0
+ATOM    178   CZ ARG A  18      11.322   0.651   7.428  0.00  0.00           C 0
+ATOM    179  NH1 ARG A  18      11.717  -0.594   7.109  0.00  0.00           N 0
+ATOM    176   CD ARG A  18      13.621   1.550   7.171  0.00  0.00           C 0
+ATOM    171   CA ARG A  18      14.818   4.302   5.799  0.00  0.00           C 0
+ATOM    164    O GLU A  17      17.179   3.359   4.671  0.00  0.00           O 0
+ATOM    204  OE1AGLU A  20      11.160   2.126  -1.153  0.00  0.00           O 0
+ATOM    181    N TYR A  19      14.759   5.601   3.734  0.55  4.37           N 0
+ATOM    193    N GLU A  20      12.356   5.852   2.212  0.45  2.19           N 0
+ATOM    208    N ASP A  21      10.457   5.989   4.275  0.62  1.09           N 0
+ATOM    172    C ARG A  18      14.275   5.495   4.976  0.00  0.00           C 0
+ATOM    177   NE ARG A  18      12.199   1.634   7.476  0.52  2.19           N 0
+ATOM    202   CDAGLU A  20      10.420   2.828  -0.426  0.00  0.00           C 0
+ATOM    200   CGAGLU A  20      10.910   4.222  -0.091  0.00  0.00           C 0
+ATOM    198   CBAGLU A  20      10.348   4.673   1.262  0.00  0.00           C 0
+TER
+END

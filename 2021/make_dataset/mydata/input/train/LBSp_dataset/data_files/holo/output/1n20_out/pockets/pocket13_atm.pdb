@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0370
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9576
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6840
+HEADER 5  - Mean B-factor of pocket residues  : 0.2931
+HEADER 6  - Hydrophobicity Score              : 18.1667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.9550
+HEADER 10  -Pocket volume (convex hull)       : 9.6799
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM   3111   OG SER A 435      38.232  68.066  53.622  0.80  5.36           O 0
+ATOM   3064    O LYS A 431      38.556  66.491  51.186  0.61  2.14           O 0
+ATOM   3068   CE LYS A 431      33.774  66.528  48.171  0.00  0.00           C 0
+ATOM   3110   CB SER A 435      38.649  69.233  52.938  0.00  0.00           C 0
+ATOM   3065   CB LYS A 431      36.387  65.309  48.985  0.00  0.00           C 0
+ATOM   3076  CD1 TRP A 432      35.473  63.777  54.010  0.00  0.00           C 0
+ATOM   3063    C LYS A 431      38.173  65.400  50.747  0.00  0.00           C 0
+ATOM   3078  NE1 TRP A 432      34.277  63.182  54.329  0.61  3.28           N 0
+ATOM   3044  CD2 HIS A 428      33.111  61.620  50.962  0.00  0.00           C 0
+ATOM   3046  NE2 HIS A 428      31.952  61.707  51.697  0.61  6.56           N 0
+ATOM   3069   NZ LYS A 431      32.312  66.254  48.270  0.00  0.00           N 0
+ATOM   3120   CB TYR A 437      37.223  66.741  56.540  0.00  0.00           C 0
+ATOM   3121   CG TYR A 437      36.000  66.210  57.263  0.00  0.00           C 0
+ATOM   3123  CD2 TYR A 437      35.527  64.925  57.015  0.00  0.00           C 0
+ATOM   3126   CZ TYR A 437      33.701  65.252  58.546  0.00  0.00           C 0
+ATOM   3125  CE2 TYR A 437      34.383  64.440  57.649  0.00  0.00           C 0
+ATOM   3172  OE2 GLU A 443      30.752  62.574  57.296  0.00  0.00           O 0
+ATOM   3122  CD1 TYR A 437      35.303  67.003  58.176  0.00  0.00           C 0
+ATOM   3124  CE1 TYR A 437      34.157  66.531  58.817  0.00  0.00           C 0
+TER
+END

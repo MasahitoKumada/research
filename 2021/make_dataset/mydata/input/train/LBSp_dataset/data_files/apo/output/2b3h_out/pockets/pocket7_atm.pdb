@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1676
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8602
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5846
+HEADER 5  - Mean B-factor of pocket residues  : 0.7032
+HEADER 6  - Hydrophobicity Score              : 8.8889
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 299.7992
+HEADER 10  -Pocket volume (convex hull)       : 18.6654
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM   1809   CB ASN A 314      30.185  26.621   2.154  0.00  0.00           C 0
+ATOM   1889   CB VAL A 324      31.383  30.848  -3.975  0.00  0.00           C 0
+ATOM    379   CB SER A 135      28.035  28.573  -5.233  0.00  0.00           C 0
+ATOM   1805    N ASN A 314      28.327  28.159   1.937  0.00  0.00           N 0
+ATOM   1799   CA PRO A 313      26.447  29.535   1.242  0.00  0.00           C 0
+ATOM    376   CA SER A 135      26.617  28.088  -4.880  0.00  0.00           C 0
+ATOM   1797   CB ALA A 312      24.540  27.776  -1.340  0.00  0.00           C 0
+ATOM   1888    O VAL A 324      29.786  32.228  -1.716  0.59  2.14           O 0
+ATOM   1885    N VAL A 324      32.492  31.267  -1.793  0.42  2.19           N 0
+ATOM   1808    O ASN A 314      30.534  29.647   2.694  0.54  4.29           O 0
+ATOM   1793    N ALA A 312      23.707  26.386   0.509  0.54  2.19           N 0
+ATOM   1788    C THR A 311      23.609  25.918   1.744  0.00  0.00           C 0
+ATOM   1794   CA ALA A 312      24.562  27.541   0.195  0.00  0.00           C 0
+ATOM    371    O THR A 134      25.938  25.690  -3.981  0.00  0.00           O 0
+ATOM   1789    O THR A 311      24.223  26.421   2.681  0.87  2.14           O 0
+ATOM   1806   CA ASN A 314      29.285  27.590   2.855  0.00  0.00           C 0
+ATOM   1720   CB HIS A 303      25.418  25.939   6.526  0.00  0.00           C 0
+ATOM   1811  OD1 ASN A 314      30.767  25.207   4.041  0.00  0.00           O 0
+ATOM   1780   CB HIS A 310      23.482  22.003   5.759  0.00  0.00           C 0
+ATOM   1786    N THR A 311      22.652  24.403   3.412  0.00  0.00           N 0
+ATOM   1787   CA THR A 311      22.738  24.706   1.964  0.00  0.00           C 0
+ATOM   1779    O HIS A 310      22.140  22.221   3.110  0.61  9.64           O 0
+ATOM   1778    C HIS A 310      22.367  23.204   3.847  0.00  0.00           C 0
+TER
+END

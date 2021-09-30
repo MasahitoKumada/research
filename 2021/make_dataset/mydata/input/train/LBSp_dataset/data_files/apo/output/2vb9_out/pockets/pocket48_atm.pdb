@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0851
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2222
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6130
+HEADER 5  - Mean B-factor of pocket residues  : 0.0714
+HEADER 6  - Hydrophobicity Score              : 3.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.9422
+HEADER 10  -Pocket volume (convex hull)       : 1.3745
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   6131    N GLN C  19      35.850  74.646 122.478  0.00  0.00           N 0
+ATOM   6631  OE1 GLN C  81      38.160  77.319 119.971  0.00  0.00           O 0
+ATOM   6127   CB ASN C  18      34.540  75.878 119.960  0.00  0.00           C 0
+ATOM   6136   CG GLN C  19      35.738  75.969 125.242  0.00  0.00           C 0
+ATOM   6148  NE2 GLN C  20      32.292  76.643 124.001  0.00  0.00           N 0
+ATOM   6655   CB ASP C  85      38.414  81.849 125.773  0.00  0.00           C 0
+ATOM   6657  OD1 ASP C  85      36.889  80.978 127.448  0.58  4.29           O 0
+ATOM   6139  NE2 GLN C  19      36.796  77.588 126.754  0.45  3.28           N 0
+ATOM   6066    O LEU C   9      40.052  79.169 124.000  0.36  2.14           O 0
+ATOM   6628   CB GLN C  81      38.836  79.975 120.121  0.00  0.00           C 0
+ATOM   6629   CG GLN C  81      37.987  79.455 118.980  0.00  0.00           C 0
+ATOM   6627    O GLN C  81      38.904  82.255 122.499  0.51  2.14           O 0
+ATOM   6625   CA GLN C  81      38.941  81.498 120.233  0.00  0.00           C 0
+ATOM   6650   CB ALA C  84      36.762  85.119 121.999  0.00  0.00           C 0
+TER
+END

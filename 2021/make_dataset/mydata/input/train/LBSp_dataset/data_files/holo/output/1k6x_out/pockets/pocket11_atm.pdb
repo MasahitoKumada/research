@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0350
+HEADER 1  - Drug Score                        : 0.0058
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9425
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6346
+HEADER 5  - Mean B-factor of pocket residues  : 0.7455
+HEADER 6  - Hydrophobicity Score              : -14.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.7799
+HEADER 10  -Pocket volume (convex hull)       : 3.5415
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    630    N GLU A  88      -3.465  61.524  47.050  0.00  0.00           N 0
+ATOM    644  CG1 ILE A  89      -0.161  58.456  49.718  0.00  0.00           C 0
+ATOM    639    N ILE A  89      -2.231  59.077  47.678  0.54  1.09           N 0
+ATOM    634   CB GLU A  88      -1.425  61.452  45.693  0.00  0.00           C 0
+ATOM    960   CB PRO A 130       2.668  60.760  48.348  0.00  0.00           C 0
+ATOM    623   CA ASP A  87      -5.393  61.982  48.513  0.00  0.00           C 0
+ATOM    643   CB ILE A  89      -1.495  57.693  49.614  0.00  0.00           C 0
+ATOM    646  CD1 ILE A  89       0.396  58.594  51.130  0.00  0.00           C 0
+ATOM    622    N ASP A  87      -5.025  63.394  48.546  0.00  0.00           N 0
+ATOM    961   CG PRO A 130       3.326  61.934  49.017  0.00  0.00           C 0
+ATOM    602   CB SER A  83      -0.096  66.153  45.104  0.00  0.00           C 0
+ATOM    925    O PRO A 126       4.376  64.957  48.583  0.39  8.57           O 0
+ATOM    637  OE1 GLU A  88       0.889  62.563  44.718  0.62  3.21           O 0
+TER
+END

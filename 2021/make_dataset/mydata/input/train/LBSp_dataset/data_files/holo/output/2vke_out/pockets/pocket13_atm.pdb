@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0626
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9663
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6446
+HEADER 5  - Mean B-factor of pocket residues  : 0.2238
+HEADER 6  - Hydrophobicity Score              : 32.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 327.3083
+HEADER 10  -Pocket volume (convex hull)       : 19.1481
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.7778
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM   1034  CD1 LEU A 127      17.961  45.062  42.347  0.00  0.00           C 0
+ATOM   1035  CD2 LEU A 127      16.760  42.934  42.844  0.00  0.00           C 0
+ATOM   1033   CG LEU A 127      16.844  44.412  43.120  0.00  0.00           C 0
+ATOM    940  CD1 LEU A 117      15.797  40.220  39.222  0.00  0.00           C 0
+ATOM    950   CBAARG A 118      11.008  38.216  44.547  0.00  0.00           C 0
+ATOM    954   CDAARG A 118       8.583  38.373  45.337  0.00  0.00           C 0
+ATOM    952   CGAARG A 118      10.064  38.525  45.751  0.00  0.00           C 0
+ATOM    917  OE2 GLU A 114       9.848  41.418  40.213  0.59  6.43           O 0
+ATOM    916  OE1 GLU A 114      11.235  40.912  38.575  0.00  0.00           O 0
+ATOM    938   CB LEU A 117      15.290  39.277  41.424  0.00  0.00           C 0
+ATOM    988  OG1 THR A 121      13.462  40.498  47.595  0.00  0.00           O 0
+ATOM    989  CG2 THR A 121      15.619  41.451  46.837  0.00  0.00           C 0
+ATOM   1032   CB LEU A 127      17.052  44.690  44.613  0.00  0.00           C 0
+ATOM    937    O LEU A 117      15.266  38.720  44.741  0.00  0.00           O 0
+ATOM    942    NAARG A 118      13.337  38.192  43.625  0.00  0.00           N 0
+ATOM    936    C LEU A 117      14.667  38.355  43.682  0.00  0.00           C 0
+ATOM    944   CAAARG A 118      12.510  38.341  44.837  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.0502
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8063
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4174
+HEADER 5  - Mean B-factor of pocket residues  : 0.5244
+HEADER 6  - Hydrophobicity Score              : 30.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.8734
+HEADER 10  -Pocket volume (convex hull)       : 2.7550
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM    265   CA ASN B  35      31.179  21.527   5.343  0.00  0.00           C 0
+ATOM    271  OD1 ASN B  35      34.112  21.789   5.216  0.73  9.64           O 0
+ATOM    149   CG LYS B  20      35.326  17.330   9.387  0.00  0.00           C 0
+ATOM    257    O HIS B  34      30.213  18.947   4.781  0.52  1.07           O 0
+ATOM    173  CG1 ILE B  23      34.277  14.570   1.240  0.00  0.00           C 0
+ATOM    258   CB HIS B  34      31.534  18.544   1.964  0.00  0.00           C 0
+ATOM    261  ND1 HIS B  34      32.689  18.128  -0.229  0.76  8.75           N 0
+ATOM    156    O LEU B  21      33.394  14.178   4.625  0.66  5.36           O 0
+ATOM    151   CE LYS B  20      37.396  17.504   7.916  0.00  0.00           C 0
+ATOM    153    N LEU B  21      32.137  15.065   7.263  0.78  2.19           N 0
+ATOM    148   CB LYS B  20      34.873  16.026   8.717  0.00  0.00           C 0
+ATOM   1176  NH2 ARG B 154      31.303  20.987  11.189  0.52  8.75           N 0
+ATOM    267    O ASN B  35      30.031  22.124   7.344  0.52  6.43           O 0
+ATOM    283    O VAL B  37      29.478  17.861   8.024  0.62  1.07           O 0
+TER
+END

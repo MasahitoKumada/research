@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    50:
+HEADER 0  - Pocket Score                      : -0.0151
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9285
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5858
+HEADER 5  - Mean B-factor of pocket residues  : 0.3803
+HEADER 6  - Hydrophobicity Score              : 26.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 339.3058
+HEADER 10  -Pocket volume (convex hull)       : 14.0212
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   6178    N MET B 335      67.545 117.880  79.925  0.00  0.00           N 0
+ATOM   5994  OE1AGLU B 312      68.747 111.597  83.417  0.00  0.00           O 0
+ATOM   6176   CB SER B 334      70.371 118.786  80.571  0.00  0.00           C 0
+ATOM   6183   CG MET B 335      65.425 116.005  81.056  0.00  0.00           C 0
+ATOM  12107  OG1 THR D 182      75.928 111.326  85.013  0.00  0.00           O 0
+ATOM  12109    N THR D 183      76.909 112.548  87.058  0.59  1.09           N 0
+ATOM  12114  OG1 THR D 183      77.591 115.289  88.063  0.56  9.64           O 0
+ATOM  12113   CB THR D 183      76.348 114.613  88.276  0.00  0.00           C 0
+ATOM  12103   CA THR D 182      78.311 111.759  85.239  0.00  0.00           C 0
+ATOM   6162  CG1 VAL B 332      73.112 112.710  79.140  0.00  0.00           C 0
+ATOM   6160    O VAL B 332      74.307 115.736  77.685  0.51  2.14           O 0
+ATOM   6172    N SER B 334      70.897 117.529  78.521  0.00  0.00           N 0
+ATOM   6213  ND2 ASN B 339      74.567 118.129  79.098  0.53  9.84           N 0
+ATOM   6161   CB VAL B 332      74.443 112.828  78.420  0.00  0.00           C 0
+ATOM   6173   CA SER B 334      69.948 117.674  79.618  0.00  0.00           C 0
+ATOM   6185   CE MET B 335      66.049 113.437  80.198  0.00  0.00           C 0
+ATOM   6167    O LEU B 333      70.091 115.505  78.005  0.77  1.07           O 0
+ATOM   5980    NAGLU B 312      69.111 111.403  78.514  0.50  1.09           N 0
+ATOM   5988   CBAGLU B 312      69.571 110.331  80.694  0.00  0.00           C 0
+TER
+END

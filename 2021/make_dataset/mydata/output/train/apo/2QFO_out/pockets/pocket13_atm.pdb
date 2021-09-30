@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0177
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9771
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4689
+HEADER 5  - Mean B-factor of pocket residues  : 0.3351
+HEADER 6  - Hydrophobicity Score              : 27.7500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 2.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.2790
+HEADER 10  -Pocket volume (convex hull)       : 10.5029
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3704
+ATOM   1166    C GLY A 167     -13.029  20.378  46.205  0.00  0.00           C 0
+ATOM   1169   CA GLY A 168     -13.327  22.324  47.617  0.00  0.00           C 0
+ATOM     86   CB ALA A  27     -14.697  26.363  46.098  0.00  0.00           C 0
+ATOM   1167    O GLY A 167     -13.873  19.735  46.835  0.00  0.00           O 0
+ATOM   1168    N GLY A 168     -12.680  21.621  46.524  0.77  2.19           N 0
+ATOM     85    O ALA A  27     -13.763  26.763  42.976  0.53  3.21           O 0
+ATOM   1164    N GLY A 167     -11.180  20.518  44.553  0.27  4.37           N 0
+ATOM    108   CB MET A  30     -10.102  26.609  42.661  0.00  0.00           C 0
+ATOM   1165   CA GLY A 167     -12.318  19.750  45.021  0.00  0.00           C 0
+ATOM     83   CA ALA A  27     -13.670  27.196  45.340  0.00  0.00           C 0
+ATOM    110   SD MET A  30      -8.979  26.452  45.230  0.00  0.00           S 0
+ATOM    140  CG2 ILE A  34     -10.801  23.692  37.999  0.00  0.00           C 0
+ATOM    141  CD1 ILE A  34      -9.510  20.910  37.935  0.00  0.00           C 0
+ATOM    149  ND2 ASN A  35     -14.075  22.988  36.562  0.00  0.00           N 0
+ATOM    117   OG SER A  31     -15.210  24.776  38.804  0.00  0.00           O 0
+ATOM    116   CB SER A  31     -14.504  25.522  39.780  0.00  0.00           C 0
+ATOM    113   CA SER A  31     -13.032  25.675  39.392  0.00  0.00           C 0
+ATOM    112    N SER A  31     -12.323  26.436  40.410  0.00  0.00           N 0
+ATOM   1163   CB ALA A 166      -9.097  21.655  43.256  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0155
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7969
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5091
+HEADER 5  - Mean B-factor of pocket residues  : 0.3685
+HEADER 6  - Hydrophobicity Score              : 15.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.4203
+HEADER 10  -Pocket volume (convex hull)       : 4.7923
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5714
+ATOM  14893  CG2 THR D  24      13.527 -24.648  24.563  0.00  0.00           C 0
+ATOM  10315   CB GLU C  45      11.962 -26.744  27.613  0.00  0.00           C 0
+ATOM  10370   CD LYS C  48      12.428 -30.846  25.514  0.00  0.00           C 0
+ATOM  10314    O GLU C  45      13.803 -28.873  29.020  0.69  1.07           O 0
+ATOM  14891   CB THR D  24      14.074 -24.181  23.207  0.00  0.00           C 0
+ATOM  14892  OG1 THR D  24      13.826 -25.119  22.162  0.19  5.36           O 0
+ATOM  11746  NH2 ARG C 140      19.811 -26.813  25.382  0.00  0.00           N 0
+ATOM  11682  CD1 LEU C 136      15.313 -25.169  29.458  0.00  0.00           C 0
+ATOM  10391   CG LEU C  49      17.853 -28.742  28.793  0.00  0.00           C 0
+ATOM  11683  CD2 LEU C 136      14.893 -23.280  27.879  0.00  0.00           C 0
+ATOM  10393  CD2 LEU C  49      18.453 -29.266  27.497  0.00  0.00           C 0
+ATOM  10368   CB LYS C  48      14.283 -31.634  27.011  0.00  0.00           C 0
+ATOM  12522  ND2 ASN C 191      17.961 -23.296  21.689  0.00  0.00           N 0
+ATOM  12520   CG ASN C 191      18.491 -23.465  22.880  0.00  0.00           C 0
+ATOM  12519   CB ASN C 191      19.916 -23.981  22.891  0.00  0.00           C 0
+ATOM  10392  CD1 LEU C  49      18.314 -27.328  29.174  0.00  0.00           C 0
+ATOM  12521  OD1 ASN C 191      17.848 -23.117  23.852  0.66  1.07           O 0
+TER
+END

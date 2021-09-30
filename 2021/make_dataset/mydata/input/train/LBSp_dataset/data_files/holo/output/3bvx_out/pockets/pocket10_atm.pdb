@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1109
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.5927
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4061
+HEADER 5  - Mean B-factor of pocket residues  : 0.1323
+HEADER 6  - Hydrophobicity Score              : -8.2222
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 103.0701
+HEADER 10  -Pocket volume (convex hull)       : 1.4340
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   7283   CA ASN A 948      33.433  81.422  -6.654  0.00  0.00           C 0
+ATOM   3504   CD PRO A 486      33.492  75.211  -8.426  0.00  0.00           C 0
+ATOM   3488   CA ARG A 485      34.429  74.764  -5.666  0.00  0.00           C 0
+ATOM   7289  ND2 ASN A 948      30.711  79.638  -7.381  0.00  0.00           N 0
+ATOM   7281  OD2 ASP A 947      33.385  79.526  -2.427  0.00  0.00           O 0
+ATOM   7277    O ASP A 947      35.159  81.565  -4.582  0.42  4.29           O 0
+ATOM   3525  CE1 HIS A 488      39.138  77.145  -4.611  0.00  0.00           C 0
+ATOM   3492   CG ARG A 485      34.891  75.601  -3.262  0.00  0.00           C 0
+ATOM   3509   CB TYR A 487      38.636  77.232  -8.762  0.00  0.00           C 0
+ATOM   3505    N TYR A 487      37.046  75.420  -9.148  0.71  1.09           N 0
+ATOM   3523  ND1 HIS A 488      38.765  75.937  -4.988  0.72  1.09           N 0
+ATOM   7295   CG LYS A 949      38.241  81.056  -7.933  0.00  0.00           C 0
+ATOM   3493   CD ARG A 485      33.397  75.712  -2.819  0.00  0.00           C 0
+ATOM   7290    N LYS A 949      35.350  81.688  -8.092  0.54  2.19           N 0
+ATOM   7293    O LYS A 949      36.016  80.719 -10.477  0.60  1.07           O 0
+ATOM   7264  CG1 VAL A 945      30.165  77.658  -3.466  0.00  0.00           C 0
+ATOM   7152  OD2 ASP A 930      31.941  78.793 -10.109  0.52  1.07           O 0
+TER
+END

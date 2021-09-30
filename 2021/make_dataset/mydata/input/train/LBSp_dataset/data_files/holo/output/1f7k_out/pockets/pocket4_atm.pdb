@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1814
+HEADER 1  - Drug Score                        : 0.0077
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.9955
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5173
+HEADER 5  - Mean B-factor of pocket residues  : 0.6167
+HEADER 6  - Hydrophobicity Score              : 62.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.3616
+HEADER 10  -Pocket volume (convex hull)       : 16.7168
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM     61    O LEU A 719      -0.902  18.378  35.256  0.00  0.00           O 0
+ATOM     24  CD1 ILE A 713       5.882  20.654  36.703  0.00  0.00           C 0
+ATOM     60    C LEU A 719      -0.915  19.585  35.083  0.00  0.00           C 0
+ATOM     72  OD1 ASP A 720      -0.134  21.616  39.496  0.00  0.00           O 0
+ATOM     66    N ASP A 720      -1.329  20.446  36.008  0.00  0.00           N 0
+ATOM     67   CA ASP A 720      -1.839  20.033  37.310  0.00  0.00           C 0
+ATOM    137   OH TYR A 728       0.385  14.157  40.566  0.35  9.64           O 0
+ATOM    135  CE2 TYR A 728      -0.021  15.596  38.722  0.00  0.00           C 0
+ATOM      1    N MET A 711       5.741  16.717  43.952  0.00  0.00           N 0
+ATOM      4    O MET A 711       6.746  18.457  42.052  0.46  8.57           O 0
+ATOM      6   CG MET A 711       6.094  15.453  41.119  0.00  0.00           C 0
+ATOM      8   CE MET A 711       4.923  14.493  38.783  0.00  0.00           C 0
+ATOM     22  CG1 ILE A 713       7.072  20.490  37.622  0.00  0.00           C 0
+ATOM    133  CD2 TYR A 728      -0.100  15.812  37.357  0.00  0.00           C 0
+ATOM     57  CD1 ILE A 718       3.715  16.214  34.549  0.00  0.00           C 0
+ATOM     53    O ILE A 718       2.235  20.867  33.685  0.48  8.57           O 0
+ATOM     73  OD2 ASP A 720      -0.528  23.001  37.842  0.00  0.00           O 0
+ATOM     23  CG2 ILE A 713       7.184  17.981  37.766  0.00  0.00           C 0
+ATOM     55  CG1 ILE A 718       2.901  17.318  33.950  0.00  0.00           C 0
+ATOM     56  CG2 ILE A 718       4.552  19.142  34.022  0.00  0.00           C 0
+TER
+END

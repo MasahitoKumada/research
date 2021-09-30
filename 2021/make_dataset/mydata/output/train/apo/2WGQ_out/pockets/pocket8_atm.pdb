@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0840
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5098
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3366
+HEADER 5  - Mean B-factor of pocket residues  : 0.1757
+HEADER 6  - Hydrophobicity Score              : 20.1111
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 85.2244
+HEADER 10  -Pocket volume (convex hull)       : 0.5445
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   4714  CG2 ILE A 606      60.676  54.380  10.848  0.00  0.00           C 0
+ATOM  10444   CA PRO B 614      59.058  47.598  10.354  0.00  0.00           C 0
+ATOM   4715  CD1 ILE A 606      58.554  53.236  12.913  0.00  0.00           C 0
+ATOM  10436    O HIS B 613      57.413  49.223   9.059  0.30  1.07           O 0
+ATOM   4523    O PRO A 582      62.130  48.387   9.548  0.57  2.14           O 0
+ATOM   4726    O TYR A 608      62.105  54.195   7.845  0.00  0.00           O 0
+ATOM  10412   OH TYR B 608      60.206  51.288   5.071  0.59  1.07           O 0
+ATOM   4524   CB PRO A 582      63.436  50.115   7.363  0.00  0.00           C 0
+ATOM  10425    O GLY B 611      56.728  52.981   7.743  0.62  2.14           O 0
+ATOM   4713  CG1 ILE A 606      59.914  53.741  13.311  0.00  0.00           C 0
+ATOM   4511   CZ PHE A 580      64.075  52.035  11.759  0.00  0.00           C 0
+ATOM   4534    O THR A 584      63.249  48.326  13.302  0.55  1.07           O 0
+ATOM   4698  OE1 GLN A 604      58.839  50.386  15.032  0.27  1.07           O 0
+TER
+END

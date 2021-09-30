@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0144
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8638
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6576
+HEADER 5  - Mean B-factor of pocket residues  : 0.4055
+HEADER 6  - Hydrophobicity Score              : 30.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.6362
+HEADER 10  -Pocket volume (convex hull)       : 3.3893
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   3554   CB GLN B  42     -22.678  -8.350  -6.129  0.00  0.00           C 0
+ATOM   3557  OE1 GLN B  42     -21.447  -9.157  -8.441  0.00  0.00           O 0
+ATOM   3593  OE1 GLU B  46     -25.737 -12.846  -6.206  0.55  9.64           O 0
+ATOM   3594  OE2 GLU B  46     -25.494 -11.005  -7.413  0.78  2.14           O 0
+ATOM   3563   CB TRP B  43     -22.239 -11.144  -1.610  0.00  0.00           C 0
+ATOM   3565  CD1 TRP B  43     -22.733 -13.643  -1.278  0.00  0.00           C 0
+ATOM   3560   CA TRP B  43     -23.424 -10.527  -2.321  0.00  0.00           C 0
+ATOM   5382  CD2 LEU B 273     -19.047 -12.621  -0.824  0.00  0.00           C 0
+ATOM   5262   CB HIS B 258     -14.757 -12.474  -2.417  0.00  0.00           C 0
+ATOM   5254   CB LEU B 257     -17.585 -16.055  -1.836  0.00  0.00           C 0
+ATOM   5253    O LEU B 257     -15.152 -15.579  -3.739  0.33  7.50           O 0
+ATOM   3531   CB PRO B  39     -16.955 -10.065  -4.778  0.00  0.00           C 0
+ATOM   3530    O PRO B  39     -19.907  -9.797  -3.378  0.65  3.21           O 0
+ATOM   3559    N TRP B  43     -22.996  -9.457  -3.195  0.00  0.00           N 0
+ATOM   5256  CD1 LEU B 257     -19.979 -16.217  -1.485  0.00  0.00           C 0
+ATOM   3528   CA PRO B  39     -18.139  -9.103  -4.833  0.00  0.00           C 0
+TER
+END

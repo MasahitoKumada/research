@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.2234
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8047
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5249
+HEADER 5  - Mean B-factor of pocket residues  : 0.5752
+HEADER 6  - Hydrophobicity Score              : 26.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.4026
+HEADER 10  -Pocket volume (convex hull)       : 4.2484
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.6667
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM    998   CA ALA A 125      20.460  29.138  29.245  0.00  0.00           C 0
+ATOM   1001   CB ALA A 125      21.842  29.222  28.620  0.00  0.00           C 0
+ATOM   1002    N GLY A 126      19.358  31.072  28.219  0.00  0.00           N 0
+ATOM     13   CB ARG A   4      22.226  29.722  33.831  0.00  0.00           C 0
+ATOM   1005    O GLY A 126      16.800  32.110  29.089  0.00  0.00           O 0
+ATOM    992    O LEU A 124      20.398  27.917  31.734  0.00  0.00           O 0
+ATOM     10   CA ARG A   4      21.234  30.235  34.868  0.00  0.00           C 0
+ATOM   1017    O ALA A 128      14.522  30.417  31.464  0.65  8.57           O 0
+ATOM    996  CD2 LEU A 124      16.628  27.729  31.078  0.00  0.00           C 0
+ATOM     24   CB ALA A   5      18.174  26.806  35.696  0.00  0.00           C 0
+ATOM   1030    N LEU A 130      13.495  26.778  34.394  0.82  2.19           N 0
+ATOM   1033    O LEU A 130      12.412  26.325  36.869  0.00  0.00           O 0
+ATOM   1023   CB ARG A 129      12.356  29.757  34.050  0.00  0.00           C 0
+ATOM     20    N ALA A   5      20.035  28.254  35.385  0.62  2.19           N 0
+ATOM      4    O ASP A   3      19.834  32.241  36.066  0.00  0.00           O 0
+ATOM   1020   CA ARG A 129      13.132  28.810  33.142  0.00  0.00           C 0
+TER
+END

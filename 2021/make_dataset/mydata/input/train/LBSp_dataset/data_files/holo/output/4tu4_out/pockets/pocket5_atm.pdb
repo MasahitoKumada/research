@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.2211
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8698
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4593
+HEADER 5  - Mean B-factor of pocket residues  : 0.5938
+HEADER 6  - Hydrophobicity Score              : 24.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.5038
+HEADER 10  -Pocket volume (convex hull)       : 5.0791
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM    526  ND1 HIS A1041     -41.334  18.075  -0.731  0.45  2.19           N 0
+ATOM   1102  NH1 ARG A1108     -47.726  22.836   1.140  0.00  0.00           N 0
+ATOM     64  CD2 PHE A 986     -44.668  24.576  -1.301  0.00  0.00           C 0
+ATOM     38   CG GLU A 983     -47.885  20.413  -4.171  0.00  0.00           C 0
+ATOM    105  NH1 ARG A 990     -40.694  20.787  -3.069  0.46  3.28           N 0
+ATOM    528  CE1 HIS A1041     -41.106  17.451  -1.871  0.00  0.00           C 0
+ATOM     37   CB GLU A 983     -47.079  20.960  -5.350  0.00  0.00           C 0
+ATOM    106  NH2 ARG A 990     -40.567  19.437  -4.892  0.33  2.19           N 0
+ATOM     61   CB PHE A 986     -42.702  24.143  -2.806  0.00  0.00           C 0
+ATOM    558  CD2 LEU A1044     -41.938  24.013   2.156  0.00  0.00           C 0
+ATOM    524   CB HIS A1041     -40.066  19.115   1.170  0.00  0.00           C 0
+ATOM     34   CA GLU A 983     -46.520  22.373  -5.137  0.00  0.00           C 0
+ATOM     36    O GLU A 983     -44.297  22.504  -6.071  0.75  4.29           O 0
+TER
+END

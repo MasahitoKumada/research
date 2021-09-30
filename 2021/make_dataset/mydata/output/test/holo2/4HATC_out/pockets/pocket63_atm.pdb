@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    63:
+HEADER 0  - Pocket Score                      : -0.0633
+HEADER 1  - Drug Score                        : 0.0045
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0569
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5886
+HEADER 5  - Mean B-factor of pocket residues  : 0.5099
+HEADER 6  - Hydrophobicity Score              : 9.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.7941
+HEADER 10  -Pocket volume (convex hull)       : 10.8123
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9000
+ATOM   5187   CG GLU C 660     -49.073  54.505   4.036  0.00  0.00           C 0
+ATOM   5227  CD1 LEU C 664     -43.492  56.319   7.184  0.00  0.00           C 0
+ATOM   5152  OE2 GLU C 655     -47.813  53.882   8.671  0.50  9.64           O 1
+ATOM   5186   CB GLU C 660     -47.685  54.018   4.442  0.00  0.00           C 0
+ATOM   5183   CA GLU C 660     -46.703  53.841   3.272  0.00  0.00           C 0
+ATOM   5214   CB ARG C 663     -44.341  56.420   0.590  0.00  0.00           C 0
+ATOM   5215   CG ARG C 663     -44.484  57.893   0.201  0.00  0.00           C 0
+ATOM   5228  CD2 LEU C 664     -43.068  58.561   6.158  0.00  0.00           C 0
+ATOM   5226   CG LEU C 664     -43.124  57.061   5.909  0.00  0.00           C 0
+ATOM   5185    O GLU C 660     -44.557  54.768   3.795  0.63  1.07           O 0
+ATOM   5250  OD2 ASP C 667     -42.175  60.972   2.049  0.00  0.00           O 1
+ATOM   4896  OE1 GLN C 623     -46.163  63.747   5.485  0.00  7.50           O 0
+ATOM   4892   CB GLN C 623     -44.253  63.896   7.822  0.00  0.00           C 0
+ATOM   4867   CG PRO C 620     -47.961  60.970  10.347  0.00  0.00           C 0
+ATOM   4886  CG2 ILE C 622     -43.029  59.730  10.217  0.00  0.00           C 0
+ATOM   4866   CB PRO C 620     -46.721  61.085  11.190  0.00  0.00           C 0
+ATOM   4790    O VAL C 611     -47.003  57.876  11.985  0.34  2.14           O 0
+TER
+END

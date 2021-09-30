@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0119
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8531
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5341
+HEADER 5  - Mean B-factor of pocket residues  : 0.1452
+HEADER 6  - Hydrophobicity Score              : 14.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.3069
+HEADER 10  -Pocket volume (convex hull)       : 6.0408
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1763    O PRO A1311       6.755 -11.052  79.575  0.66  1.07           O 0
+ATOM   1791   CB GLU A1314       9.246 -13.520  79.580  0.00  0.00           C 0
+ATOM   1794  OE1 GLU A1314       8.214 -14.830  81.823  0.61  9.64           O 0
+ATOM   1976  NH1 ARG A1336       3.459 -16.191  77.628  0.00  0.00           N 1
+ATOM   1802  CG2 VAL A1315       5.121 -11.770  76.502  0.00  0.00           C 0
+ATOM   1764   CB PRO A1311       5.596 -10.958  82.644  0.00  0.00           C 0
+ATOM   2004  CD1 ILE A1340       3.262  -9.725  79.708  0.00  0.00           C 0
+ATOM   1971   CB ARG A1336       0.939 -12.851  76.280  0.00  0.00           C 0
+ATOM   1789    C GLU A1314       9.248 -12.858  77.174  0.00  0.00           C 0
+ATOM   1827   NZ LYS A1318       7.164 -17.809  76.654  0.68  3.28           N 1
+ATOM   1796    N VAL A1315       8.312 -11.939  76.942  0.00  0.00           N 0
+ATOM   2002  CG1 ILE A1340       2.196  -9.481  80.801  0.00  0.00           C 0
+ATOM   1970    O ARG A1336      -0.140 -10.552  78.453  0.61  2.14           O 0
+ATOM   1996   CB ALA A1339      -2.468 -11.315  80.874  0.00  0.00           C 0
+ATOM   1972   CG ARG A1336       0.932 -14.368  76.189  0.00  0.00           C 0
+ATOM   1968   CA ARG A1336      -0.367 -12.237  76.755  0.00  0.00           C 0
+TER
+END

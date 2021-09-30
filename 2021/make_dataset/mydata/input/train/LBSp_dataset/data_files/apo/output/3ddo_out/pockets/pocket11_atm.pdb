@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1370
+HEADER 1  - Drug Score                        : 0.0170
+HEADER 2  - Number of alpha spheres           :    38
+HEADER 3  - Mean alpha-sphere radius          : 4.1344
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5742
+HEADER 5  - Mean B-factor of pocket residues  : 0.0446
+HEADER 6  - Hydrophobicity Score              : 48.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 146.2409
+HEADER 10  -Pocket volume (convex hull)       : 2.8079
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 22.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.6053
+ATOM   4505   CB THR C3111      50.296   8.732  24.540  0.00  0.00           C 0
+ATOM   4502   CA THR C3111      49.633   7.365  24.842  0.00  0.00           C 0
+ATOM   4696  OG1 THR C3137      46.783   7.516  28.735  0.86  3.21           O 0
+ATOM   4504    O THR C3111      47.580   7.294  23.600  0.83  2.14           O 0
+ATOM   6405   CA THR D4111      44.253  13.824  22.937  0.00  0.00           C 0
+ATOM   6408   CB THR D4111      43.656  12.656  23.747  0.00  0.00           C 0
+ATOM   6407    O THR D4111      46.064  12.930  21.625  0.81  1.07           O 0
+ATOM   6599  OG1 THR D4137      47.803  16.258  25.341  0.91  2.14           O 0
+ATOM   6562    O ALA D4132      50.261  13.182  22.969  0.86  2.14           O 0
+ATOM   4507  CG2 THR C3111      51.001   9.286  25.780  0.00  0.00           C 0
+ATOM   6558  CG2 VAL D4131      48.660  10.595  21.374  0.00  0.00           C 0
+ATOM   4655  CG2 VAL C3131      44.729   9.039  22.306  0.00  0.00           C 0
+ATOM   6410  CG2 THR D4111      43.251  13.135  25.146  0.00  0.00           C 0
+ATOM   4697  CG2 THR C3137      48.787   8.613  29.556  0.00  0.00           C 0
+ATOM   4675  CD1 PHE C3134      45.249  13.543  29.538  0.00  0.00           C 0
+ATOM   4695   CB THR C3137      47.315   8.308  29.809  0.00  0.00           C 0
+ATOM   6578  CD1 PHE D4134      50.004  12.012  29.734  0.00  0.00           C 0
+ATOM   6573   CA PHE D4134      51.290  13.920  27.392  0.00  0.00           C 0
+ATOM   4659    O ALA C3132      43.783   8.217  25.427  0.66  1.07           O 0
+ATOM   4670   CA PHE C3134      43.601  10.727  29.288  0.00  0.00           C 0
+ATOM   6598   CB THR D4137      47.491  16.341  26.741  0.00  0.00           C 0
+ATOM   6600  CG2 THR D4137      46.009  16.076  26.945  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1853
+HEADER 1  - Drug Score                        : 0.0092
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9628
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5792
+HEADER 5  - Mean B-factor of pocket residues  : 0.1452
+HEADER 6  - Hydrophobicity Score              : -6.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 433.2193
+HEADER 10  -Pocket volume (convex hull)       : 43.0583
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.3077
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5652
+ATOM   2028    O HIS A 115      -0.855  -4.932   5.290  0.50  3.21           O 0
+ATOM   2014    O PRO A 114      -2.191  -7.551   4.408  0.50  1.07           O 0
+ATOM   2044    O TYR A 116       0.885  -3.358   2.477  0.00  0.00           O 0
+ATOM   2015   CB PRO A 114      -0.455  -8.860   6.720  0.00  0.00           C 0
+ATOM   2098   CE LYS A 119       4.843  -7.512   7.257  0.00  0.00           C 0
+ATOM   2464    N ASP A 139       4.853 -14.005   7.390  0.00  0.00           N 0
+ATOM   2468   CB ASP A 139       6.367 -13.073   5.682  0.00  0.00           C 0
+ATOM   2017   CD PRO A 114      -0.896 -10.943   5.656  0.00  0.00           C 0
+ATOM   2016   CG PRO A 114      -0.104 -10.337   6.766  0.00  0.00           C 0
+ATOM   2465   CA ASP A 139       6.075 -14.232   6.633  0.00  0.00           C 0
+ATOM   1828  CG2 VAL A 105      -0.169 -15.246   4.623  0.00  0.00           C 0
+ATOM   2454   CB PRO A 138       1.639 -14.545   7.663  0.00  0.00           C 0
+ATOM   2099   NZ LYS A 119       5.665  -8.562   6.614  0.54  5.47           N 1
+ATOM   2097   CD LYS A 119       5.336  -6.130   6.853  0.00  0.00           C 0
+ATOM   2095   CB LYS A 119       5.099  -3.667   7.138  0.00  0.00           C 0
+ATOM   2120  OD1 ASN A 120       6.430   0.070   4.227  0.54  2.14           O 0
+ATOM   2119  ND2 ASN A 120       4.435  -0.208   3.222  0.00  0.00           N 0
+ATOM   2456   CD PRO A 138       1.671 -12.707   9.184  0.00  0.00           C 0
+ATOM   2452    C PRO A 138       4.141 -15.035   7.825  0.00  0.00           C 0
+ATOM   2453    O PRO A 138       4.524 -16.186   7.670  0.32  4.29           O 0
+ATOM   2096   CG LYS A 119       4.553  -5.049   7.530  0.00  0.00           C 0
+ATOM   2042   CA TYR A 116      -1.312  -4.274   2.623  0.00  0.00           C 0
+TER
+END

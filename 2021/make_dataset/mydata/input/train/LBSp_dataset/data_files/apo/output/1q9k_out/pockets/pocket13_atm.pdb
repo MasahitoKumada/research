@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0174
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9046
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5700
+HEADER 5  - Mean B-factor of pocket residues  : 0.5919
+HEADER 6  - Hydrophobicity Score              : 17.8750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.9607
+HEADER 10  -Pocket volume (convex hull)       : 4.6197
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM   1257  CG1 VAL A 158     -10.474 -35.369  73.573  0.00  0.00           C 0
+ATOM   1256   CB VAL A 158     -10.063 -36.052  72.279  0.00  0.00           C 0
+ATOM   1235   CB GLN A 155     -11.435 -33.424  67.295  0.00  0.00           C 0
+ATOM   1258  CG2 VAL A 158      -8.921 -35.281  71.643  0.00  0.00           C 0
+ATOM   1234    O GLN A 155     -10.881 -36.158  68.651  0.51  5.36           O 0
+ATOM   1149    O VAL A 145     -11.853 -29.179  73.690  0.48  8.57           O 0
+ATOM   1223    O ARG A 154      -8.478 -32.096  68.635  0.61  2.14           O 0
+ATOM   1219  OE2 GLU A 153     -11.444 -28.536  67.204  0.23  5.36           O 0
+ATOM   1274  ND2 ASN A 160     -13.555 -34.251  75.507  0.00  0.00           N 0
+ATOM   1255    O VAL A 158     -11.709 -38.661  72.952  0.30  9.64           O 0
+ATOM   1232   CA GLN A 155     -10.127 -34.060  67.758  0.00  0.00           C 0
+ATOM   1168  CD1 TRP A 147      -7.596 -32.365  73.543  0.00  0.00           C 0
+ATOM   1162    N TRP A 147      -7.786 -29.202  71.784  0.65  1.09           N 0
+ATOM   1154   CA LYS A 146      -9.668 -27.883  72.545  0.00  0.00           C 0
+TER
+END

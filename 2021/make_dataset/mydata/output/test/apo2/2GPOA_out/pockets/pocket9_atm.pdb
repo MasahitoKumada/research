@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0279
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8646
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6913
+HEADER 5  - Mean B-factor of pocket residues  : 0.1999
+HEADER 6  - Hydrophobicity Score              : 23.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.8845
+HEADER 10  -Pocket volume (convex hull)       : 7.0970
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6316
+ATOM   1498   CG LYS A 416      18.159  38.191  40.766  0.00  0.00           C 0
+ATOM   1525   CE MET A 419      24.598  38.571  41.663  0.00  0.00           C 0
+ATOM   1497   CB LYS A 416      18.412  37.172  39.630  0.00  0.00           C 0
+ATOM   1494   CA LYS A 416      19.635  37.526  38.759  0.00  0.00           C 0
+ATOM   1524   SD MET A 419      23.609  39.356  40.406  0.00  0.00           S 0
+ATOM   1499   CD LYS A 416      16.985  37.751  41.657  0.00  0.00           C 0
+ATOM   1003   CG MET A 359      16.665  31.750  40.590  0.00  0.00           C 0
+ATOM   1005   CE MET A 359      17.599  33.522  38.740  0.00  0.00           C 0
+ATOM   1004   SD MET A 359      18.063  31.963  39.456  0.00  0.00           S 0
+ATOM   1496    O LYS A 416      20.755  35.567  37.923  0.73  2.14           O 0
+ATOM    965   CDALYS A 355      22.071  30.251  40.517  0.00  0.00           C 0
+ATOM   1531  CG2 THR A 420      21.363  32.202  37.644  0.00  0.00           C 0
+ATOM    969   NZALYS A 355      24.507  30.861  40.397  0.03  8.75           N 1
+ATOM   1521    O MET A 419      25.259  34.363  38.513  0.00  0.00           O 0
+ATOM   1522   CB MET A 419      23.864  36.999  38.930  0.00  0.00           C 0
+ATOM   1520    C MET A 419      24.402  34.813  37.757  0.00  0.00           C 0
+TER
+END

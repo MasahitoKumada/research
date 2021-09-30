@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0329
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7823
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5129
+HEADER 5  - Mean B-factor of pocket residues  : 0.3365
+HEADER 6  - Hydrophobicity Score              : 8.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 6.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.1006
+HEADER 10  -Pocket volume (convex hull)       : 3.5642
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM    759  NH2AARG A  35      39.601  39.623  27.091  0.00  0.00           N 0
+ATOM    799   CDAARG A  36      45.919  38.972  31.133  0.00  0.00           C 0
+ATOM    757  NH1AARG A  35      41.555  39.645  25.884  0.63  9.84           N 0
+ATOM    805  NH1AARG A  36      47.055  41.441  30.267  0.00  0.00           N 0
+ATOM    801   NEAARG A  36      46.894  39.143  30.051  0.00  0.00           N 0
+ATOM    803   CZAARG A  36      47.403  40.311  29.659  0.00  0.00           C 0
+ATOM    795   CBAARG A  36      44.808  36.710  30.925  0.00  0.00           C 0
+ATOM    789   CAAARG A  36      45.172  36.365  29.473  0.00  0.00           C 0
+ATOM    787    NAARG A  36      44.095  35.626  28.807  0.72  1.09           N 0
+ATOM    629    OAARG A  32      41.631  35.418  30.110  0.62  2.14           O 0
+ATOM    755   CZAARG A  35      40.424  39.024  26.253  0.00  0.00           C 0
+ATOM    631   CBAARG A  32      38.557  36.188  30.835  0.00  0.00           C 0
+ATOM    870   SD MET A  39      44.961  39.337  24.927  0.00  0.00           S 0
+ATOM    871   CE MET A  39      45.756  40.884  24.591  0.00  0.00           C 0
+TER
+END

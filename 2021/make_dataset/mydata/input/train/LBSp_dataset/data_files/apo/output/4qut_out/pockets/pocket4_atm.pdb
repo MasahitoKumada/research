@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.3385
+HEADER 1  - Drug Score                        : 0.0211
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0015
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6008
+HEADER 5  - Mean B-factor of pocket residues  : 0.3123
+HEADER 6  - Hydrophobicity Score              : -0.2500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.5495
+HEADER 10  -Pocket volume (convex hull)       : 3.7690
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM    136  CD1 ILE A 991       2.709  45.947  10.713  0.00  0.00           C 0
+ATOM    133   CB ILE A 991       4.545  44.655   9.509  0.00  0.00           C 0
+ATOM    135  CG2 ILE A 991       5.496  44.368  10.689  0.00  0.00           C 0
+ATOM    106   CG GLU A 988       0.703  40.511   9.747  0.00  0.00           C 0
+ATOM    107   CD GLU A 988       0.074  39.605  10.763  0.00  0.00           C 0
+ATOM    108  OE1 GLU A 988      -1.087  39.784  11.195  0.00  0.00           O 0
+ATOM     51    O ASP A 984      -3.203  43.606   8.511  0.63  2.14           O 0
+ATOM     53   CG ASP A 984      -6.643  45.484  10.699  0.00  0.00           C 0
+ATOM     95  NH1AARG A 987      -0.219  48.200  12.091  0.00  0.00           N 0
+ATOM     54  OD1 ASP A 984      -6.286  46.647  10.520  0.56  9.64           O 0
+ATOM    105   CB GLU A 988      -0.177  41.633   9.235  0.00  0.00           C 0
+ATOM    109  OE2 GLU A 988       0.788  38.613  11.131  0.40  7.50           O 0
+ATOM     52   CB ASP A 984      -6.087  44.335   9.852  0.00  0.00           C 0
+ATOM    101    N GLU A 988      -0.307  43.770   8.005  0.66  1.09           N 0
+ATOM    102   CA GLU A 988       0.598  42.759   8.595  0.00  0.00           C 0
+ATOM     86   CDAARG A 987      -1.117  48.610   9.377  0.00  0.00           C 0
+ATOM     83   CGAARG A 987      -0.465  47.432   8.707  0.00  0.00           C 0
+TER
+END

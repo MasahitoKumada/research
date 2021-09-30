@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0212
+HEADER 1  - Drug Score                        : 0.0219
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0191
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5336
+HEADER 5  - Mean B-factor of pocket residues  : 0.5109
+HEADER 6  - Hydrophobicity Score              : 10.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 296.5621
+HEADER 10  -Pocket volume (convex hull)       : 12.6907
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5652
+ATOM   2034   CD PRO B 325      21.717  25.898  25.037  0.00  0.00           C 0
+ATOM   2018   CB THR B 323      20.008  28.831  26.199  0.00  0.00           C 0
+ATOM   2033   CG PRO B 325      21.422  24.473  25.399  0.00  0.00           C 0
+ATOM   2020  CG2 THR B 323      19.336  29.426  27.411  0.00  0.00           C 0
+ATOM    386  ND1 HIS A  50      27.288  26.282  29.212  0.00  0.00           N 0
+ATOM    213  OE1 GLU A  30      26.992  27.015  26.218  0.58  2.14           O 0
+ATOM   2019  OG1 THR B 323      19.069  27.907  25.595  0.64  3.21           O 0
+ATOM    388  CE1 HIS A  50      26.918  27.349  29.905  0.00  0.00           C 0
+ATOM   2027   CD PRO B 324      23.218  29.046  25.170  0.00  0.00           C 0
+ATOM    389  NE2 HIS A  50      26.672  26.993  31.140  0.00  0.00           N 0
+ATOM    387  CD2 HIS A  50      26.888  25.642  31.254  0.00  0.00           C 0
+ATOM    385   CG HIS A  50      27.282  25.185  30.037  0.00  0.00           C 0
+ATOM    384   CB HIS A  50      27.663  23.834  29.546  0.00  0.00           C 0
+ATOM    214  OE2 GLU A  30      28.086  25.193  26.526  0.70  1.07           O 0
+ATOM    252  CD2 LEU A  34      25.736  21.743  22.424  0.00  0.00           C 0
+ATOM    251  CD1 LEU A  34      24.837  23.976  23.116  0.00  0.00           C 0
+ATOM    380    N HIS A  50      29.337  22.392  28.553  0.00  0.00           N 0
+ATOM    369    O LEU A  48      31.152  22.013  25.120  0.47  5.36           O 0
+ATOM    375   CA SER A  49      30.650  20.695  27.477  0.00  0.00           C 0
+TER
+END

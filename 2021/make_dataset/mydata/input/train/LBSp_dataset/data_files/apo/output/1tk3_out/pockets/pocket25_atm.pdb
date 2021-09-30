@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0769
+HEADER 1  - Drug Score                        : 0.0046
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6255
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4381
+HEADER 5  - Mean B-factor of pocket residues  : 0.1786
+HEADER 6  - Hydrophobicity Score              : 54.8000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 133.6770
+HEADER 10  -Pocket volume (convex hull)       : 2.3537
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM  10297  CE3 TRP B 563     120.657  77.625 110.416  0.00  0.00           C 0
+ATOM  10804  CZ2 TRP B 627     121.506  74.145 108.906  0.00  0.00           C 0
+ATOM  10156  OD2 ASP B 545     125.488  73.240 110.384  0.46  2.14           O 0
+ATOM  10801  NE1 TRP B 627     121.850  73.618 111.340  0.00  0.00           N 0
+ATOM  10301    N ALA B 564     125.053  79.643 110.390  0.73  2.19           N 0
+ATOM  10305   CB ALA B 564     126.602  78.209 111.632  0.00  0.00           C 0
+ATOM  10139  CD1 LEU B 543     121.570  75.460 114.719  0.00  0.00           C 0
+ATOM  10389  CG1 VAL B 575     125.994  75.582 114.157  0.00  0.00           C 0
+ATOM  10331  CD1 LEU B 567     121.781  79.014 113.901  0.00  0.00           C 0
+ATOM  10287    N TRP B 563     124.605  80.523 107.754  0.77  1.09           N 0
+ATOM   6036   OH TYR B  48     122.901  80.178 103.989  0.42  5.36           O 0
+ATOM  10283   CB ASN B 562     126.846  79.371 106.452  0.00  0.00           C 0
+ATOM  11796   OH TYR B 752     120.782  76.419 104.967  0.58  6.43           O 0
+ATOM  10291   CB TRP B 563     122.448  79.744 108.617  0.00  0.00           C 0
+ATOM  10284   CG ASN B 562     127.580  78.748 107.633  0.00  0.00           C 0
+ATOM  10286  ND2 ASN B 562     128.118  77.545 107.435  0.75  2.19           N 0
+TER
+END

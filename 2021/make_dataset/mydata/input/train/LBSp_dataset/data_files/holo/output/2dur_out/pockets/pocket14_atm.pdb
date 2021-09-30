@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0452
+HEADER 1  - Drug Score                        : 0.0046
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9601
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5347
+HEADER 5  - Mean B-factor of pocket residues  : 0.2099
+HEADER 6  - Hydrophobicity Score              : 64.8571
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.0754
+HEADER 10  -Pocket volume (convex hull)       : 7.9113
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8125
+ATOM   1585  CG2 ILE A 242      89.434  -1.340  45.388  0.00  0.00           C 0
+ATOM   2025  CE2 PHE A 298      86.185   5.808  46.074  0.00  0.00           C 0
+ATOM   2023  CD2 PHE A 298      84.869   5.430  46.329  0.00  0.00           C 0
+ATOM   1226    O LEU A 199      91.040   2.796  48.040  0.27  7.50           O 0
+ATOM   1583   CB ILE A 242      88.760  -1.200  44.001  0.00  0.00           C 0
+ATOM   1580   CA ILE A 242      88.149  -2.555  43.559  0.00  0.00           C 0
+ATOM   1587    N THR A 243      86.198  -1.739  42.378  0.00  0.00           N 0
+ATOM   1590    O THR A 243      85.267   0.712  42.074  0.00  0.00           O 0
+ATOM   1592  OG1 THR A 243      83.400  -2.144  42.503  0.45  7.50           O 0
+ATOM   2031   CB LEU A 299      79.565   1.009  46.908  0.00  0.00           C 0
+ATOM   2027    N LEU A 299      80.519   3.090  46.039  0.46  7.66           N 0
+ATOM   1230  CD2 LEU A 199      89.627   4.826  44.914  0.00  0.00           C 0
+ATOM   1586  CD1 ILE A 242      90.313   0.711  43.263  0.00  0.00           C 0
+ATOM   2011    O ASN A 297      83.099   4.027  42.825  0.54  3.21           O 0
+ATOM   2017   CA PHE A 298      81.851   4.894  45.145  0.00  0.00           C 0
+ATOM   2006  CG1 VAL A 296      86.503   4.911  42.497  0.00  0.00           C 0
+TER
+END

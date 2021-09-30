@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0626
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8169
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5057
+HEADER 5  - Mean B-factor of pocket residues  : 0.4763
+HEADER 6  - Hydrophobicity Score              : 3.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.9380
+HEADER 10  -Pocket volume (convex hull)       : 11.4109
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   5805    N GLU A 736       8.816 -16.403  44.424  0.58  2.19           N 0
+ATOM   5832   OG SER A 739       3.922 -15.166  47.128  0.00  0.00           O 0
+ATOM   5831   CB SER A 739       4.308 -16.193  46.210  0.00  0.00           C 0
+ATOM   5809   CB GLU A 736       9.220 -16.062  46.815  0.00  0.00           C 0
+ATOM   5846  OE2 GLU A 741       3.791 -12.052  43.208  0.00  0.00           O 0
+ATOM   5779    N PHE A 733       9.998  -9.246  40.150  0.63  3.28           N 0
+ATOM   5786  CD2 PHE A 733      11.364  -7.382  43.578  0.00  0.00           C 0
+ATOM   3468   CG LYS A 446       9.799  -4.712  40.061  0.00  0.00           C 0
+ATOM   3470   CE LYS A 446       9.054  -3.220  41.943  0.00  0.00           C 0
+ATOM   5782    O PHE A 733       9.798 -11.838  40.200  0.65  2.14           O 0
+ATOM   5783   CB PHE A 733      11.153  -9.540  42.287  0.00  0.00           C 0
+ATOM   3469   CD LYS A 446      10.167  -4.132  41.437  0.00  0.00           C 0
+ATOM   5774   CD ARG A 732       5.599 -10.559  38.033  0.00  0.00           C 0
+ATOM   5843   CG GLU A 741       3.578 -13.732  41.504  0.00  0.00           C 0
+ATOM   5773   CG ARG A 732       6.443  -9.371  37.653  0.00  0.00           C 0
+ATOM   5844   CD GLU A 741       3.350 -13.186  42.923  0.00  0.00           C 0
+ATOM   5842   CB GLU A 741       4.338 -15.054  41.465  0.00  0.00           C 0
+ATOM   5799   CA PRO A 735       8.773 -15.795  42.090  0.00  0.00           C 0
+ATOM   5793    O MET A 734      10.581 -13.818  42.960  0.60  5.36           O 0
+TER
+END

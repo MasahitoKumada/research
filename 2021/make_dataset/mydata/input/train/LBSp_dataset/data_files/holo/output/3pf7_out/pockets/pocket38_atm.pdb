@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.0367
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8653
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5697
+HEADER 5  - Mean B-factor of pocket residues  : 0.2875
+HEADER 6  - Hydrophobicity Score              : -27.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.4261
+HEADER 10  -Pocket volume (convex hull)       : 2.2346
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   5270   CE LYS A 323     -28.944  30.824 -21.685  0.00  0.00           C 0
+ATOM   5223   CG GLU A 320     -32.477  28.562 -22.223  0.00  0.00           C 0
+ATOM   5226  OE2 GLU A 320     -30.535  27.314 -22.761  0.00  0.00           O 0
+ATOM   5271   NZ LYS A 323     -28.044  31.173 -20.557  0.00  0.00           N 0
+ATOM   5255  OE1 GLU A 322     -33.323  32.405 -15.467  0.00  0.00           O 0
+ATOM   5268   CG LYS A 323     -30.142  33.071 -21.623  0.00  0.00           C 0
+ATOM   3858   NZALYS A 234     -30.998  23.983 -15.880  0.00  0.00           N 0
+ATOM   5252   CB GLU A 322     -33.238  34.567 -17.496  0.00  0.00           C 0
+ATOM   5219   CA GLU A 320     -34.348  30.085 -21.536  0.00  0.00           C 0
+ATOM   3690  OE2 GLU A 223     -35.911  29.649 -18.179  0.48  7.50           O 0
+ATOM   5222   CB GLU A 320     -33.130  29.954 -22.460  0.00  0.00           C 0
+ATOM   5248    N GLU A 322     -34.732  33.902 -19.337  0.66  1.09           N 0
+ATOM   5220    C GLU A 320     -34.840  31.516 -21.395  0.00  0.00           C 0
+TER
+END

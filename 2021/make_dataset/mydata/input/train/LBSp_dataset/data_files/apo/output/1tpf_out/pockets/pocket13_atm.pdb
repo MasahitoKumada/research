@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0565
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7956
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5316
+HEADER 5  - Mean B-factor of pocket residues  : 0.1947
+HEADER 6  - Hydrophobicity Score              : 17.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 195.8320
+HEADER 10  -Pocket volume (convex hull)       : 5.1916
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   1771    N GLY A 235      33.323  22.578 -13.953  0.00  0.00           N 0
+ATOM    114  ND2 ASN A  15      32.290  17.495  -9.089  0.73  4.37           N 0
+ATOM   1792  CD1 LEU A 238      29.750  20.083 -10.525  0.00  0.00           C 0
+ATOM     81    O TRP A  12      31.059  16.506 -11.480  0.43  1.07           O 0
+ATOM     97   CG LYS A  13      34.635  16.521 -13.282  0.00  0.00           C 0
+ATOM   1772   CA GLY A 235      32.529  23.230 -12.924  0.00  0.00           C 0
+ATOM   1769    C GLY A 234      32.814  21.790 -14.891  0.00  0.00           C 0
+ATOM     73    O ASN A  11      31.804  17.793 -15.126  0.00  0.00           O 0
+ATOM   2430   CA ALA B  73      37.559  16.986  -9.674  0.00  0.00           C 0
+ATOM   2429    N ALA B  73      37.097  17.142  -8.304  0.66  4.37           N 0
+ATOM   2433   CB ALA B  73      38.426  18.191 -10.032  0.00  0.00           C 0
+ATOM    113  OD1 ASN A  15      31.931  18.059  -6.922  0.00  0.00           O 0
+ATOM     98   CD LYS A  13      35.863  17.415 -13.049  0.00  0.00           C 0
+ATOM    100   NZ LYS A  13      37.523  18.955 -14.040  0.71  1.09           N 0
+ATOM   2427    C GLY B  72      35.981  16.559  -7.853  0.00  0.00           C 0
+ATOM   2426   CA GLY B  72      35.687  16.889  -6.423  0.00  0.00           C 0
+TER
+END

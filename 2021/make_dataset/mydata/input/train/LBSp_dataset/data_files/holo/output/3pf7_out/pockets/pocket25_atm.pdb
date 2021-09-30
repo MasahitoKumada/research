@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0567
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9698
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6095
+HEADER 5  - Mean B-factor of pocket residues  : 0.1779
+HEADER 6  - Hydrophobicity Score              : -6.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.6405
+HEADER 10  -Pocket volume (convex hull)       : 9.2000
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   3280   CG PRO A 198     -43.461   0.543 -34.771  0.00  0.00           C 0
+ATOM   3296  OD2 ASP A 199     -40.163  -0.260 -36.515  0.73  2.14           O 0
+ATOM   3279   CB PRO A 198     -43.831  -0.768 -34.248  0.00  0.00           C 0
+ATOM   7047   CBAARG A 433     -43.374  -0.742 -40.917  0.00  0.00           C 0
+ATOM   7045    OAARG A 433     -41.435  -3.240 -40.290  0.53  3.21           O 0
+ATOM   3278    O PRO A 198     -41.683  -2.781 -33.245  0.68  5.36           O 0
+ATOM   7093  CD1 LEU A 434     -43.922  -7.477 -42.000  0.00  0.00           C 0
+ATOM   7087    N LEU A 434     -42.334  -3.515 -42.322  0.00  0.00           N 0
+ATOM   7004    O GLU A 430     -44.536  -2.475 -43.891  0.50  2.14           O 0
+ATOM   7043    CAARG A 433     -41.909  -2.759 -41.317  0.00  0.00           C 0
+ATOM   7051   CDAARG A 433     -44.725   1.253 -40.079  0.00  0.00           C 0
+ATOM   7088   CA LEU A 434     -42.150  -4.962 -42.309  0.00  0.00           C 0
+ATOM   7148   CB HIS A 437     -40.771  -5.827 -38.513  0.00  0.00           C 0
+ATOM   7150  ND1 HIS A 437     -41.476  -6.790 -36.284  0.56  4.37           N 0
+ATOM   7149   CG HIS A 437     -41.271  -6.940 -37.639  0.00  0.00           C 0
+ATOM   7152  CE1 HIS A 437     -41.916  -7.927 -35.776  0.00  0.00           C 0
+ATOM   7153  NE2 HIS A 437     -41.991  -8.816 -36.752  0.61  7.66           N 0
+TER
+END

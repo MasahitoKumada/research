@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0220
+HEADER 1  - Drug Score                        : 0.0354
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0480
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6244
+HEADER 5  - Mean B-factor of pocket residues  : 0.3300
+HEADER 6  - Hydrophobicity Score              : -7.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 364.4118
+HEADER 10  -Pocket volume (convex hull)       : 15.1526
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    546  OE1 GLU D3109      68.062  22.485   7.613  0.00  0.00           O 0
+ATOM    543   CB GLU D3109      68.575  25.220   8.408  0.00  0.00           C 0
+ATOM    545   CD GLU D3109      69.252  22.838   7.710  0.00  0.00           C 0
+ATOM   1646   CB PRO D3250      69.771  27.760   1.817  0.00  0.00           C 0
+ATOM    578   CD LYS D3113      65.162  29.216   3.262  0.00  0.00           C 0
+ATOM    547  OE2 GLU D3109      70.188  22.215   7.165  0.00  0.00           O 1
+ATOM    568   CB ASP D3112      71.524  29.373   6.705  0.00  0.00           C 0
+ATOM    571  OD2 ASP D3112      72.834  27.596   7.550  0.62  2.14           O 1
+ATOM    540   CA GLU D3109      69.206  26.570   8.788  0.00  0.00           C 0
+ATOM   1632  CG2 ILE D3248      74.494  28.843   4.566  0.00  0.00           C 0
+ATOM   1642    N PRO D3250      71.363  28.960   0.603  0.00  0.00           N 0
+ATOM   1648   CD PRO D3250      71.400  29.441   1.998  0.00  0.00           C 0
+ATOM   1634    N ASN D3249      74.444  29.525   0.782  0.00  0.00           N 0
+ATOM   1627   CA ILE D3248      76.027  29.316   2.620  0.00  0.00           C 0
+ATOM   1633  CD1 ILE D3248      77.149  27.310   4.610  0.00  0.00           C 0
+ATOM   1624    O ALA D3247      77.736  28.162   0.781  0.00  0.00           O 0
+ATOM   1412  NH2 ARG D3219      75.280  25.834   7.830  0.50  5.47           N 0
+ATOM    542    O GLU D3109      68.171  28.337   7.534  0.69  6.43           O 0
+ATOM    576   CB LYS D3113      66.913  30.202   4.791  0.00  0.00           C 0
+ATOM    544   CG GLU D3109      69.588  24.072   8.542  0.00  0.00           C 0
+TER
+END

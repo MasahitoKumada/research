@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0760
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0357
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6553
+HEADER 5  - Mean B-factor of pocket residues  : 0.3285
+HEADER 6  - Hydrophobicity Score              : -22.7143
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 299.5406
+HEADER 10  -Pocket volume (convex hull)       : 12.4925
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   2039   CD GLU A1592     -22.167  -7.018  -6.826  0.00  0.00           C 0
+ATOM   1491   CB ASN A1560     -22.170  -7.533  -1.729  0.00  0.00           C 0
+ATOM   2040  OE1 GLU A1592     -22.666  -6.135  -7.577  0.00  0.00           O 0
+ATOM   2041  OE2 GLU A1592     -22.806  -7.995  -6.351  0.53  2.14           O 0
+ATOM   1494  ND2 ASN A1560     -20.925  -5.449  -1.802  0.62  7.66           N 0
+ATOM   2036    O GLU A1592     -18.610  -3.334  -4.664  0.65  1.07           O 0
+ATOM   2037   CB GLU A1592     -20.290  -5.480  -6.217  0.00  0.00           C 0
+ATOM   2056  NE2 GLN A1593     -22.658  -0.920  -7.333  0.00  4.37           N 0
+ATOM   1506   CG GLU A1561     -27.100  -8.315  -1.515  0.00  0.00           C 0
+ATOM   1508  OE1 GLU A1561     -26.894  -6.953   0.431  0.00  0.00           O 0
+ATOM   1507   CD GLU A1561     -27.669  -7.394  -0.452  0.00  0.00           C 0
+ATOM   3224   NE ARG A1661     -28.411  -8.365  -6.152  0.69  2.19           N 0
+ATOM   1509  OE2 GLU A1561     -28.888  -7.099  -0.503  0.00  0.00           O 0
+ATOM   3262  OE1AGLU A1663     -28.241  -3.898 -10.512  0.00  0.00           O 0
+ATOM   3255    N GLU A1663     -25.198  -7.578 -10.942  0.00  0.00           N 0
+ATOM   2455  NH2AARG A1617     -23.406  -3.659  -9.714  0.11  2.19           N 0
+ATOM   3260   CGAGLU A1663     -26.377  -4.825 -11.704  0.00  0.00           C 0
+ATOM   1492   CG ASN A1560     -20.986  -6.697  -2.232  0.00  0.00           C 0
+ATOM   3223   CD ARG A1661     -27.126  -8.757  -6.714  0.00  0.00           C 0
+ATOM   3259   CBAGLU A1663     -27.086  -6.152 -11.608  0.00  0.00           C 0
+TER
+END

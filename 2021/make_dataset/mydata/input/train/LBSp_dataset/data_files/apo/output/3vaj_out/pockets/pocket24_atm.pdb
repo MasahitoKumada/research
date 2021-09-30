@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.1241
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7903
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5261
+HEADER 5  - Mean B-factor of pocket residues  : 0.3436
+HEADER 6  - Hydrophobicity Score              : 20.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.1977
+HEADER 10  -Pocket volume (convex hull)       : 3.1520
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   1282   CE LYS A 328     -39.207  15.184  32.618  0.00  0.00           C 0
+ATOM    808    O LEU A 266     -38.248  13.719  28.094  0.54  4.29           O 0
+ATOM   1283   NZ LYS A 328     -40.422  14.762  33.369  0.58  6.56           N 0
+ATOM    827  ND2 ASN A 268     -43.106  16.178  26.734  0.00  0.00           N 0
+ATOM   1069    O LYS A 300     -42.868  10.308  27.951  0.65  8.57           O 0
+ATOM   1076   CA GLY A 301     -40.310  11.039  27.078  0.00  0.00           C 0
+ATOM   1078    O GLY A 301     -38.782  10.016  28.601  0.71  2.14           O 0
+ATOM    801    N GLY A 265     -37.311  10.239  31.660  0.73  5.47           N 0
+ATOM    802   CA GLY A 265     -37.019  11.654  31.883  0.00  0.00           C 0
+ATOM   1083   CB TYR A 302     -39.704   6.785  28.718  0.00  0.00           C 0
+ATOM   1086  CD2 TYR A 302     -42.189   7.165  28.754  0.00  0.00           C 0
+ATOM    798   CA GLY A 264     -36.886   7.864  31.563  0.00  0.00           C 0
+ATOM    788   CZ PHE A 262     -39.291   4.735  31.977  0.00  0.00           C 0
+TER
+END

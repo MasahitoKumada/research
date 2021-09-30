@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1829
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.7995
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4608
+HEADER 5  - Mean B-factor of pocket residues  : 0.2319
+HEADER 6  - Hydrophobicity Score              : 22.3333
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 5.0833
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.4034
+HEADER 10  -Pocket volume (convex hull)       : 8.9587
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3571
+ATOM   1777  NH2AARG A 228      28.119  62.487   7.252  0.33  7.66           N 0
+ATOM   1566    O ALA A 204      31.292  60.864   4.423  0.00  0.00           O 0
+HETATM 8545   ZN ZN  A1046      34.482  63.880   7.959  0.00  0.00          ZN 0
+ATOM   1567   CB ALA A 204      33.045  60.469   6.856  0.00  0.00           C 0
+ATOM   1583  CE1 PHE A 206      30.850  63.925   3.272  0.00  0.00           C 0
+ATOM   5957   OH TYR A 727      29.987  69.229   4.925  0.00  0.00           O 0
+ATOM   5955  CE2 TYR A 727      29.134  67.900   3.149  0.00  0.00           C 0
+ATOM   7152    O ARG A 876      27.174  68.829   8.049  0.51  6.43           O 0
+ATOM   3894  OD1 ASP A 472      33.458  67.713   4.334  0.00  0.00           O 0
+ATOM    571  CE2 TRP A  95      31.859  69.995   7.611  0.00  0.00           C 0
+ATOM   3895  OD2 ASP A 472      35.032  67.125   5.781  0.00  0.00           O 0
+ATOM   3388  CH2 TRP A 415      26.098  64.703   4.046  0.00  0.00           C 0
+ATOM    569  CD2 TRP A  95      33.034  69.796   8.335  0.00  0.00           C 0
+ATOM    572  CE3 TRP A  95      32.955  69.392   9.684  0.00  0.00           C 0
+ATOM   2735  OD2 ASP A 341      31.764  65.507  12.548  0.70  6.43           O 0
+ATOM    575  CH2 TRP A  95      30.560  69.439   9.481  0.00  0.00           C 0
+ATOM   2155   OH TYR A 269      31.272  62.236  10.740  0.55  1.07           O 0
+ATOM    550  OD2 ASP A  92      35.165  66.132   9.933  0.00  0.00           O 0
+ATOM    574  CZ3 TRP A  95      31.717  69.217  10.258  0.00  0.00           C 0
+ATOM    573  CZ2 TRP A  95      30.604  69.820   8.177  0.00  0.00           C 0
+TER
+END

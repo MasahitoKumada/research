@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1588
+HEADER 1  - Drug Score                        : 0.0087
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.6074
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4150
+HEADER 5  - Mean B-factor of pocket residues  : 0.5555
+HEADER 6  - Hydrophobicity Score              : 28.2000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.9731
+HEADER 10  -Pocket volume (convex hull)       : 11.6638
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   8736  OD1 ASP B 405      -7.240  -3.198  11.224  0.92  2.14           O 0
+ATOM   6758   OG SER B 144      -8.230  -6.471   8.458  0.73  6.43           O 0
+ATOM   6090    O SER B  59      -6.115  -1.763   6.874  0.50  1.07           O 0
+ATOM   6757   CB SER B 144      -8.182  -6.185   9.842  0.00  0.00           C 0
+ATOM   6159  CG2ATHR B  68      -1.353  -4.803   8.617  0.00  0.00           C 0
+ATOM   6091   CB SER B  59      -4.875  -0.686   9.672  0.00  0.00           C 0
+ATOM   6174  CD1 PHE B  70      -4.526  -6.045  13.126  0.00  0.00           C 0
+ATOM   6436  CD2 PHE B 102      -2.870  -8.551  10.250  0.00  0.00           C 0
+ATOM   6088   CA SER B  59      -4.339  -0.912   8.242  0.00  0.00           C 0
+ATOM   6140   CE LYS B  66      -3.703  -4.261   5.086  0.00  0.00           C 0
+ATOM   6141   NZ LYS B  66      -4.509  -3.100   5.401  0.80  1.09           N 0
+ATOM   6734   NE ARG B 141      -4.592 -11.850   8.473  0.83  2.19           N 0
+ATOM   6123    O MET B  64      -2.331  -9.338   3.303  0.00  0.00           O 0
+ATOM   6715  CH2 TRP B 138      -1.237 -11.341   6.780  0.00  0.00           C 0
+ATOM   6126   SD MET B  64      -7.141  -9.463   4.746  0.00  0.00           S 0
+ATOM   6713  CZ2 TRP B 138      -2.088 -12.032   5.958  0.00  0.00           C 0
+ATOM   6737  NH2 ARG B 141      -5.832 -12.219   6.577  0.00  0.00           N 0
+ATOM   6169   CA PHE B  70      -1.794  -4.448  13.761  0.00  0.00           C 0
+ATOM   6136    O LYS B  66       0.454  -7.444   4.857  0.00  0.00           O 0
+ATOM   6433   CB PHE B 102      -0.433  -8.518   9.573  0.00  0.00           C 0
+ATOM   6138   CG LYS B  66      -1.660  -5.183   3.915  0.00  0.00           C 0
+ATOM   6127   CE MET B  64      -7.144  -7.677   4.578  0.00  0.00           C 0
+ATOM   6121   CA MET B  64      -4.582  -8.767   2.653  0.00  0.00           C 0
+TER
+END

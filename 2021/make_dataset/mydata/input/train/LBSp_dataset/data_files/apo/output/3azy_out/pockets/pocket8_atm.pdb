@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0853
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7264
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4214
+HEADER 5  - Mean B-factor of pocket residues  : 0.6856
+HEADER 6  - Hydrophobicity Score              : 21.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.9098
+HEADER 10  -Pocket volume (convex hull)       : 1.5656
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   2314  ND1 HIS B  36     -27.509  92.239 101.172  0.00  0.00           N 0
+ATOM   2308    N HIS B  36     -29.706  90.178 101.387  0.00  0.00           N 0
+ATOM   2312   CB HIS B  36     -29.428  92.174 102.818  0.00  0.00           C 0
+ATOM   2296    N ASN B  34     -29.769  91.309  96.771  0.00  0.00           N 0
+ATOM   2612  OD2 ASP B  74     -31.321  96.610  98.690  0.56  5.36           O 0
+ATOM   2322   CB ALA B  37     -34.644  90.954 102.011  0.00  0.00           C 0
+ATOM   2293   CA GLY B  33     -31.934  91.702  95.794  0.00  0.00           C 0
+ATOM   2318    N ALA B  37     -32.266  90.707 102.614  0.00  0.00           N 0
+ATOM   2656   OH TYR B  79     -27.374  95.271  99.063  0.00  0.00           O 0
+ATOM   2287    O ILE B  32     -33.891  90.003  96.848  0.52  6.43           O 0
+ATOM   2290  CG2 ILE B  32     -36.045  92.367  94.975  0.00  0.00           C 0
+ATOM   2422   OH TYR B  50     -33.961  95.480  95.494  0.68  5.36           O 0
+ATOM   2288   CB ILE B  32     -36.384  90.893  95.185  0.00  0.00           C 0
+ATOM   2304    N GLY B  35     -29.531  89.424  98.662  0.00  0.00           N 0
+TER
+END

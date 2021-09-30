@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0653
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.8860
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5168
+HEADER 5  - Mean B-factor of pocket residues  : 0.0463
+HEADER 6  - Hydrophobicity Score              : -0.7500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.4671
+HEADER 10  -Pocket volume (convex hull)       : 10.4700
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.4333
+ATOM   1309    N GLU A 234      -4.320 -16.223  -1.660  0.00  0.00           N 0
+ATOM   1302   CB ARG A 233      -4.509 -19.073  -2.864  0.00  0.00           C 0
+ATOM   2063   CB ASP A 328      -9.429 -19.615   1.265  0.00  0.00           C 0
+ATOM   1300    C ARG A 233      -5.231 -16.716  -2.493  0.00  0.00           C 0
+ATOM   1980   OH TYR A 318      -8.830 -19.187  -1.907  0.00  0.00           O 0
+ATOM   2064   CG ASP A 328      -8.935 -21.012   0.929  0.00  0.00           C 0
+ATOM   2066  OD2 ASP A 328      -8.831 -21.331  -0.275  0.00  0.00           O 0
+ATOM   1305   NE ARG A 233      -5.619 -21.822  -2.611  0.00  0.00           N 0
+ATOM   2065  OD1 ASP A 328      -8.641 -21.789   1.868  0.08  9.64           O 0
+ATOM   2092   NZ LYS A 331      -4.325 -20.163   5.835  0.00  0.00           N 0
+ATOM   2062    O ASP A 328      -8.640 -17.300   3.435  0.70  1.07           O 0
+ATOM   2060   CA ASP A 328      -9.607 -19.399   2.773  0.00  0.00           C 0
+ATOM   1314   CG GLU A 234      -3.010 -16.235   1.038  0.00  0.00           C 0
+ATOM   1289  ND2 ASN A 231      -0.023 -18.584  -0.979  0.00  0.00           N 0
+ATOM   1317  OE2 GLU A 234      -1.645 -16.422   2.979  0.47  5.36           O 0
+ATOM   1310   CA GLU A 234      -4.680 -15.269  -0.617  0.00  0.00           C 0
+ATOM   1304   CD ARG A 233      -4.267 -21.552  -3.086  0.00  0.00           C 0
+ATOM   1288  OD1 ASN A 231      -1.618 -17.123  -1.591  0.66  1.07           O 0
+ATOM   2093    N ALA A 332      -6.872 -15.818   5.390  0.76  1.09           N 0
+ATOM   1301    O ARG A 233      -6.422 -16.402  -2.446  0.00  0.00           O 0
+ATOM   1336   CB ALA A 237      -9.070 -15.825  -0.510  0.00  0.00           C 0
+TER
+END

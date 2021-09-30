@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1442
+HEADER 1  - Drug Score                        : 0.0851
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9775
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5483
+HEADER 5  - Mean B-factor of pocket residues  : 0.5725
+HEADER 6  - Hydrophobicity Score              : -1.2727
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7273
+HEADER 9  - Pocket volume (Monte Carlo)       : 387.5038
+HEADER 10  -Pocket volume (convex hull)       : 52.1683
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.2941
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.7083
+ATOM   1617   CA PRO X 283       8.529  -1.953 -30.061  0.00  0.00           C 0
+ATOM   1646  CG1 VAL X 286       6.526  -6.263 -28.755  0.00  0.00           C 0
+ATOM   1645   CB VAL X 286       6.321  -5.091 -27.818  0.00  0.00           C 0
+ATOM   1620   CB PRO X 283       8.509  -1.507 -31.523  0.00  0.00           C 0
+ATOM   1619    O PRO X 283       9.312  -4.165 -29.674  0.73  5.36           O 0
+ATOM   1647  CG2 VAL X 286       4.843  -4.931 -27.459  0.00  0.00           C 0
+ATOM   1621   CG PRO X 283       7.834  -0.118 -31.433  0.00  0.00           C 0
+ATOM   1932    N GLY X 318      -1.837  -1.225 -27.700  0.58  5.47           N 0
+ATOM   1593   CB SER X 280       4.387  -1.420 -25.503  0.00  0.00           C 0
+ATOM   1935    O GLY X 318      -0.096   1.034 -27.546  0.46  1.07           O 0
+ATOM   1937   CA GLU X 319      -0.221   3.251 -29.245  0.00  0.00           C 0
+ATOM   1592    O SER X 280       4.502   1.391 -26.392  0.52  4.29           O 0
+ATOM   1951   CD PRO X 320       2.336   4.215 -27.936  0.00  0.00           C 0
+ATOM   1719   CD ARG X 293      -2.040  -6.330 -22.208  0.00  0.00           C 0
+ATOM   1682  CE2 PHE X 289       1.340  -3.371 -22.989  0.00  0.00           C 0
+ATOM   1690  ND1 HIS X 290       1.785  -7.792 -25.898  0.60  2.19           N 0
+ATOM   1926   CA PRO X 317      -2.647  -2.492 -25.794  0.00  0.00           C 0
+ATOM   1594   OG SER X 280       5.697  -1.712 -25.948  0.50  2.14           O 0
+ATOM   1919    O GLN X 316      -1.305  -1.376 -23.700  0.00  0.00           O 0
+ATOM   1680  CD2 PHE X 289       2.502  -4.010 -23.316  0.00  0.00           C 0
+ATOM   1936    N GLU X 319      -1.083   2.094 -29.306  0.00  0.00           N 0
+ATOM   1934    C GLY X 318      -0.950   1.055 -28.453  0.00  0.00           C 0
+ATOM   1616    N PRO X 283       8.771  -0.667 -29.348  0.00  0.00           N 0
+ATOM   1692  CE1 HIS X 290       1.708  -7.299 -27.128  0.00  0.00           C 0
+ATOM   1929   CB PRO X 317      -3.690  -3.497 -26.394  0.00  0.00           C 0
+TER
+END

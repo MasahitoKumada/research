@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0420
+HEADER 1  - Drug Score                        : 0.0195
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9127
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5348
+HEADER 5  - Mean B-factor of pocket residues  : 0.6166
+HEADER 6  - Hydrophobicity Score              : 48.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 238.5255
+HEADER 10  -Pocket volume (convex hull)       : 5.1606
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.7778
+ATOM   3740  CE1 PHE A 235     -25.683  92.002  58.680  0.00  0.00           C 0
+ATOM   3738  CD1 PHE A 235     -24.968  90.809  58.523  0.00  0.00           C 0
+ATOM   3794  CG2 THR A 238     -26.884  89.055  54.217  0.00  0.00           C 0
+ATOM   3793  OG1 THR A 238     -26.257  91.279  54.895  0.00  0.00           O 0
+ATOM    899  CE3 TRP A  61     -27.987  94.527  57.577  0.00  0.00           C 0
+ATOM    896  CD2 TRP A  61     -29.381  94.603  57.525  0.00  0.00           C 0
+ATOM   3792   CB THR A 238     -26.821  90.521  53.824  0.00  0.00           C 0
+ATOM    847   CA PRO A  58     -32.713  89.737  58.953  0.00  0.00           C 0
+ATOM    850   CB PRO A  58     -32.855  88.339  58.335  0.00  0.00           C 0
+ATOM    849    O PRO A  58     -34.345  91.018  57.761  0.64  7.50           O 0
+ATOM    895  CD1 TRP A  61     -31.607  94.592  57.814  0.00  0.00           C 0
+ATOM    894   CG TRP A  61     -30.435  94.311  58.463  0.00  0.00           C 0
+ATOM    821    O VAL A  56     -29.412  89.039  60.947  0.58  3.21           O 0
+ATOM    893   CB TRP A  61     -30.280  93.778  59.877  0.00  0.00           C 0
+ATOM    897  NE1 TRP A  61     -31.347  95.046  56.538  0.75  8.75           N 0
+ATOM    898  CE2 TRP A  61     -29.991  95.058  56.335  0.00  0.00           C 0
+ATOM    900  CZ2 TRP A  61     -29.255  95.429  55.208  0.00  0.00           C 0
+TER
+END

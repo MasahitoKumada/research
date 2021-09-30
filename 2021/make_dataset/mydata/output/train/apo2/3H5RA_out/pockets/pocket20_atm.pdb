@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0325
+HEADER 1  - Drug Score                        : 0.1215
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9193
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4450
+HEADER 5  - Mean B-factor of pocket residues  : 0.2419
+HEADER 6  - Hydrophobicity Score              : 82.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.5709
+HEADER 10  -Pocket volume (convex hull)       : 5.1591
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8947
+ATOM    321    N TYR A  43      -9.390  32.182  -6.605  0.00  0.00           N 0
+ATOM    295    O ILE A  39      -7.465  32.771  -8.782  0.54  1.07           O 0
+ATOM     95  CD1 ILE A  11      -2.258  28.978  -6.517  0.00  0.00           C 0
+ATOM    320   CB ALA A  42      -8.869  29.387  -7.871  0.00  0.00           C 0
+ATOM    293   CA ILE A  39      -5.873  31.816 -10.287  0.00  0.00           C 0
+ATOM    298  CG2 ILE A  39      -4.121  33.118  -8.980  0.00  0.00           C 0
+ATOM     44  CD2 LEU A   5      -8.781  27.982  -3.782  0.00  0.00           C 0
+ATOM    325   CB TYR A  43      -8.378  34.253  -5.908  0.00  0.00           C 0
+ATOM    327  CD1 TYR A  43      -7.289  35.372  -3.921  0.00  0.00           C 0
+ATOM    357  CD1 ILE A  46      -8.316  32.545  -1.499  0.00  0.00           C 0
+ATOM     75    O VAL A   9      -4.527  24.577  -3.451  0.73  3.21           O 0
+ATOM     78  CG2 VAL A   9      -6.479  24.422  -6.130  0.00  0.00           C 0
+ATOM     94  CG2 ILE A  11      -3.488  26.994  -8.146  0.00  0.00           C 0
+ATOM    322   CA TYR A  43      -9.310  33.111  -5.497  0.00  0.00           C 0
+TER
+END

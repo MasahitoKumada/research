@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0002
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1845
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4181
+HEADER 5  - Mean B-factor of pocket residues  : 0.6665
+HEADER 6  - Hydrophobicity Score              : 30.6000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.4550
+HEADER 10  -Pocket volume (convex hull)       : 3.9344
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    844  ND2 ASN A 135      41.224  47.747  32.584  0.64  5.47           N 0
+ATOM    863  CE1 HIS A 138      44.365  47.845  31.771  0.00  0.00           C 0
+ATOM    843  OD1 ASN A 135      40.193  47.040  30.698  0.00  0.00           O 0
+ATOM    623   OH TYR A 105      39.558  53.693  27.620  0.00  0.00           O 0
+ATOM    621  CE2 TYR A 105      41.657  54.836  27.870  0.00  0.00           C 0
+ATOM    889  OE1 GLU A 142      45.283  52.511  34.569  0.45  4.29           O 0
+ATOM   1209   CZ PHE A 182      39.977  55.084  33.732  0.00  0.00           C 0
+ATOM    749  CG2 VAL A 122      43.089  57.629  30.865  0.00  0.00           C 0
+ATOM    734  CD1 LEU A 120      46.244  54.972  28.721  0.00  0.00           C 0
+ATOM   1291   CB ALA A 195      45.959  55.844  33.800  0.00  0.00           C 0
+ATOM   1207  CE1 PHE A 182      40.052  53.962  34.581  0.00  0.00           C 0
+ATOM    864  NE2 HIS A 138      44.743  48.641  32.755  0.60  3.28           N 0
+ATOM   1306  ND2 ASN A 197      47.838  51.394  31.929  0.69  8.75           N 0
+ATOM   1193  NE2 HIS A 180      42.558  49.454  35.177  0.72  2.19           N 0
+TER
+END

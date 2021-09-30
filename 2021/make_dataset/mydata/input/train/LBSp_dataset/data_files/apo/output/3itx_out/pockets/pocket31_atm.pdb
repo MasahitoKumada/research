@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : 0.0258
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5131
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.2645
+HEADER 5  - Mean B-factor of pocket residues  : 0.2786
+HEADER 6  - Hydrophobicity Score              : 12.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 131.0768
+HEADER 10  -Pocket volume (convex hull)       : 2.5549
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   5242   CG PRO B 260     -27.012   3.095  24.921  0.00  0.00           C 0
+ATOM   5454    O TYR B 287     -30.873   6.099  24.833  0.55  6.43           O 0
+ATOM   4955  CE1 TYR B 223     -27.660   7.739  20.152  0.00  0.00           C 0
+ATOM   4958   OH TYR B 223     -29.978   7.437  20.667  0.71  1.07           O 0
+ATOM   5243   CD PRO B 260     -25.690   3.734  24.541  0.00  0.00           C 0
+ATOM   5225    O HIS B 258     -25.262   8.108  25.268  0.50  4.29           O 0
+ATOM   2198    O TYR A 287     -29.776   3.075  19.290  0.79  7.50           O 0
+ATOM   1986   CG PRO A 260     -29.718   0.173  23.458  0.00  0.00           C 0
+ATOM   1702   OH TYR A 223     -33.175   5.411  20.695  0.62  2.14           O 0
+ATOM   1699  CE1 TYR A 223     -34.864   4.238  21.915  0.00  0.00           C 0
+ATOM   8494  ND2 ASN C 261     -30.533   3.081  26.386  0.80  1.09           N 0
+ATOM   1987   CD PRO A 260     -31.074  -0.424  23.787  0.00  0.00           C 0
+ATOM   1969    O HIS A 258     -33.888  -1.193  20.398  0.74  4.29           O 0
+ATOM  11737  ND2 ASN D 261     -27.122   1.476  20.889  0.74  1.09           N 0
+TER
+END

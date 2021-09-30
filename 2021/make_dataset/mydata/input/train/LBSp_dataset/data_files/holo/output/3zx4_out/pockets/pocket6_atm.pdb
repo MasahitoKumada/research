@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1095
+HEADER 1  - Drug Score                        : 0.1171
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7663
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4530
+HEADER 5  - Mean B-factor of pocket residues  : 0.3367
+HEADER 6  - Hydrophobicity Score              : -14.7500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 121.2603
+HEADER 10  -Pocket volume (convex hull)       : 1.6909
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1381   CA ASP A 176      27.814  68.133  -7.976  0.00  0.00           C 0
+ATOM    448    O ASN A  59      29.394  65.519  -6.500  0.00  0.00           O 0
+ATOM   1378    O ALA A 175      27.041  68.073  -5.331  0.47  5.36           O 0
+ATOM   1388    N LYS A 177      28.451  66.331  -9.454  0.00  0.00           N 0
+ATOM   1288  CG2ATHR A 163      23.154  64.890  -4.368  0.00  0.00           C 0
+ATOM    449   CB ASN A  59      28.699  63.477  -4.761  0.00  0.00           C 0
+ATOM   1640   CG PRO A 208      23.641  65.293 -11.094  0.00  0.00           C 0
+ATOM   1614    O ASN A 205      24.280  61.005 -10.012  0.62  3.21           O 0
+ATOM   1393   CG LYS A 177      29.007  63.331  -9.481  0.00  0.00           C 0
+ATOM    451  OD1 ASN A  59      28.069  61.308  -5.473  0.68  5.36           O 0
+ATOM   1615   CB ASN A 205      22.625  59.444  -8.241  0.00  0.00           C 0
+ATOM   1286  OG1ATHR A 163      23.812  62.889  -3.207  0.90  1.07           O 0
+ATOM   1293    O HIS A 164      21.925  59.068  -5.398  0.44  2.14           O 0
+ATOM    450   CG ASN A  59      28.057  62.134  -4.565  0.00  0.00           C 0
+ATOM   1284   CBATHR A 163      22.788  63.452  -4.035  0.00  0.00           C 0
+ATOM   1386  OD1 ASP A 176      25.021  68.755  -9.510  0.49  4.29           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0364
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8448
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6397
+HEADER 5  - Mean B-factor of pocket residues  : 0.4317
+HEADER 6  - Hydrophobicity Score              : 3.2500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.2534
+HEADER 10  -Pocket volume (convex hull)       : 3.1005
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM    508  NH1 ARG A  56      19.548  10.827 -10.148  0.57  8.75           N 0
+ATOM    503   CB ARG A  56      17.485   6.905 -11.161  0.00  0.00           C 0
+ATOM    543  NH1 ARG A  60      22.788   7.078 -14.373  0.00  0.00           N 0
+ATOM    485    O GLY A  53      18.568   5.466  -7.865  0.57  4.29           O 0
+ATOM    542   CZ ARG A  60      21.500   7.369 -14.573  0.00  0.00           C 0
+ATOM    510    N ALA A  57      18.500   4.008 -10.474  0.00  0.00           N 0
+ATOM    514   CB ALA A  57      20.231   2.729  -9.303  0.00  0.00           C 0
+ATOM    511   CA ALA A  57      19.500   2.968 -10.622  0.00  0.00           C 0
+ATOM    541   NE ARG A  60      20.619   6.386 -14.782  0.93  2.19           N 0
+ATOM    507   CZ ARG A  56      19.231  10.598 -11.448  0.00  0.00           C 0
+ATOM    544  NH2 ARG A  60      21.070   8.659 -14.628  0.68  1.09           N 0
+ATOM    509  NH2 ARG A  56      19.989  11.110 -12.385  0.18  6.56           N 0
+ATOM    540   CD ARG A  60      20.973   4.948 -14.755  0.00  0.00           C 0
+ATOM    513    O ALA A  57      19.370   1.003 -12.015  0.62  2.14           O 0
+TER
+END

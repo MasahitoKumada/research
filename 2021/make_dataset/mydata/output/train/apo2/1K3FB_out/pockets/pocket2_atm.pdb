@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.2429
+HEADER 1  - Drug Score                        : 0.0113
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5451
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3670
+HEADER 5  - Mean B-factor of pocket residues  : 0.7246
+HEADER 6  - Hydrophobicity Score              : 15.2222
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 100.0921
+HEADER 10  -Pocket volume (convex hull)       : 1.2582
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM    768   CA ASP B1106     -26.340  18.715  38.153  0.00  0.00           C 0
+ATOM    780  CG1 VAL B1107     -28.435  14.554  38.403  0.00  0.00           C 0
+ATOM   1775   CB HIS B1240     -31.088  16.789  42.621  0.00  0.00           C 0
+ATOM   1082   CB ALA B1149     -31.513  16.222  37.044  0.00  0.00           C 0
+ATOM    775    N VAL B1107     -26.435  16.333  37.942  0.00  0.00           N 0
+ATOM   1754  CG2 THR B1237     -25.852  17.083  44.412  0.00  0.00           C 0
+ATOM   1601   CA GLY B1218     -24.155  15.009  42.345  0.00  0.00           C 0
+ATOM    766    O GLY B1105     -27.208  21.163  39.379  0.31  5.36           O 0
+ATOM   1079   CA ALA B1149     -31.698  17.469  36.219  0.00  0.00           C 0
+ATOM   1083    N THR B1150     -29.784  18.590  35.195  0.71  4.37           N 0
+ATOM   1778  ND1 HIS B1240     -32.537  18.625  41.646  0.71  6.56           N 0
+ATOM    767    N ASP B1106     -25.920  19.301  39.423  0.00  0.00           N 0
+ATOM   1785   CB ALA B1241     -27.510  12.606  43.064  0.00  0.00           C 0
+ATOM   1781    N ALA B1241     -29.711  13.692  43.343  0.00  0.00           N 0
+ATOM   1755  OG1 THR B1237     -26.589  19.355  44.310  0.69  2.14           O 0
+ATOM   1773    C HIS B1240     -30.678  14.282  42.640  0.00  0.00           C 0
+TER
+END

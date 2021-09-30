@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0342
+HEADER 1  - Drug Score                        : 0.0239
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.1583
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5744
+HEADER 5  - Mean B-factor of pocket residues  : 0.3487
+HEADER 6  - Hydrophobicity Score              : 11.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 344.5428
+HEADER 10  -Pocket volume (convex hull)       : 17.5967
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5714
+ATOM   1062   CE LYS A1135      17.145  31.066  16.750  0.00  0.00           C 0
+ATOM   1063   NZ LYS A1135      16.236  30.298  15.853  0.00  0.00           N 0
+ATOM   1061   CD LYS A1135      18.051  32.012  15.967  0.00  0.00           C 0
+ATOM   1070  OD1 ASN A1136      23.258  30.127  16.236  0.52  5.36           O 0
+ATOM   1087   CA GLU A1139      22.908  31.242  22.144  0.00  0.00           C 0
+ATOM   1084  CG1 VAL A1138      20.323  35.087  23.008  0.00  0.00           C 0
+ATOM   1090   CB GLU A1139      22.817  30.310  20.935  0.00  0.00           C 0
+ATOM   1120   NZ LYS A1142      17.027  32.858  25.365  0.00  0.00           N 0
+ATOM   1058    O LYS A1135      21.701  33.274  18.919  0.51  1.07           O 0
+ATOM   1086    N GLU A1139      22.811  32.641  21.736  0.00  0.00           N 0
+ATOM   1091   CG GLU A1139      22.701  28.838  21.330  0.00  0.00           C 0
+ATOM   1092   CD GLU A1139      22.786  27.898  20.146  0.00  0.00           C 0
+ATOM   1060   CG LYS A1135      19.029  32.711  16.898  0.00  0.00           C 0
+ATOM   1390   CB TRP A1176      17.036  35.880  20.075  0.00  0.00           C 0
+ATOM   1094  OE2 GLU A1139      23.454  28.243  19.150  0.51  2.14           O 0
+ATOM   1118   CD LYS A1142      19.350  32.100  25.864  0.00  0.00           C 0
+ATOM   1116   CB LYS A1142      21.678  31.360  26.513  0.00  0.00           C 0
+ATOM   1093  OE1 GLU A1139      22.195  26.803  20.217  0.00  0.00           O 0
+TER
+END

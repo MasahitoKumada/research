@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0017
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8011
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4196
+HEADER 5  - Mean B-factor of pocket residues  : 0.5739
+HEADER 6  - Hydrophobicity Score              : 28.1000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.1937
+HEADER 10  -Pocket volume (convex hull)       : 11.7397
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1302    N ARG A 210      20.065  47.637  34.412  0.69  2.19           N 0
+ATOM   1638  OE1 GLN A 254      22.204  42.063  36.473  0.62  3.21           O 0
+ATOM   5379   OHATYR A 700      19.839  46.274  39.427  0.73  1.07           O 0
+ATOM   1312  NH2 ARG A 210      19.613  42.902  37.672  0.00  0.00           N 0
+ATOM   5377  CE2ATYR A 700      21.435  48.099  39.337  0.00  0.00           C 0
+ATOM   1287    O VAL A 208      23.137  48.885  35.008  0.59  6.43           O 0
+ATOM   1487   OH TYR A 234      27.043  43.440  36.493  0.60  8.57           O 0
+ATOM   4036  CE2 TYR A 552      22.107  42.313  40.098  0.00  0.00           C 0
+ATOM   3996    N GLY A 548      27.242  44.464  41.372  0.00  0.00           N 0
+ATOM   1272   CA GLY A 206      27.460  46.703  34.893  0.00  0.00           C 0
+ATOM   1266  CD2 TYR A 205      23.281  43.059  33.283  0.00  0.00           C 0
+ATOM   1271    N GLY A 206      26.629  45.977  33.945  0.62  1.09           N 0
+ATOM   1275    N LYS A 207      27.689  48.892  35.850  0.00  0.00           N 0
+ATOM   4034  CD2 TYR A 552      23.144  41.413  40.134  0.00  0.00           C 0
+ATOM   5375  CD2ATYR A 700      21.803  49.397  39.734  0.00  0.00           C 0
+ATOM   1278    O LYS A 207      26.231  51.867  36.994  0.00  0.00           O 0
+ATOM   1286    C VAL A 208      22.921  50.025  35.474  0.00  0.00           C 0
+ATOM   1284    N VAL A 208      25.371  50.577  35.320  0.00  0.00           N 0
+ATOM   1277    C LYS A 207      26.367  51.006  36.102  0.00  0.00           C 0
+TER
+END

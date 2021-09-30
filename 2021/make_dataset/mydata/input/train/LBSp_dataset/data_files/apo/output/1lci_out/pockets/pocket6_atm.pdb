@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0563
+HEADER 1  - Drug Score                        : 0.0425
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8398
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5386
+HEADER 5  - Mean B-factor of pocket residues  : 0.8192
+HEADER 6  - Hydrophobicity Score              : 12.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.1139
+HEADER 10  -Pocket volume (convex hull)       : 1.4098
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.6923
+ATOM    833   CA ARG A 112     -10.738  92.328  36.818  0.00  0.00           C 0
+ATOM    861  CD2 LEU A 115     -11.093  94.802  32.406  0.00  0.00           C 0
+ATOM   1067   CE LYS A 142     -14.960  93.412  29.919  0.00  0.00           C 0
+ATOM    836   CB ARG A 112     -11.592  93.007  37.872  0.00  0.00           C 0
+ATOM   1041  CG2 VAL A 139      -9.152  89.399  31.226  0.00  0.00           C 0
+ATOM   1029    C ASN A 138     -12.484  88.853  28.633  0.00  0.00           C 0
+ATOM   1035    N VAL A 139     -11.209  88.673  28.972  0.00  0.00           N 0
+ATOM    831   CB GLU A 111     -12.560  88.498  34.840  0.00  0.00           C 0
+ATOM   1066   CD LYS A 142     -13.566  93.838  29.508  0.00  0.00           C 0
+ATOM   1036   CA VAL A 139     -10.265  89.789  28.982  0.00  0.00           C 0
+ATOM    832    N ARG A 112     -11.074  90.912  36.723  0.00  0.00           N 0
+ATOM    829    C GLU A 111     -10.856  90.207  35.614  0.00  0.00           C 0
+ATOM    830    O GLU A 111     -10.317  90.691  34.615  0.63  2.14           O 0
+ATOM   1068   NZ LYS A 142     -15.300  92.051  29.383  0.47  7.66           N 0
+ATOM   1030    O ASN A 138     -12.959  89.968  28.397  0.70  1.07           O 0
+ATOM   1031   CB ASN A 138     -14.016  87.340  29.919  0.00  0.00           C 0
+ATOM    858   CB LEU A 115      -9.301  93.223  33.122  0.00  0.00           C 0
+TER
+END

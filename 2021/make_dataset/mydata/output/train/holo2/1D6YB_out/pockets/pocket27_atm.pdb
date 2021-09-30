@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0169
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8675
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6265
+HEADER 5  - Mean B-factor of pocket residues  : 0.5672
+HEADER 6  - Hydrophobicity Score              : 5.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.4505
+HEADER 10  -Pocket volume (convex hull)       : 6.4265
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM    786   CD LYS B 105      20.286  36.234 -12.876  0.00  0.00           C 0
+ATOM    815   CG GLU B 109      20.718  30.430 -16.927  0.00  0.00           C 0
+ATOM    818  OE2 GLU B 109      19.843  32.548 -17.645  0.00  0.00           O 1
+ATOM    784   CB LYS B 105      21.811  35.116 -14.582  0.00  0.00           C 0
+ATOM   3228    O GLY B 418      24.814  33.212 -10.373  0.65  3.21           O 0
+ATOM   3242   CD PRO B 420      22.945  36.609  -9.940  0.00  0.00           C 0
+ATOM    785   CG LYS B 105      21.694  35.757 -13.203  0.00  0.00           C 0
+ATOM   3235  CG2 VAL B 419      22.002  32.957  -7.097  0.00  0.00           C 0
+ATOM   3234  CG1 VAL B 419      21.841  35.449  -6.892  0.00  0.00           C 0
+ATOM    808  CG1 VAL B 108      24.227  29.325 -12.903  0.00  0.00           C 0
+ATOM    807   CB VAL B 108      24.850  30.449 -13.710  0.00  0.00           C 0
+ATOM    781   CA LYS B 105      23.166  34.441 -14.788  0.00  0.00           C 0
+ATOM    783    O LYS B 105      22.880  32.423 -16.054  0.00  0.00           O 0
+ATOM    842   NZ LYS B 112      21.923  27.023 -10.787  0.00  0.00           N 1
+ATOM   3221    O THR B 417      24.785  29.788  -7.969  0.41  5.36           O 0
+ATOM   3230   CA VAL B 419      23.772  34.413  -8.123  0.00  0.00           C 0
+TER
+END

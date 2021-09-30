@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1665
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9121
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4657
+HEADER 5  - Mean B-factor of pocket residues  : 0.5754
+HEADER 6  - Hydrophobicity Score              : 29.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 190.8022
+HEADER 10  -Pocket volume (convex hull)       : 3.4970
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM     38  OE1 GLN A   7      38.779  23.331  47.804  0.00  0.00           O 0
+ATOM    193  CD2 TYR A  25      36.706  24.350  41.050  0.00  0.00           C 0
+ATOM    205  OD2 ASP A  26      39.954  26.077  39.899  0.54  9.64           O 1
+ATOM     97   NZ LYS A  14      41.463  19.256  43.364  0.54  3.28           N 1
+ATOM    190   CB TYR A  25      36.753  23.004  38.903  0.00  0.00           C 0
+ATOM    195  CE2 TYR A  25      36.064  24.825  42.193  0.00  0.00           C 0
+ATOM     63  CD1 ILE A  10      35.901  21.944  45.193  0.00  0.00           C 0
+ATOM    158   CB PHE A  22      37.725  19.204  39.579  0.00  0.00           C 0
+ATOM    157    O PHE A  22      38.676  20.700  37.339  0.61  3.21           O 0
+ATOM     62  CG2 ILE A  10      37.617  19.358  45.108  0.00  0.00           C 0
+ATOM    159   CG PHE A  22      36.879  18.553  40.642  0.00  0.00           C 0
+ATOM    161  CD2 PHE A  22      35.664  19.122  41.026  0.00  0.00           C 0
+ATOM     37  NE2 GLN A   7      39.374  21.166  47.863  0.00  0.00           N 0
+TER
+END

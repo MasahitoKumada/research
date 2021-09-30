@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0599
+HEADER 1  - Drug Score                        : 0.0173
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0554
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5603
+HEADER 5  - Mean B-factor of pocket residues  : 0.1863
+HEADER 6  - Hydrophobicity Score              : 27.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.9152
+HEADER 10  -Pocket volume (convex hull)       : 5.6372
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   3912  CD2 LEU B 237       2.327 -21.604  19.715  0.00  0.00           C 0
+ATOM   3681   CA PRO B 208      -4.871 -22.991  19.855  0.00  0.00           C 0
+ATOM   3666   CG ARG B 206      -1.613 -18.716  18.530  0.00  0.00           C 0
+ATOM   3668   NE ARG B 206      -1.368 -19.998  16.444  0.00  0.00           N 0
+ATOM   3684   CB PRO B 208      -4.852 -23.504  21.295  0.00  0.00           C 0
+ATOM   3664    O ARG B 206      -4.379 -18.098  20.818  0.76  7.50           O 0
+ATOM   3685   CG PRO B 208      -5.992 -22.828  21.948  0.00  0.00           C 0
+ATOM   2524  CZ2 TRP B  64      -7.009 -19.718  23.958  0.00  0.00           C 0
+ATOM   3686   CD PRO B 208      -6.121 -21.468  21.293  0.00  0.00           C 0
+ATOM   3946  NH1 ARG B 241       1.139 -25.582  20.621  0.56  3.28           N 0
+ATOM   3947  NH2 ARG B 241       0.637 -25.642  18.385  0.62  3.28           N 0
+ATOM   3683    O PRO B 208      -5.016 -25.024  18.573  0.70  2.14           O 0
+ATOM   3698    O SER B 210      -3.743 -24.294  15.221  0.57  1.07           O 0
+ATOM   3665   CB ARG B 206      -1.852 -17.386  19.217  0.00  0.00           C 0
+ATOM   3879   SD MET B 233       3.030 -17.084  22.157  0.00  0.00           S 0
+ATOM   3880   CE MET B 233       1.708 -15.835  22.085  0.00  0.00           C 0
+ATOM   3680    N PRO B 208      -5.514 -21.660  19.967  0.00  0.00           N 0
+TER
+END

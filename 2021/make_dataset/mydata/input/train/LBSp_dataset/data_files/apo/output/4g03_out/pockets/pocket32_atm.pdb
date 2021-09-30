@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0844
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9161
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6026
+HEADER 5  - Mean B-factor of pocket residues  : 0.1857
+HEADER 6  - Hydrophobicity Score              : -11.8750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 286.7139
+HEADER 10  -Pocket volume (convex hull)       : 16.2876
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   5083   CB SER B  65     -29.246   0.574 -35.337  0.00  0.00           C 0
+ATOM   4612   CG GLU B   6     -25.702  -2.211 -30.538  0.00  0.00           C 0
+ATOM   5080   CA SER B  65     -29.454  -0.783 -34.678  0.00  0.00           C 0
+ATOM   4611   CB GLU B   6     -25.912  -3.345 -31.520  0.00  0.00           C 0
+ATOM   5085    N LEU B  66     -29.921  -0.237 -32.384  0.77  3.28           N 0
+ATOM   6591  OE2 GLU B 252     -26.220   2.499 -28.649  0.73  8.57           O 0
+ATOM   4613   CD GLU B   6     -24.243  -1.881 -30.316  0.00  0.00           C 0
+ATOM   5093    N HIS B  67     -31.470   2.093 -32.067  0.63  1.09           N 0
+ATOM   5089   CB LEU B  66     -29.831   0.323 -30.004  0.00  0.00           C 0
+ATOM   5100  CD2 HIS B  67     -30.008   5.972 -31.865  0.00  0.00           C 0
+ATOM   6565  OD1 ASP B 249     -27.526   6.111 -29.658  0.90  4.29           O 0
+ATOM   5073    O LYS B  64     -29.446  -3.501 -34.317  0.70  2.14           O 0
+ATOM   5065    O ASP B  63     -28.104  -4.830 -37.071  0.70  6.43           O 0
+ATOM   5079    N SER B  65     -29.955  -1.756 -35.632  0.43  4.37           N 0
+ATOM   5090   CG LEU B  66     -28.877  -0.800 -29.550  0.00  0.00           C 0
+ATOM   4614  OE1 GLU B   6     -23.389  -2.381 -31.091  0.00  0.00           O 0
+ATOM   5097   CB HIS B  67     -31.768   4.379 -32.925  0.00  0.00           C 0
+ATOM   5084   OG SER B  65     -30.491   1.259 -35.404  0.61  4.29           O 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0154
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8097
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7523
+HEADER 5  - Mean B-factor of pocket residues  : 0.1447
+HEADER 6  - Hydrophobicity Score              : -1.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 134.2490
+HEADER 10  -Pocket volume (convex hull)       : 1.9834
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   3484    N GLU B 451      48.716  74.216  -5.467  0.68  2.19           N 0
+ATOM   3489   CG GLU B 451      45.860  73.626  -4.866  0.00  0.00           C 0
+ATOM   3488   CB GLU B 451      47.005  73.349  -3.922  0.00  0.00           C 0
+ATOM   3492  OE2 GLU B 451      44.008  74.977  -4.178  0.26  8.57           O 1
+ATOM   3475   CB SER B 449      52.563  78.169  -3.774  0.00  0.00           C 0
+ATOM   3473    C SER B 449      51.663  77.563  -5.987  0.00  0.00           C 0
+ATOM   3474    O SER B 449      50.881  78.364  -6.503  0.40  6.43           O 0
+ATOM   3479    C THR B 450      49.993  74.495  -5.680  0.00  0.00           C 0
+ATOM   3478   CA THR B 450      50.314  75.656  -6.610  0.00  0.00           C 0
+ATOM   3480    O THR B 450      50.897  73.870  -5.128  0.00  0.00           O 0
+ATOM   3485   CA GLU B 451      48.372  73.114  -4.584  0.00  0.00           C 0
+ATOM   3367   CB PRO B 436      52.862  73.216  -1.987  0.00  0.00           C 0
+ATOM   3353   OH TYR B 433      48.620  72.626   1.108  0.00  0.00           O 0
+ATOM   3364   CA PRO B 436      51.886  72.148  -2.468  0.00  0.00           C 0
+ATOM   3477    N THR B 450      51.486  76.252  -6.011  0.00  0.00           N 0
+TER
+END

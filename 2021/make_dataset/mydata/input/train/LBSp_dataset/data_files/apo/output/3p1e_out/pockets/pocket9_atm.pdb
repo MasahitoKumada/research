@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1000
+HEADER 1  - Drug Score                        : 0.0116
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0871
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4565
+HEADER 5  - Mean B-factor of pocket residues  : 0.6132
+HEADER 6  - Hydrophobicity Score              : 26.2500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 420.1039
+HEADER 10  -Pocket volume (convex hull)       : 22.0665
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5217
+ATOM   1202   CB ASP B1116     -11.474  10.093  29.895  0.00  0.00           C 0
+ATOM   1205  OD2 ASP B1116     -13.198   8.435  29.861  0.00  0.00           O 0
+ATOM   1182  OE1 GLN B1113     -12.419  13.132  37.618  0.00  0.00           O 0
+ATOM   1228  CD1 LEU B1119     -15.507  11.739  30.083  0.00  0.00           C 0
+ATOM   1187    O PRO B1114      -8.974  11.638  33.221  0.41  6.43           O 0
+ATOM   1237  CD2 LEU B1120     -12.472  15.484  28.571  0.00  0.00           C 0
+ATOM   1179   CB GLN B1113     -10.367  14.513  36.125  0.00  0.00           C 0
+ATOM   1180   CG GLN B1113     -11.436  15.241  36.976  0.00  0.00           C 0
+ATOM   1236  CD1 LEU B1120      -9.975  15.274  28.760  0.00  0.00           C 0
+ATOM   1141    O LEU B1109      -8.719  19.658  35.796  0.66  5.36           O 0
+ATOM   1198    N ASP B1116      -9.253  11.186  30.070  0.00  0.00           N 0
+ATOM   1235   CG LEU B1120     -11.222  14.757  28.044  0.00  0.00           C 0
+ATOM   1147   CA PRO B1110      -7.303  19.932  33.468  0.00  0.00           C 0
+ATOM   1149    O PRO B1110      -6.332  17.743  33.413  0.68  6.43           O 0
+ATOM   1192   CA VAL B1115      -7.234  12.087  31.094  0.00  0.00           C 0
+ATOM   1178    O GLN B1113      -7.400  14.143  34.988  0.48  1.07           O 0
+ATOM   1197  CG2 VAL B1115      -5.199  13.542  30.730  0.00  0.00           C 0
+TER
+END

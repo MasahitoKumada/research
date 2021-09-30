@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : -0.0292
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8432
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5053
+HEADER 5  - Mean B-factor of pocket residues  : 0.4116
+HEADER 6  - Hydrophobicity Score              : 5.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 149.8837
+HEADER 10  -Pocket volume (convex hull)       : 0.9196
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM    957   CB SER A 115     -15.719  22.131 -21.551  0.00  0.00           C 0
+ATOM     60  OG1 THR A   9     -19.490  15.539 -18.103  0.64  8.57           O 0
+ATOM    956    O SER A 115     -14.688  20.780 -19.391  0.00  6.43           O 0
+ATOM     30   CG GLN A   5     -19.874  18.824 -15.588  0.00  0.00           C 0
+ATOM    953    N SER A 115     -15.232  20.091 -22.746  0.57  1.09           N 0
+ATOM    959    N PHE A 116     -13.571  19.224 -20.565  0.00  0.00           N 0
+ATOM    955    C SER A 115     -14.326  20.311 -20.474  0.00  0.00           C 0
+ATOM    943   CBAGLN A 114     -15.834  17.334 -23.955  0.00  0.00           C 0
+ATOM     41  OD2 ASP A   6     -15.114  17.875 -16.719  0.24  4.29           O 0
+ATOM    966  CD2 PHE A 116     -13.824  15.524 -19.196  0.00  0.00           C 0
+ATOM     61  CG2 THR A   9     -18.684  13.862 -19.646  0.00  0.00           C 0
+ATOM    951  NE2AGLN A 114     -18.336  15.847 -23.270  0.57  7.66           N 0
+ATOM    968  CE2 PHE A 116     -14.613  14.469 -19.565  0.00  0.00           C 0
+TER
+END

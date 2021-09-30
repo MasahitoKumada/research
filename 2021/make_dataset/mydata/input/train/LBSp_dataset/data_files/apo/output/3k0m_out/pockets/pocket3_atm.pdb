@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1622
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7964
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5935
+HEADER 5  - Mean B-factor of pocket residues  : 0.5743
+HEADER 6  - Hydrophobicity Score              : -8.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.8152
+HEADER 10  -Pocket volume (convex hull)       : 5.2457
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM      8    N ASN A   3     -18.098  -0.886 -17.263  0.38  3.28           N 0
+ATOM      1    N VAL A   2     -19.128  -3.059 -18.629  0.00  0.00           N 0
+ATOM    464  OD2 ASP A  27     -18.450  -2.120 -10.877  0.59  6.43           O 0
+ATOM      5   CB VAL A   2     -21.165  -1.963 -17.796  0.00  0.00           C 0
+ATOM     15  ND2 ASN A   3     -16.041  -1.032 -13.534  0.44  4.37           N 0
+ATOM     13   CG ASN A   3     -16.686  -0.292 -14.419  0.00  0.00           C 0
+ATOM    400  OE2 GLU A  23     -13.671  -2.621 -14.207  0.00  0.00           O 0
+ATOM     12   CB ASN A   3     -16.142  -0.325 -15.836  0.00  0.00           C 0
+ATOM     11    O ASN A   3     -15.974  -0.284 -18.902  0.19  8.57           O 0
+ATOM     14  OD1 ASN A   3     -17.680   0.378 -14.123  0.58  2.14           O 0
+ATOM    461   CB ASP A  27     -19.913  -0.262 -11.185  0.00  0.00           C 0
+ATOM    397   CG GLU A  23     -12.278  -1.076 -15.355  0.00  0.00           C 0
+ATOM    396   CB GLU A  23     -10.837  -0.850 -15.825  0.00  0.00           C 0
+ATOM   2244   NZ LYS A 133     -10.857  -3.661 -21.319  0.00  0.00           N 0
+ATOM     41  OG1 THR A   5     -12.143  -0.573 -20.863  0.44  2.14           O 0
+ATOM    399  OE1 GLU A  23     -11.636  -3.282 -14.667  0.75  5.36           O 0
+ATOM    398   CD GLU A  23     -12.540  -2.422 -14.698  0.00  0.00           C 0
+TER
+END

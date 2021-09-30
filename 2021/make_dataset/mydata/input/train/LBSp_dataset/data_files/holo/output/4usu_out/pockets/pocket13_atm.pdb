@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0304
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8065
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6547
+HEADER 5  - Mean B-factor of pocket residues  : 0.7830
+HEADER 6  - Hydrophobicity Score              : 32.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.6814
+HEADER 10  -Pocket volume (convex hull)       : 11.9554
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM   2989   CB GLN A 375      -8.334 -11.226 -18.899  0.00  0.00           C 0
+ATOM   2965    O PHE A 372     -11.354 -12.950 -17.800  0.58  1.07           O 0
+ATOM   2971  CE2 PHE A 372     -15.052 -10.067 -18.998  0.00  0.00           C 0
+ATOM   2992  OE1 GLN A 375      -9.213 -11.230 -21.570  0.54  4.29           O 0
+ATOM   2969  CD2 PHE A 372     -14.764 -11.302 -19.568  0.00  0.00           C 0
+ATOM   2972   CZ PHE A 372     -15.088  -9.930 -17.630  0.00  0.00           C 0
+ATOM   2516   CB ASP A 316     -14.813  -8.728 -11.872  0.00  0.00           C 0
+ATOM   2519  OD2 ASP A 316     -13.495  -6.794 -11.421  0.00  0.00           O 0
+ATOM   2517   CG ASP A 316     -14.653  -7.284 -11.417  0.00  0.00           C 0
+ATOM   2518  OD1 ASP A 316     -15.680  -6.639 -11.059  0.00  0.00           O 0
+ATOM   2515    O ASP A 316     -17.110 -10.577 -13.392  0.31  4.29           O 0
+ATOM   2988    O GLN A 375      -7.927  -9.736 -16.398  0.00  0.00           O 0
+ATOM   2995   CA VAL A 376      -9.670 -10.511 -14.471  0.00  0.00           C 0
+ATOM   3000  CG2 VAL A 376     -12.083 -11.264 -14.684  0.00  0.00           C 0
+ATOM   2513   CA ASP A 316     -16.236  -9.267 -11.598  0.00  0.00           C 0
+ATOM   2541   CB MET A 319     -20.564  -9.199 -13.496  0.00  0.00           C 0
+ATOM   2994    N VAL A 376      -9.228 -11.329 -15.586  0.00  0.00           N 0
+ATOM   2987    C GLN A 375      -8.345 -10.862 -16.454  0.00  0.00           C 0
+ATOM   2999  CG1 VAL A 376     -11.308 -10.396 -12.502  0.00  0.00           C 0
+ATOM   3001    N HIS A 377      -8.174  -9.065 -13.135  0.00  0.00           N 0
+TER
+END

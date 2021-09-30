@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0729
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0708
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7072
+HEADER 5  - Mean B-factor of pocket residues  : 0.4526
+HEADER 6  - Hydrophobicity Score              : 0.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.3232
+HEADER 10  -Pocket volume (convex hull)       : 3.3234
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2314   CB PRO X 362      -2.794  34.579  39.000  0.00  0.00           C 0
+ATOM    196  CD2 TRP X  94       1.856  35.609  41.197  0.00  0.00           C 0
+ATOM    194   CG TRP X  94       2.532  35.298  42.421  0.00  0.00           C 0
+ATOM   2347  NE2 HIS X 366       0.166  31.302  39.311  0.81  4.37           N 0
+ATOM    158   CB PRO X  90       1.346  28.242  41.157  0.00  0.00           C 0
+ATOM    157    O PRO X  90       3.417  30.675  42.049  0.75  1.07           O 0
+ATOM    168  OE1 GLN X  91       1.230  30.708  47.577  0.00  0.00           O 0
+ATOM    156    C PRO X  90       3.207  29.485  42.360  0.00  0.00           C 0
+ATOM    198  CE2 TRP X  94       1.282  36.895  41.339  0.00  0.00           C 0
+ATOM   2315   CG PRO X 362      -3.168  35.994  39.404  0.00  0.00           C 0
+ATOM    161    N GLN X  91       3.248  29.056  43.609  0.00  0.00           N 0
+ATOM    159   CG PRO X  90       1.150  27.017  41.959  0.00  0.00           C 0
+ATOM    165   CB GLN X  91       3.340  29.334  46.060  0.00  0.00           C 0
+ATOM    199  CE3 TRP X  94       1.673  34.902  39.990  0.00  0.00           C 0
+ATOM    162   CA GLN X  91       3.605  29.963  44.684  0.00  0.00           C 0
+ATOM    169  NE2 GLN X  91       2.571  32.472  47.166  0.00  0.00           N 0
+ATOM    193   CB TRP X  94       3.317  34.064  42.665  0.00  0.00           C 0
+TER
+END

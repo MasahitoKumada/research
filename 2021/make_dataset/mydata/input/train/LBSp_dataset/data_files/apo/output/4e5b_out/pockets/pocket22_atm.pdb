@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0924
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0615
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7115
+HEADER 5  - Mean B-factor of pocket residues  : 0.8588
+HEADER 6  - Hydrophobicity Score              : 11.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.4621
+HEADER 10  -Pocket volume (convex hull)       : 2.6265
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM     62   NE ARG A  10      27.896   2.009  18.651  0.00  0.00           N 0
+ATOM     65  NH2 ARG A  10      28.265   4.160  17.921  0.00  0.00           N 0
+ATOM    113  CG1 ILE A  17      25.265   4.790  15.239  0.00  0.00           C 0
+ATOM    114  CG2 ILE A  17      24.996   3.119  17.116  0.00  0.00           C 0
+ATOM    115  CD1 ILE A  17      26.252   5.863  15.767  0.00  0.00           C 0
+ATOM     82  OE1 GLU A  12      26.846   2.872  10.222  0.00  0.00           O 0
+ATOM     66    N GLN A  11      24.825  -1.278  15.559  0.00  0.00           N 0
+ATOM     59   CB ARG A  10      26.423  -0.361  18.098  0.00  0.00           C 0
+ATOM     60   CG ARG A  10      27.662  -0.455  18.946  0.00  0.00           C 0
+ATOM     58    O ARG A  10      26.612  -2.668  15.636  0.00  0.00           O 0
+ATOM     57    C ARG A  10      25.795  -1.918  16.191  0.00  0.00           C 0
+ATOM     67   CA GLN A  11      24.693  -1.241  14.114  0.00  0.00           C 0
+ATOM     68    C GLN A  11      23.915   0.007  13.739  0.00  0.00           C 0
+ATOM     75    N GLU A  12      23.909   0.361  12.455  0.71  1.09           N 0
+TER
+END

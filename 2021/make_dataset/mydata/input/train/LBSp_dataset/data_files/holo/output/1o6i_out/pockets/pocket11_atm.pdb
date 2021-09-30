@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0046
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9074
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5612
+HEADER 5  - Mean B-factor of pocket residues  : 0.6610
+HEADER 6  - Hydrophobicity Score              : 29.8571
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.9263
+HEADER 10  -Pocket volume (convex hull)       : 3.2603
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0455
+ATOM   7432    O GLY B 442      32.874  52.059  61.736  0.53  7.50           O 0
+ATOM   7462   CBAASN B 447      26.262  54.221  60.049  0.00  0.00           C 0
+ATOM   6084   CG MET B 276      31.675  55.841  61.357  0.00  0.00           C 0
+ATOM   6050  OE1 GLN B 272      33.277  53.943  55.693  0.00  0.00           O 0
+ATOM   6080   CA MET B 276      29.444  56.900  60.521  0.00  0.00           C 0
+ATOM   7461    O ASN B 447      26.380  51.510  60.726  0.00  0.00           O 0
+ATOM   7464   CGAASN B 447      25.804  54.105  58.598  0.00  0.00           C 0
+ATOM   6079    N MET B 276      29.934  57.488  59.272  0.00  0.00           N 0
+ATOM   7439  CG1AVAL B 443      30.717  49.315  62.718  0.00  0.00           C 0
+ATOM   7434   CA VAL B 443      30.836  51.655  63.598  0.00  0.00           C 0
+ATOM   7443    N GLY B 444      29.270  53.493  64.030  0.00  0.00           N 0
+ATOM   6075   CB LEU B 275      30.272  57.166  55.932  0.00  0.00           C 0
+ATOM   7466  OD1AASN B 447      25.473  53.017  58.128  0.00  0.00           O 0
+ATOM   6046    O GLN B 272      32.796  57.098  58.695  0.35  1.07           O 0
+ATOM   6074    O LEU B 275      28.047  57.081  58.128  0.57  1.07           O 0
+ATOM   7468  ND2AASN B 447      25.774  55.225  57.891  0.44  9.84           N 0
+ATOM   6073    C LEU B 275      29.183  57.543  58.177  0.00  0.00           C 0
+TER
+END

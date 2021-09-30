@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0624
+HEADER 1  - Drug Score                        : 0.0123
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9238
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5040
+HEADER 5  - Mean B-factor of pocket residues  : 0.7233
+HEADER 6  - Hydrophobicity Score              : -1.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.6480
+HEADER 10  -Pocket volume (convex hull)       : 1.5351
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   1648  OE2 GLU G 206     -32.919 -41.525  95.603  0.74  8.57           O 1
+ATOM   1646   CD GLU G 206     -32.595 -40.360  96.008  0.00  0.00           C 0
+ATOM   1370   NZ LYS G 173     -39.982 -38.777  93.646  0.86  9.84           N 1
+ATOM   1647  OE1 GLU G 206     -32.495 -40.096  97.216  0.61  8.57           O 0
+ATOM   1369   CE LYS G 173     -38.736 -38.936  92.734  0.00  0.00           C 0
+ATOM   1644   CB GLU G 206     -32.326 -37.786  95.512  0.00  0.00           C 0
+ATOM   1653    O ARG G 207     -34.531 -33.864  96.422  0.18  8.57           O 0
+ATOM   1645   CG GLU G 206     -32.263 -39.232  94.969  0.00  0.00           C 0
+ATOM   1382   OH TYR G 174     -33.584 -41.944  91.118  0.61  8.57           O 0
+ATOM   1366   CB LYS G 173     -36.721 -38.095  90.486  0.00  0.00           C 0
+ATOM   1381   CZ TYR G 174     -33.263 -40.734  90.588  0.00  0.00           C 0
+ATOM   1365    O LYS G 173     -34.682 -36.332  92.088  0.41  2.14           O 0
+ATOM   1649    N ARG G 207     -33.371 -34.777  94.045  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0723
+HEADER 1  - Drug Score                        : 0.0159
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7636
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4774
+HEADER 5  - Mean B-factor of pocket residues  : 0.6997
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.7806
+HEADER 10  -Pocket volume (convex hull)       : 6.2909
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5417
+ATOM   2205   CG PRO D 290      19.406   7.463  62.558  0.00  0.00           C 0
+ATOM   1885   CB GLU D 246      16.447   1.051  58.414  0.00  0.00           C 0
+ATOM   2206   CD PRO D 290      18.491   7.589  61.367  0.00  0.00           C 0
+ATOM   1919   CE MET D 250      21.156   6.324  58.027  0.00  0.00           C 0
+ATOM   1886   CG GLU D 246      15.643   0.916  59.705  0.00  0.00           C 0
+ATOM   1889  OE2 GLU D 246      13.334   0.356  59.906  0.42  5.36           O 1
+ATOM   2168   CB ALA D 285      11.546   4.014  57.818  0.00  0.00           C 0
+ATOM   2165   CA ALA D 285      11.155   5.201  58.683  0.00  0.00           C 0
+ATOM   2167    O ALA D 285      12.971   6.774  58.839  0.73  1.07           O 0
+ATOM   2189   CB LYS D 288      12.359   6.939  62.526  0.00  0.00           C 0
+ATOM   2188    O LYS D 288      15.173   7.992  62.634  0.33  9.64           O 0
+ATOM   1884    O GLU D 246      17.088   3.226  56.090  0.66  1.07           O 0
+ATOM   2199   SG CYS D 289      17.855   8.639  57.853  0.00  0.00           S 0
+ATOM   1882   CA GLU D 246      15.677   1.666  57.243  0.00  0.00           C 0
+ATOM   1911   CB ALA D 249      14.363   5.610  55.964  0.00  0.00           C 0
+ATOM   2195   CA CYS D 289      16.098   8.437  60.052  0.00  0.00           C 0
+ATOM   2187    C LYS D 288      14.353   8.243  61.751  0.00  0.00           C 0
+ATOM   2194    N CYS D 289      14.701   8.468  60.485  0.00  0.00           N 0
+TER
+END

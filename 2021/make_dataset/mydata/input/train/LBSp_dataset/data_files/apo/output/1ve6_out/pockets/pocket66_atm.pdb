@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    66:
+HEADER 0  - Pocket Score                      : -0.0743
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9070
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5098
+HEADER 5  - Mean B-factor of pocket residues  : 0.2587
+HEADER 6  - Hydrophobicity Score              : 49.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.6212
+HEADER 10  -Pocket volume (convex hull)       : 7.8351
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   5495  CE2 PHE B 153      14.916  31.247  34.194  0.00  0.00           C 0
+ATOM   5511   CZ PHE B 155      18.127  27.723  32.052  0.00  0.00           C 0
+ATOM   5493  CD2 PHE B 153      15.402  29.931  34.389  0.00  0.00           C 0
+ATOM   5510  CE2 PHE B 155      17.643  27.414  30.780  0.00  0.00           C 0
+ATOM   5211    O ILE B 114      11.746  28.990  27.191  0.52  7.50           O 0
+ATOM   5223  CD2 LEU B 115      13.073  29.179  31.410  0.00  0.00           C 0
+ATOM   5217   CA LEU B 115      13.311  27.339  28.849  0.00  0.00           C 0
+ATOM   5219    O LEU B 115      15.422  26.988  27.763  0.00  0.00           O 0
+ATOM   5022  NE2 HIS B  90       9.867  31.893  25.683  0.55  2.19           N 0
+ATOM   5202   CG ARG B 113       9.983  31.843  30.157  0.00  0.00           C 0
+ATOM   5002  OE1 GLU B  88      12.079  35.523  26.780  0.18  6.43           O 0
+ATOM   8316   NE ARG B 526      14.217  36.895  29.321  0.74  1.09           N 0
+ATOM   5203   CD ARG B 113      10.678  32.371  31.419  0.00  0.00           C 0
+ATOM   7984   CZ PHE B 485      13.764  35.388  33.647  0.00  0.00           C 0
+ATOM   5206  NH1 ARG B 113      10.637  35.040  30.584  0.89  2.19           N 0
+ATOM   8319  NH2 ARG B 526      14.871  35.751  27.441  0.70  4.37           N 0
+ATOM   8318  NH1 ARG B 526      16.459  36.602  28.865  0.58  8.75           N 0
+ATOM   8317   CZ ARG B 526      15.185  36.419  28.543  0.00  0.00           C 0
+TER
+END

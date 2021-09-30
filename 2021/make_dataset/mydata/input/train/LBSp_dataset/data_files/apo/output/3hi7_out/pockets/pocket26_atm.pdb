@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : 0.0320
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5911
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4248
+HEADER 5  - Mean B-factor of pocket residues  : 0.8803
+HEADER 6  - Hydrophobicity Score              : 25.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 59.7142
+HEADER 10  -Pocket volume (convex hull)       : 0.0906
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   1063    O THR A 159     -20.166 -15.300  94.535  0.00  0.00           O 0
+ATOM   1092   CA HIS A 163     -17.016 -12.352  95.485  0.00  0.00           C 0
+ATOM   1128  CD2 PHE A 166     -17.979 -12.575  91.580  0.00  0.00           C 0
+ATOM   1097  ND1 HIS A 163     -18.346  -9.423  95.726  0.00  0.00           N 0
+ATOM   1095   CB HIS A 163     -17.755 -11.697  96.656  0.00  0.00           C 0
+ATOM   1065  OG1 THR A 159     -22.210 -14.472  92.185  0.75  1.07           O 0
+ATOM   1199   CG GLN A 175     -21.222  -8.686  96.397  0.00  0.00           C 0
+ATOM   1068   CA LYS A 160     -21.433 -14.828  96.939  0.00  0.00           C 0
+ATOM   1198   CB GLN A 175     -22.578  -8.595  95.741  0.00  0.00           C 0
+ATOM   1040    O GLN A 156     -24.871 -13.100  94.988  0.47  2.14           O 0
+ATOM   1194    N GLN A 175     -22.106  -8.380  93.276  0.34  1.09           N 0
+ATOM   1130  CE2 PHE A 166     -18.930 -13.563  91.275  0.00  0.00           C 0
+ATOM   1187   CB PHE A 174     -22.621 -10.501  90.928  0.00  0.00           C 0
+TER
+END

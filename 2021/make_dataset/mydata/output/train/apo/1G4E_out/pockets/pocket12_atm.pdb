@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0481
+HEADER 1  - Drug Score                        : 0.0192
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0538
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6994
+HEADER 5  - Mean B-factor of pocket residues  : 0.4958
+HEADER 6  - Hydrophobicity Score              : -24.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.1926
+HEADER 10  -Pocket volume (convex hull)       : 4.2256
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM   1744   CG GLU B1020      53.733  55.390  10.502  0.00  0.00           C 0
+ATOM   1770   CD LYS B1023      58.841  51.233   9.620  0.00  0.00           C 0
+ATOM   1743   CB GLU B1020      53.529  54.419   9.351  0.00  0.00           C 0
+ATOM   1747  OE2 GLU B1020      54.242  57.713  10.502  0.00  0.00           O 0
+ATOM   1742    O GLU B1020      54.329  52.506  11.932  0.00  0.00           O 0
+ATOM   1768   CB LYS B1023      57.624  50.820  11.824  0.00  0.00           C 0
+ATOM   1740   CA GLU B1020      54.116  53.029   9.603  0.00  0.00           C 0
+ATOM   1772   NZ LYS B1023      60.143  51.433   7.467  0.33  9.84           N 0
+ATOM   1778   CG GLU B1024      54.544  53.721  15.330  0.00  0.00           C 0
+ATOM   1773    N GLU B1024      55.725  50.922  14.460  0.00  0.00           N 0
+ATOM   3267   NZ LYS B1232      59.658  51.792  16.374  1.00  4.37           N 0
+ATOM   3266   CE LYS B1232      60.844  52.706  16.370  0.00  0.00           C 0
+ATOM   1729   CDAARG B1019      57.113  51.066   5.008  0.00  0.00           C 0
+ATOM   1728   CG ARG B1019      56.374  50.484   6.199  0.00  0.00           C 0
+ATOM   1739    N GLU B1020      53.845  52.151   8.472  0.68  5.47           N 0
+TER
+END

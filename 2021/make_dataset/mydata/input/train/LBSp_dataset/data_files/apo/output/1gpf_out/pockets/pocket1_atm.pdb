@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.0577
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.6879
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4616
+HEADER 5  - Mean B-factor of pocket residues  : 0.5594
+HEADER 6  - Hydrophobicity Score              : 26.2500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.9797
+HEADER 10  -Pocket volume (convex hull)       : 10.9874
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4583
+ATOM   2790   CD ARG A 357      38.048  33.526 112.401  0.00  0.00           C 0
+ATOM   2724  CD1 LEU A 349      35.097  30.711 113.595  0.00  0.00           C 0
+ATOM   2791   NE ARG A 357      37.967  34.990 112.256  0.61  2.19           N 0
+ATOM   2984   OH TYR A 379      34.943  33.914 110.808  0.90  1.07           O 0
+ATOM   2695    O GLU A 346      30.897  29.689 116.913  0.51  1.07           O 0
+ATOM   2722   CB LEU A 349      33.650  28.969 114.593  0.00  0.00           C 0
+ATOM   2697   CG GLU A 346      30.617  32.931 117.765  0.00  0.00           C 0
+ATOM   2733  OE1 GLN A 350      31.961  29.962 120.514  0.50  5.36           O 0
+ATOM   2687    O LEU A 345      30.386  29.914 113.560  0.00  0.00           O 0
+ATOM   2982  CE2 TYR A 379      32.984  35.217 110.459  0.00  0.00           C 0
+ATOM   2688   CB LEU A 345      29.072  32.024 111.377  0.00  0.00           C 0
+ATOM   2660  CE1 TYR A 342      31.012  36.581 113.975  0.00  0.00           C 0
+ATOM   2693   CA GLU A 346      30.095  31.596 115.691  0.00  0.00           C 0
+ATOM   2726    N GLN A 350      32.733  27.111 117.018  0.00  0.00           N 0
+ATOM   2692    N GLU A 346      29.279  31.628 114.500  0.00  0.00           N 0
+ATOM   2663   OH TYR A 342      31.969  36.621 116.157  0.00  0.00           O 0
+ATOM   2700  OE2 GLU A 346      31.160  35.113 118.534  0.59  4.29           O 0
+ATOM   3000  OD2 ASP A 381      36.061  37.635 112.561  0.59  4.29           O 0
+ATOM   2686    C LEU A 345      29.501  30.778 113.509  0.00  0.00           C 0
+TER
+END

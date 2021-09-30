@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0652
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9851
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6243
+HEADER 5  - Mean B-factor of pocket residues  : 0.4860
+HEADER 6  - Hydrophobicity Score              : -5.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.9641
+HEADER 10  -Pocket volume (convex hull)       : 7.2265
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM   2119   CG GLU A 252     -21.363 -63.954 -30.614  0.00  0.00           C 0
+ATOM   2120   CD GLU A 252     -22.595 -63.173 -31.094  0.00  0.00           C 0
+ATOM   2122  OE2 GLU A 252     -23.708 -63.636 -30.782  0.00  0.00           O 0
+ATOM   2320   CD ARG A 275     -21.580 -61.824 -23.527  0.00  0.00           C 0
+ATOM   2323  NH1 ARG A 275     -24.377 -62.218 -23.384  0.00  0.00           N 0
+ATOM   2318   CB ARG A 275     -20.113 -60.018 -24.459  0.00  0.00           C 0
+ATOM   2322   CZ ARG A 275     -23.806 -61.241 -22.656  0.00  0.00           C 0
+ATOM   2321   NE ARG A 275     -22.491 -61.030 -22.715  0.56  3.28           N 0
+ATOM   2112  OG1 THR A 251     -18.011 -61.585 -27.980  0.34  2.14           O 0
+ATOM   2121  OE1 GLU A 252     -22.456 -62.095 -31.744  0.80  9.64           O 0
+ATOM   2335    N SER A 277     -20.020 -57.176 -29.902  0.00  0.00           N 0
+ATOM   2327    C HIS A 276     -19.166 -58.043 -29.395  0.00  0.00           C 0
+ATOM   2336   CA SER A 277     -20.603 -57.369 -31.231  0.00  0.00           C 0
+ATOM   2339   CB SER A 277     -21.747 -56.387 -31.376  0.00  0.00           C 0
+ATOM   2325    N HIS A 276     -18.508 -58.708 -27.147  0.57  2.19           N 0
+ATOM   2316    C ARG A 275     -18.798 -58.513 -25.868  0.00  0.00           C 0
+ATOM   2317    O ARG A 275     -19.187 -57.440 -25.419  0.00  0.00           O 0
+ATOM   2328    O HIS A 276     -18.916 -59.109 -29.917  0.00  0.00           O 0
+TER
+END

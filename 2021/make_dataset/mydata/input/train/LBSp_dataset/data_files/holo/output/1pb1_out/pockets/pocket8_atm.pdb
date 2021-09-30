@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1487
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9128
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5566
+HEADER 5  - Mean B-factor of pocket residues  : 0.3907
+HEADER 6  - Hydrophobicity Score              : -8.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 266.1719
+HEADER 10  -Pocket volume (convex hull)       : 10.8096
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   1811    O GLY A 231     -77.257 -62.056  -6.793  0.00  0.00           O 0
+ATOM   1841   CG LYS A 235     -75.775 -58.691  -6.186  0.00  0.00           C 0
+ATOM   1840   CB LYS A 235     -74.499 -58.886  -6.996  0.00  0.00           C 0
+ATOM   1908  OD2 ASP A 243     -75.569 -60.502 -14.403  0.62  7.50           O 0
+ATOM   2210  CD1 ILE A 281     -81.478 -66.588  -7.277  0.00  0.00           C 0
+ATOM   1797  CE1 HIS A 229     -79.453 -66.642  -9.617  0.00  0.00           C 0
+ATOM   2195  OD2 ASP A 279     -82.022 -67.519 -12.187  0.60  4.29           O 0
+ATOM   1900   NZ LYS A 242     -79.908 -63.110 -12.968  0.00  0.00           N 0
+ATOM   1839    O LYS A 235     -73.184 -60.726  -9.312  0.41  5.36           O 0
+ATOM   1837   CA LYS A 235     -74.130 -60.357  -7.147  0.00  0.00           C 0
+ATOM   1810    C GLY A 231     -77.659 -63.195  -6.565  0.00  0.00           C 0
+ATOM   1813   CA ASN A 232     -79.416 -62.333  -5.196  0.00  0.00           C 0
+ATOM   1812    N ASN A 232     -78.710 -63.456  -5.793  0.00  0.00           N 0
+ATOM   1816   CB ASN A 232     -80.878 -62.696  -4.915  0.00  0.00           C 0
+ATOM   1873   CA GLY A 239     -74.912 -63.457 -10.059  0.00  0.00           C 0
+ATOM   1875    O GLY A 239     -74.834 -63.379 -12.479  0.00  0.00           O 0
+ATOM   1899   CE LYS A 242     -78.722 -63.985 -13.196  0.00  0.00           C 0
+ATOM   1809   CA GLY A 231     -76.925 -64.338  -7.186  0.00  0.00           C 0
+TER
+END

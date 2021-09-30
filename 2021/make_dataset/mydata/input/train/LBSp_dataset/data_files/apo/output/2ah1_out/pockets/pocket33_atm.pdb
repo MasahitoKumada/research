@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : 0.0585
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9942
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6107
+HEADER 5  - Mean B-factor of pocket residues  : 0.6916
+HEADER 6  - Hydrophobicity Score              : 29.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.9838
+HEADER 10  -Pocket volume (convex hull)       : 9.6847
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM     40   CB ASP D  76       8.175  20.451   4.321  0.00  0.00           C 0
+ATOM     39    O ASP D  76       8.925  19.326   1.681  0.04  5.36           O 0
+ATOM     37   CA ASP D  76       8.064  19.000   3.890  0.00  0.00           C 0
+ATOM     42  OD1 ASP D  76       6.065  20.172   5.417  0.00  0.00           O 0
+ATOM    533  CG2 THR D 142       2.152  16.042   2.428  0.00  0.00           C 0
+ATOM     33    O CYS D  75       6.945  16.471   4.257  0.41  2.14           O 0
+ATOM     95   CB CYS D  81       4.236  14.962  -1.770  0.00  0.00           C 0
+ATOM    312    N HIS D 114       5.867  16.848  -6.657  0.00  0.00           N 0
+ATOM    548  OG1 THR D 144       0.785  16.892  -1.642  0.40  7.50           O 0
+ATOM    316   CB HIS D 114       5.564  19.136  -7.386  0.00  0.00           C 0
+ATOM    315    O HIS D 114       8.023  18.611  -5.822  0.52  5.36           O 0
+ATOM     59    O TRP D  78       7.880  15.456  -2.352  0.46  1.07           O 0
+ATOM     92   CA CYS D  81       4.356  14.312  -0.368  0.00  0.00           C 0
+ATOM     47    O TYR D  77       9.023  16.158   0.880  0.51  1.07           O 0
+ATOM    549  CG2 THR D 144       0.636  16.206  -3.900  0.00  0.00           C 0
+ATOM     57   CA TRP D  78       9.373  17.182  -1.655  0.00  0.00           C 0
+TER
+END

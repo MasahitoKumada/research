@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0133
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8136
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4945
+HEADER 5  - Mean B-factor of pocket residues  : 0.5118
+HEADER 6  - Hydrophobicity Score              : 15.8000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.9736
+HEADER 10  -Pocket volume (convex hull)       : 5.9636
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM   1175   CE LYS A1219      -6.690   5.504  64.552  0.00  0.00           C 0
+ATOM   1176   NZ LYS A1219      -7.977   4.757  64.535  0.41  5.47           N 1
+ATOM    563    N SER A1141      -6.084   4.414  58.390  0.64  1.09           N 0
+ATOM   1174   CD LYS A1219      -5.592   4.738  63.830  0.00  0.00           C 0
+ATOM    679   CG PRO A1158      -7.500   8.905  58.659  0.00  0.00           C 0
+ATOM    700   CE MET A1160      -5.341   9.326  62.528  0.00  0.00           C 0
+ATOM    678   CB PRO A1158      -7.583  10.191  59.417  0.00  0.00           C 0
+ATOM   1124  OD2 ASP A1213      -7.537   8.347  67.006  0.42  2.14           O 1
+ATOM   1133  OE2 GLU A1214      -9.852  12.346  67.477  0.46  7.50           O 1
+ATOM    684    O TYR A1159      -5.676  12.853  62.770  0.00  0.00           O 0
+ATOM   1132  OE1 GLU A1214      -7.674  12.387  67.162  0.61  2.14           O 0
+ATOM    568   OG SER A1141      -9.337   3.838  57.878  0.60  6.43           O 0
+ATOM    526    O HIS A1136      -8.291   0.612  62.433  0.22  3.21           O 0
+ATOM    551    O VAL A1139      -6.046   2.161  60.877  0.42  1.07           O 0
+ATOM    561  CD1 LEU A1140      -3.802   6.926  60.069  0.00  0.00           C 0
+ATOM    567   CB SER A1141      -8.405   4.902  57.827  0.00  0.00           C 0
+ATOM   1121   CB ASP A1213      -5.694   9.813  66.635  0.00  0.00           C 0
+TER
+END

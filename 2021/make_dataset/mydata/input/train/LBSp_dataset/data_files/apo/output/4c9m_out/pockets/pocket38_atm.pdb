@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.0109
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0874
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5776
+HEADER 5  - Mean B-factor of pocket residues  : 0.1519
+HEADER 6  - Hydrophobicity Score              : -5.8889
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.4224
+HEADER 10  -Pocket volume (convex hull)       : 6.1807
+HEADER 11 - Charge Score                      :    -4
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0476
+ATOM     24   CE LYS A  11      28.111   4.614  -5.069  0.00  0.00           C 0
+ATOM    816  CE2 PHE A  60      31.640   4.487  -3.030  0.00  0.00           C 0
+ATOM    322   CB ASP A  29      28.646   7.700  -2.281  0.00  0.00           C 0
+ATOM    287    O GLU A  27      31.314   3.634   0.876  0.43  6.43           O 0
+ATOM    376    O LEU A  33      23.208   6.304   1.127  0.51  4.29           O 0
+ATOM    404    N GLY A  35      22.426   3.802   2.968  0.57  3.28           N 0
+ATOM    398  OD1 ASP A  34      24.427   1.188   1.748  0.00  0.00           O 0
+ATOM    393   CA ASP A  34      24.614   4.107   1.960  0.00  0.00           C 0
+ATOM    437  OE1 GLU A  37      18.703   3.698   1.561  0.07  3.21           O 0
+ATOM     25   NZ LYS A  11      26.966   5.524  -4.718  0.52  5.47           N 0
+ATOM    364    O ASP A  32      25.062   7.047  -1.419  0.43  3.21           O 0
+ATOM    396   CB ASP A  34      25.729   3.113   2.320  0.00  0.00           C 0
+ATOM    368  OD2 ASP A  32      23.159   6.664  -4.471  0.00  0.00           O 0
+ATOM    367  OD1 ASP A  32      22.118   7.709  -2.871  0.48  5.36           O 0
+ATOM    392    N ASP A  34      25.202   5.392   1.613  0.41  2.19           N 0
+ATOM    318    N ASP A  29      29.994   7.497  -0.243  0.54  2.19           N 0
+TER
+END

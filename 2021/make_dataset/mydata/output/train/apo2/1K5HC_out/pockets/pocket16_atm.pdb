@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0178
+HEADER 1  - Drug Score                        : 0.0120
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7714
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4789
+HEADER 5  - Mean B-factor of pocket residues  : 0.4840
+HEADER 6  - Hydrophobicity Score              : 16.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.5777
+HEADER 10  -Pocket volume (convex hull)       : 8.3658
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   1105    N ASP C 150      93.459 107.387  71.024  0.00  0.00           N 0
+ATOM     92  CD1 ILE C  13      88.767 112.184  69.769  0.00  0.00           C 0
+ATOM   1106   CA ASP C 150      94.270 108.498  71.480  0.00  0.00           C 0
+ATOM   1103  CG1 VAL C 149      91.330 107.752  67.809  0.00  0.00           C 0
+ATOM    905   CB ALA C 123      87.903 108.614  70.262  0.00  0.00           C 0
+ATOM    902   CA ALA C 123      88.452 107.821  71.458  0.00  0.00           C 0
+ATOM    904    O ALA C 123      88.795 109.511  73.116  0.76  8.57           O 0
+ATOM   1109   CB ASP C 150      94.066 108.760  72.983  0.00  0.00           C 0
+ATOM    922   NZ LYS C 125      94.229 111.414  75.701  0.00  0.00           N 1
+ATOM    921   CE LYS C 125      92.915 110.951  76.242  0.00  0.00           C 0
+ATOM   1117   CB SER C 151      98.328 110.752  70.467  0.00  0.00           C 0
+ATOM   1127  OE2 GLU C 152      98.311 110.441  74.005  0.00  0.00           O 1
+ATOM   1113    N SER C 151      96.403 109.318  70.722  0.64  1.09           N 0
+ATOM   1101    O VAL C 149      93.917 107.908  68.902  0.00  0.00           O 0
+ATOM   2089   SD MET C 276      94.769 112.288  67.911  0.00  0.00           S 0
+ATOM   1731  OE1 GLU C 231      97.297 111.629  77.118  0.45  3.21           O 0
+ATOM   1126  OE1 GLU C 152      99.913 111.890  74.395  0.00  0.00           O 0
+TER
+END

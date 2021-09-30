@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    65:
+HEADER 0  - Pocket Score                      : -0.2021
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1500
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6241
+HEADER 5  - Mean B-factor of pocket residues  : 0.4884
+HEADER 6  - Hydrophobicity Score              : -0.8750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.0253
+HEADER 10  -Pocket volume (convex hull)       : 15.0459
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   5431    O ASN B 109     -43.090  21.564 -19.398  0.00  0.00           O 0
+ATOM   5434  OD1 ASN B 109     -42.605  22.380 -16.649  0.00  0.00           O 0
+ATOM   5433   CG ASN B 109     -41.714  23.138 -17.059  0.00  0.00           C 0
+ATOM   5449  OD1 ASN B 111     -47.050  21.943 -19.660  0.00  0.00           O 0
+ATOM   5432   CB ASN B 109     -40.964  22.834 -18.341  0.00  0.00           C 0
+ATOM   8292   NZ LYS B 466     -42.811  22.575 -21.905  0.71  4.37           N 0
+ATOM   8299  CG2 THR B 467     -42.543  28.427 -24.010  0.00  0.00           C 0
+ATOM   8290   CD LYS B 466     -41.320  24.231 -23.069  0.00  0.00           C 0
+ATOM   8291   CE LYS B 466     -42.409  23.165 -23.215  0.00  0.00           C 0
+ATOM   7943   CB PRO B 421     -43.551  28.942 -13.998  0.00  0.00           C 0
+ATOM   5435  ND2 ASN B 109     -41.346  24.233 -16.405  0.46  4.37           N 0
+ATOM   7944   CG PRO B 421     -44.778  29.650 -14.390  0.00  0.00           C 0
+ATOM   7931   OG SER B 419     -42.454  31.118 -17.142  0.65  4.29           O 0
+ATOM   7951  OG1 THR B 422     -39.853  29.592 -17.263  0.58  6.43           O 0
+ATOM   8260    O LEU B 463     -38.385  27.809 -21.206  0.47  5.36           O 0
+ATOM   8264  CD2 LEU B 463     -37.643  24.592 -17.939  0.00  0.00           C 0
+TER
+END

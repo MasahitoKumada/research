@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.0529
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9436
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5921
+HEADER 5  - Mean B-factor of pocket residues  : 0.2328
+HEADER 6  - Hydrophobicity Score              : -0.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.7054
+HEADER 10  -Pocket volume (convex hull)       : 2.2585
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   3202   CB PRO C 407     -14.260 -18.627  68.417  0.00  0.00           C 0
+ATOM   2633   CB ALA C 332     -11.928 -20.963  65.350  0.00  0.00           C 0
+ATOM   2630   CA ALA C 332     -12.334 -22.088  64.314  0.00  0.00           C 0
+ATOM   2632    O ALA C 332     -14.141 -21.421  62.893  0.59  4.29           O 0
+ATOM   2654   CB ALA C 335     -16.252 -24.721  63.395  0.00  0.00           C 0
+ATOM   2655    N ALA C 336     -16.906 -22.029  61.651  0.00  0.00           N 0
+ATOM   3238  OD2 ASP C 411     -21.172 -18.597  64.803  0.00  0.00           O 1
+ATOM   2679   CD LYS C 339     -22.391 -21.736  63.713  0.00  0.00           C 0
+ATOM   3201    O PRO C 407     -16.345 -17.222  66.275  0.59  6.43           O 0
+ATOM   2656   CA ALA C 336     -17.756 -20.905  61.211  0.00  0.00           C 0
+ATOM   2659   CB ALA C 336     -16.966 -19.718  61.299  0.00  0.00           C 0
+ATOM   3235   CB ASP C 411     -19.581 -16.819  65.088  0.00  0.00           C 0
+ATOM   2652    C ALA C 335     -17.391 -23.267  61.594  0.00  0.00           C 0
+ATOM   2653    O ALA C 335     -18.599 -23.464  61.396  0.61  3.21           O 0
+TER
+END

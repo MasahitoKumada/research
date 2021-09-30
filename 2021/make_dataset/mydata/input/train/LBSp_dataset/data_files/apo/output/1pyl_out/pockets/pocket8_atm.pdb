@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0181
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8947
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6083
+HEADER 5  - Mean B-factor of pocket residues  : 0.5247
+HEADER 6  - Hydrophobicity Score              : 19.8889
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 328.2532
+HEADER 10  -Pocket volume (convex hull)       : 14.5428
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2174
+ATOM   1529   CG LEU B   5      29.024 -19.229  19.855  0.00  0.00           C 0
+ATOM   2242   CG PRO B  47      31.206 -15.248  24.129  0.00  0.00           C 0
+ATOM   2243   CD PRO B  47      30.684 -14.787  22.776  0.00  0.00           C 0
+ATOM   1515    N ALA B   4      27.075 -20.731  23.974  0.24  8.75           N 0
+ATOM   1524    N LEU B   5      28.671 -21.880  21.330  0.00  0.00           N 0
+ATOM   2939  OE2 GLU B  92      35.001 -20.012  20.927  0.00  0.00           O 0
+ATOM   1527    O LEU B   5      30.404 -23.608  20.028  0.46  5.36           O 0
+ATOM   1528   CB LEU B   5      29.676 -20.572  19.498  0.00  0.00           C 0
+ATOM   2237    N PRO B  47      29.765 -13.699  23.163  0.00  0.00           N 0
+ATOM   2197    O ARG B  45      26.582 -15.154  20.523  0.00  0.00           O 0
+ATOM   1530  CD1 LEU B   5      30.011 -18.065  19.699  0.00  0.00           C 0
+ATOM   2760   OH TYR B  81      34.075 -16.079  21.278  0.00  0.00           O 0
+ATOM   2220    C LEU B  46      28.874 -13.068  22.398  0.00  0.00           C 0
+ATOM   2221    O LEU B  46      28.093 -12.238  22.867  0.00  0.00           O 0
+ATOM   2186    O SER B  44      24.714 -12.735  22.712  0.00  0.00           O 0
+ATOM   2251    N LYS B  48      29.245 -11.339  25.767  0.00  0.00           N 0
+ATOM   2187   CB SER B  44      24.435 -10.189  23.816  0.00  0.00           C 0
+ATOM   2255   CB LYS B  48      28.041  -9.526  26.924  0.00  0.00           C 0
+ATOM   2238   CA PRO B  47      29.902 -13.354  24.582  0.00  0.00           C 0
+TER
+END

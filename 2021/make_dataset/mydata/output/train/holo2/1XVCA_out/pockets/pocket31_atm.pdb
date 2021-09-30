@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0795
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7573
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5709
+HEADER 5  - Mean B-factor of pocket residues  : 0.6175
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.8454
+HEADER 10  -Pocket volume (convex hull)       : 4.2461
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM   3214  ND2 ASN A 412      99.209  91.817 109.512  0.00  0.00           N 0
+ATOM   3231   CG PRO A 414      93.865  89.361 107.439  0.00  0.00           C 0
+ATOM   3232   CD PRO A 414      94.762  90.370 106.758  0.00  0.00           C 0
+ATOM   3230   CB PRO A 414      94.371  88.069 106.893  0.00  0.00           C 0
+ATOM   3215  OD1 ASN A 412      97.263  92.813 108.991  0.00  0.00           O 0
+ATOM   4130   CB ALA A 525      96.643  85.665 113.504  0.00  0.00           C 0
+ATOM   4139  CE1 PHE A 526      91.425  86.309 112.939  0.00  0.00           C 0
+ATOM   4137  CD1 PHE A 526      91.794  85.413 113.934  0.00  0.00           C 0
+ATOM   4138  CD2 PHE A 526      91.114  86.983 115.609  0.00  0.00           C 0
+ATOM   4106    O PRO A 522      94.435  84.161 110.902  0.54  2.14           O 0
+ATOM   3252   OH TYR A 416      92.037  87.768 109.794  0.61  6.43           O 0
+ATOM   4141   CZ PHE A 526      90.897  87.551 113.278  0.00  0.00           C 0
+ATOM   4140  CE2 PHE A 526      90.739  87.890 114.618  0.00  0.00           C 0
+ATOM   4129    O ALA A 525      96.236  85.551 116.660  0.43  6.43           O 0
+ATOM   4136   CG PHE A 526      91.645  85.738 115.276  0.00  0.00           C 0
+ATOM   4128    C ALA A 525      95.733  84.940 115.715  0.00  0.00           C 0
+ATOM   4131    N PHE A 526      94.445  84.609 115.675  0.00  0.00           N 0
+TER
+END

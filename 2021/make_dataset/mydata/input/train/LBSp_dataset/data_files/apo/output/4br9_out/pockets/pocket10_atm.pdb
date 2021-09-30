@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1396
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9743
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7433
+HEADER 5  - Mean B-factor of pocket residues  : 0.5562
+HEADER 6  - Hydrophobicity Score              : -17.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.2014
+HEADER 10  -Pocket volume (convex hull)       : 3.9442
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.6667
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1334   CB PRO A 197      38.744  10.235   4.672  0.00  0.00           C 0
+ATOM   1355   CG PRO A 199      34.105  15.166   7.224  0.00  0.00           C 0
+ATOM   1356   CD PRO A 199      35.125  14.293   7.930  0.00  0.00           C 0
+ATOM   1350    N PRO A 199      36.383  15.033   7.743  0.00  0.00           N 0
+ATOM   1534    O ASN A 220      40.210  14.040   4.959  0.78  2.14           O 0
+ATOM   2086   CA ASN A 289      34.669   8.647  10.468  0.00  0.00           C 0
+ATOM   2096    O PRO A 290      35.218   5.365   7.412  0.79  5.36           O 0
+ATOM   2087    C ASN A 289      35.148   7.245  10.036  0.00  0.00           C 0
+ATOM   2099   CD PRO A 290      32.738   6.400   9.952  0.00  0.00           C 0
+ATOM   1535   CB ASN A 220      39.404  16.919   4.748  0.00  0.00           C 0
+ATOM   1351   CA PRO A 199      36.109  16.439   7.443  0.00  0.00           C 0
+ATOM   1337    N MET A 198      38.748  12.568   7.167  0.00  0.00           N 0
+ATOM   1332    C PRO A 197      38.833  11.265   7.001  0.00  0.00           C 0
+ATOM   1333    O PRO A 197      38.255  10.501   7.752  0.00  0.00           O 0
+ATOM   2091  OD1 ASN A 289      34.932  11.827   9.985  0.74  4.29           O 0
+ATOM   2089   CB ASN A 289      35.824   9.655  10.351  0.00  0.00           C 0
+ATOM   1223   CBASER A 181      36.660   5.995   4.389  0.00  0.00           C 0
+ATOM   1225   OGASER A 181      37.701   6.350   5.276  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0927
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9669
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7001
+HEADER 5  - Mean B-factor of pocket residues  : 0.3714
+HEADER 6  - Hydrophobicity Score              : -4.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.1747
+HEADER 10  -Pocket volume (convex hull)       : 7.1097
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   1063  CD1 LEU A 133       7.911  -2.110  -3.384  0.00  0.00           C 0
+ATOM   1055  ND2 ASN A 132       8.835  -7.989  -4.158  0.47  2.19           N 0
+ATOM   1057    N LEU A 133       7.672  -5.221  -2.606  0.58  1.09           N 0
+ATOM   1064  CD2 LEU A 133       6.826  -2.456  -5.632  0.00  0.00           C 0
+ATOM   1050   CA ASN A 132       9.754  -6.287  -1.928  0.00  0.00           C 0
+ATOM   1016    C GLU A 127      10.551  -2.343   1.266  0.00  0.00           C 0
+ATOM   1024   CA GLN A 128      12.542  -0.965   1.051  0.00  0.00           C 0
+ATOM   1017    O GLU A 127      11.096  -3.310   0.699  0.46  2.14           O 0
+ATOM   1023    N GLN A 128      11.187  -1.201   1.510  0.00  0.00           N 0
+ATOM   1048    O GLY A 131      12.379  -6.684  -2.587  0.00  0.00           O 0
+ATOM   1049    N ASN A 132      10.894  -5.941  -1.103  0.00  0.00           N 0
+ATOM   1047    C GLY A 131      12.136  -6.215  -1.478  0.00  0.00           C 0
+ATOM   1027   CB GLN A 128      12.977   0.488   1.332  0.00  0.00           C 0
+ATOM   1046   CA GLY A 131      13.273  -5.823  -0.560  0.00  0.00           C 0
+ATOM   1026    O GLN A 128      14.188  -2.636   1.179  0.00  0.00           O 0
+ATOM    990    O ASP A 124       9.753   2.049   2.157  0.00  0.00           O 0
+ATOM   1018   CB GLU A 127       8.211  -1.666   0.796  0.00  0.00           C 0
+ATOM   1021  OE1 GLU A 127       6.015  -0.064  -0.366  0.00  0.00           O 0
+TER
+END

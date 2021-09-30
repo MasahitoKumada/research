@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0876
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.6786
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3781
+HEADER 5  - Mean B-factor of pocket residues  : 0.2857
+HEADER 6  - Hydrophobicity Score              : 30.7000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 136.1653
+HEADER 10  -Pocket volume (convex hull)       : 4.4218
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   3638   OG SER B 470      -1.558   8.686  -3.872  0.38  1.07           O 0
+ATOM   2914    O TYR B 382      -2.067  12.843   1.226  0.67  7.50           O 0
+ATOM   2910  CG2 VAL B 381      -2.448  12.543  -2.233  0.00  0.00           C 0
+ATOM   3614    O HIS B 467      -0.947   6.112  -1.241  0.27  7.50           O 0
+ATOM   3618  ND1 HIS B 467       2.963   7.043   1.686  0.67  1.09           N 0
+ATOM   1511   CA GLY B 198      -1.073   7.766   4.808  0.00  0.00           C 0
+ATOM   3612   CA HIS B 467       0.752   5.155   0.126  0.00  0.00           C 0
+ATOM   2935    N LEU B 384       2.180  13.168   3.744  0.00  0.00           N 0
+ATOM   1510    N GLY B 198       0.185   7.456   5.466  0.00  0.00           N 0
+ATOM   1507   CB PRO B 197       3.179   8.042   6.051  0.00  0.00           C 0
+ATOM   2924   CA TYR B 383       0.444  13.410   2.107  0.00  0.00           C 0
+ATOM   3615   CB HIS B 467       1.981   5.928  -0.356  0.00  0.00           C 0
+ATOM   3202   CG PRO B 417       3.679   9.686  -0.472  0.00  0.00           C 0
+ATOM   2927   CB TYR B 383       1.201  13.127   0.803  0.00  0.00           C 0
+ATOM   3201   CB PRO B 417       3.794  10.866  -1.378  0.00  0.00           C 0
+ATOM   3667  CD1 LEU B 474       1.861  13.101  -3.559  0.00  0.00           C 0
+TER
+END

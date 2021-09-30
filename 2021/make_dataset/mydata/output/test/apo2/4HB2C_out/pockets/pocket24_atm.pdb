@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0276
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9071
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6091
+HEADER 5  - Mean B-factor of pocket residues  : 0.4012
+HEADER 6  - Hydrophobicity Score              : 13.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.8571
+HEADER 10  -Pocket volume (convex hull)       : 4.7059
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2800
+ATOM    632    O ARG C  77      12.441  15.239  36.755  0.66  1.07           O 0
+ATOM   8428    O LYS C1040       9.395  17.634  34.828  0.65  1.07           O 0
+ATOM    639  NH2 ARG C  77      10.396  19.452  32.305  0.00  0.00           N 0
+ATOM   8449  CG2 VAL C1042      13.217  12.428  34.706  0.00  0.00           C 0
+ATOM    636   NE ARG C  77      11.077  19.825  34.471  0.00  0.00           N 0
+ATOM    633   CB ARG C  77      12.561  18.427  36.729  0.00  0.00           C 0
+ATOM   8427    C LYS C1040       8.529  16.894  34.359  0.00  0.00           C 0
+ATOM   8420    O ILE C1039       7.929  15.836  31.162  0.67  2.14           O 0
+ATOM   8140  CD2 HIS C1005      10.233  12.839  31.027  0.00  0.00           C 0
+ATOM   8141  ND1 HIS C1005      10.727  12.965  28.898  0.76  4.37           N 0
+ATOM   8139   CG HIS C1005      11.113  12.389  30.051  0.00  0.00           C 0
+ATOM    647   CE LYS C  78      17.020  17.049  34.109  0.00  0.00           C 0
+ATOM    645   CG LYS C  78      15.939  15.807  36.016  0.00  0.00           C 0
+ATOM   8138   CB HIS C1005      12.292  11.458  30.141  0.00  0.00           C 0
+ATOM   8436    C GLU C1041       9.741  13.613  35.220  0.00  0.00           C 0
+ATOM   8435   CA GLU C1041       9.350  15.020  35.660  0.00  0.00           C 0
+ATOM   8143  NE2 HIS C1005       9.354  13.665  30.428  0.00  0.00           N 0
+ATOM   8142  CE1 HIS C1005       9.653  13.744  29.127  0.00  0.00           C 0
+ATOM   8434    N GLU C1041       8.438  15.610  34.692  0.00  0.00           N 0
+TER
+END

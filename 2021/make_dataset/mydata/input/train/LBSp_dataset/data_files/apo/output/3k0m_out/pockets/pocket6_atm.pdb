@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1038
+HEADER 1  - Drug Score                        : 0.1273
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8903
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5531
+HEADER 5  - Mean B-factor of pocket residues  : 0.0382
+HEADER 6  - Hydrophobicity Score              : 40.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.2523
+HEADER 10  -Pocket volume (convex hull)       : 9.2143
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 22.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.8214
+ATOM   1906  CE1 PHE A 113      -3.288  10.062  -5.951  0.00  0.00           C 0
+ATOM   1908   CZ PHE A 113      -2.956   8.911  -5.286  0.00  0.00           C 0
+ATOM   1904  CD1 PHE A 113      -2.659  10.392  -7.145  0.00  0.00           C 0
+ATOM   1064   CZAPHE A  60       3.394   9.314  -3.096  0.00  0.00           C 0
+ATOM   1154  OE1AGLN A  63       0.544  13.987  -7.893  0.67  2.14           O 0
+ATOM   1096   SDAMET A  61       2.777  10.384  -8.167  0.00  0.00           S 0
+ATOM    914  NH1AARG A  55       4.607  14.302  -5.216  0.46  9.84           N 0
+ATOM   2131  CE1 HIS A 126      -4.060  13.091  -2.645  0.00  0.00           C 0
+ATOM   1094   CGAMET A  61       2.612   8.939  -7.098  0.00  0.00           C 0
+ATOM   1903   CG PHE A 113      -1.719   9.536  -7.707  0.00  0.00           C 0
+ATOM   1098   CEAMET A  61       1.254  10.469  -8.975  0.00  0.00           C 0
+ATOM   1750   CB ALA A 101      -3.527  14.730  -7.766  0.00  0.00           C 0
+ATOM   1747   CA ALA A 101      -4.575  14.118  -6.853  0.00  0.00           C 0
+ATOM   1759    O ASN A 102      -3.895  17.472  -3.487  0.00  0.00           O 0
+ATOM   1907  CE2 PHE A 113      -2.011   8.059  -5.804  0.00  0.00           C 0
+ATOM   1156  NE2AGLN A  63      -0.041  15.978  -8.775  0.70  8.75           N 0
+ATOM   1905  CD2 PHE A 113      -1.392   8.368  -7.012  0.00  0.00           C 0
+ATOM   2069  CD1 LEU A 122      -1.333   8.378  -2.187  0.00  0.00           C 0
+ATOM   2132  NE2 HIS A 126      -3.792  12.538  -1.476  0.00  0.00           N 0
+ATOM   2070  CD2 LEU A 122      -1.506   9.752  -0.102  0.00  0.00           C 0
+ATOM   1756    N ASN A 102      -5.080  15.861  -5.209  0.00  0.00           N 0
+TER
+END

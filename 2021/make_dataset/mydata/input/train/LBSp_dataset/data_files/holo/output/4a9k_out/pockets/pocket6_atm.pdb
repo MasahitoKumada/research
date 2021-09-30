@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1123
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8538
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5356
+HEADER 5  - Mean B-factor of pocket residues  : 0.6524
+HEADER 6  - Hydrophobicity Score              : -4.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.7110
+HEADER 10  -Pocket volume (convex hull)       : 5.2711
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM    840   NZ LYS A1180     -23.563  25.034 -19.167  0.64  7.66           N 0
+ATOM    898  NE2 GLN A1187     -29.099  19.523 -21.918  0.00  0.00           N 0
+ATOM    869  CG2 VAL A1184     -24.655  21.575 -16.937  0.00  0.00           C 0
+ATOM    897  OE1 GLN A1187     -29.948  21.590 -22.170  0.00  0.00           O 0
+ATOM    864   CA VAL A1184     -26.955  20.638 -16.475  0.00  0.00           C 0
+ATOM    896   CD GLN A1187     -29.884  20.531 -21.543  0.00  0.00           C 0
+ATOM    868  CG1 VAL A1184     -24.938  19.091 -16.636  0.00  0.00           C 0
+ATOM    863    N VAL A1184     -27.466  21.871 -15.879  0.00  0.00           N 0
+ATOM    858   CB GLU A1183     -28.459  24.732 -16.101  0.00  0.00           C 0
+ATOM    907  OE2 GLU A1188     -25.926  16.042 -19.797  0.00  0.00           O 0
+ATOM    180  NE2 GLN A1104     -21.127  20.025 -17.907  0.48  7.66           N 0
+ATOM    866    O VAL A1184     -28.124  18.557 -16.695  0.00  0.00           O 0
+ATOM    179  OE1 GLN A1104     -20.764  22.238 -17.830  0.00  0.00           O 0
+ATOM    857    O GLU A1183     -29.567  21.655 -16.689  0.68  9.64           O 0
+ATOM    856    C GLU A1183     -28.728  22.271 -16.021  0.00  0.00           C 0
+TER
+END

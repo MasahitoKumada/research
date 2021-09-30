@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0775
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5665
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3933
+HEADER 5  - Mean B-factor of pocket residues  : 0.3030
+HEADER 6  - Hydrophobicity Score              : -5.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 112.9858
+HEADER 10  -Pocket volume (convex hull)       : 2.1608
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM  11972   CE MET C 558      23.233 -28.333  -6.486  0.00  0.00           C 0
+ATOM   8871   CE LYS C 110      20.610 -27.803  -0.256  0.00  0.00           C 0
+ATOM  10543   CG GLN C 369      25.470 -30.325  -2.357  0.00  0.00           C 0
+ATOM   8872   NZ LYS C 110      21.618 -26.724   0.088  0.43  5.47           N 0
+ATOM  10546  NE2 GLN C 369      26.280 -28.203  -1.549  0.51  3.28           N 0
+ATOM  11969   CB MET C 558      23.431 -25.196  -5.392  0.00  0.00           C 0
+ATOM  11966   CA MET C 558      23.843 -24.463  -4.123  0.00  0.00           C 0
+ATOM  11964  OD2 ASP C 557      19.989 -24.929  -2.339  0.94  1.07           O 0
+ATOM  10569  CG2 THR C 372      19.799 -29.817  -6.327  0.00  0.00           C 0
+ATOM  10568  OG1 THR C 372      20.309 -31.837  -5.091  0.84  2.14           O 0
+ATOM  10567   CB THR C 372      20.740 -31.045  -6.197  0.00  0.00           C 0
+ATOM  10538    N GLN C 369      24.615 -33.088  -3.474  0.00  0.00           N 0
+ATOM  10539   CA GLN C 369      24.704 -31.846  -4.257  0.00  0.00           C 0
+ATOM   8877   CB SER C 111      19.901 -34.044  -2.587  0.00  0.00           C 0
+ATOM   8841    O GLU C 107      20.918 -33.290   1.276  0.57  2.14           O 0
+ATOM   8873    N SER C 111      18.549 -32.740  -0.958  0.00  0.00           N 0
+TER
+END

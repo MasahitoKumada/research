@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    57:
+HEADER 0  - Pocket Score                      : -0.0047
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9650
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5144
+HEADER 5  - Mean B-factor of pocket residues  : 0.5384
+HEADER 6  - Hydrophobicity Score              : 10.4000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 387.8613
+HEADER 10  -Pocket volume (convex hull)       : 30.3033
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM  10572    O GLY B 599     119.625  54.170 114.203  0.49  5.36           O 0
+ATOM  10612   CG GLU B 604     122.981  55.118 119.374  0.00  0.00           C 0
+ATOM  10604   CB VAL B 603     121.241  57.898 115.497  0.00  0.00           C 0
+ATOM  10605  CG1 VAL B 603     120.200  58.621 116.341  0.00  0.00           C 0
+ATOM  10576    O THR B 600     123.149  55.342 115.907  0.67  1.07           O 0
+ATOM  10579  CG2 THR B 600     121.407  51.025 114.517  0.00  0.00           C 0
+ATOM  11308  NH1 ARG B 691     115.299  54.685 116.595  0.60  6.56           N 0
+ATOM  10615  OE2 GLU B 604     123.139  52.866 118.560  0.74  8.57           O 0
+ATOM  11309  NH2 ARG B 691     116.086  56.630 117.518  0.67  1.09           N 0
+ATOM  10640  CD1 ILE B 607     120.419  59.936 120.612  0.00  0.00           C 0
+ATOM  10914   CB SER B 642     116.466  58.930 120.362  0.00  0.00           C 0
+ATOM  10574   CA THR B 600     122.194  53.402 114.844  0.00  0.00           C 0
+ATOM  11260    O ASN B 685     114.195  50.862 113.491  0.34  3.21           O 0
+ATOM  11232  CE1 HIS B 682     119.134  49.479 111.834  0.00  0.00           C 0
+ATOM  11263  OD1 ASN B 685     115.297  47.422 115.267  0.00  0.00           O 0
+ATOM  11264  ND2 ASN B 685     113.249  48.346 115.105  0.04  9.84           N 0
+ATOM  11230  ND1 HIS B 682     118.650  48.257 111.702  0.65  2.19           N 0
+ATOM  10557   NE ARG B 597     122.139  45.853 112.266  0.56  2.19           N 0
+ATOM  10560  NH2 ARG B 597     120.531  44.213 112.387  0.30  8.75           N 0
+TER
+END

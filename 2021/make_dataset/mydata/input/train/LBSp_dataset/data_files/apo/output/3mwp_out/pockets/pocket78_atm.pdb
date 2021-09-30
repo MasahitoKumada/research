@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    78:
+HEADER 0  - Pocket Score                      : -0.1201
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9868
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5265
+HEADER 5  - Mean B-factor of pocket residues  : 0.4303
+HEADER 6  - Hydrophobicity Score              : -12.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 306.8984
+HEADER 10  -Pocket volume (convex hull)       : 20.3582
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  11221    O ARG C 455      25.943 -30.954 -27.233  0.00  0.00           O 0
+ATOM  10655  ND2 ASN C 383      19.718 -28.705 -30.064  0.00  0.00           N 0
+ATOM  10646   CG PRO C 382      19.959 -29.350 -25.536  0.00  0.00           C 0
+ATOM  10645   CB PRO C 382      21.317 -28.815 -25.460  0.00  0.00           C 0
+ATOM  10644    O PRO C 382      22.429 -26.601 -27.351  0.63  6.43           O 0
+ATOM  11232    O ASN C 456      26.904 -28.520 -29.792  0.44  8.57           O 0
+ATOM  11233   CB ASN C 456      27.759 -31.175 -29.807  0.00  0.00           C 0
+ATOM   9005    O ASN C 128      17.164 -31.252 -28.443  0.00  0.00           O 0
+ATOM   9018    N SER C 130      17.697 -36.207 -27.891  0.75  4.37           N 0
+ATOM   9011   CA LEU C 129      16.802 -33.964 -27.676  0.00  0.00           C 0
+ATOM   9008  OD1 ASN C 128      16.404 -32.101 -31.616  0.00  0.00           O 0
+ATOM   9009  ND2 ASN C 128      17.447 -30.139 -31.981  0.00  0.00           N 0
+ATOM   9012    C LEU C 129      16.733 -35.371 -28.267  0.00  0.00           C 0
+ATOM   9046  OE1 GLN C 133      20.209 -35.502 -25.606  0.00  0.00           O 0
+ATOM   9017  CD2 LEU C 129      17.727 -32.269 -25.013  0.00  0.00           C 0
+ATOM   9047  NE2 GLN C 133      20.911 -34.917 -23.550  0.76  8.75           N 0
+ATOM  11215   CB PRO C 454      23.781 -29.986 -23.355  0.00  0.00           C 0
+ATOM  11218    N ARG C 455      26.192 -31.760 -24.529  0.67  2.19           N 0
+ATOM  11222   CB ARG C 455      26.952 -33.632 -25.798  0.00  0.00           C 0
+TER
+END

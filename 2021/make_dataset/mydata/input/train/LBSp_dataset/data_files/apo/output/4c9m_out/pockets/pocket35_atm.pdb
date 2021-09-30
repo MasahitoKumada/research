@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : 0.0088
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9659
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6997
+HEADER 5  - Mean B-factor of pocket residues  : 0.3336
+HEADER 6  - Hydrophobicity Score              : 33.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.1073
+HEADER 10  -Pocket volume (convex hull)       : 15.7374
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM   9256  OE1 GLU B 185      57.976  16.618  48.521  0.81  1.07           O 0
+ATOM   9338   OG SER B 190      56.491  15.111  51.101  0.73  5.36           O 0
+ATOM   9257  OE2 GLU B 185      58.383  14.657  49.383  0.52  4.29           O 0
+ATOM   9337   CB SER B 190      55.901  16.365  51.369  0.00  0.00           C 0
+ATOM   9472   CA SER B 200      58.088  20.979  48.272  0.00  0.00           C 0
+ATOM   9520   CB ALA B 203      62.627  21.986  48.053  0.00  0.00           C 0
+ATOM   9476   OG SER B 200      56.918  19.820  50.006  0.71  8.57           O 0
+ATOM   9255   CD GLU B 185      58.672  15.591  48.614  0.00  0.00           C 0
+ATOM   9254   CG GLU B 185      59.919  15.467  47.753  0.00  0.00           C 0
+ATOM   9526    N ALA B 204      62.397  20.511  45.250  0.82  1.09           N 0
+ATOM   9519    O ALA B 203      64.536  21.160  45.545  0.58  6.43           O 0
+ATOM   9213  CD2 LEU B 182      65.813  16.474  44.730  0.00  0.00           C 0
+ATOM   9518    C ALA B 203      63.324  21.317  45.746  0.00  0.00           C 0
+ATOM   9527   CA ALA B 204      62.737  19.375  44.395  0.00  0.00           C 0
+ATOM   9253   CB GLU B 185      59.769  16.128  46.386  0.00  0.00           C 0
+ATOM   9474    O SER B 200      59.667  20.349  46.571  0.71  2.14           O 0
+ATOM   9530   CB ALA B 204      61.510  18.491  44.173  0.00  0.00           C 0
+ATOM   9190    O LEU B 181      62.249  13.129  45.824  0.70  3.21           O 0
+ATOM   9189    C LEU B 181      63.275  12.594  45.395  0.00  0.00           C 0
+ATOM   9191   CB LEU B 181      64.683  11.390  47.045  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2458
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8282
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6366
+HEADER 5  - Mean B-factor of pocket residues  : 0.3554
+HEADER 6  - Hydrophobicity Score              : -1.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 2.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.4039
+HEADER 10  -Pocket volume (convex hull)       : 11.0875
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.4000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.1923
+ATOM   1239    C THR A 158       5.788   2.060   6.435  0.00  0.00           C 0
+ATOM   1279  OD2 ASP A 164       8.799   1.280   1.237  0.32  9.64           O 1
+ATOM   1238   CA THR A 158       7.156   1.589   6.906  0.00  0.00           C 0
+ATOM   1278  OD1 ASP A 164       6.741   0.824   1.855  0.00  0.00           O 0
+ATOM   1240    O THR A 158       5.403   3.220   6.586  0.00  0.00           O 0
+ATOM   1248   CB CYS A 159       3.630   1.780   3.938  0.00  0.00           C 0
+ATOM    997   CB GLN A 128       5.789   6.049   5.899  0.00  0.00           C 0
+ATOM   1249   SG CYS A 159       1.919   1.521   3.286  0.00  0.00           S 0
+ATOM   1006   CB ASP A 129       1.402   5.527   2.578  0.00  0.00           C 0
+ATOM   1266   CB SER A 162       2.521  -0.446   0.302  0.00  0.00           C 0
+ATOM   1009  OD2 ASP A 129      -0.850   4.667   2.848  0.00  0.00           O 1
+ATOM   1267   OG SER A 162       3.730  -0.049   0.925  0.00  0.00           O 0
+ATOM   1003   CA ASP A 129       2.075   6.766   3.205  0.00  0.00           C 0
+ATOM   1002    N ASP A 129       2.798   6.405   4.429  0.00  0.00           N 0
+ATOM    996    O GLN A 128       4.090   8.256   4.477  0.00  0.00           O 0
+ATOM   1261  OG1 THR A 161      -0.987   0.320   3.720  0.61  4.29           O 0
+ATOM    995    C GLN A 128       3.752   7.175   4.956  0.00  0.00           C 0
+ATOM   1235    O ALA A 157       9.910   2.037   6.720  0.06  8.57           O 0
+ATOM    998   CG GLN A 128       6.936   7.035   6.001  0.00  0.00           C 0
+ATOM   1234    C ALA A 157       9.240   2.702   7.522  0.00  0.00           C 0
+ATOM   1237    N THR A 158       7.915   2.586   7.652  0.00  0.00           N 0
+ATOM   1236   CB ALA A 157      10.172   5.000   7.592  0.00  0.00           C 0
+TER
+END

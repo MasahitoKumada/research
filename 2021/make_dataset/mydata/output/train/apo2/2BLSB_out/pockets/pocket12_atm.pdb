@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.1046
+HEADER 1  - Drug Score                        : 0.0204
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0331
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5983
+HEADER 5  - Mean B-factor of pocket residues  : 0.4793
+HEADER 6  - Hydrophobicity Score              : 23.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.6465
+HEADER 10  -Pocket volume (convex hull)       : 10.8738
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   1618   CB ALA B 208      92.608  -4.383  36.248  0.00  0.00           C 0
+ATOM    355  OD1 ASP B  47      93.577 -10.710  36.246  0.50  1.07           O 0
+ATOM   1580   OH TYR B 203      92.747  -7.651  33.429  0.85  4.29           O 0
+ATOM    369   CB ALA B  49      97.268 -10.015  36.583  0.00  0.00           C 0
+ATOM    365    N ALA B  49      96.395 -10.614  34.408  0.65  1.09           N 0
+ATOM    363  CG2 ILE B  48      96.914  -9.576  31.314  0.00  0.00           C 0
+ATOM    366   CA ALA B  49      97.369 -10.968  35.415  0.00  0.00           C 0
+ATOM   1577  CE1 TYR B 203      93.171  -5.402  32.738  0.00  0.00           C 0
+ATOM   1604    O GLY B 206      96.889  -1.567  33.120  0.00  0.00           O 0
+ATOM    378   NZ LYS B  50      93.456  -9.761  39.580  0.33  9.84           N 1
+ATOM    364  CD1 ILE B  48      94.693  -7.744  30.008  0.00  0.00           C 0
+ATOM   1575  CD1 TYR B 203      92.855  -4.318  31.919  0.00  0.00           C 0
+ATOM   1602   CA GLY B 206      96.412  -0.752  30.870  0.00  0.00           C 0
+ATOM   1614    N ALA B 208      93.421  -2.266  35.301  0.69  3.28           N 0
+ATOM    361   CB ILE B  48      95.475  -9.465  31.768  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1354
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.5772
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3533
+HEADER 5  - Mean B-factor of pocket residues  : 0.4350
+HEADER 6  - Hydrophobicity Score              : 10.9167
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.4167
+HEADER 9  - Pocket volume (Monte Carlo)       : 149.8009
+HEADER 10  -Pocket volume (convex hull)       : 7.8734
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0385
+ATOM   2537   CD ARG B  62       1.677   1.401  44.435  0.00  0.00           C 0
+ATOM   2280   CA LEU B  30       7.505   0.240  43.552  0.00  0.00           C 0
+ATOM   2273    O LYS B  29       6.918   2.792  44.605  0.65  5.36           O 0
+ATOM   2131    O GLY B  12       4.611  -3.231  46.716  0.36  3.21           O 0
+ATOM   2286  CD2 LEU B  30       5.494  -2.282  43.225  0.00  0.00           C 0
+ATOM   2140  OE2 GLU B  13       1.870  -1.349  50.175  0.35  9.64           O 0
+ATOM   2224   CB CYS B  23       0.740   4.142  49.246  0.00  0.00           C 0
+ATOM   2201    O ARG B  21       1.081   3.428  54.446  0.46  2.14           O 0
+ATOM   2164    N ASN B  17       4.284   1.493  53.867  0.51  2.19           N 0
+ATOM   2141    N GLY B  14       5.378  -0.956  49.924  0.48  1.09           N 0
+ATOM   2142   CA GLY B  14       6.530  -0.048  50.003  0.00  0.00           C 0
+ATOM   2154   CB TRP B  16       4.089   4.554  52.857  0.00  0.00           C 0
+ATOM   2269  NE2 GLN B  28       4.414   4.929  48.700  0.67  6.56           N 0
+ATOM   2265   CB GLN B  28       4.278   5.503  45.984  0.00  0.00           C 0
+ATOM   2126  CE1 HIS B  11       1.202  -1.786  46.121  0.00  0.00           C 0
+ATOM   2538   NE ARG B  62       0.486   1.462  45.300  0.00  0.00           N 0
+ATOM   2225   SG CYS B  23       1.202   5.000  47.721  0.00  0.00           S 0
+ATOM   2220    N CYS B  23      -0.436   4.408  51.444  0.52  3.28           N 0
+TER
+END

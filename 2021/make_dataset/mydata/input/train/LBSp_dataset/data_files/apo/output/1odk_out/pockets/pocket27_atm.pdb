@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0393
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1629
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6069
+HEADER 5  - Mean B-factor of pocket residues  : 0.3840
+HEADER 6  - Hydrophobicity Score              : 31.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.0226
+HEADER 10  -Pocket volume (convex hull)       : 1.6217
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   9655    O GLN F 118      16.482 -92.710-123.807  0.59  9.64           O 0
+ATOM   9686   CG GLU F 121      12.988 -93.981-125.382  0.00  0.00           C 0
+ATOM   9689  OE2 GLU F 121      11.465 -95.328-124.153  0.59  5.36           O 0
+ATOM   9664    O TYR F 119      14.332 -89.886-124.129  0.50  4.29           O 0
+ATOM  10242   CE MET F 191      13.889 -85.806-121.252  0.00  0.00           C 0
+ATOM   9668  CD2 TYR F 119      16.796 -88.253-120.609  0.00  0.00           C 0
+ATOM   1321   OH TYR A 173      11.367 -87.756-123.597  0.00  0.00           O 0
+ATOM  10252  NH1 ARG F 192      14.609 -85.677-117.355  0.71  7.66           N 0
+ATOM   8278   CA ALA E 161      16.354 -91.775-117.627  0.00  0.00           C 0
+ATOM   8280    O ALA E 161      14.558 -93.360-117.555  0.50  2.14           O 0
+ATOM   8281   CB ALA E 161      16.956 -91.816-119.023  0.00  0.00           C 0
+ATOM   8268    O TYR E 160      15.907 -90.110-115.505  0.68  6.43           O 0
+ATOM   9670  CE2 TYR F 119      17.286 -87.872-119.356  0.00  0.00           C 0
+TER
+END

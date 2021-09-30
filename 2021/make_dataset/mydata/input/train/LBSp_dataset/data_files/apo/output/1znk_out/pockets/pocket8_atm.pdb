@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0227
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1494
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5317
+HEADER 5  - Mean B-factor of pocket residues  : 0.7109
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 296.7316
+HEADER 10  -Pocket volume (convex hull)       : 8.3821
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM     85    N VAL A  12      37.208  35.564  39.735  0.79  1.09           N 0
+ATOM     69    O PHE A  10      33.766  34.901  37.945  0.00  0.00           O 0
+ATOM     78   CA ASN A  11      34.870  35.688  40.339  0.00  0.00           C 0
+ATOM     84  ND2 ASN A  11      35.510  38.220  41.133  0.50  8.75           N 0
+ATOM     90  CG1 VAL A  12      39.518  36.814  38.119  0.00  0.00           C 0
+ATOM    384    O VAL A  47      45.415  40.360  40.283  0.42  4.29           O 0
+ATOM    390    C LEU A  48      45.026  40.131  36.449  0.00  0.00           C 0
+ATOM    100  OE2 GLU A  13      38.826  42.869  40.550  0.00  0.00           O 0
+ATOM    396    N GLU A  49      44.956  41.164  35.613  0.67  5.47           N 0
+ATOM    386  CG1 VAL A  47      42.974  38.039  39.699  0.00  0.00           C 0
+ATOM     97   CG GLU A  13      39.124  40.533  40.979  0.00  0.00           C 0
+ATOM     98   CD GLU A  13      38.333  41.836  41.049  0.00  0.00           C 0
+ATOM    399    O GLU A  49      42.756  39.439  33.472  0.00  0.00           O 0
+ATOM    397   CA GLU A  49      44.003  41.199  34.505  0.00  0.00           C 0
+ATOM    391    O LEU A  48      44.299  39.136  36.333  0.73  2.14           O 0
+TER
+END

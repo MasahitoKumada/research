@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0510
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2389
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5584
+HEADER 5  - Mean B-factor of pocket residues  : 0.4829
+HEADER 6  - Hydrophobicity Score              : 10.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 168.3776
+HEADER 10  -Pocket volume (convex hull)       : 0.6790
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   2431  NE2 HIS B 104     107.235  15.159  24.608  0.61  4.37           N 0
+ATOM    739   CG ARG A 141     105.369  10.507  27.559  0.00  0.00           C 0
+ATOM    737    O ARG A 141     106.831  12.641  29.874  0.58  3.21           O 0
+ATOM   2160   CG MET B  72     104.369  17.533  27.926  0.00  0.00           C 0
+ATOM    732  OD1 ASP A 140     100.616  14.749  29.577  0.00  0.00           O 0
+ATOM   1643  CE1 TYR A 252     101.959   9.426  25.876  0.00  0.00           C 0
+ATOM   1646   OH TYR A 252     102.585   9.742  23.603  0.48  9.64           O 0
+ATOM    718    O ARG A 139     100.170  11.167  28.317  0.26  7.50           O 0
+ATOM    744  NH2 ARG A 141     105.767  10.823  22.906  0.05  7.66           N 0
+ATOM    741   NE ARG A 141     105.713  10.512  25.180  0.00  0.00           N 0
+ATOM    727   CA ASP A 140     102.055  12.373  30.082  0.00  0.00           C 0
+ATOM    734    N ARG A 141     104.351  11.614  29.919  0.00  0.00           N 0
+ATOM   2161   SD MET B  72     104.253  16.935  29.635  0.00  0.00           S 0
+TER
+END

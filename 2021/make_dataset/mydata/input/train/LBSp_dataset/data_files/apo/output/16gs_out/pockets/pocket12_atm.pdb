@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0605
+HEADER 1  - Drug Score                        : 0.0131
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9976
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4673
+HEADER 5  - Mean B-factor of pocket residues  : 0.5943
+HEADER 6  - Hydrophobicity Score              : 21.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.5159
+HEADER 10  -Pocket volume (convex hull)       : 3.1172
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM   1883  CG2 VAL B  32      19.190  27.424  -3.241  0.00  0.00           C 0
+ATOM   3165    O GLU B 197      18.797  32.945   3.518  0.55  2.14           O 0
+ATOM   1864   CG GLU B  30      23.630  28.237   0.700  0.00  0.00           C 0
+ATOM   3167   CG GLU B 197      22.024  33.313   2.869  0.00  0.00           C 0
+ATOM   1863   CB GLU B  30      23.420  27.781  -0.724  0.00  0.00           C 0
+ATOM   1866  OE1 GLU B  30      22.084  26.515   1.314  0.62  4.29           O 0
+ATOM   3204  CD1 LEU B 201      15.685  31.057   1.327  0.00  0.00           C 0
+ATOM   1865   CD GLU B  30      22.829  27.439   1.712  0.00  0.00           C 0
+ATOM   1867  OE2 GLU B  30      22.947  27.751   2.916  0.53  1.07           O 0
+ATOM   3205  CD2 LEU B 201      17.039  30.056   3.210  0.00  0.00           C 0
+ATOM   1770  NH2 ARG B  18      19.677  26.304   3.111  0.35  2.19           N 0
+ATOM   1697   CA PRO B   9      14.799  26.859  -0.273  0.00  0.00           C 0
+ATOM   1700   CB PRO B   9      14.308  27.568  -1.535  0.00  0.00           C 0
+ATOM   1688    O PHE B   8      16.146  24.908   0.998  0.46  1.07           O 0
+TER
+END

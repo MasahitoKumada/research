@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0532
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0360
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7057
+HEADER 5  - Mean B-factor of pocket residues  : 0.6528
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 307.6191
+HEADER 10  -Pocket volume (convex hull)       : 5.6211
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   2407   CA LYS A 126      17.660  11.792  43.598  0.00  0.00           C 0
+ATOM   2411   CG LYS A 126      18.592  11.084  45.871  0.00  0.00           C 0
+ATOM   2413   CE LYS A 126      20.251  12.437  47.257  0.00  0.00           C 0
+ATOM   2434   CB ALA A 129      15.048  15.187  43.078  0.00  0.00           C 0
+ATOM   2410   CB LYS A 126      18.892  11.458  44.437  0.00  0.00           C 0
+ATOM   2409    O LYS A 126      18.338  13.612  42.222  0.56  2.14           O 0
+ATOM   2414   NZ LYS A 126      21.408  12.997  46.453  0.00  0.00           N 0
+ATOM   2375  OE2 GLU A 122      16.171   9.806  47.661  0.45  5.36           O 0
+ATOM   2439   CB LEU A 130      19.858  16.233  41.137  0.00  0.00           C 0
+ATOM   2436   CA LEU A 130      18.545  17.050  41.097  0.00  0.00           C 0
+ATOM   2441  CD1 LEU A 130      21.638  18.120  41.716  0.00  0.00           C 0
+ATOM   2398    O ARG A 125      15.249  11.823  42.240  0.50  1.07           O 0
+ATOM   2406    N LYS A 126      16.767  10.642  43.391  0.00  0.00           N 0
+ATOM   2435    N LEU A 130      17.417  16.193  41.369  0.00  0.00           N 0
+ATOM   2433    O ALA A 129      15.814  17.766  41.176  0.61  4.29           O 0
+ATOM   2432    C ALA A 129      16.157  16.602  41.355  0.00  0.00           C 0
+ATOM   2397    C ARG A 125      15.627  10.764  42.702  0.00  0.00           C 0
+ATOM   2399   CB ARG A 125      13.940   9.154  43.696  0.00  0.00           C 0
+ATOM   2400   CG ARG A 125      12.457   9.487  43.465  0.00  0.00           C 0
+ATOM   2401   CD ARG A 125      11.534   9.053  44.623  0.00  0.00           C 0
+TER
+END

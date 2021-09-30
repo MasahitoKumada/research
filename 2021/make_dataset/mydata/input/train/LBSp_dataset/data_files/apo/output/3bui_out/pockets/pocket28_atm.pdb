@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0056
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7506
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5247
+HEADER 5  - Mean B-factor of pocket residues  : 0.6195
+HEADER 6  - Hydrophobicity Score              : 27.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 143.9474
+HEADER 10  -Pocket volume (convex hull)       : 2.8945
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   8079   CG GLN A 986      38.182  43.976 -29.312  0.00  0.00           C 0
+ATOM   7367  CG1 VAL A 903      32.569  42.201 -28.597  0.00  0.00           C 0
+ATOM     55  NE2 GLN A  36      34.371  37.816 -25.755  0.50  7.66           N 0
+ATOM     44   CB VAL A  35      33.747  42.733 -23.118  0.00  0.00           C 0
+ATOM     52   CG GLN A  36      32.661  39.236 -24.779  0.00  0.00           C 0
+ATOM     53   CD GLN A  36      33.169  38.352 -25.881  0.00  0.00           C 0
+ATOM   8048  OD1 ASN A 983      39.126  45.017 -22.411  0.55  5.36           O 0
+ATOM     46  CG2 VAL A  35      34.831  43.796 -23.019  0.00  0.00           C 0
+ATOM   8053    O LEU A 984      38.545  47.389 -26.008  0.44  2.14           O 0
+ATOM     31  OD1 ASP A  33      35.170  39.524 -22.204  0.70  3.21           O 0
+ATOM   8074    N GLN A 986      36.638  46.689 -28.894  0.66  1.09           N 0
+ATOM     45  CG1 VAL A  35      32.613  43.163 -24.049  0.00  0.00           C 0
+ATOM   8060   CAAMET A 985      36.288  48.185 -27.137  0.00  0.00           C 0
+ATOM   8049  ND2 ASN A 983      37.179  46.146 -22.511  0.00  0.00           N 0
+ATOM   7365    O VAL A 903      32.601  45.335 -27.410  0.72  3.21           O 0
+ATOM   7366   CB VAL A 903      33.017  43.324 -29.530  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1753
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0238
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5298
+HEADER 5  - Mean B-factor of pocket residues  : 0.2681
+HEADER 6  - Hydrophobicity Score              : 7.4286
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.6076
+HEADER 10  -Pocket volume (convex hull)       : 3.7051
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    640   CA SER A  89      24.910  40.886  -2.548  0.00  0.00           C 0
+ATOM    633    O GLN A  88      27.440  40.573  -3.479  0.00  0.00           O 0
+ATOM    645    N GLN A  90      22.875  42.205  -2.614  0.69  4.37           N 0
+ATOM    650   CG GLN A  90      22.615  45.249  -2.795  0.00  0.00           C 0
+ATOM   1636    O SER B  77      23.281  42.963 -10.399  0.00  0.00           O 0
+ATOM    644   OG SER A  89      23.411  39.224  -3.536  0.00  0.00           O 0
+ATOM    594    N GLN A  84      21.531  38.111  -6.594  0.63  1.09           N 0
+ATOM    598   CB GLN A  84      22.956  37.936  -8.456  0.00  0.00           C 0
+ATOM    648    O GLN A  90      20.669  42.874  -4.131  0.55  1.07           O 0
+ATOM   1637   CB SER B  77      21.934  45.345  -9.305  0.00  0.00           C 0
+ATOM   1638   OG SER B  77      20.659  44.731  -8.989  0.67  1.07           O 0
+ATOM   1648   OG SER B  79      19.170  42.573  -6.843  0.84  1.07           O 0
+ATOM   1643    N SER B  79      19.603  41.760  -9.675  0.00  0.00           N 0
+ATOM    597    O GLN A  84      23.895  37.538  -5.453  0.51  1.07           O 0
+ATOM    606    O TRP A  85      26.566  36.204  -6.657  0.63  2.14           O 0
+ATOM    601  OE1 GLN A  84      24.734  39.249 -10.560  0.53  7.50           O 0
+ATOM    599   CG GLN A  84      24.077  37.323  -9.223  0.00  0.00           C 0
+TER
+END

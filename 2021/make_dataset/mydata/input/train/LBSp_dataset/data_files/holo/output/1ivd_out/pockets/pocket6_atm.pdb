@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1902
+HEADER 1  - Drug Score                        : 0.0133
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0382
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6576
+HEADER 5  - Mean B-factor of pocket residues  : 0.1074
+HEADER 6  - Hydrophobicity Score              : 26.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.5578
+HEADER 10  -Pocket volume (convex hull)       : 10.8628
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5200
+ATOM   4531   CA ASN B 161      37.675  -5.732  -9.127  0.00  0.00           C 0
+ATOM   4546   CG GLU B 162      34.268  -1.823  -8.740  0.00  0.00           C 0
+ATOM   4537  ND2 ASN B 161      39.098  -5.065  -6.865  0.12  7.66           N 0
+ATOM   4541    N GLU B 162      36.399  -3.742  -9.757  0.75  1.09           N 0
+ATOM   4226  CE2 TYR B 130      32.195  -5.186  -9.364  0.00  0.00           C 0
+ATOM   4524    O MET B 160      38.454  -7.898  -7.554  0.20  3.21           O 0
+ATOM   4224  CD2 TYR B 130      33.208  -5.796 -10.133  0.00  0.00           C 0
+ATOM   4635   NE ARG B 172      35.344 -10.335  -4.198  0.00  0.00           N 0
+ATOM   4634   CD ARG B 172      36.576  -9.999  -3.464  0.00  0.00           C 0
+ATOM   4526   CG MET B 160      35.405  -9.907  -9.543  0.00  0.00           C 0
+ATOM   4525   CB MET B 160      36.610 -10.203  -8.674  0.00  0.00           C 0
+ATOM   4523    C MET B 160      37.998  -8.112  -8.675  0.00  0.00           C 0
+ATOM   4530    N ASN B 161      37.624  -7.140  -9.503  0.00  0.00           N 0
+ATOM   4528   CE MET B 160      32.638  -9.491  -9.773  0.00  0.00           C 0
+ATOM   4638  NH2 ARG B 172      33.488 -11.577  -4.687  0.00  0.00           N 0
+ATOM   4527   SD MET B 160      33.860 -10.692  -9.092  0.00  0.00           S 0
+ATOM   4228   OH TYR B 130      29.849  -4.644  -9.033  0.00  0.00           O 0
+ATOM   4796  NE1 TRP B 189      28.420 -10.387  -9.570  0.85  2.19           N 0
+ATOM   4227   CZ TYR B 130      30.866  -5.198  -9.806  0.00  0.00           C 0
+TER
+END

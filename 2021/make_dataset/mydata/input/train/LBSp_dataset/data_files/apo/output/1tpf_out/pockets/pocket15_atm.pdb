@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0507
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8756
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5505
+HEADER 5  - Mean B-factor of pocket residues  : 0.2392
+HEADER 6  - Hydrophobicity Score              : 17.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.2287
+HEADER 10  -Pocket volume (convex hull)       : 7.1476
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   1982   CD LYS B  13      35.769 -10.171  -8.088  0.00  0.00           C 0
+ATOM    549   CB ALA A  73      38.591 -10.906 -11.066  0.00  0.00           C 0
+ATOM   1984   NZ LYS B  13      37.502 -11.523  -7.045  0.46  2.19           N 0
+ATOM   3655    N GLY B 235      33.328 -15.315  -7.002  0.00  0.00           N 0
+ATOM   3656   CA GLY B 235      32.577 -16.040  -8.016  0.00  0.00           C 0
+ATOM    546   CA ALA A  73      37.693  -9.722 -11.444  0.00  0.00           C 0
+ATOM    545    N ALA A  73      37.176  -9.919 -12.790  0.00  0.00           N 0
+ATOM   1957    O ASN B  11      31.782 -10.512  -5.998  0.00  0.00           O 0
+ATOM   3653    C GLY B 234      32.804 -14.476  -6.120  0.00  0.00           C 0
+ATOM   1981   CG LYS B  13      34.597  -9.243  -7.836  0.00  0.00           C 0
+ATOM   1998  ND2 ASN B  15      32.308 -10.253 -11.966  0.78  4.37           N 0
+ATOM    543    C GLY A  72      36.057  -9.341 -13.213  0.00  0.00           C 0
+ATOM    542   CA GLY A  72      35.670  -9.725 -14.618  0.00  0.00           C 0
+ATOM   1997  OD1 ASN B  15      31.850 -10.769 -14.137  0.00  0.00           O 0
+ATOM   1965    O TRP B  12      31.029  -9.133  -9.602  0.00  0.00           O 0
+ATOM   3676  CD1 LEU B 238      29.531 -12.801 -10.643  0.00  0.00           C 0
+TER
+END

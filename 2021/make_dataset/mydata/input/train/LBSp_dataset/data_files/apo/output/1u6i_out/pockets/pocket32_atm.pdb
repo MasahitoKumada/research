@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : 0.1185
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5613
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4098
+HEADER 5  - Mean B-factor of pocket residues  : 0.8776
+HEADER 6  - Hydrophobicity Score              : 17.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 149.1803
+HEADER 10  -Pocket volume (convex hull)       : 5.1424
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM  22071    O VAL K  33      47.015 -17.519  47.356  0.54  5.36           O 0
+ATOM  22079   CB GLU K  34      49.194 -20.199  47.366  0.00  0.00           C 0
+ATOM  22080   CG GLU K  34      48.956 -21.645  47.798  0.00  0.00           C 0
+ATOM  22083  OE2 GLU K  34      48.928 -22.144  45.463  0.83  7.50           O 0
+ATOM  24332   CG LYS L  43      42.967 -20.283  50.486  0.00  0.00           C 0
+ATOM  22076   CA GLU K  34      48.951 -19.180  48.479  0.00  0.00           C 0
+ATOM  22105  NH2 ARG K  36      49.656 -24.120  49.952  0.64  1.09           N 0
+ATOM  24311   CB THR L  40      46.087 -24.362  53.007  0.00  0.00           C 0
+ATOM  22087    O PHE K  35      49.239 -22.265  52.270  0.00  0.00           O 0
+ATOM  24310    O THR L  40      46.232 -21.593  53.756  0.46  2.14           O 0
+ATOM  22084    N PHE K  35      49.430 -19.903  50.753  0.65  1.09           N 0
+ATOM  22006  OD2 ASP K  25      43.357 -15.957  51.238  0.54  4.29           O 0
+ATOM  22090  CD1 PHE K  35      48.878 -16.857  53.157  0.00  0.00           C 0
+ATOM  22074  CG2 VAL K  33      47.246 -14.558  48.899  0.00  0.00           C 0
+ATOM  24326  CG2 VAL L  42      42.846 -17.590  54.097  0.00  0.00           C 0
+TER
+END

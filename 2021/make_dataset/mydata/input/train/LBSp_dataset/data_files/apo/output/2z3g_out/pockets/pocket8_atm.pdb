@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1082
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8375
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4413
+HEADER 5  - Mean B-factor of pocket residues  : 0.3207
+HEADER 6  - Hydrophobicity Score              : 22.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.7385
+HEADER 10  -Pocket volume (convex hull)       : 3.5473
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM    144  ND2 ASN A  19      29.575  41.752 116.943  0.75  4.37           N 0
+ATOM    567   CA GLU A  80      25.556  37.249 117.014  0.00  0.00           C 0
+ATOM    575    N ASN A  81      27.915  36.937 117.485  0.50  1.09           N 0
+ATOM    581  OD1 ASN A  81      29.484  38.313 120.058  0.74  6.43           O 0
+ATOM    582  ND2 ASN A  81      27.880  37.387 121.325  0.52  9.84           N 0
+ATOM    566    N GLU A  80      25.908  37.923 115.764  0.68  4.37           N 0
+ATOM    132    O ILE A  18      27.143  43.681 113.655  0.51  3.21           O 0
+ATOM    138   CA ASN A  19      28.608  44.112 115.968  0.00  0.00           C 0
+ATOM    162    O PRO A  22      21.519  44.202 112.195  0.00  0.00           O 0
+ATOM    136  CD1 ILE A  18      27.035  41.734 110.640  0.00  0.00           C 0
+ATOM    562   CB ASN A  79      25.494  38.855 113.014  0.00  0.00           C 0
+ATOM    209    O TYR A  27      23.234  41.625 109.001  0.82  1.07           O 0
+ATOM    171  CG1 ILE A  23      21.474  41.341 116.124  0.00  0.00           C 0
+ATOM    140    O ASN A  19      27.005  45.642 116.890  0.05  5.36           O 0
+ATOM    154    O ILE A  21      23.698  45.299 114.215  0.38  6.43           O 0
+ATOM    167   CA ILE A  23      20.696  42.166 113.884  0.00  0.00           C 0
+ATOM    173  CD1 ILE A  23      21.065  40.859 117.496  0.00  0.00           C 0
+ATOM    156  CG1 ILE A  21      24.942  45.254 111.138  0.00  0.00           C 0
+TER
+END

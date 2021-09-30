@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0167
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9120
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5948
+HEADER 5  - Mean B-factor of pocket residues  : 0.4467
+HEADER 6  - Hydrophobicity Score              : -1.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.6012
+HEADER 10  -Pocket volume (convex hull)       : 8.6127
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    645   CA TYR B  84     -29.551 -21.265  67.665  0.00  0.00           C 0
+ATOM    714   CB PRO B  92     -34.896 -24.249  68.943  0.00  0.00           C 0
+ATOM    650  CD1 TYR B  84     -27.678 -23.768  67.013  0.00  0.00           C 0
+ATOM    647    O TYR B  84     -29.809 -20.681  69.984  0.42  9.64           O 0
+ATOM    639    O LEU B  83     -31.181 -22.370  65.720  0.50  3.21           O 0
+ATOM    652  CE1 TYR B  84     -27.240 -24.684  66.056  0.00  0.00           C 0
+ATOM   1064  OD1 ASP B 140     -28.032 -29.133  65.410  0.00  0.00           O 0
+ATOM   1062   CB ASP B 140     -28.971 -27.564  63.896  0.00  0.00           C 0
+ATOM   1063   CG ASP B 140     -27.810 -28.127  64.703  0.00  0.00           C 0
+ATOM   1061    O ASP B 140     -31.750 -27.054  63.482  0.64  7.50           O 0
+ATOM    733   CG PRO B  94     -33.906 -23.721  64.347  0.00  0.00           C 0
+ATOM    732   CB PRO B  94     -34.977 -24.642  63.831  0.00  0.00           C 0
+ATOM    715   CG PRO B  92     -35.761 -25.454  69.253  0.00  0.00           C 0
+ATOM    646    C TYR B  84     -30.190 -20.499  68.828  0.00  0.00           C 0
+ATOM    672   CE LYS B  86     -32.845 -23.441  73.616  0.00  0.00           C 0
+ATOM    670   CG LYS B  86     -34.102 -21.663  72.360  0.00  0.00           C 0
+TER
+END

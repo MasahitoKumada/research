@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0130
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7817
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5548
+HEADER 5  - Mean B-factor of pocket residues  : 0.6098
+HEADER 6  - Hydrophobicity Score              : 12.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.5568
+HEADER 10  -Pocket volume (convex hull)       : 3.9863
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   4465  OE2 GLU A 580       3.369  36.291  29.817  0.56  2.14           O 1
+ATOM   4479   CG GLN A 582       4.279  40.272  27.947  0.00  0.00           C 0
+ATOM   4350  CG2 THR A 566       0.429  34.076  27.376  0.00  0.00           C 0
+ATOM   4481  NE2 GLN A 582       2.062  40.266  29.038  0.00  0.00           N 0
+ATOM   4478   CB GLN A 582       4.745  39.082  28.772  0.00  0.00           C 0
+ATOM   4472  CG2 ILE A 581       5.285  34.110  26.859  0.00  0.00           C 0
+ATOM   4166  CG2 ILE A 544       3.863  30.266  24.587  0.00  0.00           C 0
+ATOM   4138   CA ASN A 541       3.792  32.927  21.598  0.00  0.00           C 0
+ATOM   4475   CA GLN A 582       5.729  38.242  27.977  0.00  0.00           C 0
+ATOM   4133   CB ASP A 540       5.946  36.371  23.652  0.00  0.00           C 0
+ATOM   4136  OD2 ASP A 540       6.431  38.572  24.219  0.55  4.29           O 1
+ATOM   4144  OD1 ASN A 541       1.286  31.197  21.880  0.27  8.57           O 0
+ATOM   4141   CB ASN A 541       2.408  33.200  21.029  0.00  0.00           C 0
+ATOM   4137    N ASN A 541       4.558  34.147  21.747  0.61  4.37           N 0
+TER
+END

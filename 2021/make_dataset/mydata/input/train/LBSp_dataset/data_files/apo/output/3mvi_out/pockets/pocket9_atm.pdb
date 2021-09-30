@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0705
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9499
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7469
+HEADER 5  - Mean B-factor of pocket residues  : 0.4645
+HEADER 6  - Hydrophobicity Score              : -15.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.1634
+HEADER 10  -Pocket volume (convex hull)       : 5.4412
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   3835   CG GLN B 135     -44.301  -5.095  -4.489  0.00  0.00           C 0
+ATOM   3831   CA GLN B 135     -41.986  -6.063  -4.809  0.00  0.00           C 0
+ATOM   3858  OE1 GLN B 138     -42.921 -10.264  -3.800  0.68  8.57           O 0
+ATOM   3868  OE2 GLU B 139     -42.985  -5.532  -9.989  0.62  8.57           O 0
+ATOM   3834   CB GLN B 135     -42.923  -4.907  -5.104  0.00  0.00           C 0
+ATOM   3833    O GLN B 135     -40.690  -6.777  -6.682  0.00  0.00           O 0
+ATOM   3887   CG GLN B 142     -40.325 -13.528 -10.678  0.00  0.00           C 0
+ATOM   3855   CB GLN B 138     -40.746 -10.447  -5.600  0.00  0.00           C 0
+ATOM   3854    O GLN B 138     -39.065 -11.194  -8.408  0.00  0.00           O 0
+ATOM   3853    C GLN B 138     -39.297 -10.215  -7.704  0.00  0.00           C 0
+ATOM   3865   CG GLU B 139     -41.313  -7.190  -9.905  0.00  0.00           C 0
+ATOM   3861   CA GLU B 139     -39.387  -8.768  -9.645  0.00  0.00           C 0
+ATOM   3863    O GLU B 139     -37.779  -9.621 -11.225  0.68  3.21           O 0
+ATOM   3864   CB GLU B 139     -39.806  -7.349  -9.987  0.00  0.00           C 0
+ATOM   3886   CB GLN B 142     -39.350 -12.883 -11.633  0.00  0.00           C 0
+ATOM   3860    N GLU B 139     -39.482  -9.000  -8.209  0.00  0.00           N 0
+TER
+END

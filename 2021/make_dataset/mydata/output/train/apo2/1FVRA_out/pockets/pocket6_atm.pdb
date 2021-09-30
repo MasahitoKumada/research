@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1983
+HEADER 1  - Drug Score                        : 0.1665
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.7650
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4694
+HEADER 5  - Mean B-factor of pocket residues  : 0.4592
+HEADER 6  - Hydrophobicity Score              : 21.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.1370
+HEADER 10  -Pocket volume (convex hull)       : 12.6925
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   2108  CD1 LEU A1061      22.249 -32.911  34.738  0.00  0.00           C 0
+ATOM   2522    O LYS A1110      18.857 -35.483  40.940  0.00  0.00           O 0
+ATOM   2545  OG1 THR A1112      21.903 -31.235  38.170  0.81  2.14           O 0
+ATOM   2106   CB LEU A1061      20.210 -34.140  33.965  0.00  0.00           C 0
+ATOM   2525   CD LYS A1110      23.821 -34.974  41.115  0.00  0.00           C 0
+ATOM   2524   CG LYS A1110      22.452 -34.515  41.586  0.00  0.00           C 0
+ATOM   2526   CE LYS A1110      24.613 -33.810  40.527  0.00  0.00           C 0
+ATOM   2527   NZ LYS A1110      25.969 -34.226  40.057  0.00  0.00           N 1
+ATOM   2523   CB LYS A1110      21.675 -35.645  42.242  0.00  0.00           C 0
+ATOM   2114   CB ASN A1062      14.937 -34.472  34.587  0.00  0.00           C 0
+ATOM   2110    N ASN A1062      16.958 -34.874  33.272  0.00  0.00           N 0
+ATOM   2542    O THR A1112      18.232 -29.705  36.519  0.69  7.50           O 0
+ATOM   2104    C LEU A1061      18.149 -35.449  33.397  0.00  0.00           C 0
+ATOM   2109  CD2 LEU A1061      22.424 -34.611  32.906  0.00  0.00           C 0
+ATOM   2105    O LEU A1061      18.298 -36.547  33.931  0.00  0.00           O 0
+ATOM   2529   CA PHE A1111      18.533 -32.765  40.524  0.00  0.00           C 0
+ATOM   2535  CD2 PHE A1111      15.346 -33.254  39.245  0.00  0.00           C 0
+ATOM   2474  ND2 ASN A1104      13.913 -36.865  38.339  0.58  5.47           N 0
+ATOM   2539    N THR A1112      19.246 -31.215  38.818  0.77  2.19           N 0
+ATOM   2537  CE2 PHE A1111      14.503 -32.967  38.168  0.00  0.00           C 0
+ATOM   2111   CA ASN A1062      15.756 -35.509  33.815  0.00  0.00           C 0
+TER
+END

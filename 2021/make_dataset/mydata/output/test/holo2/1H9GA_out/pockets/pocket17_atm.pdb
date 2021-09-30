@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0323
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9896
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5030
+HEADER 5  - Mean B-factor of pocket residues  : 0.4575
+HEADER 6  - Hydrophobicity Score              : 5.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.6993
+HEADER 10  -Pocket volume (convex hull)       : 8.8622
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM    410   NEAARG A  54      25.777  20.478  25.383  0.00  0.00           N 0
+ATOM    371   CB GLU A  50      20.617  15.097  28.149  0.00  0.00           C 0
+ATOM    412   CZAARG A  54      25.378  20.982  24.221  0.00  0.00           C 0
+ATOM    416  NH2AARG A  54      25.590  20.310  23.102  0.00  0.00           N 0
+ATOM     31   CB ALA A   9      18.238  20.619  26.746  0.00  0.00           C 0
+ATOM    414  NH1AARG A  54      24.756  22.152  24.180  0.50  7.66           N 1
+ATOM    408   CDAARG A  54      25.568  21.132  26.671  0.00  0.00           C 0
+ATOM    369    C GLU A  50      22.304  16.335  29.538  0.00  0.00           C 0
+ATOM    382  CG2 VAL A  51      20.138  19.824  30.036  0.00  0.00           C 0
+ATOM     59  OE1 GLU A  13      23.920  23.200  27.470  0.62  3.21           O 0
+ATOM    370    O GLU A  50      23.411  16.561  29.052  0.54  5.36           O 0
+ATOM    404   CBAARG A  54      26.024  19.058  28.045  0.00  0.00           C 0
+ATOM    377   CA VAL A  51      22.252  18.524  30.549  0.00  0.00           C 0
+ATOM     32    N GLY A  10      18.378  23.711  26.906  0.00  0.00           N 0
+ATOM     33   CA GLY A  10      19.109  24.966  26.918  0.00  0.00           C 0
+ATOM     19   OG SER A   7      16.921  23.409  24.375  0.00  0.00           O 0
+TER
+END

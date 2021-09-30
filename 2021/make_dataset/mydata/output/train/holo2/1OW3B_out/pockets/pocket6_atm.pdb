@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1268
+HEADER 1  - Drug Score                        : 0.0608
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9537
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6150
+HEADER 5  - Mean B-factor of pocket residues  : 0.4782
+HEADER 6  - Hydrophobicity Score              : 23.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.4779
+HEADER 10  -Pocket volume (convex hull)       : 9.7206
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.6923
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6500
+ATOM   1360   CE MET B 173      11.602 -11.542  -9.769  0.00  0.00           C 0
+ATOM   1321   CB GLU B 169      12.956 -16.066  -4.611  0.00  0.00           C 0
+ATOM   1234   SD MET B 157      11.099 -12.270  -6.425  0.00  0.00           S 0
+ATOM   1322   CG GLU B 169      12.241 -17.415  -4.637  0.00  0.00           C 0
+ATOM   1320    O GLU B 169      15.016 -14.430  -6.436  0.00  0.00           O 0
+ATOM   1382  NH1 ARG B 176      15.062 -18.118 -11.497  0.00  0.00           N 1
+ATOM   1351  OE1 GLU B 172      15.505 -19.675  -7.567  0.67  4.29           O 0
+ATOM   1357   CB MET B 173      14.943 -12.422  -9.293  0.00  0.00           C 0
+ATOM   1379   CD ARG B 176      15.705 -16.543 -13.753  0.00  0.00           C 0
+ATOM   1354   CA MET B 173      16.065 -13.261  -9.916  0.00  0.00           C 0
+ATOM   1209  CE1 PHE B 154      14.617 -10.255 -14.388  0.00  0.00           C 0
+ATOM   1377   CB ARG B 176      17.281 -14.578 -14.091  0.00  0.00           C 0
+ATOM   1211   CZ PHE B 154      15.018 -10.335 -15.706  0.00  0.00           C 0
+ATOM   1409  NE2 GLN B 180      16.698 -12.517 -18.948  0.00  0.00           N 0
+ATOM   1353    N MET B 173      16.535 -14.308  -9.011  0.65  1.09           N 0
+ATOM   1358   CG MET B 173      14.376 -11.346 -10.227  0.00  0.00           C 0
+ATOM   1348   CB GLU B 172      16.953 -17.378  -8.183  0.00  0.00           C 0
+ATOM   1318   CA GLU B 169      14.462 -16.150  -4.864  0.00  0.00           C 0
+TER
+END

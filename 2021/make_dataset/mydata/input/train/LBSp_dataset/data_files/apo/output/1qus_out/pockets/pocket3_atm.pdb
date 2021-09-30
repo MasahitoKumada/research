@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1500
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9689
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5815
+HEADER 5  - Mean B-factor of pocket residues  : 0.4616
+HEADER 6  - Hydrophobicity Score              : 53.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.9982
+HEADER 10  -Pocket volume (convex hull)       : 0.7531
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM    468   CE MET A  95       0.802  28.088   7.142  0.00  0.00           C 0
+ATOM    426    O VAL A  91      -2.348  27.849   3.045  0.54  1.07           O 0
+ATOM    453   CBALEU A  94      -4.191  24.675   4.737  0.00  0.00           C 0
+ATOM    461    N MET A  95      -3.718  27.669   5.855  0.00  0.00           N 0
+ATOM   1414    O PHE A 217       1.888  25.331   3.090  0.00  0.00           O 0
+ATOM   1415   CBAPHE A 217       0.096  22.898   3.085  0.00  0.00           C 0
+ATOM   1409   CB SER A 216       4.015  20.342   5.181  0.00  0.00           C 0
+ATOM   1410   OG SER A 216       4.496  21.617   5.587  0.69  5.36           O 0
+ATOM    493  NE2 GLN A  98      -1.412  25.709   9.433  0.00  0.00           N 0
+ATOM   1413    C PHE A 217       2.218  24.223   3.498  0.00  0.00           C 0
+ATOM   1433   CB ALA A 218       3.424  25.215   6.659  0.00  0.00           C 0
+ATOM   1429    N ALA A 218       3.051  24.053   4.526  0.00  0.00           N 0
+ATOM   1411    N PHE A 217       2.263  21.761   3.345  0.00  0.00           N 0
+ATOM   1419  CD1APHE A 217      -0.772  20.604   2.485  0.00  0.00           C 0
+TER
+END

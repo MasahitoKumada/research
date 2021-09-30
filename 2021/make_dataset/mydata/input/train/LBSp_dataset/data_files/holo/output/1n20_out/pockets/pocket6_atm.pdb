@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0828
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5656
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3617
+HEADER 5  - Mean B-factor of pocket residues  : 0.6535
+HEADER 6  - Hydrophobicity Score              : 39.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 104.3366
+HEADER 10  -Pocket volume (convex hull)       : 1.1332
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   1649    O ALA A 264      51.172  17.049  60.503  0.83  2.14           O 0
+ATOM   1437  CE3 TRP A 240      47.391  21.128  63.143  0.00  0.00           C 0
+ATOM   1684   CG ARG A 268      49.266  14.453  62.743  0.00  0.00           C 0
+ATOM   1399   CB ASN A 236      52.196  17.943  66.294  0.00  0.00           C 0
+ATOM   1439  CZ3 TRP A 240      46.892  20.603  61.954  0.00  0.00           C 0
+ATOM   1650   CB ALA A 264      50.152  20.219  60.087  0.00  0.00           C 0
+ATOM   1685   CD ARG A 268      47.855  14.675  62.220  0.00  0.00           C 0
+ATOM   1398    O ASN A 236      51.080  21.009  66.865  0.62  2.14           O 0
+ATOM   1618  CH2 TRP A 260      48.986  24.253  61.802  0.00  0.00           C 0
+ATOM   1677  NH1 ARG A 267      53.907  19.454  62.478  0.90  1.09           N 0
+ATOM   1678  NH2 ARG A 267      54.116  21.135  60.930  0.68  5.47           N 0
+ATOM   1616  CZ2 TRP A 260      50.176  24.936  61.824  0.00  0.00           C 0
+ATOM   1427    N TRP A 240      50.097  23.764  66.423  0.62  1.09           N 0
+ATOM   1423   CB LEU A 239      53.225  23.536  65.787  0.00  0.00           C 0
+TER
+END

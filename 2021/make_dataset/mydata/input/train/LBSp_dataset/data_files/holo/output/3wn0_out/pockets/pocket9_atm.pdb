@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0642
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6971
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4735
+HEADER 5  - Mean B-factor of pocket residues  : 0.5864
+HEADER 6  - Hydrophobicity Score              : 29.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 242.0912
+HEADER 10  -Pocket volume (convex hull)       : 13.3828
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    755   CA GLY A 271      32.796  56.548   5.603  0.00  0.00           C 0
+ATOM    756    C GLY A 271      33.871  57.580   5.853  0.00  0.00           C 0
+ATOM    763   OG SER A 272      33.425  61.218   4.240  0.00  0.00           O 0
+ATOM    758    N SER A 272      33.482  58.851   5.867  0.73  1.09           N 0
+ATOM    730   OH TYR A 268      26.705  57.817   6.171  0.58  1.07           O 0
+ATOM    743    O TRP A 270      31.281  54.194   5.836  0.57  8.57           O 0
+ATOM    728  CE2 TYR A 268      27.660  55.826   7.085  0.00  0.00           C 0
+ATOM    926   CB PRO A 292      27.605  61.371   5.712  0.00  0.00           C 0
+ATOM    759   CA SER A 272      34.439  59.942   6.019  0.00  0.00           C 0
+ATOM    757    O GLY A 271      35.034  57.229   6.052  0.00  0.00           O 0
+ATOM    562  OE1 GLN A 248      27.667  58.900   1.868  0.00  0.00           O 0
+ATOM    927   CG PRO A 292      27.101  61.115   4.332  0.00  0.00           C 0
+ATOM    802  CG2 ILE A 276      28.444  59.355   8.548  0.00  0.00           C 0
+ATOM    567    O ALA A 249      26.999  53.808   4.206  0.49  2.14           O 0
+ATOM    560   CG GLN A 248      26.488  56.931   1.182  0.00  0.00           C 0
+ATOM    564    N ALA A 249      26.216  53.286   1.467  0.50  2.19           N 0
+ATOM    568   CB ALA A 249      27.520  51.370   2.281  0.00  0.00           C 0
+TER
+END

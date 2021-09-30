@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1334
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1376
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7279
+HEADER 5  - Mean B-factor of pocket residues  : 0.4213
+HEADER 6  - Hydrophobicity Score              : -1.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 348.2966
+HEADER 10  -Pocket volume (convex hull)       : 19.5326
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   2100  NH1 ARG C 277      93.548 115.160  56.601  0.00  0.00           N 1
+ATOM   2098   NE ARG C 277      93.935 114.288  58.688  0.78  2.19           N 0
+ATOM   2099   CZ ARG C 277      94.326 115.048  57.670  0.00  0.00           C 0
+ATOM    108   OG SER C  16      90.453 114.810  62.597  0.00  0.00           O 0
+ATOM   2097   CD ARG C 277      92.690 113.535  58.732  0.00  0.00           C 0
+ATOM    131  OD2 ASP C  19      91.194 114.176  56.056  0.71  2.14           O 1
+ATOM    101   CB CYS C  15      85.651 116.651  61.662  0.00  0.00           C 0
+ATOM    103    N SER C  16      87.630 114.281  61.745  0.70  1.09           N 0
+ATOM    100    O CYS C  15      86.580 114.030  59.766  0.00  0.00           O 0
+ATOM     99    C CYS C  15      86.592 114.442  60.930  0.00  0.00           C 0
+ATOM   2087   CB MET C 276      93.328 113.023  65.632  0.00  0.00           C 0
+ATOM     83   CB SER C  12      88.423 117.757  66.646  0.00  0.00           C 0
+ATOM   2088   CG MET C 276      93.685 113.481  67.039  0.00  0.00           C 0
+ATOM     84   OG SER C  12      88.798 117.059  67.815  0.30  9.64           O 0
+ATOM     82    O SER C  12      88.090 115.337  64.555  0.59  1.07           O 0
+ATOM    128   CB ASP C  19      89.091 113.472  56.950  0.00  0.00           C 0
+ATOM   2083    N MET C 276      95.358 113.661  64.461  0.54  5.47           N 0
+ATOM    104   CA SER C  16      88.831 113.590  61.291  0.00  0.00           C 0
+ATOM   2082  OD2 ASP C 275      96.421 116.105  60.602  0.46  8.57           O 1
+ATOM   2081  OD1 ASP C 275      95.515 114.217  61.262  0.62  1.07           O 0
+ATOM   2080   CG ASP C 275      96.458 115.043  61.267  0.00  0.00           C 0
+ATOM   2076   CA ASP C 275      97.380 114.733  63.640  0.00  0.00           C 0
+TER
+END

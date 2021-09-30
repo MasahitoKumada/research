@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0279
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7668
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5329
+HEADER 5  - Mean B-factor of pocket residues  : 0.6459
+HEADER 6  - Hydrophobicity Score              : 1.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 150.3287
+HEADER 10  -Pocket volume (convex hull)       : 3.9927
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   1172   CA GLY D 154      17.340   2.627  32.049  0.00  0.00           C 0
+ATOM   1183  OE2 GLU D 155      21.956  -1.228  31.620  0.42  5.36           O 1
+ATOM   1173    C GLY D 154      18.810   2.687  31.691  0.00  0.00           C 0
+ATOM   1479  OD1 ASP D 195      17.551  -3.902  35.506  0.00  0.00           O 0
+ATOM   1485   CB HIS D 196      18.233   0.214  38.723  0.00  0.00           C 0
+ATOM   1481    N HIS D 196      17.171  -1.980  38.420  0.50  1.09           N 0
+ATOM   1488  ND1 HIS D 196      15.858   0.808  38.114  0.76  1.09           N 0
+ATOM   1175    N GLU D 155      19.198   1.993  30.629  0.53  2.19           N 0
+ATOM   1169  CG2 ILE D 153      17.549   3.707  36.354  0.00  0.00           C 0
+ATOM   1166    O ILE D 153      15.305   2.579  33.911  0.61  8.57           O 0
+ATOM   1473    N ASP D 195      15.224  -3.018  36.837  0.00  0.00           N 0
+ATOM   1470   CA GLY D 194      13.469  -1.593  35.985  0.00  0.00           C 0
+ATOM   1523   NE ARG D 200      20.913   2.641  36.408  0.73  3.28           N 0
+ATOM   1174    O GLY D 154      19.588   3.360  32.367  0.00  0.00           O 0
+ATOM   1482   CA HIS D 196      18.277  -1.277  39.066  0.00  0.00           C 0
+ATOM   1522   CD ARG D 200      21.324   2.135  37.719  0.00  0.00           C 0
+TER
+END

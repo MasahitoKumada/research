@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0096
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9343
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4881
+HEADER 5  - Mean B-factor of pocket residues  : 0.5172
+HEADER 6  - Hydrophobicity Score              : 6.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.0121
+HEADER 10  -Pocket volume (convex hull)       : 17.7008
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   1365   OH TYR J 174     -10.533  55.167  60.213  0.47  6.43           O 0
+ATOM    305    O ALA J  43      -9.539  51.478  58.832  0.50  6.43           O 0
+ATOM   1036  CG1 VAL J 132      -6.403  57.129  57.251  0.00  0.00           C 0
+ATOM   1628  OE2 GLU J 206      -6.289  57.468  60.857  0.00  0.00           O 1
+ATOM   1043   CG ASP J 133      -1.704  58.398  58.598  0.00  0.00           C 0
+ATOM   1042   CB ASP J 133      -2.746  59.145  59.440  0.00  0.00           C 0
+ATOM   1045  OD2 ASP J 133      -0.655  58.008  59.156  0.00  0.00           O 1
+ATOM    319   CB SER J  45      -4.820  50.233  56.908  0.00  0.00           C 0
+ATOM   1016    O PRO J 129      -5.475  55.826  54.356  0.69  2.14           O 0
+ATOM   1044  OD1 ASP J 133      -1.936  58.190  57.385  0.63  6.43           O 0
+ATOM    320   OG SER J  45      -4.638  49.997  58.289  0.00  0.00           O 0
+ATOM   1021   CA THR J 130      -3.197  55.031  53.052  0.00  0.00           C 0
+ATOM   1027    N GLY J 131      -2.664  57.260  53.860  0.63  3.28           N 0
+ATOM   1025  CG2 THR J 130      -0.777  54.864  52.374  0.00  0.00           C 0
+ATOM   1020    N THR J 130      -4.537  54.491  52.827  0.00  0.00           N 0
+ATOM    306   CB ALA J  43     -10.580  53.634  57.109  0.00  0.00           C 0
+ATOM   1017   CB PRO J 129      -7.610  53.884  54.527  0.00  0.00           C 0
+ATOM   1018   CG PRO J 129      -7.166  52.483  54.698  0.00  0.00           C 0
+TER
+END

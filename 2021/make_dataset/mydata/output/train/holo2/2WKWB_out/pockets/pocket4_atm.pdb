@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2073
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9166
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6560
+HEADER 5  - Mean B-factor of pocket residues  : 0.5059
+HEADER 6  - Hydrophobicity Score              : 9.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.5026
+HEADER 10  -Pocket volume (convex hull)       : 9.7569
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    578  CG2 THR B  80       9.265  45.506  27.968  0.00  0.00           C 0
+ATOM    579  OG1 THR B  80       7.541  43.817  28.042  0.60  4.29           O 0
+ATOM    605    O GLY B  84      11.283  47.356  30.663  0.58  8.57           O 0
+ATOM    663  OE1 GLU B  90       4.412  44.661  32.935  0.52  3.21           O 0
+ATOM    621   CB MET B  86       5.310  48.942  32.720  0.00  0.00           C 0
+ATOM    617    N MET B  86       7.324  49.053  31.346  0.81  3.28           N 0
+ATOM    664  OE2 GLU B  90       3.930  44.862  35.079  0.48  1.07           O 1
+ATOM    624   CE MET B  86       4.265  48.268  35.673  0.00  0.00           C 0
+ATOM      6  CG2 THR B   8       6.776  50.884  36.446  0.00  0.00           C 0
+ATOM    609    O ARG B  85       7.736  48.294  29.257  0.00  0.00           O 0
+ATOM    608    C ARG B  85       8.108  48.875  30.289  0.00  0.00           C 0
+ATOM    618   CA MET B  86       5.959  48.563  31.381  0.00  0.00           C 0
+ATOM    607   CA ARG B  85       9.514  49.439  30.415  0.00  0.00           C 0
+ATOM    610   CB ARG B  85       9.443  50.975  30.428  0.00  0.00           C 0
+ATOM    611   CG ARG B  85      10.783  51.662  30.759  0.00  0.00           C 0
+TER
+END

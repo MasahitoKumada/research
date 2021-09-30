@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0431
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0307
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5907
+HEADER 5  - Mean B-factor of pocket residues  : 0.1224
+HEADER 6  - Hydrophobicity Score              : 48.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 325.7512
+HEADER 10  -Pocket volume (convex hull)       : 21.3706
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM     86   NEAARG A  10       4.917  59.509   3.460  0.00  0.00           N 0
+ATOM    337  OD2 ASP A  39       5.019  59.739   0.724  0.00  0.00           O 0
+ATOM     69  CD1 ILE A   8      -0.749  60.734   0.775  0.00  0.00           C 0
+ATOM    362  NH2 ARG A  41       5.601  62.484  -0.074  0.27  9.84           N 0
+ATOM     84   CDAARG A  10       3.728  58.989   4.132  0.00  0.00           C 0
+ATOM    762  CZ3 TRP A  89       2.555  62.966   7.091  0.00  0.00           C 0
+ATOM   1086  CG1 VAL A 127       0.298  59.744   5.855  0.00  0.00           C 0
+ATOM   1087  CG2 VAL A 127      -1.730  61.194   5.273  0.00  0.00           C 0
+ATOM    760  CE3 TRP A  89       1.232  63.308   7.466  0.00  0.00           C 0
+ATOM    704  CE1 PHE A  84      -3.621  65.397   3.486  0.00  0.00           C 0
+ATOM    702  CD1 PHE A  84      -3.968  64.563   4.537  0.00  0.00           C 0
+ATOM    753    O TRP A  89      -1.871  66.650   8.460  0.00  0.00           O 0
+ATOM    671   CB PHE A  80      -2.455  64.002  -1.064  0.00  0.00           C 0
+ATOM    670    O PHE A  80      -3.570  66.679   0.291  0.62  7.50           O 0
+ATOM    667    N PHE A  80      -2.024  66.270  -1.889  0.57  6.56           N 0
+ATOM    706   CZ PHE A  84      -3.703  66.738   3.620  0.00  0.00           C 0
+ATOM     88   CZAARG A  10       6.015  59.937   4.059  0.00  0.00           C 0
+ATOM     92  NH2AARG A  10       7.034  60.355   3.308  0.00  0.00           N 0
+ATOM     90  NH1AARG A  10       6.106  59.952   5.389  0.45  5.47           N 0
+TER
+END

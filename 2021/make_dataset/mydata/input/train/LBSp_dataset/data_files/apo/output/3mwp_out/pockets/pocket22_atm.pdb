@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0015
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8959
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5321
+HEADER 5  - Mean B-factor of pocket residues  : 0.5892
+HEADER 6  - Hydrophobicity Score              : -30.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 238.7764
+HEADER 10  -Pocket volume (convex hull)       : 3.1462
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   8557  OD2 ASP C  69      -5.440 -13.367  -2.265  0.00  0.00           O 0
+ATOM   8529  NH1 ARG C  66     -10.898 -15.404  -6.090  0.00  0.00           N 0
+ATOM   8519   NZ LYS C  65      -4.873 -11.279  -3.699  0.00  0.00           N 0
+ATOM   8528   CZ ARG C  66     -10.256 -15.062  -7.207  0.00  0.00           C 0
+ATOM   8527   NE ARG C  66      -8.991 -15.438  -7.424  0.00  0.00           N 0
+ATOM   8530  NH2 ARG C  66     -10.902 -14.358  -8.128  0.00  0.00           N 0
+ATOM   8517   CD LYS C  65      -3.182 -11.956  -5.469  0.00  0.00           C 0
+ATOM   8493  OD1 ASN C  62      -2.374 -12.404 -11.088  0.41  4.29           O 0
+ATOM   8490    O ASN C  62      -3.814 -16.164  -8.628  0.72  2.14           O 0
+ATOM   8491   CB ASN C  62      -3.211 -14.611 -11.487  0.00  0.00           C 0
+ATOM   8492   CG ASN C  62      -2.840 -13.199 -11.907  0.00  0.00           C 0
+ATOM   8526   CD ARG C  66      -8.179 -16.214  -6.482  0.00  0.00           C 0
+ATOM   8516   CG LYS C  65      -3.180 -13.356  -4.877  0.00  0.00           C 0
+ATOM   8525   CG ARG C  66      -6.979 -16.969  -7.141  0.00  0.00           C 0
+TER
+END

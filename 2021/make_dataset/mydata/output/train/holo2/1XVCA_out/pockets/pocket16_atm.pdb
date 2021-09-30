@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0132
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7514
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5463
+HEADER 5  - Mean B-factor of pocket residues  : 0.7786
+HEADER 6  - Hydrophobicity Score              : -22.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 166.2739
+HEADER 10  -Pocket volume (convex hull)       : 2.0249
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   3080   CB GLU A 396     102.503  89.995  83.546  0.00  0.00           C 0
+ATOM   3089   CB ASP A 397     107.739  89.462  84.336  0.00  0.00           C 0
+ATOM   3083  OE1 GLU A 396     101.582  91.891  81.759  0.50  9.64           O 0
+ATOM   3042    O ARG A 391     104.446  95.023  86.629  0.00  0.00           O 0
+ATOM   3949  NH2 ARG A 502     102.781  89.866  79.760  0.50  7.66           N 0
+ATOM   3092  OD2 ASP A 397     109.466  89.903  82.757  0.00  0.00           O 1
+ATOM   3968   CD LYS A 505     108.161  87.465  78.755  0.00  0.00           C 0
+ATOM   3085    N ASP A 397     105.403  88.881  84.785  0.67  2.19           N 0
+ATOM   3067   CA GLY A 394     106.272  92.187  87.655  0.00  0.00           C 0
+ATOM   3076    N GLU A 396     103.165  89.817  85.914  0.63  1.09           N 0
+ATOM   3086   CA ASP A 397     106.706  88.335  84.421  0.00  0.00           C 0
+ATOM   3079    O GLU A 396     104.275  87.457  83.465  0.00  0.00           O 0
+ATOM   3078    C GLU A 396     104.283  88.403  84.251  0.00  0.00           C 0
+TER
+END

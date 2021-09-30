@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0248
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7853
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3791
+HEADER 5  - Mean B-factor of pocket residues  : 0.5665
+HEADER 6  - Hydrophobicity Score              : 27.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.3472
+HEADER 10  -Pocket volume (convex hull)       : 5.7492
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   2902  CE1 TYR B 171      35.391 -35.841 -27.428  0.00  0.00           C 0
+ATOM   2498  OD1 ASP B 119      34.741 -34.169 -34.139  0.00  0.00           O 0
+ATOM   2772  CD1 LEU B 153      32.253 -35.782 -28.607  0.00  0.00           C 0
+ATOM   2905   OH TYR B 171      35.225 -33.685 -26.461  0.00  0.00           O 0
+ATOM   2499  OD2 ASP B 119      36.864 -34.220 -34.694  0.43  6.43           O 0
+ATOM   2782   NZ LYS B 154      37.103 -37.293 -33.104  0.21  9.84           N 0
+ATOM   2900  CD1 TYR B 171      35.270 -37.222 -27.354  0.00  0.00           C 0
+ATOM   2770   CB LEU B 153      31.441 -37.424 -30.318  0.00  0.00           C 0
+ATOM   2781   CE LYS B 154      36.125 -36.962 -34.177  0.00  0.00           C 0
+ATOM   2532  CD1 ILE B 123      40.755 -31.590 -33.765  0.00  0.00           C 0
+ATOM   2897    O TYR B 171      34.666 -41.597 -28.204  0.67  5.36           O 0
+ATOM   2777    O LYS B 154      33.315 -41.209 -32.214  0.60  8.57           O 0
+ATOM   2779   CG LYS B 154      34.441 -38.845 -33.933  0.00  0.00           C 0
+ATOM   2476  NH2 ARG B 116      29.722 -31.692 -31.042  0.00  0.00           N 0
+ATOM   2773  CD2 LEU B 153      30.680 -35.038 -30.361  0.00  0.00           C 0
+TER
+END

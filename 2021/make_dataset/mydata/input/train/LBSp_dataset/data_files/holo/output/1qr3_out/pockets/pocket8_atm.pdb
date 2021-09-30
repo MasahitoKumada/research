@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1238
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9670
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6561
+HEADER 5  - Mean B-factor of pocket residues  : 0.6010
+HEADER 6  - Hydrophobicity Score              : 9.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.9399
+HEADER 10  -Pocket volume (convex hull)       : 17.9883
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    960  OD1 ASN E 150     -20.279  37.765  51.462  0.00  0.00           O 0
+ATOM    959   CG ASN E 150     -20.392  38.143  52.624  0.00  0.00           C 0
+ATOM    953  ND2 ASN E 149     -22.539  33.855  55.219  0.00  0.00           N 0
+ATOM    958   CB ASN E 150     -20.127  37.273  53.812  0.00  0.00           C 0
+ATOM   1350    O GLY E 202     -20.530  32.217  46.144  0.52  7.50           O 0
+ATOM   1259   OH TYR E 189     -26.291  30.417  48.936  0.35  9.64           O 0
+ATOM   1257  CE2 TYR E 189     -24.495  28.896  48.403  0.00  0.00           C 0
+ATOM   1183  CG1 VAL E 179     -19.924  30.974  49.385  0.00  0.00           C 0
+ATOM   1174    O THR E 178     -18.706  33.615  51.989  0.00  0.00           O 0
+ATOM   1182   CB VAL E 179     -20.394  30.633  50.777  0.00  0.00           C 0
+ATOM    952  OD1 ASN E 149     -21.001  32.466  54.410  0.59  1.07           O 0
+ATOM   1184  CG2 VAL E 179     -21.318  29.414  50.966  0.00  0.00           C 0
+ATOM   1217  CD1 ILE E 183     -24.528  30.716  54.379  0.00  0.00           C 0
+ATOM   1167    O PRO E 177     -17.430  34.174  49.015  0.35  1.07           O 0
+ATOM   1169   CG PRO E 177     -18.232  37.604  48.274  0.00  0.00           C 0
+ATOM   1355    N ASP E 204     -22.190  33.336  42.863  0.00  0.00           N 0
+ATOM   1356   CA ASP E 204     -23.276  34.253  42.441  0.00  0.00           C 0
+ATOM   1359   CB ASP E 204     -22.901  35.710  42.728  0.00  0.00           C 0
+ATOM   1353    C GLY E 203     -22.566  32.130  43.336  0.00  0.00           C 0
+ATOM   1354    O GLY E 203     -23.728  31.757  43.296  0.45  5.36           O 0
+TER
+END

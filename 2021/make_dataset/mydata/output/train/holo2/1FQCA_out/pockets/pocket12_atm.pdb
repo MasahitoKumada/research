@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0214
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8734
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5233
+HEADER 5  - Mean B-factor of pocket residues  : 0.5810
+HEADER 6  - Hydrophobicity Score              : 3.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 162.2148
+HEADER 10  -Pocket volume (convex hull)       : 1.2356
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM     95   CB ASP A  14       4.533  12.979  32.214  0.00  0.00           C 0
+ATOM   1647   OH TYR A 210       8.473  11.671  29.789  0.70  2.14           O 0
+ATOM   1826  ND2 ASN A 234       4.417  10.673  24.899  0.00  0.00           N 0
+ATOM   1644  CE1 TYR A 210       8.794  13.514  28.265  0.00  0.00           C 0
+ATOM   1784    O TRP A 230       5.018   7.582  30.200  0.52  4.29           O 0
+ATOM   1674  OE1 GLU A 214       7.665  13.013  25.213  0.73  9.64           O 0
+ATOM   1675  OE2 GLU A 214       7.256  10.879  25.477  0.50  1.07           O 1
+ATOM     92   CA ASP A  14       3.015  12.867  32.026  0.00  0.00           C 0
+ATOM   2303   NZ LYS A 297       0.922   9.498  27.598  0.31  8.75           N 1
+ATOM     90    O GLY A  13       0.550  13.680  31.160  0.42  2.14           O 0
+ATOM     94    O ASP A  14       2.941  10.506  32.525  0.00  0.00           O 0
+ATOM   2301   CD LYS A 297       1.417   8.687  29.914  0.00  0.00           C 0
+ATOM   2302   CE LYS A 297       1.563   8.440  28.418  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0244
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0227
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5420
+HEADER 5  - Mean B-factor of pocket residues  : 0.7260
+HEADER 6  - Hydrophobicity Score              : 15.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.5788
+HEADER 10  -Pocket volume (convex hull)       : 10.3910
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   6086  CG2 VAL D  94      64.541 -15.922   7.503  0.00  0.00           C 0
+ATOM   6090    O PRO D  95      67.656 -15.405   4.808  0.00  0.00           O 0
+ATOM   6084   CB VAL D  94      64.357 -17.154   6.575  0.00  0.00           C 0
+ATOM   5681  CE1 HIS D  45      64.047 -12.125   6.768  0.00  0.00           C 0
+ATOM   6549  CE1 HIS D 155      62.780 -19.113  -2.409  0.00  0.00           C 0
+ATOM   6815  CE1 HIS D 193      59.980 -14.757  -1.108  0.00  0.00           C 0
+ATOM   6382  CE1 PHE D 133      62.633 -19.399   1.845  0.00  0.00           C 0
+ATOM   6174    O GLY D 105      65.908 -19.219   0.450  0.63  5.36           O 0
+ATOM   6550  NE2 HIS D 155      61.551 -18.631  -2.347  0.33  1.09           N 0
+ATOM   6384   CZ PHE D 133      61.327 -19.172   1.430  0.00  0.00           C 0
+ATOM   6093   CD PRO D  95      66.551 -18.549   4.525  0.00  0.00           C 0
+ATOM   6092   CG PRO D  95      67.543 -18.205   3.421  0.00  0.00           C 0
+ATOM   6814  CD2 HIS D 193      59.024 -15.355   0.775  0.00  0.00           C 0
+ATOM   6085  CG1 VAL D  94      62.888 -17.558   6.528  0.00  0.00           C 0
+ATOM   5919  OE1 GLU D  72      59.453 -13.914   6.820  0.52  5.36           O 0
+ATOM   5920  OE2 GLU D  72      58.256 -15.739   6.508  0.67  5.36           O 0
+ATOM   5679  ND1 HIS D  45      62.773 -11.789   6.674  0.30  7.66           N 0
+ATOM   6816  NE2 HIS D 193      59.828 -14.423   0.163  0.00  0.00           N 0
+ATOM   6383  CE2 PHE D 133      60.277 -19.503   2.263  0.00  0.00           C 0
+TER
+END

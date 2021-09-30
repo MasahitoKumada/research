@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0430
+HEADER 1  - Drug Score                        : 0.2043
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0039
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6709
+HEADER 5  - Mean B-factor of pocket residues  : 0.5446
+HEADER 6  - Hydrophobicity Score              : 31.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.0925
+HEADER 10  -Pocket volume (convex hull)       : 15.3378
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7778
+ATOM   1442  CD1 PHE A 292       1.376  11.222  18.494  0.00  0.00           C 0
+ATOM   1467   CB ASP A 295      -4.280  11.126  20.245  0.00  0.00           C 0
+ATOM   1444  CE1 PHE A 292       1.542  11.860  17.268  0.00  0.00           C 0
+ATOM   1439    O PHE A 292      -2.075   8.841  18.727  0.60  1.07           O 0
+ATOM   1470  OD2 ASP A 295      -3.231  12.546  21.793  0.00  0.00           O 0
+ATOM    296  CD1 LEU A 146       3.322  14.126  14.834  0.00  0.00           C 0
+ATOM    422   NZ LYS A 161      -0.355  14.958  10.213  0.56  4.37           N 0
+ATOM    297  CD2 LEU A 146       4.183  16.468  14.647  0.00  0.00           C 0
+ATOM    420   CD LYS A 161       2.003  14.154  10.592  0.00  0.00           C 0
+ATOM    280   OG SER A 144       4.898  16.728  10.449  0.61  7.50           O 0
+ATOM   1471    N HIS A 296      -4.885   9.391  17.871  0.00  0.00           N 0
+ATOM   1475   CB HIS A 296      -3.750   8.667  15.864  0.00  0.00           C 0
+ATOM   1472   CA HIS A 296      -5.018   9.301  16.432  0.00  0.00           C 0
+ATOM   1465    C ASP A 295      -5.767  10.026  18.639  0.00  0.00           C 0
+ATOM   1466    O ASP A 295      -6.800  10.530  18.197  0.41  5.36           O 0
+ATOM   1477  ND1 HIS A 296      -2.938   9.377  13.591  0.00  0.00           N 0
+ATOM    862  CE2 PHE A 216       1.704  11.125  12.572  0.00  0.00           C 0
+ATOM   1446   CZ PHE A 292       1.491  11.103  16.092  0.00  0.00           C 0
+ATOM    863   CZ PHE A 216       0.587  10.706  11.858  0.00  0.00           C 0
+TER
+END

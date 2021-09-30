@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0551
+HEADER 1  - Drug Score                        : 0.0118
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9932
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6911
+HEADER 5  - Mean B-factor of pocket residues  : 0.4106
+HEADER 6  - Hydrophobicity Score              : 7.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.2180
+HEADER 10  -Pocket volume (convex hull)       : 8.1801
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8235
+ATOM    725  NH2 ARG A1769     -15.492  14.391  18.456  0.37  6.56           N 0
+ATOM    733   NE ARG A1770     -11.920  14.607  18.732  0.00  0.00           N 0
+ATOM    722   NE ARG A1769     -15.211  14.667  16.186  0.00  0.00           N 0
+ATOM    719   CB ARG A1769     -13.483  16.343  14.154  0.00  0.00           C 0
+ATOM    736  NH2 ARG A1770     -13.172  14.510  20.646  0.00  0.00           N 0
+ATOM    664  CD2 TYR A1762     -10.145  17.728  20.798  0.00  0.00           C 0
+ATOM    683   CD PRO A1764      -9.859  22.242  14.584  0.00  0.00           C 0
+ATOM    661   CB TYR A1762      -9.069  19.136  18.973  0.00  0.00           C 0
+ATOM    681   CB PRO A1764     -11.360  20.917  13.232  0.00  0.00           C 0
+ATOM    677    N PRO A1764      -9.204  20.987  14.158  0.00  0.00           N 0
+ATOM    731   CG ARG A1770     -10.651  15.334  16.834  0.00  0.00           C 0
+ATOM    726    N ARG A1770     -10.431  16.831  14.280  0.83  1.09           N 0
+ATOM    660    O TYR A1762      -8.073  21.936  18.234  0.00  0.00           O 0
+ATOM   2145  CD2 HIS A1942     -10.509  24.847  16.819  0.00  0.00           C 0
+ATOM    662   CG TYR A1762      -9.238  17.843  19.732  0.00  0.00           C 0
+ATOM    541  CG2 THR A1742     -11.251  24.250  20.367  0.00  0.00           C 0
+ATOM    682   CG PRO A1764     -11.057  22.342  13.647  0.00  0.00           C 0
+ATOM    536   CA THR A1742     -11.031  22.565  22.266  0.00  0.00           C 0
+ATOM    533    O ALA A1741     -13.777  22.777  22.459  0.00  0.00           O 0
+ATOM    539   CB THR A1742     -10.270  23.409  21.209  0.00  0.00           C 0
+TER
+END

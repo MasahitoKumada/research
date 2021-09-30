@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1548
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.1451
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4972
+HEADER 5  - Mean B-factor of pocket residues  : 0.5614
+HEADER 6  - Hydrophobicity Score              : 24.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.0831
+HEADER 10  -Pocket volume (convex hull)       : 13.3726
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0800
+ATOM     44   CG GLU A1088       8.910  23.280  28.667  0.00  0.00           C 0
+ATOM   1600   CB TRP B1165       5.606  20.292  28.532  0.00  0.00           C 0
+ATOM     42    O GLU A1088      12.151  21.799  28.002  0.00  0.00           O 0
+ATOM     43   CB GLU A1088       9.460  22.257  29.611  0.00  0.00           C 0
+ATOM   1599    O TRP B1165       4.746  19.782  25.475  0.58  1.07           O 0
+ATOM   1698   OH TYR B1175       6.876  24.241  26.342  0.70  2.14           O 0
+ATOM     83  OE1 GLN A1092      11.398  20.832  22.554  0.00  0.00           O 0
+ATOM   1611   CA LEU B1166       4.800  16.920  25.501  0.00  0.00           C 0
+ATOM   1616  CD1 LEU B1166       6.285  14.894  23.780  0.00  0.00           C 0
+ATOM   1613    O LEU B1166       3.673  17.159  23.355  0.00  0.00           O 0
+ATOM     74  NH1 ARG A1091      11.044  16.136  29.180  0.00  0.00           N 0
+ATOM   1581  OD1 ASN B1162       8.872  17.768  32.002  0.90  2.14           O 0
+ATOM   1578    O ASN B1162       5.439  16.350  29.019  0.55  1.07           O 0
+ATOM   1610    N LEU B1166       4.644  17.831  26.667  0.69  1.09           N 0
+ATOM     80   CB GLN A1092      13.620  20.819  25.220  0.00  0.00           C 0
+ATOM   1614   CB LEU B1166       5.076  15.462  25.946  0.00  0.00           C 0
+ATOM   1598    C TRP B1165       4.588  19.161  26.552  0.00  0.00           C 0
+TER
+END

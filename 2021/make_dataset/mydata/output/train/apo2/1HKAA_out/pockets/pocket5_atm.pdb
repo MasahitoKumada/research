@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.2652
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1321
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7868
+HEADER 5  - Mean B-factor of pocket residues  : 0.4040
+HEADER 6  - Hydrophobicity Score              : 43.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.7340
+HEADER 10  -Pocket volume (convex hull)       : 7.5523
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM    324    N PHE A  39      -2.228   7.342  38.872  0.58  3.28           N 0
+ATOM    323   OG SER A  38       1.544   6.215  37.117  0.00  0.00           O 0
+ATOM    319   CA SER A  38      -0.683   7.093  37.035  0.00  0.00           C 0
+ATOM    322   CB SER A  38       0.682   7.183  37.715  0.00  0.00           C 0
+ATOM    331  CD2 PHE A  39      -5.921   5.520  39.829  0.00  0.00           C 0
+ATOM    315    O SER A  37      -2.633   7.073  35.044  0.54  6.43           O 0
+ATOM    333  CE2 PHE A  39      -6.870   5.020  38.953  0.00  0.00           C 0
+ATOM    332  CE1 PHE A  39      -6.196   6.623  37.316  0.00  0.00           C 0
+ATOM    330  CD1 PHE A  39      -5.260   7.125  38.211  0.00  0.00           C 0
+ATOM   1319  OXT TRP A 158      -1.461   5.083  44.897  0.00  0.00           O 1
+ATOM   1311  CD1 TRP A 158      -5.308   5.619  44.944  0.00  0.00           C 0
+ATOM    155  CD2ALEU A  15      -7.245   3.521  43.295  0.00  0.00           C 0
+ATOM   1302   CD LYS A 157       2.401   7.631  41.074  0.00  0.00           C 0
+ATOM   1303   CE LYS A 157       3.185   7.181  39.861  0.00  0.00           C 0
+ATOM    329   CG PHE A  39      -5.107   6.577  39.473  0.00  0.00           C 0
+ATOM    334   CZ PHE A  39      -7.017   5.578  37.696  0.00  0.00           C 0
+ATOM    327    O PHE A  39      -1.348   8.015  41.466  0.62  1.07           O 0
+ATOM   1300   CB LYS A 157       1.874   7.003  43.456  0.00  0.00           C 0
+ATOM    328   CB PHE A  39      -4.076   7.100  40.453  0.00  0.00           C 0
+TER
+END

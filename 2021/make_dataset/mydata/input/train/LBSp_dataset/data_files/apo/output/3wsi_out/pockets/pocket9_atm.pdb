@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0587
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0078
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7080
+HEADER 5  - Mean B-factor of pocket residues  : 0.3899
+HEADER 6  - Hydrophobicity Score              : 2.7500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 341.3038
+HEADER 10  -Pocket volume (convex hull)       : 7.6081
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    610   CZ ARG A  79     -13.236  23.189  52.569  0.00  0.00           C 0
+ATOM   2527   CD PRO B  77     -12.457  28.960  52.827  0.00  0.00           C 0
+ATOM   2526   CG PRO B  77     -11.185  29.185  53.569  0.00  0.00           C 0
+ATOM    611  NH1 ARG A  79     -13.937  23.855  51.657  0.62  7.66           N 0
+ATOM    609   NE ARG A  79     -13.074  23.684  53.789  0.00  0.00           N 0
+ATOM   2525   CB PRO B  77     -11.542  29.100  55.044  0.00  0.00           C 0
+ATOM    590    O PRO A  77      -8.611  28.846  57.416  0.00  0.00           O 0
+ATOM    607   CG ARG A  79     -13.423  25.120  55.758  0.00  0.00           C 0
+ATOM    608   CD ARG A  79     -13.613  24.961  54.251  0.00  0.00           C 0
+ATOM    595   CA ILE A  78     -10.908  28.028  58.704  0.00  0.00           C 0
+ATOM    598   CB ILE A  78     -10.736  27.603  60.166  0.00  0.00           C 0
+ATOM    600  CG2 ILE A  78      -9.258  27.719  60.594  0.00  0.00           C 0
+ATOM    619  OD1 ASN A  80     -13.163  22.391  58.126  0.00  0.00           O 0
+ATOM    602    N ARG A  79     -12.830  26.617  58.149  0.00  0.00           N 0
+ATOM    616    O ASN A  80     -13.147  24.820  62.260  0.60  6.43           O 0
+ATOM    613    N ASN A  80     -14.058  24.780  59.732  0.00  0.00           N 0
+TER
+END

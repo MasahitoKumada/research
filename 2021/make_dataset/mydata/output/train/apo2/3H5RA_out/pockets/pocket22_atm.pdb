@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.0173
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.1860
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5526
+HEADER 5  - Mean B-factor of pocket residues  : 0.6301
+HEADER 6  - Hydrophobicity Score              : 7.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.4037
+HEADER 10  -Pocket volume (convex hull)       : 7.0298
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3462
+ATOM   2513  NE2 GLN A 335      -1.347 -13.538 -14.421  0.00  0.00           N 0
+ATOM   2511   CG GLN A 335      -2.838 -11.665 -14.795  0.00  0.00           C 0
+ATOM   2010    O GLN A 261      -6.644 -17.003 -17.824  0.38  8.57           O 0
+ATOM   2512   CD GLN A 335      -2.084 -12.572 -13.850  0.00  0.00           C 0
+ATOM   2528   CG MET A 337      -7.689 -11.792 -13.375  0.00  0.00           C 0
+ATOM   2518    O ASN A 336      -7.067 -11.571 -16.613  0.57  2.14           O 0
+ATOM   2011   CB GLN A 261      -8.266 -14.614 -17.741  0.00  0.00           C 0
+ATOM   2514  OE1 GLN A 335      -2.154 -12.418 -12.620  0.74  1.07           O 0
+ATOM   1991   OH TYR A 258      -4.788 -16.527  -7.999  0.00  0.00           O 0
+ATOM   2406  NH1 ARG A 322      -1.494 -13.387 -10.253  0.52  5.47           N 1
+ATOM   2403   CD ARG A 322      -3.902 -12.222  -9.349  0.00  0.00           C 0
+ATOM   2529   SD MET A 337      -7.592 -12.546 -11.754  0.00  0.00           S 0
+ATOM   1988  CE1 TYR A 258      -6.764 -15.160  -8.173  0.00  0.00           C 0
+ATOM   1990   CZ TYR A 258      -6.139 -16.393  -8.263  0.00  0.00           C 0
+ATOM   2009    C GLN A 261      -7.774 -17.095 -17.324  0.00  0.00           C 0
+ATOM   1983    O TYR A 258      -9.320 -16.587 -12.140  0.56  5.36           O 0
+ATOM   2016    N LYS A 262      -8.124 -18.117 -16.541  0.00  0.00           N 0
+ATOM   2017   CA LYS A 262      -7.266 -19.292 -16.377  0.00  0.00           C 0
+ATOM   2020   CB LYS A 262      -7.853 -20.263 -15.343  0.00  0.00           C 0
+ATOM   1989  CE2 TYR A 258      -6.869 -17.534  -8.597  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.3424
+HEADER 1  - Drug Score                        : 0.2689
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 4.0512
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5293
+HEADER 5  - Mean B-factor of pocket residues  : 0.2595
+HEADER 6  - Hydrophobicity Score              : 61.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.5243
+HEADER 10  -Pocket volume (convex hull)       : 9.0686
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 22.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.6970
+ATOM    191   CZ TYR A  14     -22.342   6.969   2.191  0.00  0.00           C 0
+ATOM    189  CE1 TYR A  14     -22.316   8.272   1.837  0.00  0.00           C 0
+ATOM    166   CB LEU A  13     -16.611   6.262   3.170  0.00  0.00           C 0
+ATOM    323  CE2 PHE B   1     -20.514   4.162  -0.018  0.00  0.00           C 0
+ATOM    246  OE2 GLU A  17     -19.082  12.027  -1.889  0.00  0.00           O 0
+ATOM    245  OE1 GLU A  17     -19.798  11.980   0.220  0.73  5.36           O 0
+ATOM    244   CD GLU A  17     -18.913  12.188  -0.666  0.00  0.00           C 0
+ATOM    164    C LEU A  13     -17.043   8.594   3.922  0.00  0.00           C 0
+ATOM    187  CD1 TYR A  14     -21.733   9.186   2.666  0.00  0.00           C 0
+ATOM    604    OALEU B  17     -12.631   6.745  -4.005  0.24  4.29           O 0
+ATOM    168  CD1 LEU A  13     -16.101   4.116   2.036  0.00  0.00           C 0
+ATOM    324   CZ PHE B   1     -19.952   3.264  -0.904  0.00  0.00           C 0
+ATOM    322  CE1 PHE B   1     -19.327   2.136  -0.428  0.00  0.00           C 0
+ATOM    642  CG2 VAL B  18     -13.748   7.477   0.539  0.00  0.00           C 0
+ATOM    602    CALEU B  17     -11.842   6.788  -3.066  0.00  0.00           C 0
+ATOM    606   CBALEU B  17     -10.586   4.763  -2.411  0.00  0.00           C 0
+ATOM    636    N VAL B  18     -12.116   7.429  -1.944  0.00  0.00           N 0
+ATOM    165    O LEU A  13     -16.533   9.408   3.131  0.73  1.07           O 0
+ATOM    637   CA VAL B  18     -13.381   8.092  -1.814  0.00  0.00           C 0
+ATOM    639    O VAL B  18     -14.608   9.423  -3.399  0.00  0.00           O 0
+ATOM    641  CG1 VAL B  18     -14.675   9.622  -0.308  0.00  0.00           C 0
+TER
+END

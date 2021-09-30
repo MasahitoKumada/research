@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0265
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9918
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5434
+HEADER 5  - Mean B-factor of pocket residues  : 0.3804
+HEADER 6  - Hydrophobicity Score              : 3.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.3915
+HEADER 10  -Pocket volume (convex hull)       : 2.8441
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM     96    O MET A  36      28.480  -1.037  29.717  0.00  0.00           O 0
+ATOM    104    O SER A  37      30.595  -1.956  32.347  0.46  1.07           O 0
+ATOM     97   CB MET A  36      26.801   0.357  31.655  0.00  0.00           C 0
+ATOM    111   CB ARG A  38      29.988  -5.087  31.335  0.00  0.00           C 0
+ATOM    139  NH2 ARG A  41      28.003  -6.576  33.755  0.38  7.66           N 0
+ATOM    764   OG SER A 116      30.800  -1.445  34.897  0.62  5.36           O 0
+ATOM    116  NH1 ARG A  38      25.473  -6.004  28.687  0.32  7.66           N 0
+ATOM    169  NH1 ARG A  45      20.824  -4.424  30.669  0.30  6.56           N 0
+ATOM    138  NH1 ARG A  41      27.049  -8.269  32.539  0.00  0.00           N 0
+ATOM    166   CD ARG A  45      22.501  -2.884  29.022  0.00  0.00           C 0
+ATOM     99   SD MET A  36      24.020   0.583  32.134  0.00  0.00           S 0
+ATOM    164   CB ARG A  45      24.731  -2.234  28.126  0.00  0.00           C 0
+ATOM    113   CD ARG A  38      28.066  -5.497  29.716  0.00  0.00           C 0
+TER
+END

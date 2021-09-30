@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1233
+HEADER 1  - Drug Score                        : 0.0042
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8088
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5447
+HEADER 5  - Mean B-factor of pocket residues  : 0.3234
+HEADER 6  - Hydrophobicity Score              : 8.9091
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.1818
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.5603
+HEADER 10  -Pocket volume (convex hull)       : 21.5387
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    930   CB THR A 106       1.173  15.680  29.758  0.00  0.00           C 0
+ATOM    932  CG2 THR A 106       0.879  16.421  28.440  0.00  0.00           C 0
+ATOM    704   CDALYS A  81      -2.948  10.637  29.565  0.00  0.00           C 0
+ATOM    702   CGALYS A  81      -3.053  11.637  30.713  0.00  0.00           C 0
+ATOM    716    OATYR A  82      -1.843  16.185  31.820  0.00  0.00           O 0
+ATOM    931  OG1 THR A 106       2.437  14.986  29.704  0.56  2.14           O 0
+ATOM     22    O LYS A   4       4.271   9.560  26.636  0.62  9.64           O 0
+ATOM   1084   CB CYS A 122       5.636  15.304  28.391  0.00  0.00           C 0
+ATOM     29   CA ASN A   5       2.233   7.690  26.289  0.00  0.00           C 0
+ATOM     32   CB ASN A   5       1.287   7.195  25.210  0.00  0.00           C 0
+ATOM     34  OD1 ASN A   5      -0.408   7.904  26.772  0.63  2.14           O 0
+ATOM    708   NZALYS A  81      -0.537   9.735  29.442  0.51  3.28           N 0
+ATOM    662   CG GLU A  77      -5.505  15.289  28.881  0.00  0.00           C 0
+ATOM   1085   SG CYS A 122       6.391  16.006  26.940  0.00  0.00           S 0
+ATOM   1103  NE2 HIS A 124       4.552  18.426  25.552  0.00  0.00           N 0
+ATOM     10   CB CYS A   2       7.616  13.682  25.490  0.00  0.00           C 0
+ATOM   1069  CE1 HIS A 120       5.224  11.469  29.902  0.00  0.00           C 0
+ATOM    740  OG1 THR A  83      -3.193  17.962  28.849  0.26  2.14           O 0
+TER
+END

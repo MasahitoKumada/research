@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1751
+HEADER 1  - Drug Score                        : 0.4684
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8130
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4124
+HEADER 5  - Mean B-factor of pocket residues  : 0.5390
+HEADER 6  - Hydrophobicity Score              : -5.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.5050
+HEADER 10  -Pocket volume (convex hull)       : 5.1290
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   6154  NE2 GLN B 410      67.714  11.884  44.113  0.90  1.09           N 0
+ATOM   5376  CG2 VAL B 306      71.757  10.374  44.129  0.00  0.00           C 0
+ATOM   5353   CB LYS B 303      71.374  11.593  50.671  0.00  0.00           C 0
+ATOM   5276   CG PRO B 293      68.483   7.905  44.603  0.00  0.00           C 0
+ATOM   6151   CG GLN B 410      69.384  13.625  44.163  0.00  0.00           C 0
+ATOM   5361    O PRO B 304      73.887  11.499  47.227  0.61  1.07           O 0
+ATOM   5355   CD LYS B 303      69.542   9.982  51.289  0.00  0.00           C 0
+ATOM   5356   CE LYS B 303      68.019  10.021  51.277  0.00  0.00           C 0
+ATOM   5297  OG1 THR B 296      66.234  13.252  50.099  0.44  3.21           O 0
+ATOM   5281    O LYS B 294      64.809  11.114  46.236  0.52  4.29           O 0
+ATOM   5354   CG LYS B 303      70.133  11.367  51.505  0.00  0.00           C 0
+ATOM   5324    O GLY B 299      71.021  14.827  49.653  0.56  2.14           O 0
+ATOM   5275   CB PRO B 293      67.064   7.825  45.021  0.00  0.00           C 0
+ATOM   5363   CG PRO B 304      74.813   9.228  49.753  0.00  0.00           C 0
+ATOM   6142    O THR B 409      67.193  15.959  47.119  0.68  2.14           O 0
+ATOM   5322   CA GLY B 299      68.773  15.403  50.223  0.00  0.00           C 0
+TER
+END

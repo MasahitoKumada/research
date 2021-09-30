@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0871
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0447
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6302
+HEADER 5  - Mean B-factor of pocket residues  : 0.1580
+HEADER 6  - Hydrophobicity Score              : 8.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 2.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.7350
+HEADER 10  -Pocket volume (convex hull)       : 3.6837
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   2264    O SER A 181       9.059 -13.506 -11.137  0.68  3.21           O 0
+ATOM   1168   CB ASN A 106       9.567 -11.472  -4.558  0.00  0.00           C 0
+ATOM   2307  CG2 THR A 184       7.287 -13.797  -7.737  0.00  0.00           C 0
+ATOM   1171  ND2 ASN A 106       9.224 -13.841  -4.567  0.37  6.56           N 0
+ATOM   2353   CE MET A 187       6.884  -9.797  -7.199  0.00  0.00           C 0
+ATOM   2275    O ALA A 182       7.354 -10.178 -10.643  0.55  2.14           O 0
+ATOM   2273   CA ALA A 182       8.641 -11.091 -12.435  0.00  0.00           C 0
+ATOM   2276   CB ALA A 182       8.635 -10.012 -13.496  0.00  0.00           C 0
+ATOM   1156  OD1 ASN A 105      10.043  -5.620  -8.928  0.61  7.50           O 0
+ATOM   1150    N ASN A 105      11.433  -7.249  -5.722  0.68  1.09           N 0
+ATOM   1154   CB ASN A 105       9.390  -6.577  -6.891  0.00  0.00           C 0
+ATOM   1135    O SER A 103      12.384  -9.865  -4.095  0.52  2.14           O 0
+ATOM   1164    N ASN A 106       9.719  -9.063  -4.643  0.58  1.09           N 0
+TER
+END

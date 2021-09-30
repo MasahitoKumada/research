@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0532
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7312
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5035
+HEADER 5  - Mean B-factor of pocket residues  : 0.6358
+HEADER 6  - Hydrophobicity Score              : 0.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 139.4536
+HEADER 10  -Pocket volume (convex hull)       : 2.8030
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   2747    O ASP A 358      -7.065 -16.903 -39.942  0.00  0.00           O 0
+ATOM   2775    N GLN A 362      -7.917 -19.750 -40.467  0.00  0.00           N 0
+ATOM   2751  OD2 ASP A 358      -5.851 -15.839 -36.703  0.52  7.50           O 1
+ATOM   2780   CG GLN A 362      -9.784 -18.418 -38.228  0.00  0.00           C 0
+ATOM   2771   CB MET A 361      -4.688 -19.576 -40.349  0.00  0.00           C 0
+ATOM   3586  NH2 ARG A 463      -5.746 -22.969 -34.207  0.00  0.00           N 0
+ATOM   3583   NE ARG A 463      -4.217 -23.972 -35.630  0.69  3.28           N 0
+ATOM   2770    O MET A 361      -6.971 -21.816 -40.474  0.00  0.00           O 0
+ATOM   2776   CA GLN A 362      -9.141 -20.271 -39.920  0.00  0.00           C 0
+ATOM   2808  CD2 HIS A 365      -8.571 -25.054 -36.658  0.00  0.00           C 0
+ATOM   2806   CB HIS A 365      -7.343 -24.393 -38.846  0.00  0.00           C 0
+ATOM   2769    C MET A 361      -6.928 -20.588 -40.769  0.00  0.00           C 0
+ATOM   2773   SD MET A 361      -2.054 -18.994 -39.631  0.00  0.00           S 0
+ATOM   2774   CE MET A 361      -2.425 -17.490 -38.766  0.00  0.00           C 0
+ATOM   3577   CA ARG A 463      -0.150 -22.951 -36.862  0.00  0.00           C 0
+ATOM   3579    O ARG A 463       0.198 -21.144 -35.313  0.63  5.36           O 0
+ATOM   3580   CB ARG A 463      -1.168 -23.747 -36.014  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0193
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8967
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5070
+HEADER 5  - Mean B-factor of pocket residues  : 0.5248
+HEADER 6  - Hydrophobicity Score              : 19.1429
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 166.3950
+HEADER 10  -Pocket volume (convex hull)       : 2.7192
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   2484    N GLY A 323      10.010  21.903  24.174  0.71  3.28           N 0
+ATOM   2485   CA GLY A 323       8.800  21.503  24.859  0.00  0.00           C 0
+ATOM   2416  CD2 PHE A 314       7.782  19.470  21.236  0.00  0.00           C 0
+ATOM    122  CG2 ILE A  18       7.221  15.542  22.562  0.00  0.00           C 0
+ATOM   2482   CG PRO A 322      12.624  21.265  21.909  0.00  0.00           C 0
+ATOM   2412    O PHE A 314      12.019  19.766  19.087  0.65  3.21           O 0
+ATOM    155   CB ALA A  23      13.764  13.933  20.579  0.00  0.00           C 0
+ATOM    123  CD1 ILE A  18       7.181  15.903  19.501  0.00  0.00           C 0
+ATOM    151    N ALA A  23      12.222  12.727  19.056  0.58  1.09           N 0
+ATOM    179  NH1 ARG A  26      11.323  17.120  17.035  0.72  1.09           N 0
+ATOM   2413   CB PHE A 314       9.199  19.261  19.188  0.00  0.00           C 0
+ATOM    180  NH2 ARG A  26      13.376  16.636  17.849  0.67  1.09           N 0
+ATOM    127    O PRO A  19       8.681  11.631  21.302  0.77  2.14           O 0
+TER
+END

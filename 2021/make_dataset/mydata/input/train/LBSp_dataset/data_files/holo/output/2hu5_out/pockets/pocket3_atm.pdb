@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1338
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9385
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6829
+HEADER 5  - Mean B-factor of pocket residues  : 0.6313
+HEADER 6  - Hydrophobicity Score              : -28.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 294.3150
+HEADER 10  -Pocket volume (convex hull)       : 11.3522
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   7724   CA GLY B 460      30.913   8.536  38.600  0.00  0.00           C 0
+ATOM   8149   CG LYS B 513      25.492  11.178  40.997  0.00  0.00           C 0
+ATOM   8148   CB LYS B 513      25.538  11.132  39.470  0.00  0.00           C 0
+ATOM   7723    N GLY B 460      29.650   7.926  38.989  0.00  0.00           N 0
+ATOM   7719    O PRO B 459      30.383   7.352  41.024  0.00  0.00           O 0
+ATOM   8161  OE2 GLU B 514      27.981   9.867  37.106  0.00  0.00           O 0
+ATOM   8151   CE LYS B 513      25.412  13.086  42.695  0.00  0.00           C 0
+ATOM   8128    O ARG B 511      23.978   8.290  42.385  0.69  1.07           O 0
+ATOM   8134  NH1 ARG B 511      25.949   6.063  47.800  0.00  0.00           N 0
+ATOM   8126   CA ARG B 511      22.432   7.658  44.137  0.00  0.00           C 0
+ATOM   8116    O ASP B 510      20.698   9.802  44.053  0.61  5.36           O 0
+ATOM   7720   CB PRO B 459      27.366   7.642  41.509  0.00  0.00           C 0
+ATOM   8130   CG ARG B 511      23.071   6.420  46.244  0.00  0.00           C 0
+ATOM   8129   CB ARG B 511      23.084   6.407  44.713  0.00  0.00           C 0
+ATOM   7718    C PRO B 459      29.488   7.385  40.188  0.00  0.00           C 0
+ATOM   7721   CG PRO B 459      27.639   7.021  42.862  0.00  0.00           C 0
+TER
+END

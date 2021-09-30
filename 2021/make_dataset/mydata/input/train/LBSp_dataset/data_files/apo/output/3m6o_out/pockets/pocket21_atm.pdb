@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0328
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1922
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6782
+HEADER 5  - Mean B-factor of pocket residues  : 0.8094
+HEADER 6  - Hydrophobicity Score              : 76.7143
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.7966
+HEADER 10  -Pocket volume (convex hull)       : 4.2545
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM    152  CD1 ILE A  18       7.162  26.709  34.955  0.00  0.00           C 0
+ATOM    412  CG2 VAL A  53      10.487  24.884  35.325  0.00  0.00           C 0
+ATOM    229  CD2 LEU A  28      12.624  27.563  32.049  0.00  0.00           C 0
+ATOM    411  CG1 VAL A  53      10.555  25.914  37.643  0.00  0.00           C 0
+ATOM    164    O ILE A  20       4.881  31.530  33.578  0.61  2.14           O 0
+ATOM    205   CB LEU A  25       7.658  30.819  30.465  0.00  0.00           C 0
+ATOM    167  CG2 ILE A  20       5.921  32.616  36.575  0.00  0.00           C 0
+ATOM    207  CD1 LEU A  25       7.844  28.343  30.955  0.00  0.00           C 0
+ATOM    196    O ASN A  24      11.759  31.999  30.081  0.68  3.21           O 0
+ATOM    199  OD1 ASN A  24      12.716  35.411  33.481  0.00  0.00           O 0
+ATOM    197   CB ASN A  24      11.060  34.538  32.045  0.00  0.00           C 0
+ATOM    195    C ASN A  24      10.824  32.767  30.334  0.00  0.00           C 0
+ATOM    201    N LEU A  25       9.558  32.381  30.460  0.00  0.00           N 0
+ATOM    226   CB LEU A  28      13.334  29.037  30.199  0.00  0.00           C 0
+ATOM    228  CD1 LEU A  28      14.952  27.374  31.006  0.00  0.00           C 0
+ATOM    396  CD1 LEU A  51      15.805  26.608  34.175  0.00  0.00           C 0
+ATOM    202   CA LEU A  25       9.130  31.040  30.137  0.00  0.00           C 0
+TER
+END

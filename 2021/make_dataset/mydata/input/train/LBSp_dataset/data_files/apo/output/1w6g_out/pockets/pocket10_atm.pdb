@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0650
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0040
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5996
+HEADER 5  - Mean B-factor of pocket residues  : 0.3210
+HEADER 6  - Hydrophobicity Score              : -6.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.6856
+HEADER 10  -Pocket volume (convex hull)       : 2.2096
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM   7201   NE ARG A 485      -6.376 -17.662  52.168  0.00  0.00           N 0
+ATOM   7181    O VAL A 484      -3.581 -18.490  48.708  0.00  0.00           O 0
+ATOM   7202   CZ ARG A 485      -6.497 -18.795  52.861  0.00  0.00           C 0
+ATOM   7218    N GLU A 486      -7.298 -16.586  47.138  0.48  1.09           N 0
+ATOM   7223   CG GLU A 486      -9.388 -18.386  45.771  0.00  0.00           C 0
+ATOM   7204  NH2 ARG A 485      -7.681 -19.163  53.325  0.00  0.00           N 0
+ATOM   7225  OE1 GLU A 486     -10.281 -20.541  45.383  0.00  0.00           O 0
+ATOM   7195   CA ARG A 485      -5.460 -16.414  48.685  0.00  0.00           C 0
+ATOM   7325  NH1 ARG A 493     -11.449 -17.685  49.160  0.59  1.09           N 0
+ATOM   7326  NH2 ARG A 493     -12.856 -18.595  50.708  0.00  0.00           N 0
+ATOM   6703  OE2 GLU A 452      -9.942 -17.692  52.746  0.23  1.07           O 0
+ATOM   7224   CD GLU A 486      -9.552 -19.637  44.927  0.00  0.00           C 0
+ATOM   7222   CB GLU A 486      -8.453 -17.390  45.151  0.00  0.00           C 0
+ATOM   8016   CE LYS A 539      -3.807 -19.387  43.348  0.00  0.00           C 0
+ATOM   7226  OE2 GLU A 486      -8.952 -19.718  43.828  0.00  0.00           O 0
+ATOM   8015   CD LYS A 539      -3.982 -17.953  43.876  0.00  0.00           C 0
+TER
+END

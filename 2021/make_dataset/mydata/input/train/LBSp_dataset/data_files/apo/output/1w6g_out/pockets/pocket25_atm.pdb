@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0219
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7574
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4562
+HEADER 5  - Mean B-factor of pocket residues  : 0.2530
+HEADER 6  - Hydrophobicity Score              : 34.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.5345
+HEADER 10  -Pocket volume (convex hull)       : 4.2641
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   4240    O PRO A 289       4.321 -13.144  17.008  0.00  0.00           O 0
+ATOM   4310  CD1 TRP A 293       5.650 -11.529  19.902  0.00  0.00           C 0
+ATOM   2036   OH TYR A 144       9.638 -15.865  17.931  0.40  8.57           O 0
+ATOM   2561   OH TYR A 178       9.273 -13.151  17.445  0.53  2.14           O 0
+ATOM   4299   OG SER A 292       2.719 -15.316  20.195  0.00  0.00           O 0
+ATOM   4241   CB PRO A 289       3.536 -15.816  15.600  0.00  0.00           C 0
+ATOM   4238   CA PRO A 289       2.811 -14.927  16.615  0.00  0.00           C 0
+ATOM   2013  OE2AGLU A 143       9.386 -18.585  21.187  0.00  0.00           O 0
+ATOM   2011  OE1AGLU A 143       7.744 -19.460  22.360  0.69  7.50           O 0
+ATOM   1985   CB PHE A 142       9.466 -16.413  23.738  0.00  0.00           C 0
+ATOM   2034  CE2 TYR A 144      11.023 -15.277  19.765  0.00  0.00           C 0
+ATOM   4308   CB TRP A 293       6.135 -12.117  22.355  0.00  0.00           C 0
+ATOM   1986   CG PHE A 142       8.354 -15.595  24.322  0.00  0.00           C 0
+ATOM   1987  CD1 PHE A 142       7.223 -16.225  24.819  0.00  0.00           C 0
+TER
+END

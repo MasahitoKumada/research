@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2856
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7830
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5829
+HEADER 5  - Mean B-factor of pocket residues  : 0.3081
+HEADER 6  - Hydrophobicity Score              : 42.8889
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 323.3872
+HEADER 10  -Pocket volume (convex hull)       : 18.0959
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM    659   CA PRO A  96      18.009  62.803  34.381  0.00  0.00           C 0
+ATOM    663   CG PRO A  96      18.301  60.845  35.727  0.00  0.00           C 0
+ATOM    895  OG1 THR A 122      20.214  65.112  35.731  0.52  7.50           O 0
+ATOM    650    O SER A  94      13.585  63.766  36.984  0.00  0.00           O 0
+ATOM    669   CB LEU A  97      18.790  66.500  31.553  0.00  0.00           C 0
+ATOM    879    O ILE A 120      18.760  70.403  34.487  0.00  0.00           O 0
+ATOM    665    N LEU A  97      18.931  64.478  32.929  0.00  0.00           N 0
+ATOM    880   CB ILE A 120      18.245  73.278  33.688  0.00  0.00           C 0
+ATOM    626   CA ALA A  91      13.569  72.193  32.622  0.00  0.00           C 0
+ATOM    628    O ALA A  91      12.180  71.201  34.251  0.63  5.36           O 0
+ATOM    882  CG2 ILE A 120      17.890  74.709  34.214  0.00  0.00           C 0
+ATOM    877   CA ILE A 120      19.462  72.705  34.462  0.00  0.00           C 0
+ATOM    629   CB ALA A  91      13.241  73.695  32.758  0.00  0.00           C 0
+ATOM    658    N PRO A  96      16.713  62.163  34.613  0.00  0.00           N 0
+ATOM    655    C ALA A  95      15.637  62.884  34.518  0.00  0.00           C 0
+ATOM    656    O ALA A  95      15.607  64.016  34.129  0.66  5.36           O 0
+ATOM    622    O CYS A  90      14.317  69.792  31.447  0.34  1.07           O 0
+ATOM    642    O LEU A  93      13.037  67.184  34.719  0.54  6.43           O 0
+ATOM    643   CB LEU A  93      13.510  66.476  31.796  0.00  0.00           C 0
+TER
+END

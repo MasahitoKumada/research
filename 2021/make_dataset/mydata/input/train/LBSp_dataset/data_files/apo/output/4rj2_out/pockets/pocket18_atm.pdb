@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0791
+HEADER 1  - Drug Score                        : 0.0040
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9536
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4914
+HEADER 5  - Mean B-factor of pocket residues  : 0.7524
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 287.1472
+HEADER 10  -Pocket volume (convex hull)       : 14.9433
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4348
+ATOM   9089  OG1 THR E 201     -20.274   2.553  58.624  0.35  5.36           O 0
+ATOM   9247   CB PHE E 221     -23.871   6.839  60.671  0.00  0.00           C 0
+ATOM   9249  CD1 PHE E 221     -22.647   8.176  58.910  0.00  0.00           C 0
+ATOM   8242   OG SER E  90     -21.224   3.890  54.817  0.00  0.00           O 0
+ATOM   9213   CB ARG E 217     -27.885   2.613  58.758  0.00  0.00           C 0
+ATOM   7735  NH2 ARG E  24     -27.301  10.097  58.380  0.00  0.00           N 0
+ATOM   9248   CG PHE E 221     -23.404   8.152  60.068  0.00  0.00           C 0
+ATOM   9214   CG ARG E 217     -27.873   1.354  57.909  0.00  0.00           C 0
+ATOM   9210   CA ARG E 217     -27.317   2.400  60.164  0.00  0.00           C 0
+ATOM   9242  CG2 THR E 220     -22.031   1.594  61.882  0.00  0.00           C 0
+ATOM   8319   CG ARG E 101     -23.714  -2.809  61.522  0.00  0.00           C 0
+ATOM   9094    O VAL E 202     -21.090  -2.189  57.666  0.52  2.14           O 0
+ATOM   9240   CB THR E 220     -23.360   1.773  62.536  0.00  0.00           C 0
+ATOM   9212    O ARG E 217     -25.901   4.208  60.839  0.58  6.43           O 0
+ATOM   9221   CA GLN E 218     -27.850   5.670  62.062  0.00  0.00           C 0
+ATOM   9220    N GLN E 218     -28.058   4.383  61.398  0.00  0.00           N 0
+ATOM   9099   CA SER E 203     -22.163  -1.286  55.289  0.00  0.00           C 0
+ATOM   9224   CB GLN E 218     -29.176   6.339  62.436  0.00  0.00           C 0
+ATOM   9211    C ARG E 217     -27.037   3.748  60.835  0.00  0.00           C 0
+TER
+END

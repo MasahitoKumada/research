@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0916
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7842
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4924
+HEADER 5  - Mean B-factor of pocket residues  : 0.5525
+HEADER 6  - Hydrophobicity Score              : 21.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.5439
+HEADER 10  -Pocket volume (convex hull)       : 5.2099
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM   2013  OG1 THR B 291      31.626 124.286  68.883  0.80  1.07           O 0
+ATOM   1994    O MET B 289      27.695 123.300  66.477  0.43  5.36           O 0
+ATOM    645  OE2 GLU B  87      29.100 122.496  70.067  0.60  1.07           O 1
+ATOM    847    O MET B 113      26.710 127.758  66.593  0.11  6.43           O 0
+ATOM    820    O ILE B 110      30.579 129.455  68.813  0.58  1.07           O 0
+ATOM    641   CB GLU B  87      30.518 124.434  72.905  0.00  0.00           C 0
+ATOM    642   CG GLU B  87      30.635 123.489  71.668  0.00  0.00           C 0
+ATOM    823  CG2 ILE B 110      32.560 128.182  70.804  0.00  0.00           C 0
+ATOM    846    C MET B 113      27.594 128.606  66.579  0.00  0.00           C 0
+ATOM    640    O GLU B  87      30.823 127.078  73.874  0.27  9.64           O 0
+ATOM   1989  OE1 GLU B 288      22.286 122.896  68.236  0.00  0.00           O 0
+ATOM   2006  OD1 ASN B 290      26.136 120.120  69.093  0.68  3.21           O 0
+ATOM    644  OE1 GLU B  87      28.586 122.379  72.251  0.61  7.50           O 0
+ATOM    853   CA GLY B 114      27.059 129.400  68.802  0.00  0.00           C 0
+ATOM    643   CD GLU B  87      29.364 122.753  71.244  0.00  0.00           C 0
+ATOM    852    N GLY B 114      27.834 129.450  67.582  0.00  0.00           N 0
+TER
+END

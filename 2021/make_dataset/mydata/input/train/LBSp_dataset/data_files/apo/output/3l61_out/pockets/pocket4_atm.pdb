@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2207
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7885
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5810
+HEADER 5  - Mean B-factor of pocket residues  : 0.7196
+HEADER 6  - Hydrophobicity Score              : 19.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.2509
+HEADER 10  -Pocket volume (convex hull)       : 17.0870
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3013   CBAASP A 380       2.292  35.403 -10.596  0.00  0.00           C 0
+ATOM   3249  CG2 THR A 410      -0.297  38.425 -13.788  0.00  0.00           C 0
+ATOM   3229  OD2AASP A 407       2.634  42.410 -12.555  0.48  7.50           O 0
+ATOM   3017  OD1AASP A 380       1.834  34.897 -12.879  0.00  0.00           O 0
+ATOM   3248  OG1 THR A 410      -0.996  37.876 -11.532  0.00  0.00           O 0
+ATOM   3218    N ASP A 407       0.509  41.409  -9.550  0.46  3.28           N 0
+ATOM   3206    C TRP A 406       0.569  41.787  -8.275  0.00  0.00           C 0
+ATOM   3227  OD1AASP A 407       1.714  44.056 -11.417  0.00  0.00           O 0
+ATOM   3204    N TRP A 406       1.669  41.585  -6.126  0.69  1.09           N 0
+ATOM   3207    O TRP A 406       0.084  42.838  -7.855  0.50  4.29           O 0
+ATOM   3012    O ASP A 380       1.508  36.867  -8.277  0.00  0.00           O 0
+ATOM   3037   OG SER A 382       7.389  38.368  -7.216  0.00  0.00           O 0
+ATOM   3011    C ASP A 380       2.263  35.895  -8.170  0.00  0.00           C 0
+ATOM   3205   CA TRP A 406       1.315  40.848  -7.335  0.00  0.00           C 0
+ATOM   3203  CG2 VAL A 405       5.369  42.658  -5.000  0.00  0.00           C 0
+ATOM   3022   CA PHE A 381       3.369  36.806  -6.184  0.00  0.00           C 0
+ATOM   3201   CB VAL A 405       3.997  43.240  -4.631  0.00  0.00           C 0
+ATOM   3200    O VAL A 405       3.283  40.147  -5.504  0.73  2.14           O 0
+ATOM   3021    N PHE A 381       3.155  35.768  -7.190  0.53  1.09           N 0
+ATOM   2111  NH2 ARG A 271       6.304  33.636  -8.508  0.28  3.28           N 0
+TER
+END

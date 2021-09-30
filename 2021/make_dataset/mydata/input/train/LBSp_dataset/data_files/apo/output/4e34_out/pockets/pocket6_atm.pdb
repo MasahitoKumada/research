@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0580
+HEADER 1  - Drug Score                        : 0.1738
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.3172
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7809
+HEADER 5  - Mean B-factor of pocket residues  : 0.1145
+HEADER 6  - Hydrophobicity Score              : 14.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 315.0721
+HEADER 10  -Pocket volume (convex hull)       : 7.2092
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM    540  OG1 THR A 354       3.363  28.641  24.136  0.40  8.57           O 0
+ATOM    519   CG GLU A 351       4.833  33.029  19.012  0.00  0.00           C 0
+ATOM    539   CB THR A 354       2.392  28.336  23.132  0.00  0.00           C 0
+ATOM    541  CG2 THR A 354       1.008  28.644  23.682  0.00  0.00           C 0
+ATOM    515   CA GLU A 351       4.708  30.552  19.617  0.00  0.00           C 0
+ATOM    518   CB GLU A 351       4.470  31.624  18.550  0.00  0.00           C 0
+ATOM    520   CD GLU A 351       4.774  34.044  17.903  0.00  0.00           C 0
+ATOM    521  OE1 GLU A 351       4.724  33.665  16.718  0.82  3.21           O 0
+ATOM    549  CD1 ILE A 355       0.320  29.216  17.387  0.00  0.00           C 0
+ATOM    517    O GLU A 351       3.105  28.740  19.591  0.58  1.07           O 0
+ATOM    547  CG1 ILE A 355      -0.031  28.482  18.677  0.00  0.00           C 0
+ATOM    508    O LYS A 350       5.750  28.995  21.595  0.56  1.07           O 0
+ATOM    514    N GLU A 351       6.126  30.447  19.920  0.00  0.00           N 0
+ATOM    507    C LYS A 350       6.538  29.615  20.874  0.00  0.00           C 0
+ATOM    509   CB LYS A 350       8.585  30.312  22.160  0.00  0.00           C 0
+TER
+END

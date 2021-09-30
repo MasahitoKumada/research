@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.2356
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5776
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3596
+HEADER 5  - Mean B-factor of pocket residues  : 0.4206
+HEADER 6  - Hydrophobicity Score              : 13.8889
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.8173
+HEADER 10  -Pocket volume (convex hull)       : 3.6868
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM    883   CE LYS A1788      -6.071   8.035  30.367  0.00  0.00           C 0
+ATOM    582   OG SER A1747      -8.919   7.010  30.076  0.16  1.07           O 0
+ATOM   1414  OE1 GLU A1851      -8.228   2.180  29.753  0.63  4.29           O 0
+ATOM    884   NZ LYS A1788      -6.490   8.278  31.808  0.92  4.37           N 0
+ATOM   1209  OD2 ASP A1827      -3.948   2.281  31.925  0.41  7.50           O 0
+ATOM    922  OE2 GLU A1792      -7.544   6.609  27.959  0.51  3.21           O 0
+ATOM    597  CG2 VAL A1749      -6.906   7.770  35.085  0.00  0.00           C 0
+ATOM   1208  OD1 ASP A1827      -2.392   2.933  30.500  0.61  4.29           O 0
+ATOM   1216  CD1 LEU A1828       0.466   3.892  25.367  0.00  0.00           C 0
+ATOM    877   CA LYS A1788      -2.089   7.896  27.211  0.00  0.00           C 0
+ATOM    904   CB TRP A1791      -2.605   5.002  23.859  0.00  0.00           C 0
+ATOM    882   CD LYS A1788      -4.557   8.021  30.251  0.00  0.00           C 0
+ATOM    881   CG LYS A1788      -4.138   7.889  28.779  0.00  0.00           C 0
+ATOM    906  CD1 TRP A1791      -4.422   3.290  24.398  0.00  0.00           C 0
+ATOM    919   CG GLU A1792      -6.658   6.815  25.787  0.00  0.00           C 0
+ATOM   1404   CA GLY A1850      -2.217   0.494  25.957  0.00  0.00           C 0
+ATOM   1411   CB GLU A1851      -6.407   0.575  28.336  0.00  0.00           C 0
+ATOM   1407    N GLU A1851      -4.379   0.323  27.028  0.00  0.00           N 0
+TER
+END

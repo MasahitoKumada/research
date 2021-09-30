@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0083
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0357
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5697
+HEADER 5  - Mean B-factor of pocket residues  : 0.5077
+HEADER 6  - Hydrophobicity Score              : 18.5455
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.9091
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.4212
+HEADER 10  -Pocket volume (convex hull)       : 18.9082
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM   1784   OH TYR D 231      30.725   3.524   7.060  0.57  4.29           O 0
+ATOM   1798  CG2 THR D 233      31.087   4.310   3.154  0.00  0.00           C 0
+ATOM   1816  OE1 GLU D 235      35.444   4.494   2.608  0.00  0.00           O 0
+ATOM   1140    O LEU D 147      32.693  -1.285   8.373  0.62  5.36           O 0
+ATOM   1817  OE2 GLU D 235      36.427   5.926   3.953  0.56  2.14           O 1
+ATOM   1346    O GLY D 175      35.850   4.812   9.377  0.42  8.57           O 0
+ATOM   1350    O HIS D 176      32.522   6.079   7.073  0.00  0.00           O 0
+ATOM   1848  CE2 PHE D 239      29.266   1.863   1.478  0.00  0.00           C 0
+ATOM   1849   CZ PHE D 239      29.581   1.597   0.145  0.00  0.00           C 0
+ATOM   1797   CB THR D 233      31.966   5.510   3.329  0.00  0.00           C 0
+ATOM   1348   CA HIS D 176      33.117   5.200   9.228  0.00  0.00           C 0
+ATOM   1830  OE1 GLN D 237      33.023   4.267  -1.215  0.81  5.36           O 0
+ATOM   1154    N ALA D 149      29.171  -1.845   6.072  0.60  2.19           N 0
+ATOM   1146   CA GLU D 148      30.868  -3.053   7.278  0.00  0.00           C 0
+ATOM   1152  OE1 GLU D 148      32.943  -4.287   5.070  0.00  0.00           O 0
+ATOM   1782  CE2 TYR D 231      28.766   2.678   6.010  0.00  0.00           C 0
+ATOM   1353  CD2 HIS D 176      33.096   1.896  10.630  0.00  0.00           C 0
+ATOM   1134   CB PRO D 146      36.424  -0.394   9.780  0.00  0.00           C 0
+ATOM   1135   CG PRO D 146      37.202  -1.101   8.725  0.00  0.00           C 0
+TER
+END

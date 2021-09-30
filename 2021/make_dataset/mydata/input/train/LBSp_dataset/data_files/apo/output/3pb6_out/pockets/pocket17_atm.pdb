@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0672
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8056
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4714
+HEADER 5  - Mean B-factor of pocket residues  : 0.2757
+HEADER 6  - Hydrophobicity Score              : -0.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 141.7059
+HEADER 10  -Pocket volume (convex hull)       : 1.4560
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    371  NH1 ARG X 116      24.773  46.465  37.019  0.81  3.28           N 0
+ATOM    344  CD1 LEU X 113      24.388  46.329  40.878  0.00  0.00           C 0
+ATOM    610  OD2 ASP X 147      27.949  51.881  36.103  0.00  0.00           O 0
+ATOM    345  CD2 LEU X 113      24.235  48.150  42.577  0.00  0.00           C 0
+ATOM    342   CB LEU X 113      22.311  47.717  41.157  0.00  0.00           C 0
+ATOM    312    O GLY X 108      21.881  53.233  38.812  0.59  7.50           O 0
+ATOM    311    C GLY X 108      21.154  52.773  37.927  0.00  0.00           C 0
+ATOM    316    O SER X 109      20.081  50.511  40.139  0.39  1.07           O 0
+ATOM    372  NH2 ARG X 116      22.945  46.892  35.766  0.65  3.28           N 0
+ATOM    336  OD1 ASN X 112      20.179  47.598  36.533  0.33  1.07           O 0
+ATOM    310   CA GLY X 108      21.684  52.575  36.521  0.00  0.00           C 0
+ATOM    607   CB ASP X 147      26.481  51.369  34.507  0.00  0.00           C 0
+ATOM    606    O ASP X 147      23.626  50.946  33.444  0.00  0.00           O 0
+TER
+END

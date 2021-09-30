@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0334
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8338
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6543
+HEADER 5  - Mean B-factor of pocket residues  : 0.8871
+HEADER 6  - Hydrophobicity Score              : 10.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 287.4987
+HEADER 10  -Pocket volume (convex hull)       : 18.7462
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1257  CG2 THR P 164      42.048  19.924 -58.529  0.00  0.00           C 0
+ATOM    776    C GLY P 104      43.216  17.216 -54.487  0.00  0.00           C 0
+ATOM    777    O GLY P 104      44.341  16.959 -54.054  0.50  5.36           O 0
+ATOM    775   CA GLY P 104      42.478  18.462 -54.033  0.00  0.00           C 0
+ATOM    780    C ALA P 105      43.208  15.228 -57.418  0.00  0.00           C 0
+ATOM    787   CB THR P 106      45.813  14.477 -59.833  0.00  0.00           C 0
+ATOM   1170  OE1 GLN P 153      42.808  20.420 -63.562  0.69  1.07           O 0
+ATOM   1242   CG GLU P 162      45.296  16.970 -65.526  0.00  0.00           C 0
+ATOM   1243   CD GLU P 162      46.662  17.626 -65.651  0.00  0.00           C 0
+ATOM   1245  OE2 GLU P 162      47.614  17.140 -65.004  0.60  9.64           O 1
+ATOM   1167   CG GLN P 153      44.579  21.708 -64.541  0.00  0.00           C 0
+ATOM    781    O ALA P 105      42.443  15.945 -58.068  0.00  0.00           O 0
+ATOM    783    N THR P 106      44.119  14.436 -57.980  0.57  1.09           N 0
+ATOM    788  CG2 THR P 106      46.683  13.470 -59.074  0.00  0.00           C 0
+ATOM   1168   CD GLN P 153      43.391  21.503 -63.617  0.00  0.00           C 0
+ATOM   1258  OG1 THR P 164      42.604  20.209 -60.858  0.59  3.21           O 0
+ATOM   1169  NE2 GLN P 153      43.033  22.547 -62.876  0.00  0.00           N 0
+ATOM    789  OG1 THR P 106      45.960  14.271 -61.244  0.66  3.21           O 0
+ATOM    784   CA THR P 106      44.307  14.362 -59.433  0.00  0.00           C 0
+ATOM   1249    O CYS P 163      41.957  16.354 -61.906  0.59  1.07           O 0
+TER
+END

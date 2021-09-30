@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   122:
+HEADER 0  - Pocket Score                      : 0.0273
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6543
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4632
+HEADER 5  - Mean B-factor of pocket residues  : 0.5943
+HEADER 6  - Hydrophobicity Score              : 7.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 154.3738
+HEADER 10  -Pocket volume (convex hull)       : 3.3527
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM  18903   CB GLN E 515     122.763  35.081   2.000  0.00  0.00           C 0
+ATOM  18901    C GLN E 515     120.268  34.667   1.610  0.00  0.00           C 0
+ATOM  18902    O GLN E 515     119.852  34.427   0.427  0.71  1.07           O 0
+ATOM  19588   CB ASN E 602     122.646  27.812   1.184  0.00  0.00           C 0
+ATOM  18931  CG2 THR E 519     120.068  32.287  -2.510  0.00  0.00           C 0
+ATOM  18930  OG1 THR E 519     118.669  31.242  -0.742  0.78  3.21           O 0
+ATOM  18909   OG SER E 516     119.747  31.632   4.393  0.64  2.14           O 0
+ATOM  18905   CA SER E 516     118.793  32.975   2.600  0.00  0.00           C 0
+ATOM  19586    C ASN E 602     124.202  27.601   3.178  0.00  0.00           C 0
+ATOM  18878   CB LYS E 512     124.119  33.495   7.211  0.00  0.00           C 0
+ATOM  19561    O PHE E 599     121.647  27.587   6.160  0.33  5.36           O 0
+ATOM  18879   CG LYS E 512     125.599  33.145   6.845  0.00  0.00           C 0
+ATOM  19564  CD1 PHE E 599     121.076  30.611   8.062  0.00  0.00           C 0
+ATOM  18880   CD LYS E 512     126.149  32.137   7.899  0.00  0.00           C 0
+ATOM  18877    O LYS E 512     121.497  33.944   5.203  0.63  1.07           O 0
+ATOM  18875   CA LYS E 512     123.584  34.589   6.299  0.00  0.00           C 0
+ATOM  18904    N SER E 516     119.876  33.950   2.654  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0038
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.9544
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5330
+HEADER 5  - Mean B-factor of pocket residues  : 0.6304
+HEADER 6  - Hydrophobicity Score              : 22.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 299.3950
+HEADER 10  -Pocket volume (convex hull)       : 24.1352
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.5484
+ATOM   5167   CG PRO B 279      22.350  42.626  23.306  0.00  0.00           C 0
+ATOM   5614   CE MET B 335      22.110  45.109  26.552  0.00  0.00           C 0
+ATOM   5163   CA PRO B 279      21.656  40.663  24.367  0.00  0.00           C 0
+ATOM   5543   CD ARG B 326      26.817  44.211  26.644  0.00  0.00           C 0
+ATOM   5613   SD MET B 335      22.872  46.241  27.736  0.00  0.00           S 0
+ATOM   5540    O ARG B 326      26.274  43.611  31.316  0.58  4.29           O 0
+ATOM   5544   NE ARG B 326      26.737  44.297  25.204  0.68  2.19           N 0
+ATOM   5541   CB ARG B 326      27.743  42.957  28.609  0.00  0.00           C 0
+ATOM   5165    O PRO B 279      20.340  39.388  26.024  0.00  0.00           O 0
+ATOM   5656  CE1 PHE B 341      19.040  42.612  27.940  0.00  0.00           C 0
+ATOM   5658   CZ PHE B 341      19.354  43.660  28.775  0.00  0.00           C 0
+ATOM   5590   CD GLN B 332      23.350  43.356  33.256  0.00  0.00           C 0
+ATOM   5591  OE1 GLN B 332      22.336  42.732  33.563  0.00  0.00           O 0
+ATOM   5542   CG ARG B 326      27.767  43.196  27.139  0.00  0.00           C 0
+ATOM   5142    O ASN B 276      26.929  37.256  23.951  0.29  4.29           O 0
+ATOM   5162    N PRO B 279      22.289  40.285  23.085  0.00  0.00           N 0
+ATOM   5153    C PHE B 278      22.617  39.031  22.658  0.00  0.00           C 0
+ATOM   5168   CD PRO B 279      22.559  41.516  22.304  0.00  0.00           C 0
+ATOM   5150    O GLY B 277      26.027  39.653  21.293  0.54  2.14           O 0
+ATOM   5154    O PHE B 278      22.357  37.972  23.267  0.32  4.29           O 0
+ATOM   5143   CB ASN B 276      29.013  39.522  24.652  0.00  0.00           C 0
+ATOM   5144   CG ASN B 276      30.185  39.802  25.566  0.00  0.00           C 0
+ATOM   5145  OD1 ASN B 276      30.672  38.780  26.115  0.25  5.36           O 0
+TER
+END

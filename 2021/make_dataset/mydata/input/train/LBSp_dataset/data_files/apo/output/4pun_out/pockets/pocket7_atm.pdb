@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1127
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9002
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6168
+HEADER 5  - Mean B-factor of pocket residues  : 0.8743
+HEADER 6  - Hydrophobicity Score              : 8.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.0305
+HEADER 10  -Pocket volume (convex hull)       : 3.6399
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM    972   OG SER A 136      96.242  19.129  34.364  0.47  3.21           O 0
+ATOM    971   CB SER A 136      97.244  20.105  34.178  0.00  0.00           C 0
+ATOM    859  OE2 GLU A 120      98.967  22.348  39.661  0.00  0.00           O 0
+ATOM    988  OE2 GLU A 138      98.012  17.709  37.294  0.38  6.43           O 0
+ATOM    957   SD MET A 134      94.166  21.828  32.785  0.00  0.00           S 0
+ATOM    958   CE MET A 134      92.534  21.384  33.406  0.00  0.00           C 0
+ATOM   1325  NH2 ARG A 181      99.819  19.789  37.855  0.00  0.00           N 0
+ATOM    854    O GLU A 120      99.285  22.084  35.669  0.54  1.07           O 0
+ATOM    855   CB GLU A 120      98.885  24.444  37.742  0.00  0.00           C 0
+ATOM    841   OG SER A 118     100.398  27.366  36.019  0.68  1.07           O 0
+ATOM    860    N GLY A 121     100.194  23.902  34.672  0.00  0.00           N 0
+ATOM    877  CG2 THR A 123      94.737  27.784  31.779  0.00  0.00           C 0
+ATOM    853    C GLU A 120      99.814  23.198  35.744  0.00  0.00           C 0
+ATOM    956   CG MET A 134      93.898  23.569  32.339  0.00  0.00           C 0
+ATOM    861   CA GLY A 121      99.927  23.462  33.302  0.00  0.00           C 0
+ATOM    862    C GLY A 121      99.809  24.666  32.389  0.00  0.00           C 0
+ATOM    864    N VAL A 122      98.937  24.557  31.397  0.59  1.09           N 0
+ATOM    863    O GLY A 121     100.456  25.691  32.592  0.63  2.14           O 0
+TER
+END

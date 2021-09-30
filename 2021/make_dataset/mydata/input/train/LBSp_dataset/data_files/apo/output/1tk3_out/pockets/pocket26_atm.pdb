@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : 0.0753
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6888
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4214
+HEADER 5  - Mean B-factor of pocket residues  : 0.3407
+HEADER 6  - Hydrophobicity Score              : 39.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 86.7047
+HEADER 10  -Pocket volume (convex hull)       : 0.6978
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   8269  CD2 LEU B 316     129.478  49.510  93.089  0.00  0.00           C 0
+ATOM   8118   CB TYR B 299     126.572  49.632  88.598  0.00  0.00           C 0
+ATOM   8121  CD2 TYR B 299     125.782  49.061  90.930  0.00  0.00           C 0
+ATOM   7400  CG1 VAL B 207     127.621  54.413  88.577  0.00  0.00           C 0
+ATOM   8138   CB CYS B 301     131.272  52.009  89.139  0.00  0.00           C 0
+ATOM   7401  CG2 VAL B 207     125.354  54.349  89.595  0.00  0.00           C 0
+ATOM   8614   CB ARG B 358     131.654  54.630  93.412  0.00  0.00           C 0
+ATOM   7396   CA VAL B 207     126.987  56.126  90.293  0.00  0.00           C 0
+ATOM   7389    O GLU B 206     127.008  57.100  92.836  0.43  1.07           O 0
+ATOM  11128  NH1 ARG B 669     127.176  54.552  96.133  0.59  2.19           N 0
+ATOM  11089  CG1 VAL B 665     124.550  53.457  93.479  0.00  0.00           C 0
+ATOM   8307  OE1 GLN B 320     127.463  50.850  95.724  0.00  0.00           O 0
+ATOM   8602    O PHE B 357     129.936  54.723  96.033  0.00  0.00           O 0
+TER
+END

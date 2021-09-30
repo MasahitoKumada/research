@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1329
+HEADER 1  - Drug Score                        : 0.4989
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4049
+HEADER 5  - Mean B-factor of pocket residues  : 0.2543
+HEADER 6  - Hydrophobicity Score              : 68.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.2789
+HEADER 10  -Pocket volume (convex hull)       : 6.0719
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.7895
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.8261
+ATOM   2031  CG1 VAL B 125     -15.914 -36.665  61.198  0.00  0.00           C 0
+ATOM   2510  OE1 GLN B 173     -16.151 -33.065  59.772  0.89  3.21           O 0
+ATOM   1999  CD1 LEU B 122      -9.939 -36.284  60.790  0.00  0.00           C 0
+ATOM   3001  CE2 PHE B 224     -13.974 -34.149  56.081  0.00  0.00           C 0
+ATOM   1996    O LEU B 122     -12.948 -39.416  59.022  0.64  1.07           O 0
+ATOM   2425  CZ2 TRP B 166     -12.288 -35.067  65.705  0.00  0.00           C 0
+ATOM   2427  CH2 TRP B 166     -11.678 -35.733  64.670  0.00  0.00           C 0
+ATOM   2423  CE2 TRP B 166     -11.630 -33.953  66.234  0.00  0.00           C 0
+ATOM   2465   CB LYS B 170     -14.419 -29.045  64.038  0.00  0.00           C 0
+ATOM   2422  NE1 TRP B 166     -11.997 -33.111  67.251  0.63  3.28           N 0
+ATOM   2461    N LYS B 170     -12.732 -29.083  62.205  0.00  0.00           N 0
+ATOM   2417    O TRP B 166     -10.736 -29.796  64.501  0.37  1.07           O 0
+ATOM   2511  NE2 GLN B 173     -18.107 -32.296  60.492  0.00  0.00           N 0
+ATOM   2039  CG1 VAL B 126     -14.900 -37.820  56.500  0.00  0.00           C 0
+ATOM   2462   CA LYS B 170     -14.149 -28.925  62.535  0.00  0.00           C 0
+ATOM   1998   CG LEU B 122      -9.557 -36.969  59.500  0.00  0.00           C 0
+ATOM   2150  CE1 PHE B 137     -11.297 -37.323  55.804  0.00  0.00           C 0
+ATOM   2458  CG2 ILE B 169     -11.353 -31.943  60.183  0.00  0.00           C 0
+TER
+END

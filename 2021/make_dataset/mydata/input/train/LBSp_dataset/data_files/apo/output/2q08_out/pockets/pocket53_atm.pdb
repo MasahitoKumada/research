@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    53:
+HEADER 0  - Pocket Score                      : 0.0393
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8020
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6068
+HEADER 5  - Mean B-factor of pocket residues  : 0.7757
+HEADER 6  - Hydrophobicity Score              : -4.7500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.2077
+HEADER 10  -Pocket volume (convex hull)       : 9.1188
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0417
+ATOM   4379   CA ALA B 120      15.288 -99.417  66.936  0.00  0.00           C 0
+ATOM   4338    O ARG B 116      18.560-101.714  67.339  0.63  4.29           O 0
+ATOM   4382   CB ALA B 120      15.434 -99.929  68.359  0.00  0.00           C 0
+ATOM   3731  OD2 ASP B  41      15.325-104.636  62.705  0.00  0.00           O 0
+ATOM   3995  NH1 ARG B  72      16.000-107.871  68.646  0.31  6.56           N 0
+ATOM   3747  OD2 ASP B  43      16.835-108.052  65.423  0.38  3.21           O 0
+ATOM   4339   CB ARG B 116      19.542-104.664  68.354  0.00  0.00           C 0
+ATOM   3996  NH2 ARG B  72      17.054-107.003  70.495  0.39  6.56           N 0
+ATOM   4378    N ALA B 120      16.539 -99.613  66.208  0.00  0.00           N 0
+ATOM   4340   CG ARG B 116      19.640-105.994  67.623  0.00  0.00           C 0
+ATOM   4370    O PHE B 119      15.795 -98.682  64.301  0.75  4.29           O 0
+ATOM   4369    C PHE B 119      16.686 -99.237  64.943  0.00  0.00           C 0
+ATOM   4346    N GLU B 117      20.027-101.560  69.036  0.00  0.00           N 0
+ATOM   4351   CG GLU B 117      20.043-100.816  71.944  0.00  0.00           C 0
+ATOM   4347   CA GLU B 117      19.482-100.293  69.518  0.00  0.00           C 0
+ATOM   3730  OD1 ASP B  41      17.333-105.471  63.074  0.56  1.07           O 0
+ATOM   4337    C ARG B 116      19.506-102.177  67.980  0.00  0.00           C 0
+ATOM   4310    O GLN B 113      21.610-103.555  70.959  0.37  1.07           O 0
+ATOM   4314  OE1 GLN B 113      19.627-106.681  73.164  0.71  3.21           O 0
+TER
+END

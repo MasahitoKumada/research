@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0167
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.3054
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6074
+HEADER 5  - Mean B-factor of pocket residues  : 0.1497
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.9029
+HEADER 10  -Pocket volume (convex hull)       : 4.9374
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM     81    O ARG R  15      -7.719   3.816  28.284  0.62  7.50           O 0
+ATOM     89    N HIS R  16      -9.798   4.496  28.718  0.00  0.00           N 0
+ATOM     82   CB ARG R  15      -9.568   1.574  29.830  0.00  0.00           C 0
+ATOM     80    C ARG R  15      -8.735   3.770  29.006  0.00  0.00           C 0
+ATOM   1175   CA GLU N  49      -5.878  -1.662  26.138  0.00  0.00           C 0
+ATOM   1174    N GLU N  49      -6.067  -1.673  24.674  0.63  1.09           N 0
+ATOM   1178   CB GLU N  49      -6.901  -2.665  26.781  0.00  0.00           C 0
+ATOM   1142    O PRO N  45      -8.447  -3.059  23.609  0.72  1.07           O 0
+ATOM   1181  OE1 GLU N  49      -8.811  -3.876  28.446  0.00  0.00           O 0
+ATOM    121   CB TRP R  19      -6.567   4.229  24.904  0.00  0.00           C 0
+ATOM     90   CA HIS R  16      -9.744   5.431  27.620  0.00  0.00           C 0
+ATOM   1170   NE ARG N  48      -9.377   0.703  20.616  0.55  1.09           N 0
+ATOM     95  ND1 HIS R  16     -10.992   6.527  24.953  0.00  0.00           N 0
+ATOM    123  CD1 TRP R  19      -7.575   5.062  22.679  0.00  0.00           C 0
+ATOM    122   CG TRP R  19      -6.673   4.324  23.399  0.00  0.00           C 0
+ATOM   1173  NH2 ARG N  48     -11.516  -0.067  20.690  0.00  0.00           N 0
+ATOM   1140   CA PRO N  45     -10.146  -3.333  21.876  0.00  0.00           C 0
+ATOM   1143   CB PRO N  45     -11.547  -3.810  22.324  0.00  0.00           C 0
+ATOM   1167   CB ARG N  48      -6.885  -0.136  22.006  0.00  0.00           C 0
+TER
+END

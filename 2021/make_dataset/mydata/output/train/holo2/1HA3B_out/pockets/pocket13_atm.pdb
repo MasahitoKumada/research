@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0596
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.6609
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3939
+HEADER 5  - Mean B-factor of pocket residues  : 0.3918
+HEADER 6  - Hydrophobicity Score              : 1.4286
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 98.7359
+HEADER 10  -Pocket volume (convex hull)       : 1.4075
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM    500   CB LYS B  90      39.717   5.424  -0.055  0.00  0.00           C 0
+ATOM   2168   NE ARG B 300      39.952  10.459  -3.510  0.50  9.84           N 0
+ATOM   2558  OD1 ASP B 348      34.590   6.937  -0.721  0.89  7.50           O 0
+ATOM    502   CD LYS B  90      37.653   6.057   1.235  0.00  0.00           C 0
+ATOM   2546   CA THR B 347      35.100   8.640  -5.006  0.00  0.00           C 0
+ATOM    534  CG2 THR B  94      39.800   6.508  -6.213  0.00  0.00           C 0
+ATOM   2511  CD2 TYR B 343      35.088   3.068  -3.677  0.00  0.00           C 0
+ATOM   2548    O THR B 347      33.750   6.706  -5.431  0.00  0.00           O 0
+ATOM   2547    C THR B 347      34.030   7.617  -4.649  0.00  0.00           C 0
+ATOM   2513  CE2 TYR B 343      35.517   3.081  -2.353  0.00  0.00           C 0
+ATOM   2551  OG1 THR B 347      34.412  10.384  -3.470  0.61  5.36           O 0
+ATOM   2541    O THR B 346      37.562   9.374  -5.811  0.00  0.00           O 0
+ATOM   2171  NH2 ARG B 300      41.018   8.549  -4.207  0.00  0.00           N 0
+ATOM    499    O LYS B  90      41.004   5.058  -2.952  0.71  1.07           O 0
+TER
+END

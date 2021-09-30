@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0094
+HEADER 1  - Drug Score                        : 0.0381
+HEADER 2  - Number of alpha spheres           :    47
+HEADER 3  - Mean alpha-sphere radius          : 4.2247
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5467
+HEADER 5  - Mean B-factor of pocket residues  : 0.5014
+HEADER 6  - Hydrophobicity Score              : 40.2727
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.6686
+HEADER 10  -Pocket volume (convex hull)       : 10.0297
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 23.0000
+HEADER 13 - Number of apolar alpha sphere     :    24
+HEADER 14 - Proportion of apolar alpha sphere : 0.5106
+ATOM   6244    NATYR A 283      55.758  17.954  16.245  0.00  0.00           N 0
+ATOM   5965   CBAALA A 270      60.937  21.148  17.404  0.00  0.00           C 0
+ATOM   6213    O PRO A 281      59.220  16.700  15.661  0.49  1.07           O 0
+ATOM   6225   CA PHE A 282      57.586  18.831  14.979  0.00  0.00           C 0
+ATOM   6230  CD1 PHE A 282      57.242  21.814  16.430  0.00  0.00           C 0
+ATOM   6321   CBAARG A 286      53.711  15.156  20.765  0.00  0.00           C 0
+ATOM   6361    N LEU A 287      53.026  18.125  21.420  0.65  1.09           N 0
+ATOM   6252   CBATYR A 283      55.074  15.916  17.416  0.00  0.00           C 0
+ATOM   6250    OATYR A 283      53.443  17.789  18.511  0.69  1.07           O 0
+ATOM   6368  CD2 LEU A 287      54.857  22.566  20.639  0.00  0.00           C 0
+ATOM   5420  CD2ALEU A 247      59.245  23.445  20.082  0.00  0.00           C 0
+ATOM   6232  CE1 PHE A 282      56.572  22.727  17.197  0.00  0.00           C 0
+ATOM   6365   CB LEU A 287      53.816  20.367  21.114  0.00  0.00           C 0
+ATOM   6367  CD1 LEU A 287      55.165  21.617  22.921  0.00  0.00           C 0
+ATOM   5994  CG1AVAL A 272      62.540  20.168  20.691  0.00  0.00           C 0
+ATOM     15   CEAMET A   1      59.350  21.065  24.593  0.00  0.00           C 0
+ATOM   6202  OE1 GLU A 280      61.776  15.733  19.583  0.69  8.57           O 0
+ATOM   6258  CD2ATYR A 283      57.296  14.697  17.322  0.00  0.00           C 0
+ATOM   6413   CZAARG A 290      58.215  17.254  25.301  0.00  0.00           C 0
+ATOM   6362   CA LEU A 287      53.309  19.341  22.105  0.00  0.00           C 0
+ATOM   6415  NH1AARG A 290      59.147  18.191  25.112  0.64  3.28           N 0
+ATOM   6325   CDAARG A 286      54.853  13.092  20.055  0.00  0.00           C 0
+ATOM   6417  NH2AARG A 290      58.454  16.003  24.936  0.11  9.84           N 0
+ATOM   6317    CAARG A 286      52.668  17.021  22.075  0.00  0.00           C 0
+ATOM   6331  NH1AARG A 286      57.144  11.854  19.061  0.65  6.56           N 0
+ATOM   6411   NEAARG A 290      57.040  17.545  25.852  0.69  1.09           N 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0455
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7133
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4239
+HEADER 5  - Mean B-factor of pocket residues  : 0.6714
+HEADER 6  - Hydrophobicity Score              : 31.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.8098
+HEADER 10  -Pocket volume (convex hull)       : 2.0430
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2267   CE MET A 335      15.963  24.700 -20.683  0.00  0.00           C 0
+ATOM    975   CA LYS A 164      14.683  26.494 -25.074  0.00  0.00           C 0
+ATOM   1001    O PHE A 167      18.935  26.216 -27.272  0.80  8.57           O 0
+ATOM    979   CG LYS A 164      14.193  24.086 -24.132  0.00  0.00           C 0
+ATOM   1009    N ASP A 170      21.797  25.108 -22.523  0.00  0.00           N 0
+ATOM    982   NZ LYS A 164      14.067  21.066 -22.857  0.15  8.75           N 1
+ATOM    977    O LYS A 164      15.659  25.733 -27.156  0.61  6.43           O 0
+ATOM    971  CE2 TYR A 163      17.210  28.987 -20.868  0.00  0.00           C 0
+ATOM    972   CZ TYR A 163      18.319  29.675 -21.314  0.00  0.00           C 0
+ATOM   1000    C PHE A 167      19.731  27.203 -27.441  0.00  0.00           C 0
+ATOM   1002   CB PHE A 167      19.303  29.614 -26.781  0.00  0.00           C 0
+ATOM    970  CE1 TYR A 163      18.231  30.567 -22.381  0.00  0.00           C 0
+ATOM    965    O TYR A 163      15.947  28.867 -25.830  0.00  0.00           O 0
+ATOM    973   OH TYR A 163      19.518  29.438 -20.695  0.73  3.21           O 0
+TER
+END

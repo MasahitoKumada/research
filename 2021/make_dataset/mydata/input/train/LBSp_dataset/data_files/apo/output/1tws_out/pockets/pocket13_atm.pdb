@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1597
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6784
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3926
+HEADER 5  - Mean B-factor of pocket residues  : 0.5087
+HEADER 6  - Hydrophobicity Score              : 28.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.5161
+HEADER 10  -Pocket volume (convex hull)       : 1.6619
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    341    N ALA A  45     -75.835  75.884 109.732  0.74  3.28           N 0
+ATOM    230  OG1 THR A  29     -75.796  82.487 109.678  0.43  4.29           O 0
+ATOM    338    C ALA A  44     -76.896  75.974 110.533  0.00  0.00           C 0
+ATOM    340   CB ALA A  44     -76.243  77.656 112.311  0.00  0.00           C 0
+ATOM    225    N THR A  29     -73.536  81.825 108.352  0.55  5.47           N 0
+ATOM    345   CB ALA A  45     -74.520  75.325 107.729  0.00  0.00           C 0
+ATOM    342   CA ALA A  45     -75.934  75.473 108.332  0.00  0.00           C 0
+ATOM    339    O ALA A  44     -78.020  75.834 110.133  0.30  1.07           O 0
+ATOM    213    O ASN A  27     -75.883  81.157 105.877  0.50  3.21           O 0
+ATOM    368   CB HIS A  48     -80.305  76.467 107.699  0.00  0.00           C 0
+ATOM    370  ND1 HIS A  48     -80.515  78.149 105.850  0.68  2.19           N 0
+ATOM    369   CG HIS A  48     -81.083  77.415 106.867  0.00  0.00           C 0
+ATOM    209  CD2 LEU A  26     -75.804  77.197 104.627  0.00  0.00           C 0
+TER
+END

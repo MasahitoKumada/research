@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0743
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2075
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6753
+HEADER 5  - Mean B-factor of pocket residues  : 0.1650
+HEADER 6  - Hydrophobicity Score              : 32.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.7398
+HEADER 10  -Pocket volume (convex hull)       : 3.7042
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   4102   CA ALA E  12      63.620  -1.351  11.516  0.00  0.00           C 0
+ATOM   4053    N ILE E   6      65.074  -6.678  13.670  0.57  1.09           N 0
+ATOM   4105   CB ALA E  12      65.146  -1.502  11.454  0.00  0.00           C 0
+ATOM   4104    O ALA E  12      62.894   0.376  13.030  0.00  0.00           O 0
+ATOM   4455    O GLU E  61      59.883  -6.312  17.273  0.00  0.00           O 0
+ATOM   4129  CD1 LEU E  15      60.189  -4.238  13.822  0.00  0.00           C 0
+ATOM   4050   CA GLY E   5      66.335  -6.766  15.713  0.00  0.00           C 0
+ATOM   4459  OE1 GLU E  61      63.309  -8.297  16.292  0.72  9.64           O 0
+ATOM   4029   NZ LYS E   2      67.864  -4.324  13.375  0.50  3.28           N 0
+ATOM   4059  CG2 ILE E   6      63.566  -4.875  11.627  0.00  0.00           C 0
+ATOM   4027   CD LYS E   2      69.547  -2.518  13.769  0.00  0.00           C 0
+ATOM   4125    C LEU E  15      59.940   0.451  15.443  0.00  0.00           C 0
+ATOM   4127   CB LEU E  15      60.041  -1.822  14.413  0.00  0.00           C 0
+ATOM   4131    N ALA E  16      61.052   1.116  15.148  0.00  0.00           N 0
+ATOM   4126    O LEU E  15      59.371   0.548  16.530  0.00  0.00           O 0
+ATOM   4132   CA ALA E  16      61.696   2.004  16.111  0.00  0.00           C 0
+TER
+END

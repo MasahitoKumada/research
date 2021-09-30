@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0016
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9003
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4727
+HEADER 5  - Mean B-factor of pocket residues  : 0.7447
+HEADER 6  - Hydrophobicity Score              : 7.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.8792
+HEADER 10  -Pocket volume (convex hull)       : 3.5261
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM    408  OG1 THR A  52      -5.911   3.209  -4.005  0.00  0.00           O 0
+ATOM    824  CD2 LEU A 103     -10.198   1.838  -0.320  0.00  0.00           C 0
+ATOM    832   CE MET A 104      -9.043   5.748  -5.540  0.00  0.00           C 0
+ATOM    792    O GLU A 100     -12.771   3.698  -4.674  0.65  1.07           O 0
+ATOM    784    O ASP A  99     -14.434   1.301  -2.739  0.69  1.07           O 0
+ATOM   2273   CD LYS A 280     -11.139  -3.976  -0.459  0.00  0.00           C 0
+ATOM   2272   CG LYS A 280     -11.759  -2.956   0.483  0.00  0.00           C 0
+ATOM    783    C ASP A  99     -14.832   0.537  -3.618  0.00  0.00           C 0
+ATOM    790   CA GLU A 100     -13.192   1.381  -5.223  0.00  0.00           C 0
+ATOM    794   CG GLU A 100     -12.525  -0.603  -6.746  0.00  0.00           C 0
+ATOM    793   CB GLU A 100     -12.588   0.917  -6.561  0.00  0.00           C 0
+ATOM    402   NZ LYS A  51      -6.948   3.028  -7.813  0.06  9.84           N 0
+ATOM    785   CB ASP A  99     -15.307  -1.792  -2.847  0.00  0.00           C 0
+ATOM    789    N GLU A 100     -14.342   0.546  -4.855  0.00  0.00           N 0
+TER
+END

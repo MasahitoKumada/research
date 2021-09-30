@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0229
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9962
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6118
+HEADER 5  - Mean B-factor of pocket residues  : 0.2081
+HEADER 6  - Hydrophobicity Score              : 42.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 6.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.0319
+HEADER 10  -Pocket volume (convex hull)       : 6.7509
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   1741  CD1 LEU A 106       3.848  13.775 -12.048  0.00  0.00           C 0
+ATOM   1735    N LEU A 106       1.660  16.607  -9.347  0.53  1.09           N 0
+ATOM   1739   CB LEU A 106       3.499  15.066  -9.924  0.00  0.00           C 0
+ATOM    446   OH TYR A  24       5.805  17.416 -15.381  0.09  7.50           O 0
+ATOM   1738    O LEU A 106       4.111  17.293  -8.042  0.50  7.50           O 0
+ATOM   1740   CG LEU A 106       2.870  14.096 -10.917  0.00  0.00           C 0
+ATOM   1716   CA PHE A 105      -0.173  18.203  -9.155  0.00  0.00           C 0
+ATOM   1721  CD1 PHE A 105       0.035  21.043 -10.978  0.00  0.00           C 0
+ATOM   1463  CZ2 TRP A  88      -0.749  14.334 -11.029  0.00  0.00           C 0
+ATOM   1696    O LYS A 104      -2.765  17.784 -10.176  0.67  6.43           O 0
+ATOM   2283   NZ LYS A 137       2.974  23.118 -10.681  0.00  0.00           N 0
+ATOM   1719   CB PHE A 105       0.538  19.554  -9.032  0.00  0.00           C 0
+ATOM   1460  NE1 TRP A  88       0.320  13.106 -12.930  0.68  5.47           N 0
+ATOM   1389   NE ARG A  84       2.864  14.513 -18.251  0.00  0.00           N 0
+ATOM   1387   CG ARG A  84       2.591  12.556 -16.763  0.00  0.00           C 0
+ATOM   1388   CD ARG A  84       2.147  13.255 -18.047  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1874
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6640
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4096
+HEADER 5  - Mean B-factor of pocket residues  : 0.1653
+HEADER 6  - Hydrophobicity Score              : 32.4286
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 86.3398
+HEADER 10  -Pocket volume (convex hull)       : 0.3468
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM    393  CD1 LEU B  51      20.980  -1.132   2.445  0.00  0.00           C 0
+ATOM     57  CD2 PHE B   8      16.131   2.318   2.112  0.00  0.00           C 0
+ATOM    896   CD PRO B 117      18.354   1.425  -2.722  0.00  0.00           C 0
+ATOM     59  CE2 PHE B   8      15.575   1.078   1.742  0.00  0.00           C 0
+ATOM    893    O PRO B 117      17.421   4.594  -0.922  0.78  1.07           O 0
+ATOM    420   CG GLN B  55      21.558  -1.044  -1.671  0.00  0.00           C 0
+ATOM    422  NE2 GLN B  55      23.228   0.243  -0.480  0.15  8.75           N 0
+ATOM     69  OE2 GLU B   9      22.389   2.608   3.552  0.52  2.14           O 1
+ATOM    887   CB VAL B 116      21.041   3.302  -3.187  0.00  0.00           C 0
+ATOM    889  CG2 VAL B 116      21.146   4.708  -2.675  0.00  0.00           C 0
+ATOM     66   CG GLU B   9      20.209   2.549   4.562  0.00  0.00           C 0
+ATOM     34    O ALA B   5      19.354   5.729   3.049  0.71  1.07           O 0
+ATOM     35   CB ALA B   5      21.102   7.080   0.552  0.00  0.00           C 0
+TER
+END

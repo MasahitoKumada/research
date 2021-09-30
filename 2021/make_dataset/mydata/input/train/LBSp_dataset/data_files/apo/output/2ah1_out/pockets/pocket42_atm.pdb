@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.0050
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7201
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4117
+HEADER 5  - Mean B-factor of pocket residues  : 0.2623
+HEADER 6  - Hydrophobicity Score              : 41.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.5708
+HEADER 10  -Pocket volume (convex hull)       : 6.3979
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM   4402   CB ALA A 421       9.079   5.088  30.215  0.00  0.00           C 0
+ATOM   1877   CG MET A  98       2.419   5.881  29.512  0.00  0.00           C 0
+ATOM   1358  NE2 GLN H 139       3.118   6.627  34.034  0.00  0.00           N 0
+ATOM   4392    O GLU A 420       9.410   8.131  28.862  0.00  0.00           O 0
+ATOM   1865   CB PHE A  97       6.025   2.412  31.934  0.00  0.00           C 0
+ATOM   1872    N MET A  98       3.830   3.117  29.572  0.55  1.09           N 0
+ATOM   1357  OE1 GLN H 139       4.606   5.651  35.389  0.00  0.00           O 0
+ATOM   4393   CB GLU A 420       8.465   7.060  26.003  0.00  0.00           C 0
+ATOM   4396  OE1 GLU A 420       5.812   7.455  24.380  0.00  8.57           O 0
+ATOM   1861    N PHE A  97       6.526   2.224  29.549  0.57  1.09           N 0
+ATOM   1876   CB MET A  98       2.295   4.729  28.547  0.00  0.00           C 0
+ATOM   1855   CA VAL A  96       7.497   2.261  27.316  0.00  0.00           C 0
+ATOM   1859  CG1 VAL A  96       6.056   2.457  25.284  0.00  0.00           C 0
+TER
+END

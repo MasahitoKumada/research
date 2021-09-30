@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.0501
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9318
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6027
+HEADER 5  - Mean B-factor of pocket residues  : 0.4101
+HEADER 6  - Hydrophobicity Score              : 34.5714
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.7558
+HEADER 10  -Pocket volume (convex hull)       : 4.4787
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2727
+ATOM    749    O GLY A 131      28.132  19.867  57.058  0.00  0.00           O 0
+ATOM    748    C GLY A 131      27.789  18.894  56.386  0.00  0.00           C 0
+ATOM    747   CA GLY A 131      27.699  17.537  57.064  0.00  0.00           C 0
+ATOM    984  ND2 ASN A 163      20.440  21.320  56.481  0.00  0.00           N 0
+ATOM    753    O VAL A 132      25.286  19.872  53.935  0.56  2.14           O 0
+ATOM    727  CD1 ILE A 128      21.439  14.633  55.205  0.00  0.00           C 0
+ATOM    719    O GLY A 127      25.952  16.202  54.256  0.47  2.14           O 0
+ATOM    771  CE1 PHE A 134      21.329  17.290  51.911  0.00  0.00           C 0
+ATOM    983  OD1 ASN A 163      21.190  21.830  54.400  0.00  0.00           O 0
+ATOM    773   CZ PHE A 134      20.091  17.101  52.516  0.00  0.00           C 0
+ATOM    982   CG ASN A 163      20.978  22.140  55.586  0.00  0.00           C 0
+ATOM    981   CB ASN A 163      21.357  23.506  56.125  0.00  0.00           C 0
+ATOM    752    C VAL A 132      26.156  20.753  54.017  0.00  0.00           C 0
+ATOM    721   CA ILE A 128      24.251  14.038  54.990  0.00  0.00           C 0
+ATOM    723    O ILE A 128      25.993  13.883  56.623  0.42  5.36           O 0
+ATOM    757    N SER A 133      25.816  22.028  53.780  0.57  4.37           N 0
+ATOM    758   CA SER A 133      24.445  22.381  53.448  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1254
+HEADER 1  - Drug Score                        : 0.2739
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.6489
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4019
+HEADER 5  - Mean B-factor of pocket residues  : 0.6855
+HEADER 6  - Hydrophobicity Score              : -0.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.4813
+HEADER 10  -Pocket volume (convex hull)       : 6.3693
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4400
+ATOM  12037  CG2 VAL D 284     -27.512 -36.287  -4.857  0.00  0.00           C 0
+ATOM  12029    O ALA D 283     -25.409 -37.991  -8.070  0.24  4.29           O 0
+ATOM  12022    O PRO D 282     -27.620 -39.867  -6.272  0.57  2.14           O 0
+ATOM  12024   CG PRO D 282     -29.535 -40.111  -9.396  0.00  0.00           C 0
+ATOM  11936   CB PRO D 271     -32.174 -34.441  -3.837  0.00  0.00           C 0
+ATOM  12015   CG LYS D 281     -32.608 -41.696  -4.751  0.00  0.00           C 0
+ATOM  12016   CD LYS D 281     -33.532 -41.113  -5.775  0.00  0.00           C 0
+ATOM  12014   CB LYS D 281     -31.172 -41.646  -5.184  0.00  0.00           C 0
+ATOM  12826  OE1 GLN D 388     -29.385 -36.151  -1.516  0.70  4.29           O 0
+ATOM  12824   CG GLN D 388     -27.568 -37.690  -1.209  0.00  0.00           C 0
+ATOM  11937   CG PRO D 271     -31.027 -34.439  -4.773  0.00  0.00           C 0
+ATOM  12025   CD PRO D 282     -30.277 -41.043  -8.499  0.00  0.00           C 0
+ATOM  11958  OG1 THR D 274     -33.313 -41.096  -1.043  0.00  0.00           O 0
+ATOM  11983   CA GLY D 277     -30.766 -43.225  -1.103  0.00  0.00           C 0
+ATOM  11985    O GLY D 277     -29.140 -43.209  -2.855  0.56  3.21           O 0
+ATOM  11942    O LYS D 272     -32.928 -36.405  -0.560  0.00  0.00           O 0
+ATOM  12815    O THR D 387     -29.915 -40.689   1.062  0.44  1.07           O 0
+TER
+END

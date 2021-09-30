@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.1430
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0778
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4526
+HEADER 5  - Mean B-factor of pocket residues  : 0.6570
+HEADER 6  - Hydrophobicity Score              : -15.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.9210
+HEADER 10  -Pocket volume (convex hull)       : 10.8234
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    137   CB GLN A  33      47.228  61.171  87.183  0.00  0.00           C 0
+ATOM    109  NH1 ARG A  30      41.825  60.256  83.588  0.39  8.75           N 1
+ATOM    138   CG GLN A  33      47.068  61.713  88.606  0.00  0.00           C 0
+ATOM    346   CE LYS A  57      44.621  67.236  87.328  0.00  0.00           C 0
+ATOM    347   NZ LYS A  57      43.456  67.537  86.438  0.00  0.00           N 1
+ATOM    105   CG ARG A  30      43.377  61.714  79.330  0.00  0.00           C 0
+ATOM    103    O ARG A  30      44.842  60.566  82.347  0.50  6.43           O 0
+ATOM    385   NZ LYS A  61      47.261  67.443  80.823  0.74  7.66           N 1
+ATOM    942  OE2 GLU A 132      47.972  64.281  85.277  0.63  7.50           O 1
+ATOM    345   CD LYS A  57      45.882  67.982  86.911  0.00  0.00           C 0
+ATOM    107   NE ARG A  30      42.492  60.705  81.433  0.71  1.09           N 0
+ATOM    101   CA ARG A  30      45.750  61.221  80.227  0.00  0.00           C 0
+ATOM     93    O HIS A  29      48.196  61.226  81.602  0.00  0.00           O 0
+ATOM     97  ND1 HIS A  29      49.682  63.674  81.260  0.43  2.19           N 0
+TER
+END

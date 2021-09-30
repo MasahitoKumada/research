@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0656
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8988
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6508
+HEADER 5  - Mean B-factor of pocket residues  : 0.4588
+HEADER 6  - Hydrophobicity Score              : -17.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.8718
+HEADER 10  -Pocket volume (convex hull)       : 4.9083
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   2781  NH1 ARG A 399      11.513  27.657   2.736  0.38  7.66           N 1
+ATOM   2779   NE ARG A 399      10.227  26.828   0.992  0.00  0.00           N 0
+ATOM   2546  OE1 GLN A 370       7.459  26.324   6.550  0.00  0.00           O 0
+ATOM   2778   CD ARG A 399       8.943  27.125   1.641  0.00  0.00           C 0
+ATOM   2550    O GLY A 371       5.616  21.604   2.558  0.60  3.21           O 0
+ATOM   2539   CA GLN A 370       4.763  24.760   5.144  0.00  0.00           C 0
+ATOM   2558  OD2 ASP A 372       8.726  18.426   1.484  0.00  0.00           O 1
+ATOM   2513  NE2 GLN A 367       8.958  21.417  -1.452  0.00  0.00           N 0
+ATOM   2782  NH2 ARG A 399      12.528  26.746   0.839  0.00  0.00           N 0
+ATOM   2780   CZ ARG A 399      11.421  27.073   1.525  0.00  0.00           C 0
+ATOM   2541    O GLN A 370       4.791  22.459   5.838  0.52  3.21           O 0
+ATOM   2511   CG GLN A 367       6.972  22.601  -0.725  0.00  0.00           C 0
+ATOM   2509    O GLN A 367       5.466  26.096   1.684  0.00  0.00           O 0
+ATOM   2514  OE1 GLN A 367       8.676  23.541  -2.118  0.69  7.50           O 0
+ATOM   2510   CB GLN A 367       6.555  24.047  -0.368  0.00  0.00           C 0
+ATOM   2512   CD GLN A 367       8.274  22.549  -1.509  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0390
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9123
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5421
+HEADER 5  - Mean B-factor of pocket residues  : 0.2731
+HEADER 6  - Hydrophobicity Score              : 27.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.8684
+HEADER 10  -Pocket volume (convex hull)       : 5.8979
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   1963   CB ARG B 257     -38.644 -16.814  28.955  0.00  0.00           C 0
+ATOM   1962    O ARG B 257     -36.167 -18.717  28.294  0.38  5.36           O 0
+ATOM   1964   CG ARG B 257     -40.010 -16.943  29.625  0.00  0.00           C 0
+ATOM   1968  NH1 ARG B 257     -41.865 -18.584  27.605  0.54  7.66           N 1
+ATOM   1991    O VAL B 260     -35.328 -21.559  32.276  0.68  3.21           O 0
+ATOM   2008   CD PRO B 262     -36.327 -25.281  30.977  0.00  0.00           C 0
+ATOM   2007   CG PRO B 262     -37.801 -25.398  30.699  0.00  0.00           C 0
+ATOM   2236   CB PRO B 294     -41.486 -23.582  32.581  0.00  0.00           C 0
+ATOM   2222  CD2 LEU B 292     -44.791 -22.089  30.055  0.00  0.00           C 0
+ATOM   2221  CD1 LEU B 292     -45.464 -22.469  27.677  0.00  0.00           C 0
+ATOM   2237   CG PRO B 294     -40.571 -22.450  32.249  0.00  0.00           C 0
+ATOM   2238   CD PRO B 294     -41.519 -21.285  32.105  0.00  0.00           C 0
+ATOM   1960   CA ARG B 257     -37.456 -17.330  29.778  0.00  0.00           C 0
+ATOM   2250  CZ2 TRP B 295     -38.154 -19.503  33.132  0.00  0.00           C 0
+TER
+END

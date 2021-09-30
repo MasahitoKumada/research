@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0496
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6960
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4009
+HEADER 5  - Mean B-factor of pocket residues  : 0.4404
+HEADER 6  - Hydrophobicity Score              : 36.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.0149
+HEADER 10  -Pocket volume (convex hull)       : 8.2124
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2783   CB SER B 289      38.799  34.968  33.972  0.00  0.00           C 0
+ATOM   2755  OE1 GLN B 286      41.326  38.449  33.081  0.46  5.36           O 0
+ATOM   2791  CG2 VAL B 290      42.979  33.225  31.526  0.00  0.00           C 0
+ATOM   4241    O ASP B 475      42.770  37.809  29.086  0.74  6.43           O 0
+ATOM   2812  CG2 VAL B 293      38.055  32.015  29.375  0.00  0.00           C 0
+ATOM   2781    C SER B 289      39.178  32.631  33.246  0.00  0.00           C 0
+ATOM   3077  CD1 ILE B 326      35.260  33.973  31.481  0.00  0.00           C 0
+ATOM   3041  CG1 VAL B 322      35.640  34.230  28.038  0.00  0.00           C 0
+ATOM   3051  CE1 HIS B 323      36.564  38.774  27.761  0.00  0.00           C 0
+ATOM   3052  NE2 HIS B 323      36.695  39.264  28.984  0.76  8.75           N 0
+ATOM   4240    C ASP B 475      42.318  38.945  28.789  0.00  0.00           C 0
+ATOM   2784   OG SER B 289      37.937  35.783  34.742  0.61  1.07           O 0
+ATOM   3050  CD2 HIS B 323      35.469  39.253  29.602  0.00  0.00           C 0
+ATOM   3089   OH TYR B 327      34.566  39.903  33.444  0.71  4.29           O 0
+ATOM   2756  NE2 GLN B 286      39.894  39.357  34.581  0.00  0.00           N 0
+ATOM   2785    N VAL B 290      40.500  32.485  33.210  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1224
+HEADER 1  - Drug Score                        : 0.0148
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0095
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5487
+HEADER 5  - Mean B-factor of pocket residues  : 0.9118
+HEADER 6  - Hydrophobicity Score              : 55.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 6.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.8778
+HEADER 10  -Pocket volume (convex hull)       : 2.9534
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8421
+ATOM    913  CD2 TYR A 145     -23.508  13.242  30.624  0.00  0.00           C 0
+ATOM    915  CE2 TYR A 145     -24.123  14.482  30.889  0.00  0.00           C 0
+ATOM    670  CD2 TYR A 115     -20.895  12.376  36.081  0.00  0.00           C 0
+ATOM    672  CE2 TYR A 115     -20.562  13.221  35.014  0.00  0.00           C 0
+ATOM    916   CZ TYR A 145     -25.515  14.569  30.929  0.00  0.00           C 0
+ATOM    669  CD1 TYR A 115     -20.857  14.244  37.577  0.00  0.00           C 0
+ATOM    668   CG TYR A 115     -21.044  12.874  37.376  0.00  0.00           C 0
+ATOM    700  NH1 ARG A 118     -25.191   9.561  37.856  0.55  9.84           N 0
+ATOM    912  CD1 TYR A 145     -25.677  12.240  30.451  0.00  0.00           C 0
+ATOM    911   CG TYR A 145     -24.294  12.108  30.389  0.00  0.00           C 0
+ATOM    914  CE1 TYR A 145     -26.291  13.452  30.720  0.00  0.00           C 0
+ATOM   1332  CD2 PHE A 204     -21.703   9.078  33.701  0.00  0.00           C 0
+ATOM    371  CE2 TYR A  78     -27.844   9.742  32.796  0.00  0.00           C 0
+ATOM   1334  CE2 PHE A 204     -22.594   8.076  34.046  0.00  0.00           C 0
+ATOM    369  CD2 TYR A  78     -27.067   8.844  32.098  0.00  0.00           C 0
+ATOM    701  NH2 ARG A 118     -26.409   8.134  36.517  0.55  3.28           N 0
+ATOM    373   OH TYR A  78     -29.453  11.461  32.866  0.59  9.64           O 0
+TER
+END

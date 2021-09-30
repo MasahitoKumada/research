@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.1313
+HEADER 1  - Drug Score                        : 0.0147
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1581
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5279
+HEADER 5  - Mean B-factor of pocket residues  : 0.4075
+HEADER 6  - Hydrophobicity Score              : 45.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 327.8591
+HEADER 10  -Pocket volume (convex hull)       : 9.7208
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7778
+ATOM     28   CB PHE A  10      25.752  44.151  -6.044  0.00  0.00           C 0
+ATOM   1532   CB LYS A 212      21.566  48.349  -5.524  0.00  0.00           C 0
+ATOM      1    N ILE A   7      28.865  47.298  -3.502  0.00  0.00           N 0
+ATOM     31  CD2 PHE A  10      24.885  45.478  -7.990  0.00  0.00           C 0
+ATOM   1526    O ALA A 211      22.710  48.702  -8.314  0.00  0.00           O 0
+ATOM      7  CG2 ILE A   7      27.484  44.280  -2.908  0.00  0.00           C 0
+ATOM      5   CB ILE A   7      28.178  45.325  -2.054  0.00  0.00           C 0
+ATOM   1537    N TYR A 213      21.312  45.476  -4.628  0.74  2.19           N 0
+ATOM      6  CG1 ILE A   7      28.685  44.668  -0.765  0.00  0.00           C 0
+ATOM      8  CD1 ILE A   7      28.584  45.562   0.463  0.00  0.00           C 0
+ATOM   1535   CE LYS A 212      20.819  49.683  -2.721  0.00  0.00           C 0
+ATOM   1541   CB TYR A 213      21.405  43.546  -3.092  0.00  0.00           C 0
+ATOM   1540    O TYR A 213      20.222  46.186  -2.035  0.00  0.00           O 0
+ATOM   1542   CG TYR A 213      20.584  42.369  -2.614  0.00  0.00           C 0
+ATOM     23   OG SER A   9      26.516  39.865  -2.975  0.42  6.43           O 0
+ATOM   1544  CD2 TYR A 213      19.934  42.411  -1.376  0.00  0.00           C 0
+ATOM     22   CB SER A   9      27.810  40.357  -2.651  0.00  0.00           C 0
+TER
+END

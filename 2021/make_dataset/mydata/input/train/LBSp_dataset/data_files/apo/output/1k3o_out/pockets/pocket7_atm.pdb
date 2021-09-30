@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0448
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6288
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4257
+HEADER 5  - Mean B-factor of pocket residues  : 0.2359
+HEADER 6  - Hydrophobicity Score              : 21.1111
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 136.7340
+HEADER 10  -Pocket volume (convex hull)       : 3.5997
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   2325  OE2 GLU B  88      61.340  29.285  -3.122  0.56  4.29           O 0
+ATOM   2289   CD LYS B  84      60.365  27.445  -6.378  0.00  0.00           C 0
+ATOM   2843   NZ LYS B 152      56.659  24.653  -2.502  0.70  5.47           N 0
+ATOM   2826    O GLY B 150      56.709  30.444  -0.855  0.50  7.50           O 0
+ATOM   2324  OE1 GLU B  88      61.498  27.150  -2.582  0.64  3.21           O 0
+ATOM   2839   CB LYS B 152      55.264  27.653   0.415  0.00  0.00           C 0
+ATOM   2856   CB SER B 154      59.693  24.856   4.302  0.00  0.00           C 0
+ATOM   2279    N GLY B  83      61.585  22.981   0.157  0.39  1.09           N 0
+ATOM   2847    O LEU B 153      56.331  24.320   3.381  0.62  5.36           O 0
+ATOM   2280   CA GLY B  83      61.645  24.068  -0.802  0.00  0.00           C 0
+ATOM   2840   CG LYS B 152      54.921  26.187   0.293  0.00  0.00           C 0
+ATOM   2824   CA GLY B 150      59.010  30.807  -0.325  0.00  0.00           C 0
+ATOM   2821  CG1 VAL B 149      62.408  29.332   1.474  0.00  0.00           C 0
+ATOM   2364  CD1 ILE B  92      63.425  25.056   2.659  0.00  0.00           C 0
+ATOM   2819    O VAL B 149      58.930  29.384   2.107  0.60  3.21           O 0
+ATOM   2838    O LYS B 152      56.595  27.813   3.352  0.00  0.00           O 0
+TER
+END

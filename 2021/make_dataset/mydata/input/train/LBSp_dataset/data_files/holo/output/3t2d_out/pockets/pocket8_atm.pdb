@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0894
+HEADER 1  - Drug Score                        : 0.0044
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8789
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5150
+HEADER 5  - Mean B-factor of pocket residues  : 0.3626
+HEADER 6  - Hydrophobicity Score              : -7.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 323.5764
+HEADER 10  -Pocket volume (convex hull)       : 11.1029
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.7778
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4737
+ATOM   1955   CG GLN A 242     -30.733  41.036  20.877  0.00  0.00           C 0
+ATOM   1031   CG PRO A 125     -31.821  39.465  24.061  0.00  0.00           C 0
+ATOM   1016   OG SER A 123     -29.307  41.158  27.747  0.52  5.36           O 0
+ATOM   2469  OE1 GLN A 308     -33.132  42.555  26.727  0.00  0.00           O 0
+ATOM   1032   CD PRO A 125     -31.192  38.726  25.162  0.00  0.00           C 0
+ATOM   1015   CB SER A 123     -28.000  40.644  27.762  0.00  0.00           C 0
+ATOM   1954   CB GLN A 242     -29.525  40.092  20.702  0.00  0.00           C 0
+ATOM   1030   CB PRO A 125     -33.175  39.889  24.556  0.00  0.00           C 0
+ATOM   1957  OE1 GLN A 242     -32.125  42.624  19.777  0.00  0.00           O 0
+ATOM   1011    N SER A 123     -26.597  38.732  28.455  0.81  2.19           N 0
+ATOM   1966   OGASER A 243     -24.197  37.687  21.227  0.00  0.00           O 0
+ATOM   1964   CBASER A 243     -25.547  38.086  20.943  0.00  0.00           C 0
+ATOM   1014    O SER A 123     -28.267  37.763  26.590  0.67  3.21           O 0
+ATOM   1998  CG2 VAL A 248     -35.206  41.957  20.835  0.00  0.00           C 0
+ATOM   1002  NH1 ARG A 121     -28.533  35.859  22.496  0.67  1.09           N 0
+ATOM   1010   CD PRO A 122     -23.877  36.069  28.069  0.00  0.00           C 0
+ATOM   1009   CG PRO A 122     -22.768  36.945  28.669  0.00  0.00           C 0
+ATOM   1008   CB PRO A 122     -23.438  38.140  29.167  0.00  0.00           C 0
+ATOM    997   CB ARG A 121     -26.749  34.940  26.763  0.00  0.00           C 0
+TER
+END

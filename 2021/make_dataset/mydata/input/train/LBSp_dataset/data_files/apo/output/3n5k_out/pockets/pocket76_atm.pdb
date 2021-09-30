@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    76:
+HEADER 0  - Pocket Score                      : -0.0425
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7858
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4502
+HEADER 5  - Mean B-factor of pocket residues  : 0.6289
+HEADER 6  - Hydrophobicity Score              : 10.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.8091
+HEADER 10  -Pocket volume (convex hull)       : 7.8592
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   6218   CG PRO A 812      60.302  72.169  23.580  0.00  0.00           C 0
+ATOM   6217   CB PRO A 812      59.468  73.237  24.271  0.00  0.00           C 0
+ATOM   5759   CB ALA A 752      56.893  70.322  25.492  0.00  0.00           C 0
+ATOM   5729  OE1 GLU A 748      61.018  70.072  30.412  0.00  0.00           O 0
+ATOM   5727   CG GLU A 748      58.716  70.627  30.621  0.00  0.00           C 0
+ATOM   6250  CG2 ILE A 816      57.746  74.204  29.513  0.00  0.00           C 0
+ATOM   5728   CD GLU A 748      60.181  70.834  30.947  0.00  0.00           C 0
+ATOM   5732   CA GLU A 749      56.892  66.925  28.345  0.00  0.00           C 0
+ATOM   5738  OE1 GLU A 749      59.797  65.588  26.589  0.58  8.57           O 0
+ATOM   5739  OE2 GLU A 749      58.192  65.881  25.128  0.51  4.29           O 0
+ATOM   6223    O ASP A 813      59.138  76.378  26.893  0.00  0.00           O 0
+ATOM   6231    O LEU A 814      60.846  78.119  30.070  0.00  0.00           O 0
+ATOM   5730  OE2 GLU A 748      60.495  71.752  31.735  0.56  9.64           O 0
+ATOM   6229   CA LEU A 814      60.968  78.294  27.680  0.00  0.00           C 0
+TER
+END

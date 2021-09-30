@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.1539
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0412
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4979
+HEADER 5  - Mean B-factor of pocket residues  : 0.5082
+HEADER 6  - Hydrophobicity Score              : 13.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.0907
+HEADER 10  -Pocket volume (convex hull)       : 4.0448
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    592  CG2 THR A  87      85.845  71.057  62.188  0.00  0.00           C 0
+ATOM   1179   CE LYS A 160      86.963  67.010  68.712  0.00  0.00           C 0
+ATOM    593  OG1 THR A  87      84.035  71.175  63.783  0.66  2.14           O 0
+ATOM   1180   NZ LYS A 160      86.047  65.824  68.658  0.00  0.00           N 1
+ATOM    558   CA GLN A  83      80.899  68.974  63.565  0.00  0.00           C 0
+ATOM    560    O GLN A  83      82.164  69.189  61.538  0.62  7.50           O 0
+ATOM    561   CB GLN A  83      80.331  67.553  63.530  0.00  0.00           C 0
+ATOM    562   CG GLN A  83      79.942  67.017  64.906  0.00  0.00           C 0
+ATOM    564  NE2 GLN A  83      79.797  64.692  65.585  0.64  7.66           N 0
+ATOM   1116   OH TYR A 153      81.187  66.626  69.137  0.83  2.14           O 0
+ATOM   1153  CE2 TYR A 157      83.698  71.627  67.529  0.00  0.00           C 0
+ATOM   1151  CD2 TYR A 157      83.556  71.225  68.859  0.00  0.00           C 0
+ATOM   1188  OD1 ASN A 161      88.708  70.613  66.600  0.66  9.64           O 0
+ATOM   1187  ND2 ASN A 161      86.813  71.080  67.710  0.85  2.19           N 0
+TER
+END

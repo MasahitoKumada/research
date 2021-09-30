@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0631
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0319
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6398
+HEADER 5  - Mean B-factor of pocket residues  : 0.4606
+HEADER 6  - Hydrophobicity Score              : 35.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.7558
+HEADER 10  -Pocket volume (convex hull)       : 6.9797
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   8376  CD1 PHE C 317      53.016  60.347 140.662  0.00  0.00           C 0
+ATOM   8366    O VAL C 316      57.314  59.050 141.541  0.29  6.43           O 0
+ATOM   8123   CEAMET C 285      53.885  65.938 141.603  0.00  0.00           C 0
+ATOM   8401   NZ LYS C 320      55.400  59.395 146.599  0.00  0.00           N 0
+ATOM   8378  CE1 PHE C 317      52.848  61.558 139.979  0.00  0.00           C 0
+ATOM   8400   CE LYS C 320      55.039  58.224 145.705  0.00  0.00           C 0
+ATOM   8096    O LYS C 282      60.275  66.758 139.100  0.52  1.07           O 0
+ATOM   8097   CB LYS C 282      61.525  63.788 138.443  0.00  0.00           C 0
+ATOM   8132  ND1AHIS C 286      62.424  68.524 141.407  0.62  7.66           N 0
+ATOM   8098   CG LYS C 282      61.245  62.337 138.850  0.00  0.00           C 0
+ATOM   8094   CA LYS C 282      60.242  64.558 138.126  0.00  0.00           C 0
+ATOM   8119   CB MET C 285      56.778  66.462 140.328  0.00  0.00           C 0
+ATOM   8136  CE1AHIS C 286      63.449  67.924 140.826  0.00  0.00           C 0
+ATOM   8368  CG1 VAL C 316      57.085  60.847 138.901  0.00  0.00           C 0
+ATOM   8120   CG MET C 285      55.742  65.825 139.527  0.00  0.00           C 0
+ATOM   8099   CD LYS C 282      62.510  61.680 139.362  0.00  0.00           C 0
+TER
+END

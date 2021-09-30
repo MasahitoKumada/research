@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0468
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8207
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5268
+HEADER 5  - Mean B-factor of pocket residues  : 0.6090
+HEADER 6  - Hydrophobicity Score              : -3.5556
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.0379
+HEADER 10  -Pocket volume (convex hull)       : 13.7395
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM    728   CG PRO E  91     -25.937 161.418  72.765  0.00  0.00           C 0
+ATOM    680    O GLN E  86     -22.864 157.960  76.483  0.56  2.14           O 0
+ATOM    687   CA ASP E  87     -23.137 159.688  78.706  0.00  0.00           C 0
+ATOM    692  OD1 ASP E  87     -25.766 159.771  79.587  0.74  6.43           O 0
+ATOM    706    O LEU E  89     -22.116 159.849  74.156  0.00  0.00           O 0
+ATOM    660   NZ LYS E  83     -28.856 157.360  77.995  0.00  0.00           N 1
+ATOM    768  OD1 ASP E  95     -29.259 155.832  68.287  0.15  6.43           O 0
+ATOM    791  NH1 ARG E  98     -28.613 153.256  70.626  0.55  2.19           N 1
+ATOM    726    O PRO E  91     -25.990 157.701  70.070  0.54  1.07           O 0
+ATOM    792  NH2 ARG E  98     -28.860 152.789  72.861  0.00  0.00           N 0
+ATOM   2390   NZ LYS E 305     -22.527 163.279  76.012  0.52  4.37           N 1
+ATOM    727   CB PRO E  91     -26.522 160.331  71.944  0.00  0.00           C 0
+ATOM    754  CD1 TRP E  94     -23.904 156.228  73.266  0.00  0.00           C 0
+ATOM    724   CA PRO E  91     -25.324 159.453  71.552  0.00  0.00           C 0
+ATOM    769  OD2 ASP E  95     -28.312 157.583  67.359  0.48  8.57           O 1
+ATOM    681   CB GLN E  86     -24.422 155.366  77.602  0.00  0.00           C 0
+ATOM    752   CB TRP E  94     -25.136 154.757  71.560  0.00  0.00           C 0
+ATOM    685  OE1 GLN E  86     -26.700 153.800  76.549  0.47  4.29           O 0
+TER
+END

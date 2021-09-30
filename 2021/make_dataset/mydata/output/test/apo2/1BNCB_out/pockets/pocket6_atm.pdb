@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1447
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5869
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3412
+HEADER 5  - Mean B-factor of pocket residues  : 0.3518
+HEADER 6  - Hydrophobicity Score              : 11.5833
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 98.5058
+HEADER 10  -Pocket volume (convex hull)       : 1.3315
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   2015   CA ARG B 292      33.299 119.433  69.236  0.00  0.00           C 0
+ATOM   2181  NE2 GLN B 312      38.370 117.027  69.374  0.45  4.37           N 0
+ATOM   1847    O ALA B 272      35.204 119.226  65.904  0.23  1.07           O 0
+ATOM    777   CA GLY B 104      39.232 122.398  69.531  0.00  0.00           C 0
+ATOM    771    O ILE B 103      39.835 120.920  71.822  0.61  1.07           O 0
+ATOM    595    O GLY B  81      34.757 117.879  74.235  0.47  1.07           O 0
+ATOM    583  CE1 HIS B  79      38.886 116.702  73.481  0.00  0.00           C 0
+ATOM   2010    O THR B 291      33.381 122.131  69.296  0.65  2.14           O 0
+ATOM    634    O SER B  86      34.178 123.576  73.252  0.53  2.14           O 0
+ATOM    786   CD PRO B 105      36.853 123.929  68.414  0.00  0.00           C 0
+ATOM   2025    N ILE B 293      33.803 117.162  69.721  0.63  1.09           N 0
+ATOM   2018   CB ARG B 292      32.812 119.742  70.656  0.00  0.00           C 0
+ATOM    590   CG PRO B  80      38.193 120.990  74.546  0.00  0.00           C 0
+TER
+END

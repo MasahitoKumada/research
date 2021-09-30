@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0089
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9385
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7499
+HEADER 5  - Mean B-factor of pocket residues  : 0.4425
+HEADER 6  - Hydrophobicity Score              : 4.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.7110
+HEADER 10  -Pocket volume (convex hull)       : 7.7773
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 11.3846
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6500
+ATOM   5559   CB THR B 125     -48.257  -1.833   2.123  0.00  0.00           C 0
+ATOM   5561  CG2 THR B 125     -48.976  -3.161   1.851  0.00  0.00           C 0
+ATOM   5540  CG2 VAL B 122     -51.109   3.795   2.297  0.00  0.00           C 0
+ATOM   5539  CG1 VAL B 122     -50.016   3.591   0.048  0.00  0.00           C 0
+ATOM   5535   CA VAL B 122     -48.814   2.775   2.130  0.00  0.00           C 0
+ATOM   5560  OG1 THR B 125     -48.399  -1.496   3.506  0.39  8.57           O 0
+ATOM   5537    O VAL B 122     -47.690   1.584   0.373  0.58  1.07           O 0
+ATOM   5529    O ASP B 121     -47.453   1.175   3.914  0.45  1.07           O 0
+ATOM   5528    C ASP B 121     -47.703   2.329   4.238  0.00  0.00           C 0
+ATOM   5593   CG ASP B 129     -48.630  -5.461  -3.517  0.00  0.00           C 0
+ATOM   5592   CB ASP B 129     -47.446  -4.940  -2.702  0.00  0.00           C 0
+ATOM   5594  OD1 ASP B 129     -49.531  -6.090  -2.915  0.73  7.50           O 0
+ATOM   5563   CA ALA B 126     -46.633  -1.249  -1.956  0.00  0.00           C 0
+ATOM   5595  OD2 ASP B 129     -48.678  -5.207  -4.748  0.28  9.64           O 0
+ATOM   5566   CB ALA B 126     -46.894   0.105  -2.636  0.00  0.00           C 0
+ATOM   5562    N ALA B 126     -46.738  -1.135  -0.509  0.68  1.09           N 0
+ATOM   5534    N VAL B 122     -48.359   3.168   3.453  0.00  0.00           N 0
+ATOM   5530   CB ASP B 121     -48.511   2.986   6.494  0.00  0.00           C 0
+TER
+END

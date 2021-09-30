@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0458
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9928
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6178
+HEADER 5  - Mean B-factor of pocket residues  : 0.3338
+HEADER 6  - Hydrophobicity Score              : 28.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 118.0821
+HEADER 10  -Pocket volume (convex hull)       : 0.7350
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM   1454    O SER B 249      19.458  53.743   1.224  0.00  0.00           O 0
+ATOM   1464    N PRO B 251      18.718  51.890   5.796  0.77  1.09           N 0
+ATOM   1470   CD PRO B 251      20.121  52.254   6.117  0.00  0.00           C 0
+ATOM   1459    C THR B 250      17.945  52.281   4.796  0.00  0.00           C 0
+ATOM   1370  OE1 GLN B 239      18.970  46.927   0.065  0.00  0.00           O 0
+ATOM   1446    O LEU B 248      17.027  50.725   0.509  0.51  3.21           O 0
+ATOM   1458   CA THR B 250      18.455  53.387   3.871  0.00  0.00           C 0
+ATOM   1310   CA VAL B 233      19.918  45.599   4.629  0.00  0.00           C 0
+ATOM   1312    O VAL B 233      22.284  45.442   4.210  0.00  0.00           O 0
+ATOM   1469   CG PRO B 251      20.524  51.140   7.060  0.00  0.00           C 0
+ATOM   1314  CG1 VAL B 233      20.710  46.945   6.670  0.00  0.00           C 0
+ATOM   1315  CG2 VAL B 233      18.320  47.055   5.884  0.00  0.00           C 0
+ATOM   1490  CG2 VAL B 254      15.731  48.873   3.429  0.00  0.00           C 0
+TER
+END

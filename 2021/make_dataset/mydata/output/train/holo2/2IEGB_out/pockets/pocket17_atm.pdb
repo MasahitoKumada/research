@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0199
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0202
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5981
+HEADER 5  - Mean B-factor of pocket residues  : 0.5928
+HEADER 6  - Hydrophobicity Score              : 24.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.6938
+HEADER 10  -Pocket volume (convex hull)       : 9.0474
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   4825   SD MET B 618     100.298  63.327  16.654  0.00  0.00           S 0
+ATOM   4814   CB LYS B 617      97.564  62.637  21.489  0.00  0.00           C 0
+ATOM   4793  CD2 HIS B 614      97.795  67.095  17.370  0.00  0.00           C 0
+ATOM   1323  CZ3 TRP B 174      98.220  60.352  16.573  0.00  0.00           C 0
+ATOM   4788   CA HIS B 614      97.891  67.273  20.902  0.00  0.00           C 0
+ATOM   4767    O PRO B 611      92.173  65.258  23.539  0.66  6.43           O 0
+ATOM   4818   NZ LYS B 617      92.757  62.308  21.911  0.38  5.47           N 1
+ATOM   4816   CD LYS B 617      95.169  62.159  21.874  0.00  0.00           C 0
+ATOM   1320  CE3 TRP B 174      97.505  59.363  17.209  0.00  0.00           C 0
+ATOM   4791   CB HIS B 614      97.852  68.254  19.708  0.00  0.00           C 0
+ATOM   4772   CA GLY B 612      93.147  67.792  24.093  0.00  0.00           C 0
+ATOM   4774    O GLY B 612      94.830  69.344  23.372  0.00  0.00           O 0
+ATOM   4796  NE2 HIS B 614      98.778  66.742  16.474  0.60  6.56           N 0
+ATOM   1324  CH2 TRP B 174      98.596  60.224  15.222  0.00  0.00           C 0
+ATOM   4778    O TYR B 613      97.485  65.949  23.320  0.00  0.00           O 0
+ATOM   4773    C GLY B 612      94.575  68.319  23.992  0.00  0.00           C 0
+TER
+END

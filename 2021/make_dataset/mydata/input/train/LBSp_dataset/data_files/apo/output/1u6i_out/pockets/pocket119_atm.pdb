@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   119:
+HEADER 0  - Pocket Score                      : -0.0480
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0709
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6001
+HEADER 5  - Mean B-factor of pocket residues  : 0.8431
+HEADER 6  - Hydrophobicity Score              : -30.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.4958
+HEADER 10  -Pocket volume (convex hull)       : 2.6240
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   7828   NZ LYS D 169      25.586  68.198 -11.301  0.00  0.00           N 0
+ATOM   6554   CB THR D   2      23.185  70.611 -15.553  0.00  0.00           C 0
+ATOM   6550    N THR D   2      25.168  71.524 -16.768  0.00  0.00           N 0
+ATOM   6555  OG1 THR D   2      23.010  69.860 -16.762  0.00  0.00           O 0
+ATOM   7826   CD LYS D 169      23.223  68.360 -12.136  0.00  0.00           C 0
+ATOM   6553    O THR D   2      25.452  71.803 -13.885  0.00  0.00           O 0
+ATOM   8611    O ASP D 269      29.435  67.619 -11.529  0.43  9.64           O 0
+ATOM   6773    O GLU D  31      29.588  73.965 -12.472  0.00  0.00           O 0
+ATOM   6778  OE2 GLU D  31      33.667  72.236 -14.828  0.60  8.57           O 0
+ATOM   8612   CB ASP D 269      31.810  67.330 -13.183  0.00  0.00           C 0
+ATOM   6783   CB ASP D  32      27.773  70.811 -11.058  0.00  0.00           C 0
+ATOM   6775   CG GLU D  31      32.764  72.557 -12.641  0.00  0.00           C 0
+ATOM   8609   CA ASP D 269      31.725  68.235 -11.932  0.00  0.00           C 0
+TER
+END

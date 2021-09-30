@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.3335
+HEADER 1  - Drug Score                        : 0.0104
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5229
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3331
+HEADER 5  - Mean B-factor of pocket residues  : 0.5890
+HEADER 6  - Hydrophobicity Score              : 24.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 151.9911
+HEADER 10  -Pocket volume (convex hull)       : 7.0056
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM    583  CG1 VAL C  77       4.601  10.503   4.045  0.00  0.00           C 0
+ATOM    528  CG1 VAL C  69       6.400  14.178   5.641  0.00  0.00           C 0
+ATOM    510   CD ARG C  67       7.882  14.717  -0.025  0.00  0.00           C 0
+ATOM    584  CG2 VAL C  77       3.302  12.634   3.794  0.00  0.00           C 0
+ATOM    617   CA ARG C  82       8.909   8.720   4.651  0.00  0.00           C 0
+ATOM    478   CB PHE C  64      10.314  14.919   4.843  0.00  0.00           C 0
+ATOM    481  CD2 PHE C  64      10.935  12.835   6.030  0.00  0.00           C 0
+ATOM    611    O ASP C  81       7.375   8.606   2.350  0.62  3.21           O 0
+ATOM    511   NE ARG C  67       9.112  14.317   0.676  0.00  0.00           N 0
+ATOM    619    O ARG C  82      11.246   9.345   4.620  0.78  1.07           O 0
+ATOM    514  NH2 ARG C  67      11.351  14.149   0.988  0.33  1.09           N 0
+ATOM    631   CB LYS C  83      12.688   7.714   2.357  0.00  0.00           C 0
+ATOM   1258   CB SER C 160      16.037  10.013   2.594  0.00  0.00           C 0
+ATOM   1259   OG SER C 160      15.858   9.719   1.221  0.44  2.14           O 0
+ATOM     15  CG2 VAL C   2      14.119  14.592   3.864  0.00  0.00           C 0
+ATOM    632   CG LYS C  83      11.888   7.448   1.041  0.00  0.00           C 0
+ATOM    618    C ARG C  82      10.424   8.485   4.373  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0454
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6632
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5180
+HEADER 5  - Mean B-factor of pocket residues  : 0.7142
+HEADER 6  - Hydrophobicity Score              : 17.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 95.7097
+HEADER 10  -Pocket volume (convex hull)       : 0.4639
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM     80   OH TYR A  11      33.721  32.831  72.214  0.68  2.14           O 0
+ATOM   1186    O GLU A 150      37.442  30.031  71.648  0.69  5.36           O 0
+ATOM    126   NZ LYS A  16      30.996  29.273  74.018  0.50  7.66           N 1
+ATOM   1193   CA VAL A 151      35.523  30.922  69.895  0.00  0.00           C 0
+ATOM   1185    C GLU A 150      37.307  29.422  70.613  0.00  0.00           C 0
+ATOM   1178    O ASN A 149      36.686  26.007  70.383  0.50  8.57           O 0
+ATOM    686  OE1 GLU A  89      30.789  27.366  70.804  0.30  6.43           O 0
+ATOM   1192    N VAL A 151      36.380  29.773  69.699  0.00  0.00           N 0
+ATOM     22  CG2 ILE A   4      37.094  32.432  74.982  0.00  0.00           C 0
+ATOM   1194    C VAL A 151      34.116  30.554  69.389  0.00  0.00           C 0
+ATOM   1195    O VAL A 151      33.972  29.535  68.689  0.61  1.07           O 0
+ATOM     19    O ILE A   4      35.102  33.056  77.338  0.50  5.36           O 0
+ATOM    125   CE LYS A  16      30.487  30.363  74.914  0.00  0.00           C 0
+TER
+END

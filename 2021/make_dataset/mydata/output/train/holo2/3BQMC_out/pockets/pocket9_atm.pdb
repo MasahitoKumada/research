@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0161
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8557
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4649
+HEADER 5  - Mean B-factor of pocket residues  : 0.5897
+HEADER 6  - Hydrophobicity Score              : 23.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 323.7689
+HEADER 10  -Pocket volume (convex hull)       : 28.1804
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2400
+ATOM   1326    O ASP C 290      29.466 -12.146   7.173  0.53  1.07           O 0
+ATOM   1329  OD1 ASP C 290      32.540 -15.872   6.563  0.00  0.00           O 0
+ATOM   1327   CB ASP C 290      31.417 -14.063   5.507  0.00  0.00           C 0
+ATOM   1108   NZ LYS C 263      32.238  -9.907  11.982  0.00  0.00           N 1
+ATOM   1336  CG2 THR C 291      31.360  -9.810   5.833  0.00  0.00           C 0
+ATOM   1122    O PHE C 265      27.578 -19.311  10.295  0.00  0.00           O 0
+ATOM   1313  CG2 ILE C 288      26.762 -18.962   6.314  0.00  0.00           C 0
+ATOM   1177  NE2 GLN C 271      28.610 -21.524   9.255  0.00  0.00           N 0
+ATOM   1105   CG LYS C 263      29.979 -11.688  12.623  0.00  0.00           C 0
+ATOM   1101   CA LYS C 263      28.068 -13.383  12.229  0.00  0.00           C 0
+ATOM   1135   CG GLN C 266      31.692 -18.033  13.195  0.00  0.00           C 0
+ATOM   1131   CA GLN C 266      29.426 -18.604  12.249  0.00  0.00           C 0
+ATOM   1133    O GLN C 266      30.562 -20.704  11.962  0.62  4.29           O 0
+ATOM   1330  OD2 ASP C 290      31.576 -16.304   4.662  0.37  4.29           O 1
+ATOM   1328   CG ASP C 290      31.877 -15.514   5.580  0.00  0.00           C 0
+ATOM   1324   CA ASP C 290      29.907 -13.931   5.668  0.00  0.00           C 0
+ATOM   1134   CB GLN C 266      30.182 -17.823  13.324  0.00  0.00           C 0
+ATOM   1099    O GLY C 262      26.853 -14.596   9.933  0.00  0.00           O 0
+ATOM   1318    O LEU C 289      27.193 -14.481   5.521  0.00  0.00           O 0
+ATOM   1098    C GLY C 262      27.042 -13.378   9.972  0.00  0.00           C 0
+TER
+END

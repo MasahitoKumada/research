@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1370
+HEADER 1  - Drug Score                        : 0.0640
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6717
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3776
+HEADER 5  - Mean B-factor of pocket residues  : 0.7570
+HEADER 6  - Hydrophobicity Score              : 0.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.0072
+HEADER 10  -Pocket volume (convex hull)       : 3.1802
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   1236   CD LYS C 157      11.134  -0.307   2.900  0.00  0.00           C 0
+ATOM    628   CA LYS C  83      12.132   6.941   3.536  0.00  0.00           C 0
+ATOM    602    O GLU C  80       7.285   3.983   3.216  0.43  8.57           O 0
+ATOM   1238   NZ LYS C 157       9.474   0.702   4.388  0.65  2.19           N 0
+ATOM   1237   CE LYS C 157      10.900   0.220   4.274  0.00  0.00           C 0
+ATOM    627    N LYS C  83      10.763   7.331   3.880  0.45  2.19           N 0
+ATOM   1234   CB LYS C 157      13.471   0.407   2.203  0.00  0.00           C 0
+ATOM    632   CG LYS C  83      11.888   7.448   1.041  0.00  0.00           C 0
+ATOM   1233    O LYS C 157      14.870   2.108   0.544  0.71  2.14           O 0
+ATOM    639    O ILE C  84      12.998   3.883   7.042  0.41  4.29           O 0
+ATOM    856   SDAMET C 110       8.199  -1.047   0.211  0.00  0.00           S 0
+ATOM   1248   CA PRO C 159      16.324   5.311   3.308  0.00  0.00           C 0
+ATOM    636    N ILE C  84      12.576   6.317   5.796  0.29  1.09           N 0
+ATOM    595    O PRO C  79       7.756   5.682   6.639  0.25  1.07           O 0
+TER
+END

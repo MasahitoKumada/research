@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.0636
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9865
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5664
+HEADER 5  - Mean B-factor of pocket residues  : 0.2253
+HEADER 6  - Hydrophobicity Score              : -6.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.0992
+HEADER 10  -Pocket volume (convex hull)       : 3.1840
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   5362    O ASP A 695      42.775  11.975  36.979  0.00  0.00           O 0
+ATOM   6305   CA SER A 823      44.729  12.468  30.018  0.00  0.00           C 0
+ATOM   6309   OG SER A 823      43.875  10.283  30.649  0.65  5.36           O 0
+ATOM   6308   CB SER A 823      43.622  11.426  29.848  0.00  0.00           C 0
+ATOM   6316   CD PRO A 824      46.717  12.189  32.165  0.00  0.00           C 0
+ATOM   2660   OG SER A 346      41.985  16.916  36.881  0.43  1.07           O 0
+ATOM   2659   CB SER A 346      41.889  17.703  35.703  0.00  0.00           C 0
+ATOM   5375  OE2 GLU A 696      39.134  15.778  37.378  0.32  9.64           O 1
+ATOM   5381  CG1 ILE A 697      46.234  14.658  35.893  0.00  0.00           C 0
+ATOM   6291   CG PRO A 821      41.408  18.384  32.103  0.00  0.00           C 0
+ATOM   6289    O PRO A 821      42.029  16.273  29.513  0.58  7.50           O 0
+ATOM   6296    O ARG A 822      45.130  15.140  30.532  0.53  3.21           O 0
+ATOM   2645    O CYS A 344      45.528  17.608  33.911  0.00  0.00           O 0
+TER
+END

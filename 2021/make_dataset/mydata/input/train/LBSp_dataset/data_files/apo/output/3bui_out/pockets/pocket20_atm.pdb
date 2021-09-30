@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0269
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9107
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6408
+HEADER 5  - Mean B-factor of pocket residues  : 0.7088
+HEADER 6  - Hydrophobicity Score              : 9.2500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 322.5104
+HEADER 10  -Pocket volume (convex hull)       : 17.3592
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   6129    C GLY A 750      44.213  76.395 -39.579  0.00  0.00           C 0
+ATOM   6121    O LYS A 749      42.661  80.052 -39.621  0.76  5.36           O 0
+ATOM   6125   CE LYS A 749      39.465  77.630 -43.221  0.00  0.00           C 0
+ATOM   6123   CG LYS A 749      39.998  78.367 -40.899  0.00  0.00           C 0
+ATOM   6131    N LYS A 751      45.381  76.159 -40.139  0.71  6.56           N 0
+ATOM   5303    O TYR A 646      46.662  82.073 -40.935  0.00  0.00           O 0
+ATOM   6128   CA GLY A 750      44.047  77.772 -39.018  0.00  0.00           C 0
+ATOM   5298   CB SER A 645      50.097  78.786 -41.816  0.00  0.00           C 0
+ATOM   5299   OG SER A 645      49.611  78.018 -40.712  0.71  1.07           O 0
+ATOM   6135   CB LYS A 751      46.967  74.925 -41.517  0.00  0.00           C 0
+ATOM   5584    N GLY A 681      42.019  69.619 -40.866  0.57  5.47           N 0
+ATOM   6130    O GLY A 750      43.306  75.565 -39.524  0.84  5.36           O 0
+ATOM   5569    O ARG A 679      38.970  72.325 -41.335  0.00  0.00           O 0
+ATOM   5578   CA VAL A 680      40.507  70.940 -39.561  0.00  0.00           C 0
+ATOM   6134    O LYS A 751      45.392  72.652 -39.962  0.68  3.21           O 0
+ATOM   6132   CA LYS A 751      45.638  74.878 -40.757  0.00  0.00           C 0
+ATOM   6136   CG LYS A 751      47.400  73.566 -42.013  0.00  0.00           C 0
+TER
+END

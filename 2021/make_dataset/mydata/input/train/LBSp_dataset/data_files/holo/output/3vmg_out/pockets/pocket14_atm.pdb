@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0087
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9193
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5649
+HEADER 5  - Mean B-factor of pocket residues  : 0.3630
+HEADER 6  - Hydrophobicity Score              : 13.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.5708
+HEADER 10  -Pocket volume (convex hull)       : 13.4457
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7895
+ATOM     85  NH1 ARG A  11      25.185 -22.787  21.492  0.00  0.00           N 0
+ATOM   2829  CG1 VAL A 351      26.219 -18.755  20.811  0.00  0.00           C 0
+ATOM   2837  OD1 ASN A 352      25.791 -17.346  16.981  0.00  0.00           O 0
+ATOM     86  NH2 ARG A  11      23.043 -23.346  20.879  0.00  0.00           N 0
+ATOM   2804   CE LYS A 348      20.307 -14.535  21.604  0.00  0.00           C 0
+ATOM     56  CG1 ILE A   8      22.233 -15.935  25.549  0.00  0.00           C 0
+ATOM     36  OD2 ASP A   5      17.828 -15.923  26.409  0.50  7.50           O 0
+ATOM     50   CB ALA A   7      19.179 -19.850  26.976  0.00  0.00           C 0
+ATOM   2838  ND2 ASN A 352      24.912 -15.326  17.426  0.70  9.84           N 0
+ATOM   2802   CG LYS A 348      22.032 -13.580  20.022  0.00  0.00           C 0
+ATOM     84   CZ ARG A  11      23.873 -22.689  21.678  0.00  0.00           C 0
+ATOM     83   NE ARG A  11      23.385 -21.932  22.657  0.00  0.00           N 0
+ATOM   2830  CG2 VAL A 351      25.900 -17.367  22.876  0.00  0.00           C 0
+ATOM   2828   CB VAL A 351      26.401 -17.374  21.440  0.00  0.00           C 0
+ATOM     82   CD ARG A  11      24.203 -21.163  23.590  0.00  0.00           C 0
+ATOM     49    O ALA A   7      22.353 -20.408  27.023  0.62  3.21           O 0
+ATOM     48    C ALA A   7      21.610 -19.528  27.462  0.00  0.00           C 0
+TER
+END

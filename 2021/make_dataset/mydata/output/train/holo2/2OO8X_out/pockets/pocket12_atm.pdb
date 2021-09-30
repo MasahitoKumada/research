@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0182
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8431
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4949
+HEADER 5  - Mean B-factor of pocket residues  : 0.3663
+HEADER 6  - Hydrophobicity Score              : -5.1111
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.8689
+HEADER 10  -Pocket volume (convex hull)       : 15.7693
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2029  CG2 THR X1101      70.425  23.256  89.694  0.00  0.00           C 0
+ATOM   2058    N THR X1105      65.740  22.263  92.784  0.45  1.09           N 0
+ATOM   2070  CG2 THR X1106      68.401  23.128  96.569  0.00  0.00           C 0
+ATOM   2057  OD1 ASN X1104      67.221  25.435  93.986  0.36  3.21           O 0
+ATOM   2064  OG1 THR X1105      66.785  19.620  93.100  0.50  9.64           O 0
+ATOM   2030  OG1 THR X1101      72.797  23.071  89.807  0.00  0.00           O 0
+ATOM    805    N GLN X 939      70.090  17.795  86.595  0.00  0.00           N 0
+ATOM    809   CB GLN X 939      72.209  16.611  86.100  0.00  0.00           C 0
+ATOM    813  OE1 GLN X 939      73.644  18.730  84.837  0.00  0.00           O 0
+ATOM   2018    O LYS X1100      73.791  23.908  85.703  0.50  1.07           O 0
+ATOM   2013    O ARG X1099      76.321  23.438  87.412  0.72  5.36           O 0
+ATOM    804   OG SER X 938      68.999  21.230  86.586  0.55  1.07           O 0
+ATOM   2025   CA THR X1101      71.915  24.197  87.842  0.00  0.00           C 0
+ATOM    797   CB SER X 937      69.915  16.056  90.072  0.00  0.00           C 0
+ATOM    803   CB SER X 938      68.901  20.467  87.772  0.00  0.00           C 0
+ATOM    799    N SER X 938      68.322  18.330  88.742  0.54  1.09           N 0
+TER
+END

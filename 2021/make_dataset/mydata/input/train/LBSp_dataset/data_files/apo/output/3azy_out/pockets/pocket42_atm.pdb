@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.0640
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9028
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6646
+HEADER 5  - Mean B-factor of pocket residues  : 0.2751
+HEADER 6  - Hydrophobicity Score              : -2.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 154.0475
+HEADER 10  -Pocket volume (convex hull)       : 2.2555
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   6006   CD PRO C 243      33.373  33.225  82.642  0.00  0.00           C 0
+ATOM   5992    O PHE C 242      34.030  35.931  82.242  0.67  8.57           O 0
+ATOM   4602    O LYS C  69      38.119  33.189  76.403  0.75  9.64           O 0
+ATOM   4599    N LYS C  69      35.129  33.381  76.406  0.67  2.19           N 0
+ATOM   6000    N PRO C 243      32.823  34.116  81.595  0.00  0.00           N 0
+ATOM   4592   CB ARG C  68      34.270  30.412  77.063  0.00  0.00           C 0
+ATOM   5991    C PHE C 242      33.186  35.407  81.495  0.00  0.00           C 0
+ATOM   4603   CB LYS C  69      36.338  35.516  76.380  0.00  0.00           C 0
+ATOM   4616  OE2 GLU C  70      37.108  27.943  76.526  0.77  2.14           O 0
+ATOM   4594   CD ARG C  68      34.340  28.253  78.467  0.00  0.00           C 0
+ATOM   4613   CG GLU C  70      37.728  29.938  75.401  0.00  0.00           C 0
+ATOM   6004   CB PRO C 243      32.148  31.928  81.070  0.00  0.00           C 0
+ATOM   4593   CG ARG C  68      33.530  29.477  78.052  0.00  0.00           C 0
+ATOM   5993   CB PHE C 242      33.378  36.084  79.090  0.00  0.00           C 0
+ATOM   6005   CG PRO C 243      32.550  31.956  82.516  0.00  0.00           C 0
+TER
+END

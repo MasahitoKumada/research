@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.2420
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0683
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7876
+HEADER 5  - Mean B-factor of pocket residues  : 0.5616
+HEADER 6  - Hydrophobicity Score              : 2.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 333.4490
+HEADER 10  -Pocket volume (convex hull)       : 6.3063
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   1406   CA ASN A 185       4.059  -4.760   4.149  0.00  0.00           C 0
+ATOM   1434   CB ASN A 188       2.413  -4.557   8.862  0.00  0.00           C 0
+ATOM   1412  ND2 ASN A 185       3.072  -7.396   2.848  0.00  0.00           N 0
+ATOM   1408    O ASN A 185       4.936  -6.201   5.854  0.56  2.14           O 0
+ATOM   1437  ND2 ASN A 188       0.761  -2.826   8.479  0.64  2.19           N 0
+ATOM   1400    O MET A 184       3.797  -3.161   6.395  0.00  0.00           O 0
+ATOM   1377   CA PRO A 181       3.137   0.084   0.301  0.00  0.00           C 0
+ATOM   1379    O PRO A 181       3.744  -1.865   1.550  0.00  0.00           O 0
+ATOM   1403   SD MET A 184      -0.072   0.050   5.022  0.00  0.00           S 0
+ATOM   1380   CB PRO A 181       2.621  -0.110  -1.129  0.00  0.00           C 0
+ATOM   1402   CG MET A 184       1.434  -0.774   5.574  0.00  0.00           C 0
+ATOM   1439   CA ALA A 189       5.019  -8.360   9.053  0.00  0.00           C 0
+ATOM   1442   CB ALA A 189       5.593  -8.859   7.734  0.00  0.00           C 0
+ATOM   1438    N ALA A 189       4.737  -6.927   8.966  0.00  0.00           N 0
+ATOM   1405    N ASN A 185       4.030  -3.302   4.164  0.00  0.00           N 0
+ATOM   1433    O ASN A 188       3.329  -6.906  10.723  0.00  0.00           O 0
+ATOM   1432    C ASN A 188       3.913  -6.317   9.814  0.00  0.00           C 0
+ATOM   1401   CB MET A 184       2.609  -0.588   4.628  0.00  0.00           C 0
+TER
+END

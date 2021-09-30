@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1093
+HEADER 1  - Drug Score                        : 0.0370
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9334
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6215
+HEADER 5  - Mean B-factor of pocket residues  : 0.6800
+HEADER 6  - Hydrophobicity Score              : 28.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.8221
+HEADER 10  -Pocket volume (convex hull)       : 6.5366
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM    232  CD2 LEU A  29      30.605  34.566   2.875  0.00  0.00           C 0
+ATOM   2002   CB ALA A 246      28.211  38.862   6.573  0.00  0.00           C 0
+ATOM    231  CD1 LEU A  29      28.737  35.280   4.378  0.00  0.00           C 0
+ATOM   2008   CG GLU A 247      32.603  37.816   9.126  0.00  0.00           C 0
+ATOM   2033   CG GLN A 250      29.559  31.446   7.385  0.00  0.00           C 0
+ATOM   2032   CB GLN A 250      28.871  32.667   8.001  0.00  0.00           C 0
+ATOM   2003    N GLU A 247      29.620  37.530   9.040  0.00  0.00           N 0
+ATOM   2006    O GLU A 247      29.815  34.514  10.818  0.61  2.14           O 0
+ATOM   2004   CA GLU A 247      30.466  36.477   9.599  0.00  0.00           C 0
+ATOM   2007   CB GLU A 247      31.769  37.063  10.149  0.00  0.00           C 0
+ATOM    200   CG LEU A  25      28.702  40.580   3.108  0.00  0.00           C 0
+ATOM    201  CD1 LEU A  25      29.816  40.581   2.068  0.00  0.00           C 0
+ATOM    202  CD2 LEU A  25      29.048  41.526   4.251  0.00  0.00           C 0
+ATOM   1975    O LYS A 243      30.804  40.215   8.548  0.00  0.00           O 0
+TER
+END

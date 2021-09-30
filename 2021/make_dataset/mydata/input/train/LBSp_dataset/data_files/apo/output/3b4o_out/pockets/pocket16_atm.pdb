@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0721
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9378
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5699
+HEADER 5  - Mean B-factor of pocket residues  : 0.4101
+HEADER 6  - Hydrophobicity Score              : 0.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.2276
+HEADER 10  -Pocket volume (convex hull)       : 3.5915
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   2405  NH1 ARG B 129      32.063  -4.073  69.576  0.59  6.56           N 0
+ATOM   2402   CD ARG B 129      32.286  -1.363  68.599  0.00  0.00           C 0
+ATOM   2471  OE1 GLU B 137      27.845  -0.871  71.134  0.67  7.50           O 0
+ATOM   2470   CD GLU B 137      28.694  -0.071  70.702  0.00  0.00           C 0
+ATOM   2403   NE ARG B 129      32.672  -2.580  67.881  0.50  3.28           N 0
+ATOM   2460   CG LYS B 136      27.194  -0.993  64.075  0.00  0.00           C 0
+ATOM   2400   CB ARG B 129      32.116   0.152  66.642  0.00  0.00           C 0
+ATOM   2410    O PHE B 130      32.063  -0.965  61.835  0.50  7.50           O 0
+ATOM   2406  NH2 ARG B 129      32.972  -4.818  67.627  0.74  9.84           N 0
+ATOM   2426  OE2 GLU B 131      27.163  -3.686  60.924  0.00  0.00           O 0
+ATOM   2422   CB GLU B 131      29.196  -1.580  60.266  0.00  0.00           C 0
+ATOM   2404   CZ ARG B 129      32.568  -3.820  68.364  0.00  0.00           C 0
+ATOM   2468   CB GLU B 137      28.247   1.000  68.453  0.00  0.00           C 0
+TER
+END

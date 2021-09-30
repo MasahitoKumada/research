@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0366
+HEADER 1  - Drug Score                        : 0.0355
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7024
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4974
+HEADER 5  - Mean B-factor of pocket residues  : 0.4119
+HEADER 6  - Hydrophobicity Score              : 11.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.1025
+HEADER 10  -Pocket volume (convex hull)       : 14.8067
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   1042  NH1 ARG A 126     -26.288  10.009 -63.332  0.00  0.00           N 0
+ATOM    817   CG ASN A 101     -22.541   9.515 -62.638  0.00  0.00           C 0
+ATOM    816   CB ASN A 101     -22.096   8.109 -62.260  0.00  0.00           C 0
+ATOM    819  ND2 ASN A 101     -21.988  10.023 -63.723  0.00  0.00           N 0
+ATOM   1023  OG1 THR A 124     -27.529   5.032 -62.116  0.00  0.00           O 0
+ATOM   1024  CG2 THR A 124     -26.095   6.889 -61.572  0.00  0.00           C 0
+ATOM   1043  NH2 ARG A 126     -28.426   9.184 -63.534  0.50  4.37           N 0
+ATOM    815    O ASN A 101     -19.838   6.079 -61.491  0.47  1.07           O 0
+ATOM   1210   CB SER A 146     -18.365   5.602 -67.017  0.00  0.00           C 0
+ATOM   1197  OD1 ASN A 144     -17.872   4.558 -63.924  0.00  0.00           O 0
+ATOM   1206    N SER A 146     -19.252   3.382 -66.526  0.00  0.00           N 0
+ATOM   1205  CG2 VAL A 145     -22.532   2.220 -65.562  0.00  0.00           C 0
+ATOM    834   CD LYS A 103     -25.867  -0.265 -62.403  0.00  0.00           C 0
+ATOM    832   CB LYS A 103     -24.179   1.119 -61.153  0.00  0.00           C 0
+ATOM    814    C ASN A 101     -20.714   6.643 -60.863  0.00  0.00           C 0
+ATOM    822    C LEU A 102     -22.687   3.998 -59.591  0.00  0.00           C 0
+ATOM   1207   CA SER A 146     -18.868   4.288 -67.595  0.00  0.00           C 0
+ATOM    828    N LYS A 103     -22.768   2.764 -60.050  0.68  1.09           N 0
+TER
+END

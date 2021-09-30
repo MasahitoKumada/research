@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0638
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7222
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4946
+HEADER 5  - Mean B-factor of pocket residues  : 0.2406
+HEADER 6  - Hydrophobicity Score              : 11.4545
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.9669
+HEADER 10  -Pocket volume (convex hull)       : 5.3956
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1931   CA THR A 288       7.543  50.778  29.078  0.00  0.00           C 0
+ATOM   1937    N TRP A 289       6.910  51.879  27.017  0.73  2.19           N 0
+ATOM   1924    O LYS A 287       8.547  51.652  31.545  0.75  4.29           O 0
+ATOM   1495    O LEU A 231       9.246  57.701  27.477  0.46  9.64           O 0
+ATOM   1491  NE2 GLN A 230       8.013  54.568  32.109  0.66  6.56           N 0
+ATOM   1940    O TRP A 289       7.701  52.053  24.345  0.00  0.00           O 0
+ATOM   1527  NE2 GLN A 234      11.689  58.130  24.403  0.78  9.84           N 0
+ATOM   1503    O ILE A 232       7.469  58.029  23.992  0.36  2.14           O 0
+ATOM   1964  OE1 GLU A 291      10.899  54.167  19.579  0.00  0.00           O 0
+ATOM   1954    O SER A 290       6.289  53.845  22.010  0.52  2.14           O 0
+ATOM   1941   CB TRP A 289       5.871  53.962  26.191  0.00  0.00           C 0
+ATOM   1943  CD1 TRP A 289       5.720  54.374  28.718  0.00  0.00           C 0
+ATOM   1972   CD PRO A 292       7.372  56.499  19.644  0.00  0.00           C 0
+ATOM   1487   CB GLN A 230       9.488  57.240  31.979  0.00  0.00           C 0
+ATOM   1542   CB ASP A 237      10.899  59.147  19.337  0.00  0.00           C 0
+ATOM   1965  OE2 GLU A 291      10.621  55.959  18.370  0.73  3.21           O 0
+TER
+END

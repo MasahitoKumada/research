@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0169
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.1238
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5848
+HEADER 5  - Mean B-factor of pocket residues  : 0.3930
+HEADER 6  - Hydrophobicity Score              : -2.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 294.3432
+HEADER 10  -Pocket volume (convex hull)       : 5.0566
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2174
+ATOM   6503    C ASP A 821      32.800 -25.790  10.063  0.00  0.00           C 0
+ATOM   6495    C ASN A 820      32.160 -24.686   7.152  0.00  0.00           C 0
+ATOM   6496    O ASN A 820      32.178 -25.844   6.746  0.54  5.36           O 0
+ATOM   6509    N GLU A 822      32.632 -27.106  10.038  0.00  0.00           N 0
+ATOM   6536   CA ARG A 825      30.163 -24.509  16.446  0.00  0.00           C 0
+ATOM   6569   CB CYS A 828      26.386 -22.062  12.933  0.00  0.00           C 0
+ATOM   6512    O GLU A 822      31.651 -28.056  13.368  0.00  0.00           O 0
+ATOM   6541   CD ARG A 825      27.324 -25.917  17.146  0.00  0.00           C 0
+ATOM   6530    O LEU A 824      31.361 -23.041  14.382  0.42  1.07           O 0
+ATOM   6597  NE2 GLN A 832      23.608 -25.314  13.745  0.00  0.00           N 0
+ATOM   6544  NH1 ARG A 825      24.997 -27.243  16.217  0.50  5.47           N 0
+ATOM   6596  OE1 GLN A 832      23.612 -25.087  11.497  0.00  0.00           O 0
+ATOM   6488    O ASN A 819      29.888 -22.234   8.431  0.17  6.43           O 0
+ATOM   6494   CA ASN A 820      31.330 -23.623   6.458  0.00  0.00           C 0
+ATOM   6500  ND2 ASN A 820      29.461 -24.182   3.829  0.00  0.00           N 0
+ATOM   6510   CA GLU A 822      31.781 -27.793  10.995  0.00  0.00           C 0
+ATOM   6513   CB GLU A 822      31.396 -29.178  10.443  0.00  0.00           C 0
+ATOM   6504    O ASP A 821      32.382 -25.085  10.953  0.61  1.07           O 0
+ATOM   6570   SG CYS A 828      27.427 -21.786  11.482  0.00  0.00           S 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1185
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.0785
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7130
+HEADER 5  - Mean B-factor of pocket residues  : 0.6933
+HEADER 6  - Hydrophobicity Score              : 3.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 422.5682
+HEADER 10  -Pocket volume (convex hull)       : 15.7781
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2308
+ATOM   2209   NE ARG A 509       3.375  -8.153  -8.610  0.53  2.19           N 0
+ATOM   2226   OG SER A 511       0.175  -8.070  -9.538  0.00  0.00           O 0
+ATOM   2207   CG ARG A 509       3.626  -6.790 -10.612  0.00  0.00           C 0
+ATOM   2438    O MET A 538       5.881 -10.796 -13.530  0.00  0.00           O 0
+ATOM   2212  NH2 ARG A 509       3.036  -9.770  -6.968  0.00  0.00           N 0
+ATOM   2199    C ALA A 508       6.148  -4.861 -13.675  0.00  0.00           C 0
+ATOM   2202    N ARG A 509       5.028  -4.382 -13.154  0.00  0.00           N 0
+ATOM   1626    O GLY A 436       4.487  -1.718 -15.205  0.66  3.21           O 0
+ATOM   2217   CB ASN A 510      -0.020  -5.371 -14.788  0.00  0.00           C 0
+ATOM   2432   CB PRO A 537       7.064  -8.627 -17.182  0.00  0.00           C 0
+ATOM   2201   CB ALA A 508       7.873  -4.207 -15.473  0.00  0.00           C 0
+ATOM   2433   CG PRO A 537       7.574  -8.253 -18.527  0.00  0.00           C 0
+ATOM   2200    O ALA A 508       6.407  -6.065 -13.724  0.48  3.21           O 0
+ATOM   2203   CA ARG A 509       4.041  -5.279 -12.608  0.00  0.00           C 0
+ATOM   1624   CA GLY A 436       3.911  -0.523 -17.209  0.00  0.00           C 0
+ATOM   2213    N ASN A 510       1.665  -5.408 -13.028  0.00  0.00           N 0
+ATOM   2216    O ASN A 510      -1.742  -5.987 -12.836  0.68  3.21           O 0
+ATOM   2215    C ASN A 510      -0.691  -5.525 -12.399  0.00  0.00           C 0
+ATOM   2225   CB SER A 511      -1.110  -7.696 -10.051  0.00  0.00           C 0
+ATOM   2204    C ARG A 509       2.693  -4.599 -12.810  0.00  0.00           C 0
+TER
+END

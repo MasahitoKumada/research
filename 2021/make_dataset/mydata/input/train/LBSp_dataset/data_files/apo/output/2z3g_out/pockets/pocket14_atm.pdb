@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0189
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0830
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5303
+HEADER 5  - Mean B-factor of pocket residues  : 0.5535
+HEADER 6  - Hydrophobicity Score              : 13.7143
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.8910
+HEADER 10  -Pocket volume (convex hull)       : 4.1612
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM   1883  CZ2 TRP B 128      25.863  33.972 111.309  0.00  0.00           C 0
+ATOM    223   OG SER A  28      24.049  37.081 107.572  0.70  5.36           O 0
+ATOM   1881  CE2 TRP B 128      25.804  32.570 111.267  0.00  0.00           C 0
+ATOM    196  OE2AGLU A  25      17.800  34.794 108.797  0.00  0.00           O 0
+ATOM   1879  CD2 TRP B 128      26.085  31.831 110.088  0.00  0.00           C 0
+ATOM   1882  CE3 TRP B 128      26.432  32.521 108.914  0.00  0.00           C 0
+ATOM   1885  CH2 TRP B 128      26.191  34.626 110.149  0.00  0.00           C 0
+ATOM    222   CB SER A  28      23.700  37.806 108.736  0.00  0.00           C 0
+ATOM    186    OAGLU A  25      19.892  37.626 106.351  0.51  6.43           O 0
+ATOM   1884  CZ3 TRP B 128      26.479  33.918 108.954  0.00  0.00           C 0
+ATOM    564  OD1 ASN A  79      24.575  36.655 112.778  0.56  2.14           O 0
+ATOM    573  OE1 GLU A  80      21.331  35.972 115.611  0.58  8.57           O 0
+ATOM   1880  NE1 TRP B 128      25.496  31.669 112.255  0.54  6.56           N 0
+ATOM    194  OE1AGLU A  25      17.748  35.406 110.903  0.57  8.57           O 0
+ATOM    182   CAAGLU A  25      18.675  38.175 108.346  0.00  0.00           C 0
+ATOM    177    O SER A  24      20.748  39.387 109.831  0.62  2.14           O 0
+ATOM    565  ND2 ASN A  79      23.274  38.403 112.214  0.77  1.09           N 0
+ATOM    172  CG2 ILE A  23      20.126  39.820 114.636  0.00  0.00           C 0
+TER
+END

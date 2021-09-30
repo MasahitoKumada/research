@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0379
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1253
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5768
+HEADER 5  - Mean B-factor of pocket residues  : 0.4128
+HEADER 6  - Hydrophobicity Score              : 8.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.6930
+HEADER 10  -Pocket volume (convex hull)       : 5.2869
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4091
+ATOM   1878   SG CYS A 250       8.573  15.305  25.141  0.00  0.00           S 0
+ATOM   2033   SG CYS A 268       9.915  14.375  26.360  0.00  0.00           S 0
+ATOM   1902   NZ LYS A 253      13.027  16.770  27.264  0.00  0.00           N 0
+ATOM   1845    O VAL A 246       7.775  18.406  24.651  0.72  1.07           O 0
+ATOM   2052    O GLU A 271       7.917  14.413  33.523  0.38  8.57           O 0
+ATOM   2053   CB GLU A 271       9.004  11.815  32.620  0.00  0.00           C 0
+ATOM   2056  OE1 GLU A 271      11.465  10.672  32.071  0.00  0.00           O 0
+ATOM   1869   CB ASP A 249      10.567  20.389  25.341  0.00  0.00           C 0
+ATOM   2062   CB SER A 272       5.826  15.778  30.157  0.00  0.00           C 0
+ATOM   1872  OD2 ASP A 249      10.080  22.276  26.725  0.00  0.00           O 0
+ATOM   1847  CG1 VAL A 246       5.690  17.226  26.911  0.00  0.00           C 0
+ATOM   1848  CG2 VAL A 246       4.922  19.273  28.113  0.00  0.00           C 0
+ATOM   2031    O CYS A 268       7.457  13.327  29.065  0.52  2.14           O 0
+ATOM   2029   CA CYS A 268       8.901  12.047  27.635  0.00  0.00           C 0
+ATOM   2059   CA SER A 272       6.222  15.580  31.621  0.00  0.00           C 0
+ATOM   1843   CA VAL A 246       6.025  19.521  25.866  0.00  0.00           C 0
+TER
+END

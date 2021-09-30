@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0110
+HEADER 1  - Drug Score                        : 0.0467
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1445
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7844
+HEADER 5  - Mean B-factor of pocket residues  : 0.1950
+HEADER 6  - Hydrophobicity Score              : 36.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 335.3441
+HEADER 10  -Pocket volume (convex hull)       : 10.3200
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM   1303   NE ARG A2610      17.679  16.460   8.984  0.00  0.00           N 0
+ATOM   1255   CG TYR A2604      20.088  16.081   3.688  0.00  0.00           C 0
+ATOM   1254   CB TYR A2604      21.298  15.967   4.599  0.00  0.00           C 0
+ATOM   1302   CD ARG A2610      19.023  15.883   8.993  0.00  0.00           C 0
+ATOM   1256  CD1 TYR A2604      18.863  15.516   4.043  0.00  0.00           C 0
+ATOM   1304   CZ ARG A2610      16.722  16.139   8.118  0.00  0.00           C 0
+ATOM    755   CB ALA A2539      14.241  17.601   4.605  0.00  0.00           C 0
+ATOM   1258  CE1 TYR A2604      17.753  15.606   3.201  0.00  0.00           C 0
+ATOM   1257  CD2 TYR A2604      20.175  16.740   2.461  0.00  0.00           C 0
+ATOM   1260   CZ TYR A2604      17.870  16.267   1.985  0.00  0.00           C 0
+ATOM   1259  CE2 TYR A2604      19.074  16.833   1.610  0.00  0.00           C 0
+ATOM   1305  NH1 ARG A2610      15.538  16.723   8.203  0.00  0.00           N 0
+ATOM    751    N ALA A2539      13.545  19.067   6.415  0.09  1.09           N 0
+ATOM    749   CB SER A2538      14.412  19.937   9.443  0.00  0.00           C 0
+ATOM   1261   OH TYR A2604      16.783  16.363   1.146  0.68  7.50           O 0
+ATOM   1240  CG1 ILE A2602      22.464  19.912   1.929  0.00  0.00           C 0
+ATOM   1242  CD1 ILE A2602      23.396  20.508   2.958  0.00  0.00           C 0
+ATOM   2215    O GLY A2725      23.262  16.902   7.447  0.70  4.29           O 0
+ATOM   2213   CA GLY A2725      24.401  18.245   5.866  0.00  0.00           C 0
+ATOM   1084   CG MET A2581      18.481  17.648  -2.334  0.00  0.00           C 0
+ATOM   1241  CG2 ILE A2602      21.615  19.985  -0.390  0.00  0.00           C 0
+TER
+END

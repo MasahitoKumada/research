@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0189
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6342
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3964
+HEADER 5  - Mean B-factor of pocket residues  : 0.2403
+HEADER 6  - Hydrophobicity Score              : 6.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 98.9825
+HEADER 10  -Pocket volume (convex hull)       : 0.4691
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    297  NH1 ARG E 267      23.291  21.883   4.650  0.57  3.28           N 0
+ATOM    298  NH2 ARG E 267      21.479  20.537   5.061  0.26  5.47           N 0
+ATOM    172  ND2 ASN E 253      25.815  21.840   6.940  0.67  5.47           N 0
+ATOM    627  CE2 TYR E 307      20.054  24.406   9.954  0.00  0.00           C 0
+ATOM    625  CD2 TYR E 307      20.660  25.523   9.393  0.00  0.00           C 0
+ATOM    619   CA TYR E 307      21.008  27.475   6.644  0.00  0.00           C 0
+ATOM    165    N ASN E 253      27.027  24.679   8.553  0.54  2.19           N 0
+ATOM    272  OD2 ASP E 264      25.556  23.221   3.644  0.36  3.21           O 0
+ATOM    611    O HIS E 306      22.360  27.690   4.227  0.61  3.21           O 0
+ATOM    147    O ASN E 251      23.306  24.884  11.306  0.79  7.50           O 0
+ATOM    153   CAAILE E 252      25.705  25.761  10.259  0.00  0.00           C 0
+ATOM    161  CG2AILE E 252      24.364  27.901   9.944  0.00  0.00           C 0
+ATOM    615  CD2 HIS E 306      26.123  28.261   5.969  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0132
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9085
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3847
+HEADER 5  - Mean B-factor of pocket residues  : 0.5050
+HEADER 6  - Hydrophobicity Score              : -15.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.9334
+HEADER 10  -Pocket volume (convex hull)       : 8.1128
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2010   OG SER B 107     -11.243 -10.331   8.861  0.50  2.14           O 0
+ATOM    841  OE1 GLU A 108     -11.578  -9.023  16.100  0.67  8.57           O 0
+ATOM    948  NE2 GLN A 120      -8.919  -6.836  13.796  0.54  6.56           N 0
+ATOM    862   NZ LYS A 110     -11.014  -4.952  12.566  0.62  5.47           N 0
+ATOM    833   OG SER A 107     -14.495 -11.782  17.005  0.00  0.00           O 0
+ATOM   2019  OE2 GLU B 108     -10.074 -13.693  10.100  0.00  0.00           O 0
+ATOM    832   CB SER A 107     -13.320 -11.145  17.444  0.00  0.00           C 0
+ATOM    842  OE2 GLU A 108     -12.703  -7.152  15.820  0.00  0.00           O 0
+ATOM   2125  NE2 GLN B 120      -8.509 -14.680  14.142  0.00  0.00           N 0
+ATOM   2018  OE1 GLU B 108      -9.473 -11.580  10.239  0.61  5.36           O 0
+ATOM   2124  OE1 GLN B 120      -7.474 -12.663  14.295  0.59  2.14           O 0
+ATOM    966   CG GLN A 122      -7.229 -11.618  18.189  0.00  0.00           C 0
+ATOM    968  OE1 GLN A 122      -7.328 -13.910  17.467  0.59  7.50           O 0
+TER
+END

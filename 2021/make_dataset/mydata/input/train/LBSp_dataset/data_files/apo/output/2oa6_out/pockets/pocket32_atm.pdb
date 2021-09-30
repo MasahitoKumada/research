@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : 0.0086
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0144
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5993
+HEADER 5  - Mean B-factor of pocket residues  : 0.3735
+HEADER 6  - Hydrophobicity Score              : -4.5556
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 347.7560
+HEADER 10  -Pocket volume (convex hull)       : 21.4953
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0741
+ATOM   9219   CD ARG D 268       9.296 -49.467  47.357  0.00  0.00           C 0
+ATOM   9217   CB ARG D 268       7.789 -49.118  45.310  0.00  0.00           C 0
+ATOM   9254  OE1 GLU D 271       7.840 -51.941  49.140  0.66  3.21           O 0
+ATOM   7198    O PRO D  18       8.419 -46.936  49.159  0.45  8.57           O 0
+ATOM   9251   CB GLU D 271       6.132 -53.368  47.522  0.00  0.00           C 0
+ATOM   7213  OG1 THR D  20       4.088 -51.135  52.397  0.50  2.14           O 0
+ATOM   9256    N LEU D 272       3.335 -53.150  46.128  0.77  1.09           N 0
+ATOM   9293  NE2 GLN D 275       2.166 -52.724  51.497  0.77  1.09           N 0
+ATOM   9292  OE1 GLN D 275       0.405 -52.219  50.184  0.57  6.43           O 0
+ATOM   9257   CA LEU D 272       1.927 -52.789  46.144  0.00  0.00           C 0
+ATOM   9262  CD1 LEU D 272       0.210 -50.113  46.598  0.00  0.00           C 0
+ATOM   7214  CG2 THR D  20       3.566 -48.876  53.071  0.00  0.00           C 0
+ATOM   9216    O ARG D 268       5.443 -51.433  45.184  0.68  4.29           O 0
+ATOM   9260   CB LEU D 272       1.683 -51.583  45.237  0.00  0.00           C 0
+ATOM   9232  OE2 GLU D 269       3.813 -47.692  41.379  0.81  4.29           O 0
+ATOM   9215    C ARG D 268       6.349 -51.011  44.461  0.00  0.00           C 0
+ATOM   9231  OE1 GLU D 269       2.757 -49.637  41.391  0.00  0.00           O 0
+ATOM   7208    N THR D  20       6.496 -49.689  52.566  0.00  0.00           N 0
+ATOM   7203   CA SER D  19       8.323 -48.683  51.309  0.00  0.00           C 0
+ATOM   9263  CD2 LEU D 272       0.112 -50.010  44.057  0.00  0.00           C 0
+ATOM   1937   NE ARG A 261       1.628 -46.269  40.978  0.00  0.00           N 0
+ATOM   1938   CZ ARG A 261       0.423 -46.821  40.988  0.00  0.00           C 0
+TER
+END

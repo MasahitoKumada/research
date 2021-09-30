@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0178
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9772
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6323
+HEADER 5  - Mean B-factor of pocket residues  : 0.5539
+HEADER 6  - Hydrophobicity Score              : 3.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.5987
+HEADER 10  -Pocket volume (convex hull)       : 2.5145
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   1151   CA ASP A 155      12.247   5.237  13.257  0.00  0.00           C 0
+ATOM   1153    O ASP A 155      12.117   2.842  13.390  0.60  5.36           O 0
+ATOM   1146    O VAL A 154      12.964   5.298  15.936  0.41  7.50           O 0
+ATOM   1156  OD1 ASP A 155      10.188   7.079  12.491  0.00  0.00           O 0
+ATOM   1378   CD LYS A 185      10.275  -0.411  13.354  0.00  0.00           C 0
+ATOM   1380   NZ LYS A 185       7.935  -1.242  13.820  0.00  0.00           N 0
+ATOM   1367   CB LYS A 184       9.905   0.653  18.923  0.00  0.00           C 0
+ATOM   1950   CA VAL A 253       8.991   1.992   8.620  0.00  0.00           C 0
+ATOM   1952    O VAL A 253       6.992   3.312   8.766  0.00  0.00           O 0
+ATOM   1154   CB ASP A 155      11.949   5.635  11.813  0.00  0.00           C 0
+ATOM   1954  CG1 VAL A 253       9.712   4.389   8.396  0.00  0.00           C 0
+ATOM   1379   CE LYS A 185       9.031  -1.134  12.839  0.00  0.00           C 0
+ATOM   1943    O GLU A 252       7.832  -0.268   9.681  0.86  5.36           O 0
+TER
+END

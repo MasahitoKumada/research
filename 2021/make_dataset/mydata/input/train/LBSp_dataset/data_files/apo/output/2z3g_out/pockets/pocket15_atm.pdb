@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0258
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0908
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7048
+HEADER 5  - Mean B-factor of pocket residues  : 0.3878
+HEADER 6  - Hydrophobicity Score              : 26.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.8991
+HEADER 10  -Pocket volume (convex hull)       : 11.6945
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   3137  CD1 TYR D  47      32.979  39.503  84.677  0.00  0.00           C 0
+ATOM   3150  CD2 HIS D  48      34.942  35.523  89.108  0.00  0.00           C 0
+ATOM   3153    N PHE D  49      31.747  35.503  86.486  0.00  0.00           N 0
+ATOM   3139  CE1 TYR D  47      32.378  38.712  83.688  0.00  0.00           C 0
+ATOM   3144   CA HIS D  48      32.483  37.434  87.757  0.00  0.00           C 0
+ATOM   3134    O TYR D  47      34.196  39.578  88.110  0.74  2.14           O 0
+ATOM   2989  OD2 ASP D  26      37.755  41.214  85.656  0.00  0.00           O 0
+ATOM    723  CD2 LEU A  98      38.601  39.726  88.990  0.00  0.00           C 0
+ATOM    712   CB ASP A  97      38.917  34.705  89.312  0.00  0.00           C 0
+ATOM   1278  CE2 TYR B  47      30.679  33.803  81.591  0.00  0.00           C 0
+ATOM   3159  CD1 PHE D  49      33.401  32.475  86.093  0.00  0.00           C 0
+ATOM   3157   CB PHE D  49      31.451  33.576  84.933  0.00  0.00           C 0
+ATOM   3158   CG PHE D  49      32.071  32.429  85.697  0.00  0.00           C 0
+ATOM   1280   OH TYR B  47      31.368  36.054  81.897  0.71  5.36           O 0
+ATOM    711    O ASP A  97      41.369  36.780  89.020  0.57  7.50           O 0
+ATOM   2988  OD1 ASP D  26      39.621  42.013  86.488  0.50  6.43           O 0
+ATOM   3152  NE2 HIS D  48      35.148  34.170  89.216  0.00  0.00           N 0
+ATOM    715  OD2 ASP A  97      37.470  32.908  88.655  0.61  1.07           O 0
+TER
+END

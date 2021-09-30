@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0125
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0831
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5526
+HEADER 5  - Mean B-factor of pocket residues  : 0.4622
+HEADER 6  - Hydrophobicity Score              : 9.5556
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.1579
+HEADER 10  -Pocket volume (convex hull)       : 8.7150
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1000
+ATOM   1598    O LYS A 251      37.111  -1.432 -12.453  0.64  2.14           O 0
+ATOM    162   CA GLY A  25      37.822  -3.718 -14.888  0.00  0.00           C 0
+ATOM   1602   CE LYS A 251      32.676  -2.438 -14.486  0.00  0.00           C 0
+ATOM    161    N GLY A  25      38.700  -3.204 -15.926  0.00  0.00           N 0
+ATOM    140    O PHE A  22      35.399  -1.400 -20.274  0.58  6.43           O 0
+ATOM    163    C GLY A  25      36.558  -4.401 -15.396  0.00  0.00           C 0
+ATOM    165    N SER A  26      36.456  -4.615 -16.707  0.00  0.00           N 0
+ATOM    419  NH2 ARG A  61      37.974   3.501 -13.910  0.60  6.56           N 0
+ATOM    250   SD MET A  36      40.281  -0.333 -13.714  0.00  0.00           S 0
+ATOM    251   CE MET A  36      40.948   0.964 -14.771  0.00  0.00           C 0
+ATOM    418  NH1 ARG A  61      35.863   3.231 -13.041  0.00  0.00           N 0
+ATOM   1599   CB LYS A 251      34.253  -0.994 -12.190  0.00  0.00           C 0
+ATOM   1215   NZ LYS A 184      37.041   6.612 -16.706  0.00  0.00           N 0
+ATOM    149   CA GLY A  23      38.104  -1.639 -19.944  0.00  0.00           C 0
+ATOM    152    N LYS A  24      39.828  -2.427 -18.423  0.46  5.47           N 0
+ATOM    417   CZ ARG A  61      36.898   4.017 -13.331  0.00  0.00           C 0
+TER
+END

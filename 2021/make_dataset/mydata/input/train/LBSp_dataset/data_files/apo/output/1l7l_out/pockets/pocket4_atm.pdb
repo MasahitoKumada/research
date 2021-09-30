@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0079
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8328
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5119
+HEADER 5  - Mean B-factor of pocket residues  : 0.8476
+HEADER 6  - Hydrophobicity Score              : -0.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.1571
+HEADER 10  -Pocket volume (convex hull)       : 3.9461
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM    888   CD GLN A 120       2.844  36.045  -2.002  0.00  0.00           C 0
+ATOM    889  OE1 GLN A 120       4.074  36.252  -2.085  0.54  5.36           O 0
+ATOM    890  NE2 GLN A 120       1.983  36.960  -2.123  0.00  0.00           N 0
+ATOM    614  NH2 ARG A  83       4.079  39.251   4.506  0.00  0.00           N 0
+ATOM    878   CB ASP A 119       2.073  32.667   3.886  0.00  0.00           C 0
+ATOM    610   CD ARG A  83       5.624  36.257   5.886  0.00  0.00           C 0
+ATOM    185  CG1 VAL A  25       5.244  30.921   4.943  0.00  0.00           C 0
+ATOM    885    O GLN A 120       4.534  31.947   0.744  0.75  7.50           O 0
+ATOM    886   CB GLN A 120       3.090  33.989  -0.849  0.00  0.00           C 0
+ATOM    887   CG GLN A 120       2.260  34.697  -1.696  0.00  0.00           C 0
+ATOM    611   NE ARG A  83       4.673  37.266   5.491  0.56  1.09           N 0
+ATOM    880  OD1 ASP A 119       0.648  33.895   5.328  0.56  8.57           O 0
+ATOM    612   CZ ARG A  83       5.013  38.380   4.830  0.00  0.00           C 0
+ATOM    613  NH1 ARG A  83       6.278  38.621   4.495  0.64  7.66           N 0
+ATOM    882    N GLN A 120       1.853  32.864   0.916  0.54  5.47           N 0
+TER
+END

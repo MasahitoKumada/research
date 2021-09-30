@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   108:
+HEADER 0  - Pocket Score                      : -0.0351
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7383
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4421
+HEADER 5  - Mean B-factor of pocket residues  : 0.3595
+HEADER 6  - Hydrophobicity Score              : -4.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.6341
+HEADER 10  -Pocket volume (convex hull)       : 6.5331
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1818
+ATOM  23578   CB GLN G 386      80.868-166.722  19.767  0.00  0.00           C 0
+ATOM  23582  NE2 GLN G 386      80.263-169.201  18.760  0.00  0.00           N 0
+ATOM  30232  NE2 HIS I 367      85.214-170.428  23.599  0.61  3.28           N 0
+ATOM  23577    O GLN G 386      79.443-167.881  22.321  0.48  4.29           O 0
+ATOM  23579   CG GLN G 386      80.901-166.922  18.260  0.00  0.00           C 0
+ATOM  23556  OD1 ASP G 383      84.939-163.474  17.928  0.00  0.00           O 0
+ATOM  27993  NH2 ARG I  94      86.957-164.513  21.500  0.26  5.47           N 0
+ATOM  23584   CA ALA G 387      79.629-165.774  24.064  0.00  0.00           C 0
+ATOM  28018  OG1 THR I  98      83.896-165.233  26.182  0.50  4.29           O 0
+ATOM  23583    N ALA G 387      79.594-165.654  22.616  0.00  0.00           N 0
+ATOM  23587   CB ALA G 387      80.435-164.642  24.675  0.00  0.00           C 0
+ATOM  23553    O ASP G 383      81.827-163.669  21.252  0.51  3.21           O 0
+ATOM  30231  CE1 HIS I 367      85.687-169.247  23.233  0.00  0.00           C 0
+ATOM  23576    C GLN G 386      79.494-166.738  21.854  0.00  0.00           C 0
+ATOM  30263   OG SER I 371      89.968-168.227  20.041  0.52  5.36           O 0
+ATOM  28041  OE1 GLN I 101      80.082-169.163  25.348  0.57  7.50           O 0
+TER
+END

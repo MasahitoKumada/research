@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.2315
+HEADER 1  - Drug Score                        : 0.4434
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7227
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4237
+HEADER 5  - Mean B-factor of pocket residues  : 0.5549
+HEADER 6  - Hydrophobicity Score              : 41.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 156.5123
+HEADER 10  -Pocket volume (convex hull)       : 3.6963
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 21.0000
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.8462
+ATOM   1194  CD2ALEU A 130      13.299  20.829  28.808  0.00  0.00           C 0
+HETATM 1696  C3DAHEM A 201      13.621  22.891  35.000  0.00  0.00           C 0
+HETATM 1694  C2DAHEM A 201      14.445  21.873  35.433  0.00  0.00           C 0
+HETATM 1704  CBDAHEM A 201      13.766  24.047  32.763  0.00  0.00           C 0
+ATOM    298  CG1 VAL A  36      15.433  17.626  34.044  0.00  0.00           C 0
+ATOM   1093  CD2 LEU A 123       9.668  21.848  31.953  0.00  0.00           C 0
+HETATM 1718   NDAHEM A 201      12.255  21.223  35.888  0.00  0.00           N 0
+HETATM 1698  C4DAHEM A 201      12.281  22.457  35.283  0.00  0.00           C 0
+ATOM   1090   CB LEU A 123       8.296  20.022  30.912  0.00  0.00           C 0
+HETATM 1664  C1BAHEM A 201       7.737  19.497  36.858  0.00  0.00           C 0
+ATOM   1078  CG2ATHR A 121       7.178  15.355  34.668  0.00  0.00           C 0
+HETATM 1714   NBAHEM A 201       9.063  19.215  37.141  0.00  0.00           N 0
+ATOM   1086    N LEU A 123       7.172  18.112  29.960  0.00  0.00           N 0
+ATOM   1216   CB LEU A 133      10.640  14.060  33.678  0.00  0.00           C 0
+ATOM   1202    OAGLY A 131      10.634  15.024  29.418  0.41  3.21           O 0
+ATOM   1220  CD2ALEU A 133      10.948  15.666  35.548  0.00  0.00           C 0
+HETATM 1720   FE HEM A 201      10.653  20.268  36.551  0.00  0.00          FE 0
+ATOM    251  OD2AASP A  30      14.260  15.165  31.767  0.31  5.36           O 0
+ATOM   1188   CBALEU A 130      11.602  19.343  27.744  0.00  0.00           C 0
+HETATM 1692  C1DAHEM A 201      13.565  20.858  35.997  0.00  0.00           C 0
+TER
+END

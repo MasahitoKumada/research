@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    54:
+HEADER 0  - Pocket Score                      : -0.0358
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9766
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6672
+HEADER 5  - Mean B-factor of pocket residues  : 0.6718
+HEADER 6  - Hydrophobicity Score              : -25.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.8783
+HEADER 10  -Pocket volume (convex hull)       : 11.2577
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   5316   CA THR B 130       4.654  29.280  34.809  0.00  0.00           C 0
+ATOM   5319   CB THR B 130       3.529  28.244  34.894  0.00  0.00           C 0
+ATOM   5322    N GLU B 131       3.489  30.691  36.378  0.74  5.47           N 0
+ATOM   5012  NE2 GLN B  89       2.748  32.495  30.265  0.00  0.00           N 0
+ATOM   5321  CG2 THR B 130       3.543  27.325  33.681  0.00  0.00           C 0
+ATOM   5185    O PRO B 111       1.666  29.219  28.984  0.68  5.36           O 0
+ATOM   5181   NZ LYS B 110      -1.102  26.082  33.195  0.00  0.00           N 0
+ATOM   5180   CE LYS B 110      -0.379  25.981  31.900  0.00  0.00           C 0
+ATOM   5326   CB GLU B 131       1.954  32.099  37.623  0.00  0.00           C 0
+ATOM   5336   CG ASP B 132       1.699  26.817  39.639  0.00  0.00           C 0
+ATOM   5338  OD2 ASP B 132       0.769  26.075  40.010  0.00  0.00           O 0
+ATOM   5327   CG GLU B 131       1.566  32.604  38.990  0.00  0.00           C 0
+ATOM   5337  OD1 ASP B 132       2.318  26.605  38.579  0.73  3.21           O 0
+ATOM   5320  OG1 THR B 130       3.702  27.469  36.086  0.00  0.00           O 0
+ATOM   5331    N ASP B 132       3.237  29.444  38.893  0.61  1.09           N 0
+ATOM   5335   CB ASP B 132       2.078  28.016  40.519  0.00  0.00           C 0
+TER
+END

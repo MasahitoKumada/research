@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1434
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.5951
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4055
+HEADER 5  - Mean B-factor of pocket residues  : 0.1296
+HEADER 6  - Hydrophobicity Score              : 54.7778
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 92.9050
+HEADER 10  -Pocket volume (convex hull)       : 0.9398
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2800
+ATOM   8464  NH2 ARG E 119      -3.277  14.029  44.056  0.66  2.19           N 0
+ATOM   8080    O SER E  70      -8.270  17.621  45.796  0.75  2.14           O 0
+ATOM   5066  CD2 LEU C 158      -5.727  14.162  41.154  0.00  0.00           C 0
+ATOM   8081   CB SER E  70      -8.302  14.764  44.273  0.00  0.00           C 0
+ATOM   5082   CB TYR C 160      -4.872  20.441  41.611  0.00  0.00           C 0
+ATOM   5081    O TYR C 160      -3.336  18.270  40.644  0.57  1.07           O 0
+ATOM   8115   CG LYS E  74      -5.141  20.847  45.961  0.00  0.00           C 0
+ATOM   8114   CB LYS E  74      -6.294  20.008  46.475  0.00  0.00           C 0
+ATOM   9030  CE2 PHE E 192      -2.202  18.848  45.962  0.00  0.00           C 0
+ATOM   9001  CG2 VAL E 188      -5.364  15.243  46.898  0.00  0.00           C 0
+ATOM   5078    N TYR C 160      -6.132  19.565  39.704  0.00  0.00           N 0
+ATOM   5085  CD2 TYR C 160      -7.043  21.206  42.607  0.00  0.00           C 0
+ATOM   5067    N PHE C 159      -7.898  17.801  38.573  0.00  0.00           N 0
+ATOM   8079    C SER E  70      -9.126  16.876  45.321  0.00  0.00           C 0
+ATOM   8083    N ILE E  71     -10.153  17.341  44.623  0.77  1.09           N 0
+ATOM   8088  CG1 ILE E  71     -11.158  18.802  42.080  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2729
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.0892
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4782
+HEADER 5  - Mean B-factor of pocket residues  : 0.5094
+HEADER 6  - Hydrophobicity Score              : -1.9000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 337.2533
+HEADER 10  -Pocket volume (convex hull)       : 17.0846
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   2011  OE2 GLU A 260     -93.355  81.083 104.556  0.75  7.50           O 0
+ATOM   2010  OE1 GLU A 260     -92.080  80.070 103.079  0.73  3.21           O 0
+ATOM   1986  OD2 ASP A 257     -88.691  83.213 103.501  0.57  2.14           O 0
+ATOM    396  OE2 GLU A  51     -87.550  76.680 109.090  0.00  0.00           O 0
+ATOM    394   CD GLU A  51     -86.507  76.007 108.836  0.00  0.00           C 0
+ATOM    402   CG MET A  52     -83.985  75.741 103.406  0.00  0.00           C 0
+ATOM    393   CG GLU A  51     -86.636  74.715 108.022  0.00  0.00           C 0
+ATOM   1980   CA ASP A 257     -88.370  80.864 101.623  0.00  0.00           C 0
+ATOM    429   CG GLU A  55     -90.024  73.970 104.972  0.00  0.00           C 0
+ATOM   2000   CD LYS A 259     -94.041  76.247 105.307  0.00  0.00           C 0
+ATOM    430   CD GLU A  55     -91.185  73.517 105.466  0.00  0.00           C 0
+ATOM    398   CA MET A  52     -85.153  73.507 103.560  0.00  0.00           C 0
+ATOM    395  OE1 GLU A  51     -85.367  76.343 109.255  0.53  3.21           O 0
+ATOM    373  NE2 HIS A  48     -82.598  78.614 105.844  0.35  2.19           N 0
+ATOM   1998   CB LYS A 259     -92.367  76.587 103.542  0.00  0.00           C 0
+ATOM   1994    N LYS A 259     -90.586  76.879 101.899  0.67  2.19           N 0
+ATOM   1991   CB VAL A 258     -87.603  76.224 100.957  0.00  0.00           C 0
+ATOM   1972    O HIS A 256     -85.648  80.316 102.300  0.50  3.21           O 0
+ATOM   1696  NH2 ARG A 219     -86.370  84.745 104.122  0.61  1.09           N 0
+ATOM   1987    N VAL A 258     -88.350  78.480 101.272  0.71  2.19           N 0
+TER
+END

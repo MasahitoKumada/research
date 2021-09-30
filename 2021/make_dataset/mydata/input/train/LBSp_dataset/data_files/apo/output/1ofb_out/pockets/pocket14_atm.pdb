@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0557
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9755
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6901
+HEADER 5  - Mean B-factor of pocket residues  : 0.2231
+HEADER 6  - Hydrophobicity Score              : -4.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 300.0235
+HEADER 10  -Pocket volume (convex hull)       : 10.8659
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   4761  OE1 GLU B 307     130.029 -11.730  50.977  0.00  0.00           O 0
+ATOM   4754    N GLU B 307     131.407 -14.848  47.615  0.00  0.00           N 0
+ATOM   4745    O ASN B 305     134.866 -16.804  48.567  0.41  5.36           O 0
+ATOM   4752    C GLY B 306     131.352 -16.177  47.796  0.00  0.00           C 0
+ATOM   4721   CA GLN B 302     134.433 -10.774  46.709  0.00  0.00           C 0
+ATOM   4725   CG GLN B 302     134.136  -8.671  48.018  0.00  0.00           C 0
+ATOM   4403   CB ALA B 259     134.816  -7.562  52.000  0.00  0.00           C 0
+ATOM   4723    O GLN B 302     133.671 -13.036  46.579  0.00  0.00           O 0
+ATOM   4763    N ASN B 308     128.088 -14.797  47.825  0.65  1.09           N 0
+ATOM   4453   NZ LYS B 266     127.581 -12.698  52.956  0.00  0.00           N 0
+ATOM   4767   CB ASN B 308     126.356 -16.540  47.577  0.00  0.00           C 0
+ATOM   4770  ND2 ASN B 308     127.710 -18.539  47.826  0.68  6.56           N 0
+ATOM   4753    O GLY B 306     130.416 -16.729  48.399  0.00  0.00           O 0
+ATOM   4755   CA GLU B 307     130.325 -13.995  48.086  0.00  0.00           C 0
+ATOM   4727  OE1 GLN B 302     132.242  -7.735  49.188  0.87  1.07           O 0
+ATOM   4724   CB GLN B 302     133.440  -9.740  47.155  0.00  0.00           C 0
+ATOM   4758   CB GLU B 307     130.707 -12.506  48.064  0.00  0.00           C 0
+ATOM   4762  OE2 GLU B 307     128.143 -12.502  50.253  0.00  0.00           O 0
+ATOM   4771    N ALA B 309     125.848 -13.195  48.227  0.35  4.37           N 0
+TER
+END

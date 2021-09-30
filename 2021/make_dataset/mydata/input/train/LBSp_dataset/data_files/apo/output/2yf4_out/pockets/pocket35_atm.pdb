@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : 0.0624
+HEADER 1  - Drug Score                        : 0.0162
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8651
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5491
+HEADER 5  - Mean B-factor of pocket residues  : 0.0939
+HEADER 6  - Hydrophobicity Score              : 23.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.6135
+HEADER 10  -Pocket volume (convex hull)       : 5.9106
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.6538
+ATOM   3991   CD LYS B 112      16.779  42.237  -4.643  0.00  0.00           C 0
+ATOM   3992   CE LYS B 112      18.188  42.102  -5.233  0.00  0.00           C 0
+ATOM    340   CZ PHE A  17      17.322  36.208  -0.508  0.00  0.00           C 0
+ATOM   4153   CG GLN B 123      18.354  38.789  -7.176  0.00  0.00           C 0
+ATOM   3947  OD1 ASN B 109      15.428  41.365   0.668  0.42  4.29           O 0
+ATOM   3993   NZ LYS B 112      19.204  43.028  -4.547  0.54  9.84           N 0
+ATOM   3944    O ASN B 109      13.639  38.297  -2.409  0.00  0.00           O 0
+ATOM    338  CE1 PHE A  17      15.924  36.241  -0.762  0.00  0.00           C 0
+ATOM    407  CG2 ILE A  21      17.446  33.975  -3.588  0.00  0.00           C 0
+ATOM   4008   CA ALA B 113      14.473  36.521  -5.724  0.00  0.00           C 0
+ATOM   3990   CG LYS B 112      15.768  41.415  -5.478  0.00  0.00           C 0
+ATOM   3989   CB LYS B 112      14.518  41.019  -4.694  0.00  0.00           C 0
+ATOM   4152   CB GLN B 123      19.869  38.830  -7.155  0.00  0.00           C 0
+ATOM    408  CD1 ILE A  21      19.997  32.771  -2.175  0.00  0.00           C 0
+ATOM   4059  NH2 ARG B 117      20.650  33.776  -6.487  0.70  2.19           N 0
+ATOM   4058  NH1 ARG B 117      22.072  35.325  -7.419  0.00  0.00           N 0
+ATOM   4155  OE1 GLN B 123      18.267  36.436  -7.413  0.42  1.07           O 0
+ATOM   4007    N ALA B 113      13.970  37.846  -5.294  0.90  2.19           N 0
+TER
+END

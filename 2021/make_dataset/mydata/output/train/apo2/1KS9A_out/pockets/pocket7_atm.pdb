@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0262
+HEADER 1  - Drug Score                        : 0.0987
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7247
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4061
+HEADER 5  - Mean B-factor of pocket residues  : 0.4385
+HEADER 6  - Hydrophobicity Score              : 37.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.4943
+HEADER 10  -Pocket volume (convex hull)       : 20.4176
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM    231   CB ARG A  31      71.906  21.785   0.827  0.00  0.00           C 0
+ATOM    596   CB ALA A  79      66.218  24.440  -2.065  0.00  0.00           C 0
+ATOM     46  CD1 LEU A   6      65.793  19.938  -1.876  0.00  0.00           C 0
+ATOM    532  CD1 LEU A  71      65.196  22.884   1.088  0.00  0.00           C 0
+ATOM    228   CA ARG A  31      72.085  20.745  -0.268  0.00  0.00           C 0
+ATOM    618   OG SER A  82      67.931  24.117  -6.337  0.00  0.00           O 0
+ATOM    227    N ARG A  31      71.439  19.492   0.126  0.71  3.28           N 0
+ATOM    533  CD2 LEU A  71      65.860  21.340   2.955  0.00  0.00           C 0
+ATOM    208    O TRP A  29      67.784  17.107  -0.463  0.70  1.07           O 0
+ATOM    215  NE1 TRP A  29      69.263  18.803  -4.980  0.56  5.47           N 0
+ATOM    222    O LEU A  30      71.553  18.620  -1.932  0.00  0.00           O 0
+ATOM    230    O ARG A  31      74.089  21.067  -1.574  0.63  7.50           O 0
+ATOM    244   CG PRO A  33      75.440  18.344  -4.487  0.00  0.00           C 0
+ATOM    418  ND2 ASN A  56      71.921  16.651  -4.357  0.00  0.00           N 0
+ATOM    216  CZ2 TRP A  29      69.454  17.872  -7.328  0.00  0.00           C 0
+ATOM    211  CD1 TRP A  29      68.546  18.401  -3.902  0.00  0.00           C 0
+TER
+END

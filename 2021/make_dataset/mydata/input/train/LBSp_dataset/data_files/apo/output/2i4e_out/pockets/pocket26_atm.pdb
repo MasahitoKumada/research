@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : 0.0546
+HEADER 1  - Drug Score                        : 0.0047
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7338
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5776
+HEADER 5  - Mean B-factor of pocket residues  : 0.8151
+HEADER 6  - Hydrophobicity Score              : 29.2500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 111.5664
+HEADER 10  -Pocket volume (convex hull)       : 0.2485
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM   3628  CH2 TRP B1841      -3.604  17.138  -3.999  0.00  0.00           C 0
+ATOM   3626  CZ2 TRP B1841      -3.811  18.468  -3.732  0.00  0.00           C 0
+ATOM   3595   CB LEU B1838      -4.452  21.742  -8.298  0.00  0.00           C 0
+ATOM   3606    N GLU B1840      -5.553  17.843  -9.881  0.50  1.09           N 0
+ATOM   3597  CD1 LEU B1838      -3.063  22.500  -6.318  0.00  0.00           C 0
+ATOM   3605   CD PRO B1839      -2.809  20.542 -10.958  0.00  0.00           C 0
+ATOM   3624  CE2 TRP B1841      -5.024  19.032  -4.148  0.00  0.00           C 0
+ATOM   3613  OE1 GLU B1840      -3.114  14.546  -7.780  0.00  0.00           O 0
+ATOM   3603   CB PRO B1839      -3.074  18.349 -11.769  0.00  0.00           C 0
+ATOM   3604   CG PRO B1839      -2.189  19.538 -11.901  0.00  0.00           C 0
+ATOM   3622  CD2 TRP B1841      -6.001  18.288  -4.842  0.00  0.00           C 0
+ATOM   3627  CZ3 TRP B1841      -4.556  16.369  -4.679  0.00  0.00           C 0
+ATOM   3625  CE3 TRP B1841      -5.761  16.936  -5.103  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.3280
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9017
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6094
+HEADER 5  - Mean B-factor of pocket residues  : 0.3300
+HEADER 6  - Hydrophobicity Score              : -1.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 330.8053
+HEADER 10  -Pocket volume (convex hull)       : 10.9646
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2066   CZ ARG A1056      21.230 -30.884  13.643  0.00  0.00           C 0
+ATOM   2045    O GLY A1054      24.902 -32.344  15.358  0.00  0.00           O 0
+ATOM   2202  NH2 ARG A1072      22.032 -35.920  17.236  0.54  5.47           N 0
+ATOM   2068  NH2 ARG A1056      20.925 -31.227  12.398  0.56  5.47           N 0
+ATOM   2065   NE ARG A1056      20.436 -31.249  14.644  0.71  1.09           N 0
+ATOM   2063   CG ARG A1056      21.590 -31.974  16.696  0.00  0.00           C 0
+ATOM   2171    O ASP A1069      14.024 -38.256  18.456  0.00  0.00           O 0
+ATOM   2174  OD1 ASP A1069      17.123 -41.016  20.749  0.32  7.50           O 0
+ATOM   2172   CB ASP A1069      14.770 -40.725  20.417  0.00  0.00           C 0
+ATOM   2241  NH1 ARG A1076      14.218 -40.311  12.995  0.00  0.00           N 1
+ATOM   2196   CB ARG A1072      17.238 -36.718  18.007  0.00  0.00           C 0
+ATOM   2203    N GLN A1073      14.563 -36.385  16.229  0.00  0.00           N 0
+ATOM   2239   NE ARG A1076      15.189 -38.407  12.130  0.66  5.47           N 0
+ATOM   2194    C ARG A1072      15.705 -35.706  16.284  0.00  0.00           C 0
+ATOM   2195    O ARG A1072      16.250 -35.237  15.284  0.46  2.14           O 0
+ATOM   2237   CG ARG A1076      16.375 -36.289  11.658  0.00  0.00           C 0
+ATOM   2199   NE ARG A1072      19.940 -35.473  18.086  0.00  0.00           N 0
+ATOM   2233   CA ARG A1076      17.271 -33.926  11.351  0.00  0.00           C 0
+ATOM   2208   CG GLN A1073      12.730 -38.745  15.793  0.00  0.00           C 0
+ATOM   2211  OE1 GLN A1073      11.263 -40.353  16.842  0.62  7.50           O 0
+ATOM   2221    O TRP A1075      18.242 -31.956  12.970  0.64  2.14           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.0509
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7716
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4865
+HEADER 5  - Mean B-factor of pocket residues  : 0.4959
+HEADER 6  - Hydrophobicity Score              : 24.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.9595
+HEADER 10  -Pocket volume (convex hull)       : 7.5742
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   1224   CG ARG A 149      11.287  10.698  62.492  0.00  0.00           C 0
+ATOM   1228  NH1 ARG A 149      11.460  14.071  62.259  0.00  0.00           N 0
+ATOM   1223   CB ARG A 149      10.197   9.794  61.975  0.00  0.00           C 0
+ATOM   1220   CA ARG A 149       9.403   9.018  63.020  0.00  0.00           C 0
+ATOM   1144  CG1 VAL A 138       5.580   5.939  68.989  0.00  0.00           C 0
+ATOM   1236  CG2 VAL A 150       5.886   6.140  63.690  0.00  0.00           C 0
+ATOM   8562  CE2 PHE E 131       2.312   6.573  66.032  0.00  0.00           C 0
+ATOM   1217    O ALA A 148       8.788   8.644  65.695  0.39  5.36           O 0
+ATOM   8570  OD1 ASP E 132       1.663  10.300  66.249  0.68  5.36           O 0
+ATOM   1230    N VAL A 150       7.389   8.009  62.078  0.51  2.19           N 0
+ATOM   8560  CD2 PHE E 131       2.198   7.194  64.802  0.00  0.00           C 0
+ATOM   1234   CB VAL A 150       5.399   6.547  62.310  0.00  0.00           C 0
+ATOM   8571  OD2 ASP E 132       1.928  12.305  65.363  0.00  0.00           O 0
+ATOM   1233    O VAL A 150       5.465   8.551  60.054  0.43  9.64           O 0
+ATOM   8557   CB PHE E 131       1.594   7.205  62.373  0.00  0.00           C 0
+ATOM   8551  OD1 ASP E 130       0.590  12.297  60.484  0.00  0.00           O 0
+ATOM   8564    N ASP E 132      -0.215   9.373  63.687  0.00  0.00           N 0
+ATOM   8569   CG ASP E 132       1.233  11.287  65.621  0.00  0.00           C 0
+TER
+END

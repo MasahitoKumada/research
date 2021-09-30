@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0804
+HEADER 1  - Drug Score                        : 0.2862
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0288
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6025
+HEADER 5  - Mean B-factor of pocket residues  : 0.1214
+HEADER 6  - Hydrophobicity Score              : 35.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.6500
+HEADER 10  -Pocket volume (convex hull)       : 2.9311
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7778
+ATOM    120   CB LEU A  18      29.329 -11.483  57.828  0.00  0.00           C 0
+ATOM    122  CD1 LEU A  18      30.058  -9.247  56.961  0.00  0.00           C 0
+ATOM     96   CA SER A  15      30.787 -13.243  53.617  0.00  0.00           C 0
+ATOM    753  OD2 ASP A  98      29.676  -7.467  53.885  0.00  0.00           O 1
+ATOM    157  CD2 PHE A  22      23.367 -10.965  60.683  0.00  0.00           C 0
+ATOM    232  CE2 PHE A  31      23.967  -8.493  56.954  0.00  0.00           C 0
+ATOM    155   CG PHE A  22      24.420 -11.855  60.764  0.00  0.00           C 0
+ATOM    154   CB PHE A  22      24.180 -13.355  60.643  0.00  0.00           C 0
+ATOM    233   CZ PHE A  31      25.345  -8.426  56.932  0.00  0.00           C 0
+ATOM     98    O SER A  15      29.577 -14.445  55.303  0.68  1.07           O 0
+ATOM    125   CA LYS A  19      27.037 -15.305  57.542  0.00  0.00           C 0
+ATOM    119    O LEU A  18      27.408 -13.471  59.563  0.00  0.00           O 0
+ATOM    128   CB LYS A  19      27.099 -16.010  56.186  0.00  0.00           C 0
+ATOM     99   CB SER A  15      30.404 -13.518  52.155  0.00  0.00           C 0
+ATOM    124    N LYS A  19      28.186 -14.423  57.685  0.00  0.00           N 0
+ATOM    118    C LEU A  18      28.279 -13.567  58.702  0.00  0.00           C 0
+TER
+END

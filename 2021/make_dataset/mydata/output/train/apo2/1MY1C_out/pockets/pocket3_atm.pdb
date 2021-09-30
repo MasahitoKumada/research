@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1200
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1053
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5622
+HEADER 5  - Mean B-factor of pocket residues  : 0.7181
+HEADER 6  - Hydrophobicity Score              : 23.1000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 5.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 464.8148
+HEADER 10  -Pocket volume (convex hull)       : 39.2117
+HEADER 11 - Charge Score                      :     5
+HEADER 12 - Local hydrophobic density Score   : 3.7143
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM   1952  CE3 TRP C 254      50.002   9.054  36.869  0.00  0.00           C 0
+ATOM   1580  NH2 ARG C 203      46.077   9.943  29.738  0.00  0.00           N 0
+ATOM   1955  CZ3 TRP C 254      49.278   7.945  37.298  0.00  0.00           C 0
+ATOM    116   CE MET C  18      46.304   9.975  37.473  0.00  0.00           C 0
+ATOM   1992   CA LYS C 258      51.064   8.534  29.772  0.00  0.00           C 0
+ATOM   1937    O LYS C 253      53.655   8.787  33.580  0.46  6.43           O 0
+ATOM   1574   CB ARG C 203      45.059  14.577  28.055  0.00  0.00           C 0
+ATOM   1576   CD ARG C 203      45.353  13.502  30.303  0.00  0.00           C 0
+ATOM   1401  NH1 ARG C 182      39.756  17.989  27.943  0.00  0.00           N 1
+ATOM   1584    O LYS C 204      41.590  14.781  25.994  0.79  4.29           O 0
+ATOM   1551  CD1 ILE C 200      43.905  18.724  31.688  0.00  0.00           C 0
+ATOM     81   CB SER C  14      44.083  14.349  36.442  0.00  0.00           C 0
+ATOM     82   OG SER C  14      42.921  13.644  36.850  0.00  0.00           O 0
+ATOM   1541  CE2 TYR C 199      46.315  15.242  33.163  0.00  0.00           C 0
+ATOM   1946    O TRP C 254      51.108  12.228  33.621  0.72  2.14           O 0
+ATOM   1579  NH1 ARG C 203      47.506  11.672  30.224  0.54  2.19           N 1
+ATOM   1402  NH2 ARG C 182      41.756  18.027  26.828  0.00  0.00           N 0
+ATOM   1543   OH TYR C 199      46.346  12.848  33.190  0.72  6.43           O 0
+ATOM   1577   NE ARG C 203      45.245  12.071  30.019  0.00  0.00           N 0
+ATOM    115   SD MET C  18      44.918  11.015  37.061  0.00  0.00           S 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0355
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7809
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5096
+HEADER 5  - Mean B-factor of pocket residues  : 0.1609
+HEADER 6  - Hydrophobicity Score              : 18.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.6495
+HEADER 10  -Pocket volume (convex hull)       : 10.9926
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2609
+ATOM    247    O ARG A  32      16.816  15.626  -8.927  0.00  0.00           O 0
+ATOM    248   CB ARG A  32      18.261  12.960  -9.713  0.00  0.00           C 0
+ATOM   1161  NH2 ARG B  32      21.407  16.381  -3.144  0.00  0.00           N 0
+ATOM    451  OE1 GLU A  57      18.924  10.513  -6.447  0.00  0.00           O 0
+ATOM    270  NE2 GLN A  34      16.880  11.838  -4.016  0.76  5.47           N 0
+ATOM    267   CG GLN A  34      15.668  13.608  -2.882  0.00  0.00           C 0
+ATOM    256   CA VAL A  33      14.645  14.724  -7.526  0.00  0.00           C 0
+ATOM    257    C VAL A  33      14.322  13.708  -6.435  0.00  0.00           C 0
+ATOM   1158   NE ARG B  32      20.551  18.469  -2.733  0.61  3.28           N 0
+ATOM   1146   CA SER B  31      15.352  19.232  -5.234  0.00  0.00           C 0
+ATOM   1143  CD1 LEU B  30      13.711  17.734  -1.835  0.00  0.00           C 0
+ATOM   1149   CB SER B  31      15.538  19.011  -6.739  0.00  0.00           C 0
+ATOM   1151    N ARG B  32      17.373  20.419  -4.799  0.56  2.19           N 0
+ATOM   1155   CB ARG B  32      19.499  21.162  -3.927  0.00  0.00           C 0
+ATOM   1154    O ARG B  32      18.726  21.791  -6.886  0.45  4.29           O 0
+ATOM   1156   CG ARG B  32      19.280  20.530  -2.536  0.00  0.00           C 0
+ATOM   1140    O LEU B  30      13.679  17.094  -5.066  0.00  0.00           O 0
+ATOM    262    N GLN A  34      13.901  14.205  -5.274  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    54:
+HEADER 0  - Pocket Score                      : -0.1347
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1618
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5581
+HEADER 5  - Mean B-factor of pocket residues  : 0.2084
+HEADER 6  - Hydrophobicity Score              : 13.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.5411
+HEADER 10  -Pocket volume (convex hull)       : 3.9324
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM  13106   CG ARG F 118       6.829  42.196  39.271  0.00  0.00           C 0
+ATOM   2601  NH1 ARG B  19       3.394  40.688  31.182  0.62  1.09           N 0
+ATOM   2602  NH2 ARG B  19       3.289  38.759  32.471  0.00  0.00           N 0
+ATOM  13107   CD ARG F 118       5.485  41.835  39.933  0.00  0.00           C 0
+ATOM   2595    O ARG B  19       9.581  40.293  33.745  0.00  0.00           O 0
+ATOM  13129   CB ALA F 119       8.922  45.617  36.151  0.00  0.00           C 0
+ATOM  13125    N ALA F 119       9.295  44.038  38.007  0.78  2.19           N 0
+ATOM   2597   CG ARG B  19       6.651  40.461  30.204  0.00  0.00           C 0
+ATOM   2596   CB ARG B  19       7.637  39.673  31.092  0.00  0.00           C 0
+ATOM   2593   CA ARG B  19       8.930  40.440  31.429  0.00  0.00           C 0
+ATOM   2600   CZ ARG B  19       3.840  39.461  31.467  0.00  0.00           C 0
+ATOM   2663   CA ALA B  24       8.571  46.007  31.295  0.00  0.00           C 0
+ATOM   2666   CB ALA B  24       8.066  46.977  32.417  0.00  0.00           C 0
+ATOM   2662    N ALA B  24       9.887  45.446  31.675  0.47  1.09           N 0
+TER
+END

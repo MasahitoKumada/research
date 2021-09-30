@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.1315
+HEADER 1  - Drug Score                        : 0.0490
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.0958
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5167
+HEADER 5  - Mean B-factor of pocket residues  : 0.4171
+HEADER 6  - Hydrophobicity Score              : 16.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 166.6556
+HEADER 10  -Pocket volume (convex hull)       : 6.4654
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.5769
+ATOM   1051  CD1 TYR A 141      11.336  -1.626 -40.922  0.00  0.00           C 0
+ATOM   3270  CD2 TYR C 141       6.460  -4.005 -37.073  0.00  0.00           C 0
+ATOM   1042   CA GLY A 140       6.287  -1.915 -39.931  0.00  0.00           C 0
+ATOM   3272  CE2 TYR C 141       7.055  -4.934 -37.996  0.00  0.00           C 0
+ATOM   3297  NH2 ARG C 144       5.161   0.126 -34.284  0.48  8.75           N 0
+ATOM   1079  NH2 ARG A 144       7.790   2.347 -40.240  0.00  0.00           N 0
+ATOM   1078  NH1 ARG A 144       5.521   2.067 -40.051  0.18  3.28           N 0
+ATOM   1045    N TYR A 141       8.007  -1.059 -41.374  0.00  0.00           N 0
+ATOM   3263    N TYR C 141       6.930  -3.022 -33.933  0.00  0.00           N 0
+ATOM   2141   CA GLY B 140      13.404   0.006 -38.577  0.00  0.00           C 0
+ATOM   2178  NH2 ARG B 144      12.294   2.697 -35.298  0.39  6.56           N 0
+ATOM   2177  NH1 ARG B 144      12.841   3.511 -37.374  0.00  8.75           N 0
+ATOM   2151  CD2 TYR B 141      12.375  -2.707 -34.379  0.00  0.00           C 0
+ATOM   2144    N TYR B 141      13.890  -0.316 -36.253  0.00  0.00           N 0
+ATOM   2153  CE2 TYR B 141      12.090  -4.074 -34.530  0.00  0.00           C 0
+ATOM   1053  CE1 TYR A 141      12.140  -2.747 -40.649  0.00  0.00           C 0
+ATOM   3260   CA GLY C 140       9.073  -2.507 -33.025  0.00  0.00           C 0
+ATOM   3296  NH1 ARG C 144       6.867   0.601 -32.814  0.65  3.28           N 0
+TER
+END

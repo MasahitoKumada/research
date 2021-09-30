@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0449
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6682
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4450
+HEADER 5  - Mean B-factor of pocket residues  : 0.4521
+HEADER 6  - Hydrophobicity Score              : 8.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 163.2230
+HEADER 10  -Pocket volume (convex hull)       : 3.6828
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1060   CB ASP A 119      46.965  12.494  21.229  0.00  0.00           C 0
+ATOM   1075   CE LYS A 121      48.574   7.627  18.648  0.00  0.00           C 0
+ATOM   2441   CG MET B   0      47.375  14.012  17.401  0.00  0.00           C 0
+ATOM   1063  OD2 ASP A 119      48.821  13.720  22.017  0.78  1.07           O 0
+ATOM   1051  CD2 TYR A 118      49.430  10.690  24.468  0.00  0.00           C 0
+ATOM    779  NE2 GLN A  87      52.959  13.447  21.967  0.50  7.66           N 0
+ATOM    757  CD1 TYR A  85      54.101   8.456  23.174  0.00  0.00           C 0
+ATOM   1053  CE2 TYR A 118      50.267  11.787  24.582  0.00  0.00           C 0
+ATOM   1047    O TYR A 118      46.245   9.506  22.215  0.55  2.14           O 0
+ATOM   1076   NZ LYS A 121      49.029   6.338  19.219  0.65  3.28           N 0
+ATOM    756   CG TYR A  85      53.957   9.547  24.018  0.00  0.00           C 0
+ATOM    761   CZ TYR A  85      52.220   7.369  24.168  0.00  0.00           C 0
+ATOM    759  CE1 TYR A  85      53.247   7.374  23.233  0.00  0.00           C 0
+ATOM    762   OH TYR A  85      51.328   6.329  24.252  0.62  3.21           O 0
+ATOM   1080    O ASP A 122      46.678   3.967  22.525  0.62  1.07           O 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0059
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9332
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5926
+HEADER 5  - Mean B-factor of pocket residues  : 0.4870
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 370.1515
+HEADER 10  -Pocket volume (convex hull)       : 8.9425
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5909
+ATOM   1450   CB ILE A 186      14.651  14.471 -11.412  0.00  0.00           C 0
+ATOM   1451  CG1 ILE A 186      13.360  14.205 -10.620  0.00  0.00           C 0
+ATOM    970   CG GLU A 123      10.060  12.167 -12.959  0.00  0.00           C 0
+ATOM    973  OE2 GLU A 123      12.092  11.319 -13.845  0.00  0.00           O 0
+ATOM   1433   OG SER A 183      10.900  18.229 -14.496  0.50  5.36           O 0
+ATOM    968    O GLU A 123       6.848  12.972 -10.093  0.00  0.00           O 0
+ATOM    969   CB GLU A 123       8.814  11.698 -12.221  0.00  0.00           C 0
+ATOM   1484  ND2 ASN A 190      17.963  11.575 -13.439  0.61  9.84           N 0
+ATOM   1681  CG2 VAL A 216      16.245  19.086 -16.946  0.00  0.00           C 0
+ATOM   1452  CG2 ILE A 186      15.063  13.225 -12.190  0.00  0.00           C 0
+ATOM   1455   CA SER A 187      18.451  16.309 -12.843  0.00  0.00           C 0
+ATOM   1459   OG SER A 187      19.388  17.736 -14.563  0.52  6.43           O 0
+ATOM   1418    O PRO A 181       9.671  17.043  -9.225  0.54  6.43           O 0
+ATOM   1414  CG2 VAL A 180       5.636  16.290  -8.606  0.00  0.00           C 0
+ATOM   1431    O SER A 183      15.024  17.758 -12.791  0.00  0.00           O 0
+ATOM   1454    N SER A 187      17.252  16.097 -12.038  0.00  0.00           N 0
+ATOM   1458   CB SER A 187      18.328  17.612 -13.633  0.00  0.00           C 0
+ATOM   1429   CA SER A 183      12.662  18.214 -12.817  0.00  0.00           C 0
+ATOM   1432   CB SER A 183      12.250  18.593 -14.241  0.00  0.00           C 0
+TER
+END

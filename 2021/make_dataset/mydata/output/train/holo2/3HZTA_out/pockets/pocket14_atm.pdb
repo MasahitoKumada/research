@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0433
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9314
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6530
+HEADER 5  - Mean B-factor of pocket residues  : 0.1755
+HEADER 6  - Hydrophobicity Score              : 9.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.4570
+HEADER 10  -Pocket volume (convex hull)       : 8.1708
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM    981   CD LYS A 181     -17.620  -7.257  17.548  0.00  0.00           C 0
+ATOM    958  CG2 VAL A 178     -14.388 -10.030  12.045  0.00  0.00           C 0
+ATOM   2203   CB CYS A 337     -18.784  -7.726  13.403  0.00  0.00           C 0
+ATOM   2204   SG CYS A 337     -17.155  -7.002  13.624  0.00  0.00           S 0
+ATOM    957  CG1 VAL A 178     -12.788 -10.589  13.896  0.00  0.00           C 0
+ATOM   2202    O CYS A 337     -19.873 -10.390  12.367  0.58  5.36           O 0
+ATOM    983   NZ LYS A 181     -19.839  -8.338  18.101  0.00  0.00           N 1
+ATOM    982   CE LYS A 181     -18.690  -7.504  18.627  0.00  0.00           C 0
+ATOM    989   CG GLN A 182     -11.609  -8.830  19.004  0.00  0.00           C 0
+ATOM    978    O LYS A 181     -14.385  -4.909  19.824  0.00  0.00           O 0
+ATOM    557  OD1 ASN A 135     -12.202  -8.135  23.067  0.58  5.36           O 0
+ATOM   1013   CBASER A 185     -15.079  -5.175  22.957  0.00  0.00           C 0
+ATOM   1015   OGASER A 185     -15.601  -5.736  24.148  0.00  0.00           O 0
+ATOM    980   CG LYS A 181     -16.764  -6.039  17.892  0.00  0.00           C 0
+ATOM    977    C LYS A 181     -13.901  -5.233  18.744  0.00  0.00           C 0
+ATOM    984    N GLN A 182     -12.799  -5.970  18.629  0.00  0.00           N 0
+ATOM    953   CA VAL A 178     -13.363  -8.176  13.440  0.00  0.00           C 0
+ATOM    985   CA GLN A 182     -12.054  -6.414  19.808  0.00  0.00           C 0
+ATOM    955    O VAL A 178     -12.375  -8.004  15.643  0.57  1.07           O 0
+ATOM    979   CB LYS A 181     -15.530  -5.892  16.975  0.00  0.00           C 0
+TER
+END

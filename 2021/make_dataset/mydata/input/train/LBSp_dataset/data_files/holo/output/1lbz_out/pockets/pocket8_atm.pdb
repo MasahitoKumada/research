@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0847
+HEADER 1  - Drug Score                        : 0.1897
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8116
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5707
+HEADER 5  - Mean B-factor of pocket residues  : 0.6276
+HEADER 6  - Hydrophobicity Score              : 17.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.8878
+HEADER 10  -Pocket volume (convex hull)       : 8.5580
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM   3165    N TYR B 156     -11.939  19.426   0.968  0.27  1.09           N 0
+ATOM   3448    C ILE B 190     -13.879  14.726   2.944  0.00  0.00           C 0
+ATOM   3471   CD PRO B 192     -16.183  14.381   0.292  0.00  0.00           C 0
+ATOM   3454    N ARG B 191     -13.038  14.616   1.927  0.00  0.00           N 0
+ATOM   3169   CB TYR B 156     -11.982  20.853  -1.040  0.00  0.00           C 0
+ATOM   3168    O TYR B 156     -14.021  21.162   1.420  0.51  1.07           O 0
+ATOM   3190  OD1 ASP B 158     -18.201  20.121  -0.225  0.00  0.00           O 0
+ATOM   3171  CD1 TYR B 156     -10.983  18.825  -2.169  0.00  0.00           C 0
+ATOM   3458   CB ARG B 191     -12.159  13.989  -0.239  0.00  0.00           C 0
+ATOM   3459   CG ARG B 191     -11.333  15.273  -0.272  0.00  0.00           C 0
+ATOM   3460   CD ARG B 191     -10.426  15.266  -1.497  0.00  0.00           C 0
+ATOM   3491   SD MET B 195     -11.868  11.542  -4.023  0.00  0.00           S 0
+ATOM   3472    N GLY B 193     -15.396  11.006  -1.417  0.65  2.19           N 0
+ATOM   3455   CA ARG B 191     -13.430  14.179   0.597  0.00  0.00           C 0
+ATOM   3451  CG1 ILE B 190     -13.619  17.712   4.324  0.00  0.00           C 0
+ATOM   3449    O ILE B 190     -15.086  14.496   2.865  0.50  4.29           O 0
+ATOM   3453  CD1 ILE B 190     -14.685  18.773   4.497  0.00  0.00           C 0
+ATOM   3470   CG PRO B 192     -17.655  14.085   0.344  0.00  0.00           C 0
+TER
+END

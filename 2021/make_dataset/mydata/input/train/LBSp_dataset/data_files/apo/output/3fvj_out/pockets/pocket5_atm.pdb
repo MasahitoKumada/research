@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0004
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8846
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6030
+HEADER 5  - Mean B-factor of pocket residues  : 0.6652
+HEADER 6  - Hydrophobicity Score              : 11.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.5953
+HEADER 10  -Pocket volume (convex hull)       : 5.2471
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM    806    O CYS A 105      41.509  16.871   6.009  0.60  2.14           O 0
+ATOM    829    O LYS A 108      44.260  18.873   2.666  0.36  6.43           O 0
+ATOM    828    C LYS A 108      44.193  18.422   3.810  0.00  0.00           C 0
+ATOM    830   CB LYS A 108      44.422  16.004   3.207  0.00  0.00           C 0
+ATOM    804   CA CYS A 105      40.451  14.718   6.171  0.00  0.00           C 0
+ATOM    808   SG CYS A 105      37.993  15.972   5.295  0.00  0.00           S 0
+ATOM    832   CD LYS A 108      44.755  13.634   2.381  0.00  0.00           C 0
+ATOM    833   CE LYS A 108      44.874  14.041   0.920  0.00  0.00           C 0
+ATOM    300  OE1 GLU A  40      41.094  21.146   0.852  0.36  6.43           O 0
+ATOM    839   CB ALA A 109      41.471  20.265   5.218  0.00  0.00           C 0
+ATOM    334   SG CYS A  44      38.272  17.734   6.256  0.00  0.00           S 0
+ATOM    327  NH1 ARG A  43      36.231  19.401   0.344  0.48  7.66           N 0
+ATOM    297   CB GLU A  40      38.905  21.768   2.718  0.00  0.00           C 0
+ATOM    296    O GLU A  40      36.878  20.622   5.107  0.00  0.00           O 0
+TER
+END

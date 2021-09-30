@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1233
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7396
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5179
+HEADER 5  - Mean B-factor of pocket residues  : 0.1778
+HEADER 6  - Hydrophobicity Score              : 14.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.4733
+HEADER 10  -Pocket volume (convex hull)       : 3.5040
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM    194   CB GLN C  26     -12.086 -43.524  52.646  0.00  0.00           C 0
+ATOM    206    N CYS C  28     -14.279 -40.260  51.006  0.00  0.00           N 0
+ATOM    195   CG GLN C  26     -11.583 -44.001  51.292  0.00  0.00           C 0
+ATOM    985    O PRO C 125     -17.665 -41.478  51.573  0.59  1.07           O 0
+ATOM    198  OE1 GLN C  26     -12.424 -46.241  51.398  0.91  2.14           O 0
+ATOM    205   CD PRO C  27     -14.212 -40.928  55.699  0.00  0.00           C 0
+ATOM    192    C GLN C  26     -12.311 -41.653  54.294  0.00  0.00           C 0
+ATOM    193    O GLN C  26     -11.576 -41.768  55.271  0.48  6.43           O 0
+ATOM    199    N PRO C  27     -13.566 -41.177  54.401  0.00  0.00           N 0
+ATOM    204   CG PRO C  27     -15.672 -41.088  55.359  0.00  0.00           C 0
+ATOM    987   CG PRO C 125     -18.216 -43.398  53.870  0.00  0.00           C 0
+ATOM     28   CB LYS C   4     -13.847 -49.448  52.248  0.00  0.00           C 0
+ATOM    211   SG CYS C  28     -13.688 -41.635  48.196  0.00  0.00           S 0
+ATOM    978   CB ILE C 124     -18.577 -45.035  49.217  0.00  0.00           C 0
+ATOM    988   CD PRO C 125     -18.639 -44.371  52.773  0.00  0.00           C 0
+ATOM     27    O LYS C   4     -15.967 -48.080  50.465  0.73  2.14           O 0
+ATOM     21   CB VAL C   3     -13.250 -46.347  47.879  0.00  0.00           C 0
+TER
+END

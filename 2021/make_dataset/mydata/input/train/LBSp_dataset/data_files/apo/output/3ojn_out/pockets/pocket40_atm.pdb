@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0889
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9114
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5428
+HEADER 5  - Mean B-factor of pocket residues  : 0.7510
+HEADER 6  - Hydrophobicity Score              : -12.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.9781
+HEADER 10  -Pocket volume (convex hull)       : 9.5492
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   4249    O PRO B 161      25.102  15.845 -17.524  0.69  2.14           O 0
+ATOM   5611   CG ASP B 326      29.831  16.036 -17.599  0.00  0.00           C 0
+ATOM   5612  OD1 ASP B 326      30.527  15.706 -18.587  0.65  8.57           O 0
+ATOM   5613  OD2 ASP B 326      29.311  17.174 -17.461  0.76  6.43           O 0
+ATOM   4250   CB PRO B 161      22.677  14.157 -18.938  0.00  0.00           C 0
+ATOM   5599    N THR B 325      27.116  11.415 -18.756  0.52  2.19           N 0
+ATOM   5604  OG1 THR B 325      28.767  12.323 -20.935  0.00  0.00           O 0
+ATOM   5582    O GLU B 323      24.050  10.591 -20.286  0.65  5.36           O 0
+ATOM   5577  CG2 ILE B 322      21.206  11.713 -22.588  0.00  0.00           C 0
+ATOM   5605  CG2 THR B 325      27.885  10.086 -21.305  0.00  0.00           C 0
+ATOM   4258   CG ASP B 162      25.969  19.203 -21.076  0.00  0.00           C 0
+ATOM   4257   CB ASP B 162      24.839  18.310 -20.549  0.00  0.00           C 0
+ATOM   4260  OD2 ASP B 162      26.292  19.071 -22.272  0.00  0.00           O 0
+ATOM   4248    C PRO B 161      23.966  16.127 -17.965  0.00  0.00           C 0
+ATOM   4251   CG PRO B 161      21.454  14.593 -19.684  0.00  0.00           C 0
+ATOM   4284  NH1 ARG B 165      20.421  19.834 -24.653  0.00  0.00           N 0
+TER
+END

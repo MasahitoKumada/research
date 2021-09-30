@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    83:
+HEADER 0  - Pocket Score                      : -0.0076
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7857
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5582
+HEADER 5  - Mean B-factor of pocket residues  : 0.4098
+HEADER 6  - Hydrophobicity Score              : -5.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 153.9894
+HEADER 10  -Pocket volume (convex hull)       : 1.0821
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM  20559    N GLN G  20      74.789-144.695   8.065  0.00  0.00           N 0
+ATOM  20553    C ASN G  19      73.832-144.497   7.170  0.00  0.00           C 0
+ATOM  20560   CA GLN G  20      75.045-143.714   9.114  0.00  0.00           C 0
+ATOM  20554    O ASN G  19      73.150-143.482   7.159  0.67  2.14           O 0
+ATOM  20566  OE1 GLN G  20      74.330-143.346  12.428  0.00  0.00           O 0
+ATOM  23672   NZ LYS G 397      70.158-149.266  10.472  0.21  3.28           N 0
+ATOM  20534    O ALA G  16      75.186-147.403   9.214  0.58  2.14           O 0
+ATOM  23670   CD LYS G 397      69.543-148.655  12.789  0.00  0.00           C 0
+ATOM  20555   CB ASN G  19      72.283-146.292   6.435  0.00  0.00           C 0
+ATOM  23669   CG LYS G 397      70.927-149.070  13.238  0.00  0.00           C 0
+ATOM  23668   CB LYS G 397      71.372-148.272  14.450  0.00  0.00           C 0
+ATOM  23665   CA LYS G 397      72.836-148.519  14.808  0.00  0.00           C 0
+ATOM  23667    O LYS G 397      73.933-146.482  15.372  0.54  1.07           O 0
+TER
+END

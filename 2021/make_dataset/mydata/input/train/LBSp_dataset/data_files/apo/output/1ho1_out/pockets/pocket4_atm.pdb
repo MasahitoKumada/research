@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1547
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6058
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4555
+HEADER 5  - Mean B-factor of pocket residues  : 0.8652
+HEADER 6  - Hydrophobicity Score              : 8.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.5011
+HEADER 10  -Pocket volume (convex hull)       : 16.5489
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.8000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   6270    O ASP D 118      68.748 -25.102  19.724  0.61  1.07           O 0
+ATOM   6299   CB ARG D 122      67.672 -23.086  21.878  0.00  0.00           C 0
+ATOM   6271   CB ASP D 118      71.854 -25.810  19.097  0.00  0.00           C 0
+ATOM   6304  NH1 ARG D 122      70.233 -20.160  22.112  0.00  0.00           N 0
+ATOM   6274  OD2 ASP D 118      72.834 -27.114  20.847  0.00  0.00           O 0
+ATOM   6242    O LYS D 115      71.276 -24.853  15.370  0.76  3.21           O 0
+ATOM   5955  OE1 GLU D  77      74.098 -19.119  18.856  0.00  0.00           O 0
+ATOM   6244   CG LYS D 115      73.275 -22.720  13.484  0.00  0.00           C 0
+ATOM   5980  CD1 LEU D  80      69.956 -19.622  18.519  0.00  0.00           C 0
+ATOM   6275    N ALA D 119      69.269 -24.709  17.554  0.00  0.00           N 0
+ATOM   6240   CA LYS D 115      73.420 -25.141  14.268  0.00  0.00           C 0
+ATOM   5939  CG1 VAL D  75      69.665 -20.471  14.024  0.00  0.00           C 0
+ATOM   5937    O VAL D  75      72.046 -17.850  13.015  0.71  3.21           O 0
+ATOM   6246   CE LYS D 115      74.850 -21.409  12.076  0.00  0.00           C 0
+ATOM   5936    C VAL D  75      70.974 -17.584  13.552  0.00  0.00           C 0
+ATOM   6269    C ASP D 118      69.424 -25.343  18.713  0.00  0.00           C 0
+ATOM   6291   CG LYS D 121      67.417 -28.473  22.521  0.00  0.00           C 0
+ATOM   6295    N ARG D 122      66.619 -25.241  21.456  0.00  0.00           N 0
+ATOM   6296   CA ARG D 122      66.554 -24.050  22.303  0.00  0.00           C 0
+TER
+END

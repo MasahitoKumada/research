@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0226
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7908
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5282
+HEADER 5  - Mean B-factor of pocket residues  : 0.5533
+HEADER 6  - Hydrophobicity Score              : 9.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.4499
+HEADER 10  -Pocket volume (convex hull)       : 9.4037
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   2383   CE LYS B  54      35.972  40.260  36.461  0.00  0.00           C 0
+ATOM   2004   OG SER B   4      29.922  37.014  36.397  0.00  0.00           O 0
+ATOM   2018  CD1 PHE B   6      33.207  36.453  34.704  0.00  0.00           C 0
+ATOM   2041  OE1 GLU B   9      31.133  35.360  37.942  0.00  0.00           O 0
+ATOM   2020  CE1 PHE B   6      34.487  36.990  34.614  0.00  0.00           C 0
+ATOM   2384   NZ LYS B  54      36.780  39.841  37.647  0.57  9.84           N 0
+ATOM   2042  OE2 GLU B   9      32.350  33.618  38.452  0.00  0.00           O 0
+ATOM   2000   CA SER B   4      28.798  39.121  36.802  0.00  0.00           C 0
+ATOM   2003   CB SER B   4      28.810  37.606  37.044  0.00  0.00           C 0
+ATOM   2005    N VAL B   5      29.706  39.427  34.592  0.52  1.09           N 0
+ATOM   2011  CG2 VAL B   5      32.153  40.018  32.991  0.00  0.00           C 0
+ATOM   1999    N SER B   4      27.809  39.753  37.671  0.00  0.00           N 0
+ATOM   2415  OE1 GLU B  58      34.579  43.574  35.997  0.00  0.00           O 0
+ATOM   1993    O LYS B   3      27.983  41.801  36.749  0.00  0.00           O 0
+ATOM   2010  CG1 VAL B   5      30.488  41.881  33.131  0.00  0.00           C 0
+ATOM   2413   CG GLU B  58      33.297  44.386  34.176  0.00  0.00           C 0
+TER
+END

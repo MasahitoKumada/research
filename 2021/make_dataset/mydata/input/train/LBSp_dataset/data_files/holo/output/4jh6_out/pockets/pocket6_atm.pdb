@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0385
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6541
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3659
+HEADER 5  - Mean B-factor of pocket residues  : 0.1965
+HEADER 6  - Hydrophobicity Score              : -1.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 149.8338
+HEADER 10  -Pocket volume (convex hull)       : 3.7978
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM    503   CG GLU A  59      12.787  16.450  -4.586  0.00  0.00           C 0
+ATOM    494   CB ASN A  58      13.094  20.782  -6.671  0.00  0.00           C 0
+ATOM    497  ND2 ASN A  58      14.323  22.226  -5.099  0.00  0.00           N 0
+ATOM    506  OE2 GLU A  59      14.614  15.791  -3.195  0.00  0.00           O 0
+ATOM    504   CD GLU A  59      13.335  15.859  -3.331  0.00  0.00           C 0
+ATOM    477   CG PRO A  56      13.483  22.210   0.180  0.00  0.00           C 0
+ATOM    505  OE1 GLU A  59      12.568  15.472  -2.445  0.57  6.43           O 0
+ATOM    476   CB PRO A  56      13.594  22.589  -1.281  0.00  0.00           C 0
+ATOM    475    O PRO A  56      10.535  22.471  -1.500  0.47  6.43           O 0
+ATOM    502   CB GLU A  59      11.254  16.502  -4.622  0.00  0.00           C 0
+ATOM    498    N GLU A  59      11.115  18.646  -5.763  0.00  0.00           N 0
+ATOM    507    N ILE A  60       8.410  17.979  -5.593  0.00  0.00           N 0
+ATOM    490    N ASN A  58      11.083  21.548  -5.451  0.00  0.00           N 0
+TER
+END

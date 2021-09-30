@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0149
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7895
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6581
+HEADER 5  - Mean B-factor of pocket residues  : 0.6455
+HEADER 6  - Hydrophobicity Score              : -1.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.4053
+HEADER 10  -Pocket volume (convex hull)       : 3.0986
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM    592   CG ASP A  69      -4.668 -33.608  17.260  0.00  0.00           C 0
+ATOM    615  OE1 GLU A  72      -8.849 -35.628  16.271  0.00  0.00           O 0
+ATOM    591   CB ASP A  69      -5.058 -32.395  16.438  0.00  0.00           C 0
+ATOM    593  OD1 ASP A  69      -5.196 -34.704  16.991  0.65  2.14           O 0
+ATOM    528   CE LYS A  61      -6.964 -29.381  19.140  0.00  0.00           C 0
+ATOM    529   NZ LYS A  61      -6.701 -29.793  20.539  0.00  0.00           N 1
+ATOM    594  OD2 ASP A  69      -3.839 -33.460  18.181  0.00  0.00           O 1
+ATOM    590    O ASP A  69      -7.510 -31.360  14.702  0.00  0.00           O 0
+ATOM    622   SG CYS A  73      -9.641 -29.096  16.292  0.00  0.00           S 0
+ATOM    612   CB GLU A  72      -9.826 -34.076  14.259  0.00  0.00           C 0
+ATOM    469  CE1 TYR A  54     -14.611 -28.617  17.792  0.00  0.00           C 0
+ATOM    618   CA CYS A  73     -11.253 -29.777  14.139  0.00  0.00           C 0
+ATOM    645   CG GLN A  76     -15.394 -31.848  15.516  0.00  0.00           C 0
+ATOM    611    O GLU A  72     -12.341 -32.217  13.529  0.00  0.00           O 0
+ATOM    617    N CYS A  73     -10.485 -30.970  13.797  0.00  0.00           N 0
+ATOM    610    C GLU A  72     -11.116 -32.096  13.469  0.00  0.00           C 0
+TER
+END

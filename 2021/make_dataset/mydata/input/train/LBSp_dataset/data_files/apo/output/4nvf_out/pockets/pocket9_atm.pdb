@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0335
+HEADER 1  - Drug Score                        : 0.1984
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8896
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5577
+HEADER 5  - Mean B-factor of pocket residues  : 0.2664
+HEADER 6  - Hydrophobicity Score              : -15.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.5765
+HEADER 10  -Pocket volume (convex hull)       : 8.8828
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM   2257   CG LYS A 262     -43.730 -54.403 113.179  0.00  0.00           C 0
+ATOM   2259   CE LYS A 262     -43.432 -51.952 112.738  0.00  0.00           C 0
+ATOM   1034   CG PRO A 125     -40.909 -56.151 119.548  0.00  0.00           C 0
+ATOM   2251   OG SER A 261     -39.338 -56.840 115.271  0.64  6.43           O 0
+ATOM   2225   NZALYS A 258     -35.591 -50.023 112.637  0.00  0.00           N 0
+ATOM   1000   CB PRO A 122     -35.045 -57.098 113.295  0.00  0.00           C 0
+ATOM   1009    OALYS A 123     -37.058 -57.004 116.507  0.75  5.36           O 0
+ATOM   2219   CGALYS A 258     -37.963 -51.352 111.709  0.00  0.00           C 0
+ATOM   1003    NALYS A 123     -34.326 -56.915 116.404  0.72  5.47           N 0
+ATOM   1011   CBALYS A 123     -35.129 -56.018 118.590  0.00  0.00           C 0
+ATOM   1013   CGALYS A 123     -33.832 -55.535 119.195  0.00  0.00           C 0
+ATOM    997   CA PRO A 122     -33.766 -57.323 114.092  0.00  0.00           C 0
+ATOM   2201    O PHE A 257     -37.432 -55.997 111.102  0.00  0.00           O 0
+ATOM   2200    C PHE A 257     -36.961 -55.228 110.303  0.00  0.00           C 0
+ATOM   2211   CAALYS A 258     -38.603 -53.574 110.923  0.00  0.00           C 0
+ATOM   2215    OALYS A 258     -40.627 -54.682 111.423  0.61  1.07           O 0
+ATOM   2202   CB PHE A 257     -34.465 -54.983 110.137  0.00  0.00           C 0
+ATOM   2250   CB SER A 261     -39.130 -56.818 113.868  0.00  0.00           C 0
+ATOM   2204  CD1 PHE A 257     -32.326 -55.871 111.010  0.00  0.00           C 0
+ATOM   2176  OD1 ASP A 254     -33.635 -50.136 110.526  0.20  5.36           O 0
+TER
+END

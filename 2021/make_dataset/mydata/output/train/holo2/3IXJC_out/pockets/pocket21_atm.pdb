@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.1421
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7584
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4240
+HEADER 5  - Mean B-factor of pocket residues  : 0.5971
+HEADER 6  - Hydrophobicity Score              : -3.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.3054
+HEADER 10  -Pocket volume (convex hull)       : 0.8696
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   2484   CB SER C 376     -33.664 -34.806  14.723  0.00  0.00           C 0
+ATOM   1809   CB LYS C 286     -28.195 -36.909  12.532  0.00  0.00           C 0
+ATOM   1690  CE2 TYR C 270     -29.669 -30.199  10.833  0.00  0.00           C 0
+ATOM   2481   CA SER C 376     -32.566 -34.035  15.473  0.00  0.00           C 0
+ATOM   1811   CD LYS C 286     -29.163 -38.321  10.631  0.00  0.00           C 0
+ATOM   1688  CD2 TYR C 270     -28.607 -29.818  11.667  0.00  0.00           C 0
+ATOM   2477    O SER C 375     -30.021 -34.945  16.128  0.00  0.00           O 0
+ATOM   1684    O TYR C 270     -28.472 -29.438  14.938  0.53  2.14           O 0
+ATOM   1802   CB PRO C 285     -26.402 -32.354  15.158  0.00  0.00           C 0
+ATOM   2483    O SER C 376     -33.461 -31.882  14.875  0.38  8.57           O 0
+ATOM   1692   OH TYR C 270     -31.360 -29.576   9.245  0.76  8.57           O 0
+ATOM   1805    N LYS C 286     -27.324 -35.455  14.345  0.74  2.19           N 0
+ATOM   2482    C SER C 376     -33.010 -32.606  15.767  0.00  0.00           C 0
+TER
+END

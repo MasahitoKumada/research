@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0565
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9921
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5451
+HEADER 5  - Mean B-factor of pocket residues  : 0.2134
+HEADER 6  - Hydrophobicity Score              : -14.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 151.3949
+HEADER 10  -Pocket volume (convex hull)       : 1.4502
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM    795   CBAARG A  36      44.808  36.710  30.925  0.00  0.00           C 0
+ATOM    673   CAAGLU A  33      41.981  33.459  32.054  0.00  0.00           C 0
+ATOM    797   CGAARG A  36      45.840  37.555  31.664  0.00  0.00           C 0
+ATOM    681   CGAGLU A  33      41.117  33.126  34.458  0.00  0.00           C 0
+ATOM    217   CGAARG A   8      50.209  31.669  34.121  0.00  0.00           C 0
+ATOM    836   CA ALA A  37      47.608  33.482  29.741  0.00  0.00           C 0
+ATOM    219   CDAARG A   8      49.468  32.018  35.392  0.00  0.00           C 0
+ATOM    225  NH1AARG A   8      50.033  34.793  35.745  0.75  4.37           N 0
+ATOM    888  OD2 ASP A  40      49.508  37.091  31.989  0.83  4.29           O 0
+ATOM    835    N ALA A  37      46.411  34.307  29.748  0.70  1.09           N 0
+ATOM    350  NH2 ARG A  15      43.664  30.870  36.633  0.53  5.47           N 0
+ATOM    677    OAGLU A  33      44.093  33.107  30.952  0.66  4.29           O 0
+ATOM    213    OAARG A   8      46.788  28.876  33.595  0.57  3.21           O 0
+ATOM    679   CBAGLU A  33      41.756  32.496  33.225  0.00  0.00           C 0
+ATOM    215   CBAARG A   8      49.337  30.817  33.213  0.00  0.00           C 0
+TER
+END

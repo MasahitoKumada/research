@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1088
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7095
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4461
+HEADER 5  - Mean B-factor of pocket residues  : 0.2695
+HEADER 6  - Hydrophobicity Score              : 45.9091
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5455
+HEADER 9  - Pocket volume (Monte Carlo)       : 118.4942
+HEADER 10  -Pocket volume (convex hull)       : 2.4860
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM   3930   CD PRO B  99      38.580   4.434 -28.307  0.00  0.00           C 0
+ATOM   7343   CB TYR B 453      36.780   5.906 -33.742  0.00  0.00           C 0
+ATOM   1171  CG2 THR A 202      39.902   7.607 -30.130  0.00  0.00           C 0
+ATOM   3909    O PHE B  97      36.793   2.109 -32.067  0.00  0.00           O 0
+ATOM   7355    C GLY B 454      41.408   6.430 -35.417  0.00  0.00           C 0
+ATOM   7356    O GLY B 454      41.079   5.363 -35.932  0.73  1.07           O 0
+ATOM   7353    N GLY B 454      39.169   7.312 -34.614  0.00  0.00           N 0
+ATOM   7393  CH2 TRP B 458      43.644   4.324 -30.097  0.00  0.00           C 0
+ATOM   7392  CZ3 TRP B 458      44.056   2.978 -30.176  0.00  0.00           C 0
+ATOM   7359   CA THR B 455      43.743   5.719 -35.038  0.00  0.00           C 0
+ATOM   3929   CG PRO B  99      40.001   4.516 -27.842  0.00  0.00           C 0
+ATOM   7293  CE2 PHE B 446      40.648   1.102 -29.374  0.00  0.00           C 0
+ATOM   6773  OE1 GLN B 395      38.818   1.313 -34.233  0.76  4.29           O 0
+ATOM   6781    O VAL B 396      44.966   0.213 -33.457  0.53  4.29           O 0
+ATOM   6793  CD1 ILE B 397      42.131  -1.827 -31.796  0.00  0.00           C 0
+ATOM   6770   CB GLN B 395      41.089  -0.133 -35.857  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1379
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8750
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7453
+HEADER 5  - Mean B-factor of pocket residues  : 0.0896
+HEADER 6  - Hydrophobicity Score              : 1.2000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.4391
+HEADER 10  -Pocket volume (convex hull)       : 3.6126
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   3468    CAILE B  48     -26.402  10.797  11.501  0.00  0.00           C 0
+ATOM   3470    OAILE B  48     -26.821  11.397  10.506  0.00  0.00           O 0
+ATOM   3464    NAILE B  48     -28.300  11.235  12.992  0.00  0.00           N 0
+ATOM   3459    C GLY B  47     -28.268  11.669  14.240  0.00  0.00           C 0
+ATOM   3491    N PRO B  49     -25.096  10.613  11.716  0.00  0.00           N 0
+ATOM   3460    O GLY B  47     -27.403  11.329  15.037  0.00  0.00           O 0
+ATOM   3495   CB PRO B  49     -22.794  11.009  11.535  0.00  0.00           C 0
+ATOM   3899  OD2 ASP B  71     -22.346  15.236  10.204  0.70  5.36           O 0
+ATOM   3492   CA PRO B  49     -24.105  11.128  10.768  0.00  0.00           C 0
+ATOM   3497   CD PRO B  49     -24.457   9.914  12.854  0.00  0.00           C 0
+ATOM   3410   CG HIS B  44     -27.614  15.737   9.113  0.00  0.00           C 0
+ATOM   3409   CB HIS B  44     -29.004  15.895   9.632  0.00  0.00           C 0
+ATOM   3406   CA HIS B  44     -29.528  14.646  10.313  0.00  0.00           C 0
+ATOM   3408    O HIS B  44     -30.593  15.219  12.377  0.58  2.14           O 0
+ATOM   3412  CD2 HIS B  44     -26.734  14.711   9.228  0.00  0.00           C 0
+ATOM   3458   CA GLY B  47     -29.342  12.661  14.659  0.00  0.00           C 0
+ATOM   3414  NE2 HIS B  44     -25.586  15.093   8.593  0.00  0.00           N 0
+ATOM   3413  CE1 HIS B  44     -25.748  16.319   8.125  0.00  0.00           C 0
+ATOM   3411  ND1 HIS B  44     -26.969  16.737   8.415  0.76  1.09           N 0
+TER
+END

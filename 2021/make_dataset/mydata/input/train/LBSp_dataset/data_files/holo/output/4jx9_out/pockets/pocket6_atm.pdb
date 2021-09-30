@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.3194
+HEADER 1  - Drug Score                        : 0.0080
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8584
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5577
+HEADER 5  - Mean B-factor of pocket residues  : 0.4827
+HEADER 6  - Hydrophobicity Score              : 24.8182
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.4200
+HEADER 10  -Pocket volume (convex hull)       : 16.0083
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM     85   CA PRO A  13      11.310  16.368  27.338  0.00  0.00           C 0
+ATOM     79    O ASN A  12      10.472  13.784  26.773  0.00  0.00           O 0
+ATOM    190  CE2 PHE A  26      11.663  13.768  23.379  0.00  0.00           C 0
+ATOM     91    N GLY A  14      13.014  15.948  29.019  0.55  5.47           N 0
+ATOM    513   CE MET A  66      13.071  16.760  22.636  0.00  0.00           C 0
+ATOM    232  OE2 GLU A  30      15.778  11.175  22.296  0.00  0.00           O 0
+ATOM     93    C GLY A  14      13.950  14.319  30.644  0.00  0.00           C 0
+ATOM     92   CA GLY A  14      13.537  15.751  30.369  0.00  0.00           C 0
+ATOM     95    N SER A  15      14.997  14.165  31.449  0.00  0.00           N 0
+ATOM    188  CD2 PHE A  26      12.078  12.466  23.158  0.00  0.00           C 0
+ATOM    125    O ALA A  18      13.129   7.650  27.236  0.53  4.29           O 0
+ATOM    198  CD1 TRP A  27      13.050   6.110  23.791  0.00  0.00           C 0
+ATOM    231  OE1 GLU A  30      17.255   9.786  22.284  0.00  0.00           O 0
+ATOM    123   CA ALA A  18      13.304   9.662  28.519  0.00  0.00           C 0
+ATOM    171  ND2 ASN A  23      10.904  10.918  25.936  0.00  0.00           N 0
+ATOM    512   SD MET A  66      12.773  18.042  23.810  0.00  0.00           S 0
+ATOM    384  CD1 ILE A  49      16.498  18.210  22.113  0.00  0.00           C 0
+ATOM    126   CB ALA A  18      14.783   9.998  28.650  0.00  0.00           C 0
+ATOM     94    O GLY A  14      13.328  13.373  30.153  0.00  0.00           O 0
+ATOM     96   CA SER A  15      15.546  12.852  31.782  0.00  0.00           C 0
+TER
+END

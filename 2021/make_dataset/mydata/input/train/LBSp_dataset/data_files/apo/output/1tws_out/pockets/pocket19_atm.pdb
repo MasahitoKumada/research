@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.1359
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8601
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5051
+HEADER 5  - Mean B-factor of pocket residues  : 0.5321
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.6718
+HEADER 10  -Pocket volume (convex hull)       : 10.3133
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   2195   CA GLY B  10     -80.086  74.135 138.935  0.00  0.00           C 0
+ATOM   2194    N GLY B  10     -79.482  73.129 139.814  0.00  0.00           N 0
+ATOM   3122    O TYR B 138     -74.077  77.444 142.768  0.00  0.00           O 0
+ATOM   3138  OD2 ASP B 139     -76.922  76.505 146.678  0.00  0.00           O 0
+ATOM   3134    O ASP B 139     -74.951  74.653 144.634  0.24  4.29           O 0
+ATOM   3135   CB ASP B 139     -74.854  77.223 145.556  0.00  0.00           C 0
+ATOM   3144  CG1 VAL B 140     -73.207  74.457 140.966  0.00  0.00           C 0
+ATOM   2180    O ARG B   8     -77.843  71.006 143.132  0.51  3.21           O 0
+ATOM   2965  CD2 HIS B 117     -77.112  72.320 135.839  0.00  0.00           C 0
+ATOM   2961    O HIS B 117     -73.596  71.335 139.628  0.00  0.00           O 0
+ATOM   2962   CB HIS B 117     -75.330  71.012 137.196  0.00  0.00           C 0
+ATOM   2181   CB ARG B   8     -80.342  71.506 144.786  0.00  0.00           C 0
+ATOM   2956    O ALA B 116     -72.861  73.857 135.936  0.31  6.43           O 0
+ATOM   2959   CA HIS B 117     -74.009  71.719 137.299  0.00  0.00           C 0
+TER
+END

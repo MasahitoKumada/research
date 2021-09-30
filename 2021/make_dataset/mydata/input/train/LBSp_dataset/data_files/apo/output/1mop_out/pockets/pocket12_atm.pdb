@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0239
+HEADER 1  - Drug Score                        : 0.0785
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7800
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6315
+HEADER 5  - Mean B-factor of pocket residues  : 0.5769
+HEADER 6  - Hydrophobicity Score              : 71.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 144.8249
+HEADER 10  -Pocket volume (convex hull)       : 2.0486
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8947
+ATOM    182    N LEU A  27      10.744  41.634  54.037  0.00  0.00           N 0
+ATOM    179    C ALA A  26       9.755  41.606  54.931  0.00  0.00           C 0
+ATOM    189  CD2 LEU A  27      11.508  43.807  50.677  0.00  0.00           C 0
+ATOM    180    O ALA A  26       8.568  41.459  54.594  0.70  1.07           O 0
+ATOM    215  CG2 THR A  30       5.869  42.800  53.144  0.00  0.00           C 0
+ATOM    183   CA LEU A  27      10.479  41.495  52.599  0.00  0.00           C 0
+ATOM     28  CD2 PHE A   6      12.450  48.222  51.106  0.00  0.00           C 0
+ATOM    187   CG LEU A  27      12.317  43.048  51.708  0.00  0.00           C 0
+ATOM     26   CG PHE A   6      13.597  48.283  51.889  0.00  0.00           C 0
+ATOM     25   CB PHE A   6      13.552  48.891  53.244  0.00  0.00           C 0
+ATOM    181   CB ALA A  26      10.422  43.207  56.762  0.00  0.00           C 0
+ATOM    158  CG1 VAL A  23      15.062  45.105  54.306  0.00  0.00           C 0
+ATOM      7  CG2 ILE A   3      13.159  46.814  59.672  0.00  0.00           C 0
+ATOM    156    O VAL A  23      13.394  42.498  54.785  0.50  1.07           O 0
+ATOM    159  CG2 VAL A  23      15.812  45.900  56.556  0.00  0.00           C 0
+ATOM    154   CA VAL A  23      14.775  43.655  56.351  0.00  0.00           C 0
+TER
+END

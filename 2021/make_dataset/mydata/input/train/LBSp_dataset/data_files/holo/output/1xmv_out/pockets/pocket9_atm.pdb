@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1314
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9616
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5331
+HEADER 5  - Mean B-factor of pocket residues  : 0.3097
+HEADER 6  - Hydrophobicity Score              : 23.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.8046
+HEADER 10  -Pocket volume (convex hull)       : 1.4345
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   1185    O ALA A 180      31.863  10.943 -15.670  0.77  3.21           O 0
+ATOM   1183   CA ALA A 180      29.555  10.603 -15.089  0.00  0.00           C 0
+ATOM   1186   CB ALA A 180      29.044   9.223 -15.498  0.00  0.00           C 0
+ATOM    425  CG1 ILE A  62      29.321   8.851 -10.755  0.00  0.00           C 0
+ATOM    420    N ILE A  62      31.894   7.500  -9.862  0.67  1.09           N 0
+ATOM   1350    O TYR A 219      29.077   4.648 -12.683  0.50  5.36           O 0
+ATOM    408    O GLY A  60      35.067   9.619 -12.549  0.00  0.00           O 0
+ATOM    415   CD ARG A  61      35.740   5.988 -12.397  0.00  0.00           C 0
+ATOM   1369   OG SER A 221      33.391   3.545 -11.750  0.32  5.36           O 0
+ATOM   1215   NZ LYS A 184      37.041   6.612 -16.706  0.00  0.00           N 0
+ATOM   1212   CG LYS A 184      35.663   9.112 -16.110  0.00  0.00           C 0
+ATOM    418  NH1 ARG A  61      35.863   3.231 -13.041  0.00  0.00           N 0
+ATOM    410   CA ARG A  61      34.171   7.912 -10.538  0.00  0.00           C 0
+TER
+END

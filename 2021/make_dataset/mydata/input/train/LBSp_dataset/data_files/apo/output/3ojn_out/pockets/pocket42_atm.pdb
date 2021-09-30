@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.0947
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9960
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6349
+HEADER 5  - Mean B-factor of pocket residues  : 0.6015
+HEADER 6  - Hydrophobicity Score              : -6.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.1687
+HEADER 10  -Pocket volume (convex hull)       : 1.7634
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   8240  CG2 THR C 284      12.544  42.637  47.738  0.00  0.00           C 0
+ATOM   8259   CB ASN C 286      12.317  48.514  44.334  0.00  0.00           C 0
+ATOM   8262  ND2 ASN C 286      12.048  49.862  46.343  0.61  6.56           N 0
+ATOM   7412  OD1 ASP C 184      13.763  50.467  49.343  0.00  0.00           O 0
+ATOM   8237    O THR C 284      14.464  42.723  44.847  0.00  0.00           O 0
+ATOM   7393   CB GLN C 182       9.324  44.650  49.357  0.00  0.00           C 0
+ATOM   7396  OE1 GLN C 182      10.690  43.477  51.518  0.65  9.64           O 0
+ATOM   7401    O ASP C 183      10.163  48.322  51.122  0.85  7.50           O 0
+ATOM   8256   CA ASN C 286      11.366  47.346  44.423  0.00  0.00           C 0
+ATOM   7392    O GLN C 182       9.366  47.044  46.974  0.81  1.07           O 0
+ATOM   7400    C ASP C 183      10.116  49.145  50.212  0.00  0.00           C 0
+ATOM   8244    O TRP C 285      10.667  44.708  45.004  0.00  0.00           O 0
+ATOM   7391    C GLN C 182       8.828  46.712  48.039  0.00  0.00           C 0
+ATOM   8255    N ASN C 286      12.018  46.130  43.955  0.00  0.00           N 0
+TER
+END

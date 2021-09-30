@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0584
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8150
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5403
+HEADER 5  - Mean B-factor of pocket residues  : 0.6515
+HEADER 6  - Hydrophobicity Score              : 27.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.6319
+HEADER 10  -Pocket volume (convex hull)       : 7.6444
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.2000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   1969   CB LEU B2021      36.974  35.223 -14.574  0.00  0.00           C 0
+ATOM   2283   NZALYS B2060      34.139  38.053 -15.017  0.60  1.09           N 0
+ATOM   3674  CD2 LEU B2253      36.576  38.058 -17.491  0.00  0.00           C 0
+ATOM   3668   CA LEU B2253      35.795  36.620 -20.038  0.00  0.00           C 0
+ATOM   1958    C GLN B2020      33.933  34.768 -13.170  0.00  0.00           C 0
+ATOM   1960   CB GLN B2020      31.707  35.092 -14.228  0.00  0.00           C 0
+ATOM   2477  OG1 THR B2088      35.547  30.656 -16.012  0.55  4.29           O 0
+ATOM   2465   CB ARG B2087      31.746  30.159 -13.474  0.00  0.00           C 0
+ATOM   1964  NE2 GLN B2020      28.938  33.855 -14.991  0.49  6.56           N 0
+ATOM   3416   NE ARG B2212      35.417  28.573 -18.237  0.00  0.00           N 0
+ATOM   3415   CD ARG B2212      35.342  27.122 -18.398  0.00  0.00           C 0
+ATOM   3414   CG ARG B2212      35.281  26.411 -17.057  0.00  0.00           C 0
+ATOM   2464    O ARG B2087      34.276  28.545 -13.529  0.52  1.07           O 0
+ATOM   3400    O GLY B2210      31.384  24.484 -13.553  0.00  0.00           O 0
+ATOM   3662    O LEU B2252      36.028  33.882 -19.930  0.80  5.36           O 0
+ATOM   3419  NH2 ARG B2212      35.609  30.733 -19.007  0.56  4.37           N 0
+ATOM   1963  OE1 GLN B2020      29.087  35.755 -16.178  0.67  7.50           O 0
+ATOM   1959    O GLN B2020      33.975  33.542 -13.293  0.56  1.07           O 0
+TER
+END

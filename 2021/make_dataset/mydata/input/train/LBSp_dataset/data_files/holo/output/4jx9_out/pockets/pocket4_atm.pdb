@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.3412
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8738
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5276
+HEADER 5  - Mean B-factor of pocket residues  : 0.2724
+HEADER 6  - Hydrophobicity Score              : 33.5833
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 386.1841
+HEADER 10  -Pocket volume (convex hull)       : 37.0133
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    445  ND1 HIS A  58      14.724  10.656  -1.760  0.00  0.00           N 0
+ATOM    443   CB HIS A  58      15.956  11.168   0.376  0.00  0.00           C 0
+ATOM    449    N ASP A  59      17.083  14.161   1.075  0.62  3.28           N 0
+ATOM    452    O ASP A  59      14.853  15.292   2.646  0.00  0.00           O 0
+ATOM     35   CB SER A   5      11.171  14.899   2.999  0.00  0.00           C 0
+ATOM     19   CB ASN A   3       9.748  11.194  -1.280  0.00  0.00           C 0
+ATOM    658    O GLN A  84       6.534  21.362   1.729  0.00  0.00           O 0
+ATOM    669  CG1 ILE A  85       8.599  19.493   4.816  0.00  0.00           C 0
+ATOM    665   CA ILE A  85       6.253  19.684   3.935  0.00  0.00           C 0
+ATOM     36   OG SER A   5       9.998  15.670   2.874  0.00  0.00           O 0
+ATOM    646    O TYR A  83       9.211  22.704   3.250  0.00  0.00           O 0
+ATOM     26    O ILE A   4      11.332  11.261   3.381  0.71  2.14           O 0
+ATOM   1343    O VAL A 176      12.315   8.991  -0.191  0.00  0.00           O 0
+ATOM     18    O ASN A   3       8.714  12.337   1.152  0.00  0.00           O 0
+ATOM      1    N MET A   1       5.774  14.612  -3.086  0.19  7.66           N 0
+ATOM    676   CB ALA A  86       2.358  17.893   1.731  0.00  0.00           C 0
+ATOM    672    N ALA A  86       4.228  18.658   3.100  0.00  0.00           N 0
+ATOM    697   CB ALA A  89       6.235  14.443   2.442  0.00  0.00           C 0
+ATOM      4    O MET A   1       4.831  13.303  -0.791  0.17  2.14           O 0
+TER
+END

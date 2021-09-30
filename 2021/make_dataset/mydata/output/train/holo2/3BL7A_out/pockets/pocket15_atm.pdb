@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0771
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8839
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4849
+HEADER 5  - Mean B-factor of pocket residues  : 0.1259
+HEADER 6  - Hydrophobicity Score              : 37.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.0659
+HEADER 10  -Pocket volume (convex hull)       : 10.0933
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   2050   CB HIS A 296      -3.507  -2.452   5.092  0.00  0.00           C 0
+ATOM   2081   CB GLU A 300      -7.983   0.447   0.932  0.00  0.00           C 0
+ATOM   2059    O LEU A 297      -7.248   0.480   4.419  0.00  0.00           O 0
+ATOM   2056    N LEU A 297      -4.491   0.839   4.262  0.52  1.09           N 0
+ATOM   2092  CG2 VAL A 301      -7.502  -2.602   5.347  0.00  0.00           C 0
+ATOM   2085  OE2 GLU A 300      -5.877   0.480  -0.855  0.00  0.00           O 1
+ATOM   2044    O ALA A 295      -0.371  -0.672   3.628  0.49  5.36           O 0
+ATOM   2020  CG2 VAL A 292       2.138  -0.614  -0.938  0.00  0.00           C 0
+ATOM   2053  ND1 HIS A 296      -2.665  -4.314   3.609  0.33  8.75           N 0
+ATOM   2017    O VAL A 292       2.696  -2.229   1.578  0.00  0.00           O 0
+ATOM   2054  CE1 HIS A 296      -1.660  -5.170   3.550  0.00  0.00           C 0
+ATOM   2047   CA HIS A 296      -3.018  -1.040   4.738  0.00  0.00           C 0
+ATOM   2188   OH TYR A 312      -7.791  -4.855   3.076  0.32  1.07           O 0
+ATOM   2116  ND2 ASN A 304      -8.237  -4.391   0.288  0.23  6.56           N 0
+ATOM   2061   CG LEU A 297      -4.328   3.716   2.986  0.00  0.00           C 0
+ATOM   2062  CD1 LEU A 297      -4.638   4.562   1.771  0.00  0.00           C 0
+TER
+END

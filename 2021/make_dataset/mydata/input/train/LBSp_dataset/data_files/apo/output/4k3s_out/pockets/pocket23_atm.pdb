@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : 0.0575
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0571
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5295
+HEADER 5  - Mean B-factor of pocket residues  : 0.5756
+HEADER 6  - Hydrophobicity Score              : 3.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 190.5209
+HEADER 10  -Pocket volume (convex hull)       : 4.4357
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2609
+ATOM   3039    N GLY B  22       2.475  18.825   0.774  0.00  0.00           N 0
+ATOM   3032   CA LEU B  21       4.826  19.267   0.357  0.00  0.00           C 0
+ATOM   3102    O LEU B  30       3.797  23.818  -1.356  0.81  3.21           O 0
+ATOM   3027    O PRO B  20       5.731  19.670   2.969  0.00  0.00           O 0
+ATOM   3232   CB ASP B  48       5.842  22.728   4.766  0.00  0.00           C 0
+ATOM   4433   NZ LYS B 198       4.991  19.086   5.692  0.00  0.00           N 0
+ATOM   3224    O THR B  47       6.703  24.025   1.356  0.00  0.00           O 0
+ATOM   3229   CA ASP B  48       6.197  24.060   4.100  0.00  0.00           C 0
+ATOM   3065    N THR B  26      -1.985  24.524   1.370  0.00  0.00           N 0
+ATOM   3059   CA PRO B  25      -1.407  22.786  -0.208  0.00  0.00           C 0
+ATOM   3103   CB LEU B  30       2.555  26.102   0.176  0.00  0.00           C 0
+ATOM   3105  CD1 LEU B  30       2.093  27.181   2.343  0.00  0.00           C 0
+ATOM   3231    O ASP B  48       5.265  25.177   6.014  0.48  7.50           O 0
+ATOM   3072  OG1ATHR B  26      -0.944  26.438   3.174  0.67  4.29           O 0
+ATOM   3074  CG2ATHR B  26      -2.296  24.813   4.330  0.00  0.00           C 0
+ATOM   3050    O ARG B  24      -3.089  21.275   1.360  0.38  2.14           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0203
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7575
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5162
+HEADER 5  - Mean B-factor of pocket residues  : 0.8193
+HEADER 6  - Hydrophobicity Score              : 17.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 140.7969
+HEADER 10  -Pocket volume (convex hull)       : 1.2120
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   2440  OD1 ASP B 327      87.656  83.567  69.469  0.00  0.00           O 0
+ATOM   2735   CD LYS B 363      87.479  85.551  66.399  0.00  0.00           C 0
+ATOM   2441  OD2 ASP B 327      86.219  83.585  71.085  0.00  0.00           O 1
+ATOM   2734   CG LYS B 363      86.686  86.877  66.490  0.00  0.00           C 0
+ATOM   2434    N ASP B 327      85.719  80.634  68.485  0.59  1.09           N 0
+ATOM   2439   CG ASP B 327      86.975  82.939  70.318  0.00  0.00           C 0
+ATOM   2697  CD1 LEU B 359      83.309  84.128  64.229  0.00  0.00           C 0
+ATOM   2698  CD2 LEU B 359      81.398  84.941  65.632  0.00  0.00           C 0
+ATOM   2423    N PHE B 326      83.037  80.101  68.013  0.68  3.28           N 0
+ATOM   2416   CA ASN B 325      81.750  79.782  70.079  0.00  0.00           C 0
+ATOM   2411    O THR B 324      79.189  80.457  69.293  0.30  7.50           O 0
+ATOM   2422  OD1 ASN B 325      84.186  81.225  70.873  0.00  0.00           O 0
+ATOM   2421  ND2 ASN B 325      82.987  81.959  72.609  0.60  6.56           N 0
+ATOM   2420   CG ASN B 325      83.251  81.089  71.637  0.00  0.00           C 0
+TER
+END

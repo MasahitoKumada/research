@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0316
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8056
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5405
+HEADER 5  - Mean B-factor of pocket residues  : 0.6841
+HEADER 6  - Hydrophobicity Score              : 14.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.6674
+HEADER 10  -Pocket volume (convex hull)       : 8.1590
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   2377  OG1 THR X 318      56.863  73.718  32.561  0.00  0.00           O 0
+ATOM   2376   CB THR X 318      57.643  73.953  31.401  0.00  0.00           C 0
+ATOM   2420    O MET X 325      54.994  73.841  26.304  0.74  4.29           O 0
+ATOM   2407    O SER X 323      51.409  75.484  29.120  0.41  8.57           O 0
+ATOM   2375    O THR X 318      57.044  77.146  32.118  0.25  8.57           O 0
+ATOM   2378  CG2 THR X 318      58.443  72.723  31.143  0.00  0.00           C 0
+ATOM   2405   CA SER X 323      52.081  77.662  29.724  0.00  0.00           C 0
+ATOM   2408   CB SER X 323      50.954  77.825  30.787  0.00  0.00           C 0
+ATOM   2400    O PRO X 322      54.161  78.104  27.804  0.00  0.00           O 0
+ATOM   2426   CA LYS X 326      55.971  72.442  24.004  0.00  0.00           C 0
+ATOM   2434    N ILE X 327      58.049  72.247  25.247  0.00  0.00           N 0
+ATOM   2431   CD LYS X 326      56.280  69.188  22.956  0.00  0.00           C 0
+ATOM   2439  CG1 ILE X 327      58.594  74.038  27.530  0.00  0.00           C 0
+ATOM   2438   CB ILE X 327      59.538  72.852  27.189  0.00  0.00           C 0
+ATOM   2345  NE2 GLN X 314      60.000  69.689  29.055  0.00  0.00           N 0
+ATOM   2437    O ILE X 327      59.629  70.135  26.143  0.60  6.43           O 0
+TER
+END

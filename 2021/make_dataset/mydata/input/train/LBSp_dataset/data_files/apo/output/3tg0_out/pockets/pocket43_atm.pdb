@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : 0.0506
+HEADER 1  - Drug Score                        : 0.0107
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8434
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4423
+HEADER 5  - Mean B-factor of pocket residues  : 0.5315
+HEADER 6  - Hydrophobicity Score              : 12.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.7426
+HEADER 10  -Pocket volume (convex hull)       : 5.3918
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM  11385  OD1 ASN D 197     -35.323   0.098  23.831  0.00  0.00           O 0
+ATOM  11549  CZ3 TRP D 220     -38.774   3.703  22.238  0.00  0.00           C 0
+ATOM  11284  CD2 LEU D 183     -43.321  -1.488  24.488  0.00  0.00           C 0
+ATOM  11283  CD1 LEU D 183     -41.895  -2.467  26.300  0.00  0.00           C 0
+ATOM  11525   CA GLY D 218     -44.325   2.860  25.092  0.00  0.00           C 0
+ATOM  11386  ND2 ASN D 197     -35.784  -1.760  25.014  0.57  5.47           N 0
+ATOM  11547  CE3 TRP D 220     -39.858   3.488  21.385  0.00  0.00           C 0
+ATOM  11528    N GLU D 219     -43.183   4.655  23.984  0.59  2.19           N 0
+ATOM  11522    O ALA D 217     -45.207   1.007  23.243  0.82  2.14           O 0
+ATOM  11616  NE2 GLN D 228     -40.319   0.340  19.044  0.00  0.00           N 0
+ATOM  11615  OE1 GLN D 228     -38.172   0.641  19.729  0.76  1.07           O 0
+ATOM  11353  OE2 GLU D 193     -42.502  -3.491  21.650  0.90  2.14           O 0
+ATOM  11350   CG GLU D 193     -40.347  -4.135  20.808  0.00  0.00           C 0
+ATOM  11348    O GLU D 193     -35.978  -3.313  21.775  0.61  1.07           O 0
+ATOM  11349   CB GLU D 193     -39.123  -4.431  21.659  0.00  0.00           C 0
+ATOM  11314    O LYS D 188     -38.423  -4.686  26.380  0.61  2.14           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0710
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9106
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5219
+HEADER 5  - Mean B-factor of pocket residues  : 0.3453
+HEADER 6  - Hydrophobicity Score              : -4.1111
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.6724
+HEADER 10  -Pocket volume (convex hull)       : 20.9930
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM    114   CD GLU A 839      17.098  13.928  79.565  0.00  0.00           C 0
+ATOM    124  CD2 LEU A 840      20.104  16.804  74.152  0.00  0.00           C 0
+ATOM    115  OE1 GLU A 839      16.678  13.086  78.742  0.12  3.21           O 0
+ATOM    113   CG GLU A 839      17.006  15.398  79.211  0.00  0.00           C 0
+ATOM     94  CE1 HIS A 836      18.327  13.153  73.301  0.00  0.00           C 0
+ATOM    172   CB HIS A 846      22.925  21.232  80.233  0.00  0.00           C 0
+ATOM    142   OG SER A 842      16.978  19.680  80.828  0.58  5.36           O 0
+ATOM    140    O SER A 842      19.013  22.142  80.007  0.00  0.00           O 0
+ATOM    111    O GLU A 839      17.565  18.497  78.491  0.47  2.14           O 0
+ATOM    150  ND2 ASN A 843      19.145  20.328  83.713  0.73  5.47           N 0
+ATOM    116  OE2 GLU A 839      17.593  13.621  80.672  0.64  7.50           O 0
+ATOM    178    N GLY A 847      22.137  19.881  77.616  0.54  1.09           N 0
+ATOM    175  CD2 HIS A 846      24.137  18.975  80.660  0.00  0.00           C 0
+ATOM    179   CA GLY A 847      22.208  18.731  76.734  0.00  0.00           C 0
+ATOM    181    O GLY A 847      23.357  18.341  74.667  0.00  0.00           O 0
+ATOM    204   CB GLU A 850      26.512  17.705  76.205  0.00  0.00           C 0
+ATOM    215  OD1 ASP A 851      24.026  15.367  72.808  0.00  0.00           O 0
+TER
+END

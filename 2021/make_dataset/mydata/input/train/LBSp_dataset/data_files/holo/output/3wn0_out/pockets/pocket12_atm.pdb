@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0428
+HEADER 1  - Drug Score                        : 0.0098
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0931
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6607
+HEADER 5  - Mean B-factor of pocket residues  : 0.6596
+HEADER 6  - Hydrophobicity Score              : 31.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.5738
+HEADER 10  -Pocket volume (convex hull)       : 5.3766
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1379   CB MET A 352      34.617  46.258  29.313  0.00  0.00           C 0
+ATOM   1380   CG MET A 352      33.304  46.502  30.028  0.00  0.00           C 0
+ATOM   1694  CE2 PHE A 391      30.551  41.463  31.109  0.00  0.00           C 0
+ATOM   1386    O SER A 353      39.070  43.206  30.553  0.00  0.00           O 0
+ATOM   1432  CD1 LEU A 359      35.100  43.035  27.626  0.00  0.00           C 0
+ATOM   1383    N SER A 353      37.756  45.605  29.642  0.63  4.37           N 0
+ATOM   1376   CA MET A 352      35.824  47.056  29.814  0.00  0.00           C 0
+ATOM   1382   CE MET A 352      30.792  45.502  30.586  0.00  0.00           C 0
+ATOM   1751    O TRP A 400      30.432  45.147  35.322  0.61  7.50           O 0
+ATOM   1396  OD2 ASP A 354      36.698  39.194  30.119  0.52  9.64           O 0
+ATOM   1393   CB ASP A 354      37.748  40.728  28.657  0.00  0.00           C 0
+ATOM   1381   SD MET A 352      32.072  45.367  29.357  0.00  0.00           S 0
+ATOM   1678  NH2 ARG A 389      32.704  37.999  30.365  0.27  9.84           N 0
+ATOM   1774   CG PRO A 402      30.828  40.150  35.064  0.00  0.00           C 0
+ATOM   1677  NH1 ARG A 389      32.941  38.948  28.288  0.87  1.09           N 0
+ATOM   1695   CZ PHE A 391      30.546  41.129  29.764  0.00  0.00           C 0
+TER
+END

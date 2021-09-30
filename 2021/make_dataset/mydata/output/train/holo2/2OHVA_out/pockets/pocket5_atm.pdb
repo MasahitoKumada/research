@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1192
+HEADER 1  - Drug Score                        : 0.0035
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8595
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5791
+HEADER 5  - Mean B-factor of pocket residues  : 0.5690
+HEADER 6  - Hydrophobicity Score              : 50.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 174.3557
+HEADER 10  -Pocket volume (convex hull)       : 3.9707
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6087
+ATOM   1892   CA LEU A 253      27.725  53.647  71.180  0.00  0.00           C 0
+ATOM   1896   CG LEU A 253      26.874  51.237  70.707  0.00  0.00           C 0
+ATOM   1895   CB LEU A 253      26.663  52.574  71.431  0.00  0.00           C 0
+ATOM    165  CD1 ILE A  23      23.525  51.401  67.374  0.00  0.00           C 0
+ATOM   1907   NZ LYS A 254      29.916  57.860  68.114  0.57  9.84           N 1
+ATOM    138    O CYS A  20      27.602  52.708  63.862  0.49  4.29           O 0
+ATOM    176  NH2 ARG A  24      30.718  54.008  64.534  0.00  0.00           N 0
+ATOM    139   CB CYS A  20      29.323  51.667  66.330  0.00  0.00           C 0
+ATOM    164  CG2 ILE A  23      23.375  53.891  65.569  0.00  0.00           C 0
+ATOM    136   CA CYS A  20      28.066  51.161  65.629  0.00  0.00           C 0
+ATOM    140   SG CYS A  20      29.347  51.218  68.073  0.00  0.00           S 0
+ATOM   1880    O TRP A 252      30.233  54.273  70.163  0.44  6.43           O 0
+ATOM    173   NE ARG A  24      29.577  55.255  62.964  0.73  4.37           N 0
+ATOM    171   CG ARG A  24      27.839  56.080  61.414  0.00  0.00           C 0
+ATOM   1894    O LEU A 253      26.161  55.447  71.479  0.45  4.29           O 0
+ATOM    170   CB ARG A  24      27.084  54.803  61.706  0.00  0.00           C 0
+ATOM    167   CA ARG A  24      25.558  54.871  61.721  0.00  0.00           C 0
+ATOM    166    N ARG A  24      25.066  53.711  62.442  0.00  0.00           N 0
+TER
+END

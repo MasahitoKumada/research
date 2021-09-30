@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : 0.0683
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6666
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4612
+HEADER 5  - Mean B-factor of pocket residues  : 0.3129
+HEADER 6  - Hydrophobicity Score              : 27.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.9167
+HEADER 9  - Pocket volume (Monte Carlo)       : 105.6772
+HEADER 10  -Pocket volume (convex hull)       : 2.1772
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0909
+ATOM  20887  NE1 TRP G  58     105.918-146.005  -9.629  0.44  3.28           N 0
+ATOM  26640    O LEU H 345     104.821-147.143  -5.124  0.55  4.29           O 0
+ATOM  21093  CD2 LEU G  82     102.860-142.860  -9.658  0.00  0.00           C 0
+ATOM  26646   CA GLY H 346     102.474-148.473  -5.377  0.00  0.00           C 0
+ATOM  20851  OE1 GLU G  54     100.924-143.406  -4.946  0.52  3.21           O 0
+ATOM  26649    N THR H 347     104.042-149.558  -6.892  0.53  1.09           N 0
+ATOM  21126   CB ARG G  86     102.993-148.386 -12.548  0.00  0.00           C 0
+ATOM  26654  OG1 THR H 347     104.632-150.110  -9.634  0.00  0.00           O 0
+ATOM  21089    O LEU G  82      99.414-145.487 -11.453  0.54  2.14           O 0
+ATOM  21153    N SER G  90      98.366-148.157  -5.375  0.00  0.00           N 0
+ATOM  21158   OG SER G  90      98.905-145.174  -4.826  0.00  0.00           O 0
+ATOM  21157   CB SER G  90      99.528-146.296  -4.221  0.00  0.00           C 0
+ATOM  21178   SG CYS G  93      98.246-143.587  -7.656  0.00  0.00           S 0
+ATOM  21136    O SER G  87      99.566-149.158 -10.151  0.55  3.21           O 0
+ATOM  21140   CA PRO G  88      97.287-147.552  -9.767  0.00  0.00           C 0
+ATOM  21146    N VAL G  89      97.759-149.150  -7.985  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0857
+HEADER 1  - Drug Score                        : 0.0343
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 4.0292
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5088
+HEADER 5  - Mean B-factor of pocket residues  : 0.5061
+HEADER 6  - Hydrophobicity Score              : 20.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.4026
+HEADER 10  -Pocket volume (convex hull)       : 12.8838
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 21.0000
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.6286
+ATOM     11   CA PRO A  43      15.151  50.694 -11.319  0.00  0.00           C 0
+ATOM     14   CB PRO A  43      16.441  50.972 -12.107  0.00  0.00           C 0
+ATOM    391   NZ LYS A  92      18.501  45.495  -9.313  0.56  9.84           N 1
+ATOM    414   OG SER A  95      15.866  42.903 -13.335  0.00  0.00           O 0
+ATOM    580  CD1 ILE A 115       9.645  46.774 -16.301  0.00  0.00           C 0
+ATOM     16   CD PRO A  43      14.676  51.946 -13.355  0.00  0.00           C 0
+ATOM      9   CB VAL A  42      11.199  52.133 -13.439  0.00  0.00           C 0
+ATOM     10    N PRO A  43      14.132  51.453 -12.069  0.00  0.00           N 0
+ATOM      7    C VAL A  42      12.869  51.581 -11.587  0.00  0.00           C 0
+ATOM     15   CG PRO A  43      15.964  51.169 -13.513  0.00  0.00           C 0
+ATOM    539  NE2 GLN A 111      12.832  42.829 -16.051  0.00  0.00           N 0
+ATOM     35  CG1 VAL A  46      13.196  46.298  -8.582  0.00  0.00           C 0
+ATOM    389   CD LYS A  92      16.410  44.766  -8.054  0.00  0.00           C 0
+ATOM     34   CB VAL A  46      12.942  47.747  -8.854  0.00  0.00           C 0
+ATOM     13    O PRO A  43      15.528  50.296  -8.980  0.00  0.00           O 0
+ATOM     43  OD1 ASP A  47      17.644  47.777  -7.665  0.61  3.21           O 0
+ATOM    578  CG1 ILE A 115       8.808  46.778 -15.021  0.00  0.00           C 0
+ATOM     36  CG2 VAL A  46      11.779  47.863  -9.818  0.00  0.00           C 0
+ATOM    378    O MET A  91      13.710  41.762 -11.308  0.52  2.14           O 0
+ATOM      8    O VAL A  42      12.427  50.863 -10.687  0.00  0.00           O 0
+ATOM    379   CB MET A  91      11.015  43.119 -10.183  0.00  0.00           C 0
+ATOM    382   CE MET A  91       9.240  45.554 -11.532  0.00  0.00           C 0
+TER
+END

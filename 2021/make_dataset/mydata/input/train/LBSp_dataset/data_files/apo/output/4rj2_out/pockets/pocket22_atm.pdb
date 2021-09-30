@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.0341
+HEADER 1  - Drug Score                        : 0.0133
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7061
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4530
+HEADER 5  - Mean B-factor of pocket residues  : 0.7116
+HEADER 6  - Hydrophobicity Score              : 52.2000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.6586
+HEADER 10  -Pocket volume (convex hull)       : 4.1466
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8095
+ATOM   7002   CB PHE D 167       5.732 -22.178  34.577  0.00  0.00           C 0
+ATOM   7005  CD2 PHE D 167       5.632 -21.700  37.054  0.00  0.00           C 0
+ATOM   6980    O GLY D 164       2.507 -21.234  35.962  0.00  0.00           O 0
+ATOM   7309  NH1 ARG D 207       1.902 -27.743  34.034  0.00  0.00           N 0
+ATOM   7310  NH2 ARG D 207       3.192 -26.610  32.510  0.64  2.19           N 0
+ATOM   6436   CB VAL D  94       9.353 -24.201  31.769  0.00  0.00           C 0
+ATOM   7001    O PHE D 167       5.931 -22.134  31.356  0.00  0.00           O 0
+ATOM   6437  CG1 VAL D  94       9.425 -23.390  33.064  0.00  0.00           C 0
+ATOM   7304   CB ARG D 207       5.772 -28.851  35.771  0.00  0.00           C 0
+ATOM   7007  CE2 PHE D 167       6.184 -21.202  38.228  0.00  0.00           C 0
+ATOM   7298  CG2 ILE D 206       8.046 -24.386  37.769  0.00  0.00           C 0
+ATOM   7295    O ILE D 206       7.612 -27.184  39.220  0.53  7.50           O 0
+ATOM   7301   CA ARG D 207       6.257 -28.443  37.168  0.00  0.00           C 0
+ATOM   7308   CZ ARG D 207       3.028 -27.645  33.328  0.00  0.00           C 0
+ATOM   7300    N ARG D 207       7.612 -27.884  37.091  0.54  1.09           N 0
+ATOM   7296   CB ILE D 206       9.165 -25.168  37.089  0.00  0.00           C 0
+ATOM   6433   CA VAL D  94       9.905 -25.626  31.976  0.00  0.00           C 0
+ATOM   6435    O VAL D  94       8.436 -26.807  30.496  0.33  3.21           O 0
+TER
+END

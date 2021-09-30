@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1129
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9133
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5760
+HEADER 5  - Mean B-factor of pocket residues  : 0.4852
+HEADER 6  - Hydrophobicity Score              : 4.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 166.5855
+HEADER 10  -Pocket volume (convex hull)       : 1.9673
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1661  NE2 GLN A 217     -22.089 -29.803 -10.314  0.56  5.47           N 0
+ATOM    927   CB SER A 124     -25.785 -28.417 -11.827  0.00  0.00           C 0
+ATOM    921  NE2AGLN A 123     -28.887 -30.756 -11.623  0.63  5.47           N 0
+ATOM    919  OE1AGLN A 123     -29.662 -30.971  -9.535  0.00  0.00           O 0
+ATOM    953  OE2 GLU A 127     -23.497 -30.387 -12.825  0.33  4.29           O 0
+ATOM    903  CE2 TRP A 122     -25.594 -24.399  -6.517  0.00  0.00           C 0
+ATOM    905  CZ2 TRP A 122     -24.417 -24.476  -7.255  0.00  0.00           C 0
+ATOM    897    O TRP A 122     -28.938 -27.773  -6.511  0.00  0.00           O 0
+ATOM    907  CH2 TRP A 122     -24.531 -24.597  -8.616  0.00  0.00           C 0
+ATOM    906  CZ3 TRP A 122     -25.792 -24.656  -9.245  0.00  0.00           C 0
+ATOM   1713  NH1 ARG A 224     -22.483 -27.581  -4.740  0.00  0.00           N 0
+ATOM   1660  OE1 GLN A 217     -20.877 -28.340  -9.103  0.27  7.50           O 0
+ATOM    923    N SER A 124     -27.829 -27.811 -10.750  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1544
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.9832
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6378
+HEADER 5  - Mean B-factor of pocket residues  : 0.2103
+HEADER 6  - Hydrophobicity Score              : 41.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 294.0787
+HEADER 10  -Pocket volume (convex hull)       : 10.5711
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2414
+ATOM     51  CD1APHE A   2      56.862  26.168  24.392  0.00  0.00           C 0
+ATOM     47   CBAPHE A   2      55.740  26.908  26.497  0.00  0.00           C 0
+ATOM   7342  CD1ALEU A 287      55.821  22.723  23.144  0.00  0.00           C 0
+ATOM      7    OAMET A   1      58.583  26.070  27.029  0.00  0.00           O 0
+ATOM   7448  CG1 ILE A 291      52.881  23.801  25.435  0.00  0.00           C 0
+ATOM   7444   CA ILE A 291      52.223  22.404  27.407  0.00  0.00           C 0
+ATOM    201   CB ALA A   7      52.829  27.576  35.187  0.00  0.00           C 0
+ATOM    198   CA ALA A   7      51.814  26.842  34.331  0.00  0.00           C 0
+ATOM    282  NE2 GLN A  10      51.404  22.165  32.593  0.00  0.00           N 0
+ATOM    281  OE1 GLN A  10      50.474  21.257  34.416  0.00  0.00           O 0
+ATOM    187   OGASER A   6      53.028  23.839  31.083  0.52  9.64           O 0
+ATOM    197    N ALA A   7      52.278  26.694  32.965  0.00  0.00           N 0
+ATOM     95  NE2AGLN A   3      56.733  27.510  35.283  0.00  0.00           N 0
+ATOM     45    OAPHE A   2      55.316  26.830  29.145  0.40  2.14           O 0
+ATOM   7401    OAARG A 290      53.115  20.271  28.860  0.23  4.29           O 0
+ATOM   7399    CAARG A 290      53.039  20.154  27.629  0.00  0.00           C 0
+ATOM     85    OAGLN A   3      54.949  27.737  32.502  0.00  0.00           O 0
+ATOM     89   CGAGLN A   3      58.296  27.411  33.423  0.00  0.00           C 0
+ATOM     81   CAAGLN A   3      56.987  27.656  31.209  0.00  0.00           C 0
+ATOM   7443    N ILE A 291      52.580  21.122  26.844  0.00  0.00           N 0
+ATOM    185   CBASER A   6      53.315  25.118  30.532  0.00  0.00           C 0
+ATOM   7403   CBAARG A 290      54.755  19.103  26.201  0.00  0.00           C 0
+TER
+END

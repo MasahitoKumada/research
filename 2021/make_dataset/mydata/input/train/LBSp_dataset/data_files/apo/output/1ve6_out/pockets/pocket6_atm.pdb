@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1705
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9767
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7112
+HEADER 5  - Mean B-factor of pocket residues  : 0.2310
+HEADER 6  - Hydrophobicity Score              : 34.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.2950
+HEADER 10  -Pocket volume (convex hull)       : 1.3754
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    161   CB SER A  26      11.912  85.968  14.271  0.00  0.00           C 0
+ATOM    148    O TYR A  25      12.562  84.766  10.788  0.67  1.07           O 0
+ATOM    147    C TYR A  25      13.576  84.863  11.482  0.00  0.00           C 0
+ATOM   2262   CB PRO A 306      10.828  82.120   9.502  0.00  0.00           C 0
+ATOM    138    C LYS A  24      15.279  81.722  11.049  0.00  0.00           C 0
+ATOM    140   CB LYS A  24      14.132  79.466  10.871  0.00  0.00           C 0
+ATOM   2263   CG PRO A 306       9.916  80.922   9.693  0.00  0.00           C 0
+ATOM    255  CG1 VAL A  39      15.749  84.619  17.898  0.00  0.00           C 0
+ATOM    261    N PHE A  41      17.486  80.847  14.331  0.00  0.00           N 0
+ATOM    303  CG2 VAL A  46      16.114  79.180  19.157  0.00  0.00           C 0
+ATOM    265   CB PHE A  41      16.355  78.673  14.456  0.00  0.00           C 0
+ATOM    302  CG1 VAL A  46      16.586  81.567  19.630  0.00  0.00           C 0
+ATOM    145    N TYR A  25      14.740  82.808  10.504  0.00  0.00           N 0
+ATOM    139    O LYS A  24      15.862  81.737  12.138  0.00  0.00           O 0
+ATOM    157    N SER A  26      13.652  85.639  12.554  0.00  0.00           N 0
+ATOM    162   OG SER A  26      12.848  85.950  15.336  0.58  2.14           O 0
+ATOM    253    O VAL A  39      15.937  85.039  14.343  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0511
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0836
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5574
+HEADER 5  - Mean B-factor of pocket residues  : 0.4326
+HEADER 6  - Hydrophobicity Score              : 43.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.8495
+HEADER 10  -Pocket volume (convex hull)       : 7.9720
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3810
+ATOM   1619   CB ASP A 206      85.783  82.418  80.369  0.00  0.00           C 0
+ATOM   1274   CB VAL A 163      88.151  88.642  85.408  0.00  0.00           C 0
+ATOM   1276  CG2 VAL A 163      86.747  88.959  85.881  0.00  0.00           C 0
+ATOM   1618    O ASP A 206      86.036  82.064  83.214  0.68  9.64           O 0
+ATOM   1275  CG1 VAL A 163      88.529  87.225  85.796  0.00  0.00           C 0
+ATOM   1616   CA ASP A 206      87.063  81.906  81.045  0.00  0.00           C 0
+ATOM   1617    C ASP A 206      86.825  81.460  82.489  0.00  0.00           C 0
+ATOM   1614    O GLY A 205      89.510  82.276  79.904  0.50  4.29           O 0
+ATOM   1298  CD2 LEU A 166      91.129  81.272  84.522  0.00  0.00           C 0
+ATOM   1307  NE1 TRP A 167      90.892  83.983  78.191  0.44  2.19           N 0
+ATOM   1273    O VAL A 163      90.665  89.790  84.127  0.53  5.36           O 0
+ATOM   1280    O VAL A 164      92.177  86.493  84.818  0.75  2.14           O 0
+ATOM   1291    N LEU A 166      93.488  84.225  82.380  0.00  0.00           N 0
+ATOM   1285   CA THR A 165      93.365  86.630  82.307  0.00  0.00           C 0
+ATOM   1289  OG1 THR A 165      93.438  86.267  79.868  0.54  2.14           O 0
+ATOM   1310  CZ2 TRP A 167      90.224  85.663  76.463  0.00  0.00           C 0
+ATOM   1288   CB THR A 165      93.873  87.155  80.906  0.00  0.00           C 0
+ATOM   1308  CE2 TRP A 167      91.117  84.861  77.165  0.00  0.00           C 0
+TER
+END

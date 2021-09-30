@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0039
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1772
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5173
+HEADER 5  - Mean B-factor of pocket residues  : 0.6812
+HEADER 6  - Hydrophobicity Score              : 5.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.7396
+HEADER 10  -Pocket volume (convex hull)       : 6.1542
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM    703   CE LYS A  91      30.793 -92.378 -76.405  0.00  0.00           C 0
+ATOM    685    O GLU A  89      34.187 -90.641 -72.833  0.00  0.00           O 0
+ATOM    704   NZ LYS A  91      29.319 -92.562 -76.232  0.00  0.00           N 0
+ATOM    686   CB GLU A  89      33.667 -93.699 -73.221  0.00  0.00           C 0
+ATOM    681   CB ALA A  88      31.799 -94.301 -68.796  0.00  0.00           C 0
+ATOM    689  OE1 GLU A  89      32.253 -95.090 -75.151  0.57  5.36           O 0
+ATOM    727   CB ASN A  94      31.820 -86.296 -73.661  0.00  0.00           C 0
+ATOM    702   CD LYS A  91      31.182 -90.913 -76.497  0.00  0.00           C 0
+ATOM    730  ND2 ASN A  94      33.081 -88.357 -73.645  0.00  0.00           N 0
+ATOM    453  CD1 TRP A  58      28.453 -86.920 -69.410  0.00  0.00           C 0
+ATOM    455  NE1 TRP A  58      28.429 -85.930 -70.362  0.50  5.47           N 0
+ATOM    468  ND2 ASN A  59      27.046 -90.949 -68.567  0.44  9.84           N 0
+ATOM    677    N ALA A  88      32.891 -92.129 -68.552  0.55  4.37           N 0
+ATOM    682    N GLU A  89      33.905 -92.783 -70.957  0.74  2.19           N 0
+ATOM    451   CB TRP A  58      29.862 -87.548 -67.347  0.00  0.00           C 0
+ATOM    672   CB THR A  87      33.388 -89.218 -69.119  0.00  0.00           C 0
+ATOM    675  CG2ATHR A  87      32.897 -87.788 -68.931  0.00  0.00           C 0
+TER
+END

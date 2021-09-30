@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0321
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2305
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6745
+HEADER 5  - Mean B-factor of pocket residues  : 0.2070
+HEADER 6  - Hydrophobicity Score              : 53.1250
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 351.9231
+HEADER 10  -Pocket volume (convex hull)       : 15.3603
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   1815   CB LEU A1317      13.137 -13.473  75.178  0.00  0.00           C 0
+ATOM   1818  CD2 LEU A1317      15.161 -11.895  75.224  0.00  0.00           C 0
+ATOM   1680   CG ARG A1301      18.152 -12.001  72.210  0.00  0.00           C 0
+ATOM   1814    O LEU A1317      12.486 -14.533  72.221  0.17  5.36           O 0
+ATOM   1684  NH1 ARG A1301      19.221 -13.394  68.991  0.76  3.28           N 1
+ATOM   1863   CG PRO A1322      16.854 -18.708  68.520  0.00  0.00           C 0
+ATOM   1638    O LEU A1296      23.137 -13.553  67.972  0.38  2.14           O 0
+ATOM   1661   CA GLY A1299      24.237 -15.053  71.036  0.00  0.00           C 0
+ATOM   1662    C GLY A1299      23.685 -13.905  71.858  0.00  0.00           C 0
+ATOM   1663    O GLY A1299      23.573 -14.004  73.077  0.00  0.00           O 0
+ATOM   1864   CD PRO A1322      15.521 -18.101  68.942  0.00  0.00           C 0
+ATOM   1682   NE ARG A1301      17.269 -12.994  70.120  0.50  1.09           N 0
+ATOM   1837    O TRP A1320      14.686 -14.751  68.803  0.00  0.00           O 0
+ATOM   1685  NH2 ARG A1301      17.445 -14.803  68.693  0.68  5.47           N 0
+ATOM   1281  CD1 LEU A1252      19.173 -14.926  64.680  0.00  0.00           C 0
+ATOM   1650  CD2 LEU A1297      23.256 -16.587  63.973  0.00  0.00           C 0
+ATOM   1644   CA LEU A1297      24.770 -14.745  66.058  0.00  0.00           C 0
+ATOM   1646    O LEU A1297      26.085 -16.204  67.410  0.44  4.29           O 0
+ATOM   1862   CB PRO A1322      16.725 -19.171  67.141  0.00  0.00           C 0
+ATOM   1683   CZ ARG A1301      17.978 -13.736  69.274  0.00  0.00           C 0
+TER
+END

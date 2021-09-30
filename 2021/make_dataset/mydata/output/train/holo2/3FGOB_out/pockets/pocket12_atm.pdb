@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1685
+HEADER 1  - Drug Score                        : 0.0045
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5463
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3794
+HEADER 5  - Mean B-factor of pocket residues  : 0.7116
+HEADER 6  - Hydrophobicity Score              : 51.1111
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 86.7760
+HEADER 10  -Pocket volume (convex hull)       : 0.4421
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8421
+ATOM   6524   CB ALA B 852      31.541  10.780 -12.533  0.00  0.00           C 0
+ATOM   6000   CB LEU B 783      31.764  17.588 -13.724  0.00  0.00           C 0
+ATOM   6564  CD1 PHE B 856      31.898  11.825 -17.324  0.00  0.00           C 0
+ATOM   6010   CD PRO B 784      30.172  16.300 -16.450  0.00  0.00           C 0
+ATOM   6007    O PRO B 784      28.665  15.438 -13.383  0.43  2.14           O 0
+ATOM   6002  CD1 LEU B 783      33.578  17.418 -12.017  0.00  0.00           C 0
+ATOM   6509  CG1 VAL B 849      33.829  15.036  -9.293  0.00  0.00           C 0
+ATOM   6507    O VAL B 849      34.137  12.145 -10.498  0.00  0.00           O 0
+ATOM   6678  CD2 LEU B 870      35.269  14.731 -16.773  0.00  0.00           C 0
+ATOM   5973  OG1 THR B 778      28.864  16.489 -10.838  0.31  1.07           O 0
+ATOM   6677  CD1 LEU B 870      33.200  15.007 -18.179  0.00  0.00           C 0
+ATOM   6525    N ALA B 853      34.455  11.261 -13.265  0.00  0.00           N 0
+ATOM   6529   CB ALA B 853      36.220  12.965 -13.230  0.00  0.00           C 0
+ATOM   6024   CB ALA B 786      28.970  12.264  -9.725  0.00  0.00           C 0
+ATOM   6526   CA ALA B 853      35.512  11.894 -14.052  0.00  0.00           C 0
+TER
+END

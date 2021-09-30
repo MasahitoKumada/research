@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0834
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7508
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4757
+HEADER 5  - Mean B-factor of pocket residues  : 0.6983
+HEADER 6  - Hydrophobicity Score              : 7.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.2708
+HEADER 10  -Pocket volume (convex hull)       : 10.9338
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM    143  CD1 LEU A  20     -18.112 -13.582  -7.756  0.00  0.00           C 0
+ATOM    142   CG LEU A  20     -19.284 -14.479  -8.106  0.00  0.00           C 0
+ATOM    134   CD LYS A  19     -17.031 -19.976  -9.949  0.00  0.00           C 0
+ATOM    144  CD2 LEU A  20     -20.116 -14.795  -6.872  0.00  0.00           C 0
+ATOM    132   CB LYS A  19     -18.973 -18.486 -10.412  0.00  0.00           C 0
+ATOM    102    O GLN A  16     -16.499 -16.839 -12.280  0.44  2.14           O 0
+ATOM     65    O LYS A  11     -11.726 -16.920  -9.305  0.65  1.07           O 0
+ATOM    114  CD1 TRP A  17     -14.772 -12.364 -13.300  0.00  0.00           C 0
+ATOM    109   CA TRP A  17     -16.851 -14.498 -13.686  0.00  0.00           C 0
+ATOM     11    O ASP A   5     -15.393 -11.989  -7.390  0.00  0.00           O 0
+ATOM     74    O ASN A  12     -12.281 -12.569 -11.172  0.00  0.00           O 0
+ATOM     72   CA ASN A  12     -11.523 -14.198  -9.580  0.00  0.00           C 0
+ATOM     75   CB ASN A  12     -11.497 -13.114  -8.494  0.00  0.00           C 0
+ATOM     67   CG LYS A  11     -10.282 -18.224  -6.883  0.00  0.00           C 0
+ATOM    103   CB GLN A  16     -13.734 -17.737 -12.184  0.00  0.00           C 0
+TER
+END

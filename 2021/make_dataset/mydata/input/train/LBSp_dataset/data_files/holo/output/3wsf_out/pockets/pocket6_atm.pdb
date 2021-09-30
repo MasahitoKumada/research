@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1005
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9975
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6215
+HEADER 5  - Mean B-factor of pocket residues  : 0.6467
+HEADER 6  - Hydrophobicity Score              : -7.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.9032
+HEADER 10  -Pocket volume (convex hull)       : 2.2452
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   2857   CB GLU B 119     -34.200 -72.282 -42.689  0.00  0.00           C 0
+ATOM   2830    O ASP B 115     -31.624 -74.357 -42.869  0.68  3.21           O 0
+ATOM   2832   CG ASP B 115     -27.480 -73.311 -43.401  0.00  0.00           C 0
+ATOM   2833  OD1 ASP B 115     -27.301 -73.498 -42.173  0.76  6.43           O 0
+ATOM   2805  OD1 ASN B 111     -29.474 -70.119 -46.948  0.12  7.50           O 0
+ATOM   2831   CB ASP B 115     -28.646 -74.009 -44.082  0.00  0.00           C 0
+ATOM   2920   CG PRO B 126     -28.670 -70.263 -37.134  0.00  0.00           C 0
+ATOM   2851    O ALA B 118     -33.921 -73.500 -38.632  0.51  3.21           O 0
+ATOM   2883   CA ASN B 122     -36.434 -71.384 -37.214  0.00  0.00           C 0
+ATOM   2888  OD1 ASN B 122     -36.656 -68.598 -37.585  0.57  6.43           O 0
+ATOM   2854   CA GLU B 119     -34.458 -72.705 -41.238  0.00  0.00           C 0
+ATOM   2852   CB ALA B 118     -30.897 -74.587 -39.201  0.00  0.00           C 0
+ATOM   2850    C ALA B 118     -33.323 -74.059 -39.559  0.00  0.00           C 0
+ATOM   2893    O LEU B 123     -32.404 -70.048 -35.515  0.52  5.36           O 0
+ATOM   2890    N LEU B 123     -34.410 -72.063 -36.056  0.00  0.00           N 0
+ATOM   2853    N GLU B 119     -33.516 -73.750 -40.839  0.00  0.00           N 0
+TER
+END

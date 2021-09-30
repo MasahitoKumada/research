@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1770
+HEADER 1  - Drug Score                        : 0.6030
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.1039
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5735
+HEADER 5  - Mean B-factor of pocket residues  : 0.3100
+HEADER 6  - Hydrophobicity Score              : 38.1250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 483.2387
+HEADER 10  -Pocket volume (convex hull)       : 45.7936
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.8182
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4583
+ATOM    928   CB MET G 116     -28.455 -29.919  61.548  0.00  0.00           C 0
+ATOM    931   CE MET G 116     -26.720 -27.865  62.913  0.00  0.00           C 0
+ATOM    916   OG SER G 114     -24.626 -26.954  57.126  0.45  9.64           O 0
+ATOM    888  OG1 THR G 110     -28.657 -25.715  56.457  0.00  0.00           O 0
+ATOM    874  CG2 VAL G 108     -33.818 -29.616  59.298  0.00  0.00           C 0
+ATOM    948  CG1 ILE G 118     -30.716 -31.395  65.893  0.00  0.00           C 0
+ATOM    950  CD1 ILE G 118     -31.126 -29.891  66.162  0.00  0.00           C 0
+ATOM    858    O ILE G 106     -34.380 -35.012  60.986  0.75  9.64           O 0
+ATOM    872   CB VAL G 108     -32.528 -29.344  58.528  0.00  0.00           C 0
+ATOM    930   SD MET G 116     -27.944 -28.717  63.929  0.00  0.00           S 0
+ATOM    929   CG MET G 116     -28.482 -30.090  63.043  0.00  0.00           C 0
+ATOM    947   CB ILE G 118     -31.492 -32.448  66.709  0.00  0.00           C 0
+ATOM    873  CG1 VAL G 108     -32.626 -28.016  57.744  0.00  0.00           C 0
+ATOM    924    N MET G 116     -27.856 -31.229  59.653  0.00  0.00           N 0
+ATOM    914    O SER G 114     -26.520 -29.358  55.798  0.00  0.00           O 0
+ATOM    943    N ILE G 118     -30.997 -34.075  64.859  0.69  3.28           N 0
+ATOM    946    O ILE G 118     -33.162 -34.649  67.224  0.66  9.64           O 0
+ATOM    927    O MET G 116     -30.139 -32.288  60.706  0.69  3.21           O 0
+ATOM    871    O VAL G 108     -29.782 -30.431  57.573  0.52  1.07           O 0
+ATOM    859   CB ILE G 106     -37.046 -35.543  59.300  0.00  0.00           C 0
+ATOM    842    O PRO G 104     -36.541 -37.207  63.353  0.63  1.07           O 0
+ATOM    843   CB PRO G 104     -39.514 -36.682  63.034  0.00  0.00           C 0
+ATOM    844   CG PRO G 104     -40.425 -36.089  64.125  0.00  0.00           C 0
+ATOM    845   CD PRO G 104     -39.644 -36.319  65.433  0.00  0.00           C 0
+ATOM    838   OG SER G 103     -35.967 -36.848  67.450  0.71  1.07           O 0
+ATOM    837   CB SER G 103     -37.321 -36.403  67.679  0.00  0.00           C 0
+TER
+END

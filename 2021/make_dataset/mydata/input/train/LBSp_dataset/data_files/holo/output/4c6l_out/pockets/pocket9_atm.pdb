@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0458
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0015
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6076
+HEADER 5  - Mean B-factor of pocket residues  : 0.1869
+HEADER 6  - Hydrophobicity Score              : -3.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.9396
+HEADER 10  -Pocket volume (convex hull)       : 3.1080
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   5633    O ASP A1808      -8.802 -34.676  -4.274  0.69  1.07           O 0
+ATOM   5729  CD1 TRP A1812      -6.167 -36.739  -6.148  0.00  0.00           C 0
+ATOM   5687   CBALYS A1811      -7.394 -36.009  -1.377  0.00  0.00           C 0
+ATOM   5620  OE1 GLN A1807      -8.699 -39.388  -7.508  0.46  5.36           O 0
+ATOM   5731  NE1 TRP A1812      -7.139 -36.979  -7.086  0.00  0.00           N 0
+ATOM   5691   CDALYS A1811      -9.439 -36.624  -0.015  0.00  0.00           C 0
+ATOM    963  OE2 GLU A1524     -12.646 -37.828  -1.234  0.47  3.21           O 0
+ATOM   5618   CG GLN A1807     -11.065 -39.078  -7.742  0.00  0.00           C 0
+ATOM   5619   CD GLN A1807      -9.750 -39.801  -7.987  0.00  0.00           C 0
+ATOM    960   CG GLU A1524     -14.766 -37.564  -2.247  0.00  0.00           C 0
+ATOM    961   CD GLU A1524     -13.850 -38.148  -1.201  0.00  0.00           C 0
+ATOM   5609    O GLY A1806     -14.588 -38.189  -7.385  0.58  2.14           O 0
+ATOM   5617   CB GLN A1807     -10.863 -37.637  -7.265  0.00  0.00           C 0
+ATOM   5630    N ASP A1808     -11.556 -35.395  -5.241  0.72  1.09           N 0
+ATOM    959   CB GLU A1524     -16.016 -38.412  -2.516  0.00  0.00           C 0
+ATOM   5581    O GLY A1804     -16.258 -41.242  -7.985  0.20  8.57           O 0
+ATOM    958    O GLU A1524     -17.479 -39.659  -5.164  0.68  6.43           O 0
+ATOM   5614   CA GLN A1807     -12.171 -36.881  -7.029  0.00  0.00           C 0
+TER
+END

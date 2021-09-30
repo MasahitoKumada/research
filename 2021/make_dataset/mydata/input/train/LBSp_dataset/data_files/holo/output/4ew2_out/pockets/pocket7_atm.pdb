@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1441
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8436
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6199
+HEADER 5  - Mean B-factor of pocket residues  : 0.5044
+HEADER 6  - Hydrophobicity Score              : 17.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.8733
+HEADER 10  -Pocket volume (convex hull)       : 8.8164
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1348   CB LEU A 978     -15.221  50.494  88.445  0.00  0.00           C 0
+ATOM   1320    O ARG A 975     -11.741  49.480  88.262  0.62  2.14           O 0
+ATOM   1322   CG ARG A 975     -11.256  46.743  86.294  0.00  0.00           C 0
+ATOM   1350  CD1 LEU A 978     -16.189  49.596  86.343  0.00  0.00           C 0
+ATOM   1201  CG2 VAL A 961      -9.033  47.306  91.178  0.00  0.00           C 0
+ATOM   1188  OE2AGLU A 959     -12.769  46.514  93.859  0.00  0.00           O 0
+ATOM   1193    O ALA A 960      -9.232  44.484  93.274  0.58  3.21           O 0
+ATOM   1208   CD PRO A 962      -9.139  42.850  88.988  0.00  0.00           C 0
+ATOM   1196   CA VAL A 961      -8.038  45.001  90.724  0.00  0.00           C 0
+ATOM   1200  CG1 VAL A 961      -8.686  46.564  88.807  0.00  0.00           C 0
+ATOM   1352    N ALA A 979     -13.265  50.744  90.990  0.77  1.09           N 0
+ATOM   1356   CB ALA A 979     -11.586  49.536  92.382  0.00  0.00           C 0
+ATOM   1353   CA ALA A 979     -12.886  50.378  92.356  0.00  0.00           C 0
+ATOM   1347    O LEU A 978     -15.332  51.441  91.610  0.00  0.00           O 0
+ATOM   1390   CEALYS A 982     -17.556  47.789  95.469  0.00  0.00           C 0
+ATOM   1392   NZALYS A 982     -17.542  46.315  95.176  0.00  0.00           N 0
+ATOM   1346    C LEU A 978     -14.465  51.265  90.727  0.00  0.00           C 0
+TER
+END

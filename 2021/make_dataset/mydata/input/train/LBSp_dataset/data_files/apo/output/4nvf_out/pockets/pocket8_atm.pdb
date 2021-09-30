@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0288
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8346
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6368
+HEADER 5  - Mean B-factor of pocket residues  : 0.4279
+HEADER 6  - Hydrophobicity Score              : 6.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.3910
+HEADER 10  -Pocket volume (convex hull)       : 9.2868
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   2148    O ASN A 251     -32.714 -49.821 100.089  0.48  8.57           O 0
+ATOM   2143    O ALA A 250     -31.610 -54.167  98.619  0.67  5.36           O 0
+ATOM   2169  NE2 GLN A 253     -27.613 -52.833 104.380  0.00  0.00           N 0
+ATOM   2147    C ASN A 251     -33.065 -50.987 100.017  0.00  0.00           C 0
+ATOM   2146   CA ASN A 251     -32.973 -51.751  98.703  0.00  0.00           C 0
+ATOM   2151  OD1 ASN A 251     -31.975 -51.050  95.796  0.52  7.50           O 0
+ATOM   2166   CG GLN A 253     -29.805 -53.815 104.135  0.00  0.00           C 0
+ATOM   1711  CD1 LEU A 202     -28.766 -57.452  99.302  0.00  0.00           C 0
+ATOM   1672  ND2 ASN A 198     -31.469 -55.713 101.778  0.61  1.09           N 0
+ATOM   2161    N GLN A 253     -32.407 -52.319 103.933  0.62  2.19           N 0
+ATOM   2167   CD GLN A 253     -28.339 -53.926 104.512  0.00  0.00           C 0
+ATOM   1671  OD1 ASN A 198     -29.961 -57.176 102.584  0.43  2.14           O 0
+ATOM   2168  OE1 GLN A 253     -27.873 -54.985 104.920  0.33  7.50           O 0
+ATOM   1680  OE1 GLU A 199     -25.519 -60.769 102.615  0.73  7.50           O 0
+TER
+END

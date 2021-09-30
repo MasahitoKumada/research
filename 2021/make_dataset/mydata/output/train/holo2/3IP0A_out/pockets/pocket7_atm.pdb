@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0522
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9290
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4717
+HEADER 5  - Mean B-factor of pocket residues  : 0.4982
+HEADER 6  - Hydrophobicity Score              : 5.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.5533
+HEADER 10  -Pocket volume (convex hull)       : 3.9660
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   1173  OE1 GLN A  74     -17.782  -4.230   4.112  0.00  0.00           O 0
+ATOM   1171   CD GLN A  74     -16.787  -3.610   4.534  0.00  0.00           C 0
+ATOM   1404  NH2 ARG A  84     -15.566   0.034   2.468  0.48  2.19           N 0
+ATOM   1169   CB GLN A  74     -18.125  -2.839   6.543  0.00  0.00           C 0
+ATOM   1232  OE1 GLU A  77     -15.727   0.903   7.133  0.65  1.07           O 0
+ATOM   1247   CGALEU A  78     -21.623   1.559   6.401  0.00  0.00           C 0
+ATOM   1249  CD1ALEU A  78     -22.238   0.391   5.665  0.00  0.00           C 0
+ATOM   1403  NH1 ARG A  84     -15.833   0.842   0.327  0.00  0.00           N 1
+ATOM   1402   CZ ARG A  84     -15.603   1.070   1.618  0.00  0.00           C 0
+ATOM   1168    O GLN A  74     -19.661  -0.548   8.283  0.00  0.00           O 0
+ATOM   1329    O ARG A  82     -20.058   6.334   5.858  0.45  4.29           O 0
+ATOM   1251  CD2ALEU A  78     -21.629   2.802   5.541  0.00  0.00           C 0
+ATOM   1399   CG ARG A  84     -15.850   4.804   1.883  0.00  0.00           C 0
+ATOM   1331   CGAARG A  82     -16.865   4.945   6.507  0.00  0.00           C 0
+ATOM   1401   NE ARG A  84     -15.421   2.330   2.036  0.52  2.19           N 0
+ATOM   1394    N ARG A  84     -17.320   7.385   2.440  0.65  4.37           N 0
+ATOM   1400   CD ARG A  84     -15.448   3.505   1.154  0.00  0.00           C 0
+TER
+END

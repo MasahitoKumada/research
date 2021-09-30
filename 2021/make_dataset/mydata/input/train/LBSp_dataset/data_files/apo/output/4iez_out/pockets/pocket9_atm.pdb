@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0923
+HEADER 1  - Drug Score                        : 0.0042
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9545
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5715
+HEADER 5  - Mean B-factor of pocket residues  : 0.2411
+HEADER 6  - Hydrophobicity Score              : -4.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.4339
+HEADER 10  -Pocket volume (convex hull)       : 8.4435
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM    404    O ASP A  54      -6.555   1.129 -62.444  0.70  1.07           O 0
+ATOM    632   CA GLY A  78     -11.346   3.175 -63.641  0.00  0.00           C 0
+ATOM    410   CA GLN A  55      -5.304   0.318 -64.674  0.00  0.00           C 0
+ATOM    412    O GLN A  55      -7.353  -0.770 -65.285  0.50  6.43           O 0
+ATOM    395   CG PHE A  53      -7.449   6.217 -60.992  0.00  0.00           C 0
+ATOM    396  CD1 PHE A  53      -8.696   5.711 -61.325  0.00  0.00           C 0
+ATOM   1218   CG PRO A 150     -11.353   8.238 -65.251  0.00  0.00           C 0
+ATOM    394   CB PHE A  53      -6.201   5.389 -61.205  0.00  0.00           C 0
+ATOM    642  OE1 GLU A  79     -11.195   4.581 -67.180  0.00  0.00           O 0
+ATOM    414   CG GLN A  55      -4.929  -0.315 -67.123  0.00  0.00           C 0
+ATOM    657  NE2 HIS A  81     -10.051  -0.752 -63.957  0.48  1.09           N 0
+ATOM    403    C ASP A  54      -5.337   0.993 -62.384  0.00  0.00           C 0
+ATOM    409    N GLN A  55      -4.626   0.577 -63.417  0.68  2.19           N 0
+ATOM    393    O PHE A  53      -3.490   3.794 -60.429  0.53  5.36           O 0
+ATOM    638    O GLU A  79     -13.237   0.550 -66.549  0.75  5.36           O 0
+ATOM    635    N GLU A  79     -12.750   3.187 -65.577  0.54  1.09           N 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1039
+HEADER 1  - Drug Score                        : 0.0084
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7919
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4295
+HEADER 5  - Mean B-factor of pocket residues  : 0.6169
+HEADER 6  - Hydrophobicity Score              : 0.2222
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 363.4761
+HEADER 10  -Pocket volume (convex hull)       : 44.6643
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3200
+ATOM    698   CD ARG A 897      -0.364  74.224  92.863  0.00  0.00           C 0
+ATOM    687    O MET A 896      -0.065  70.623  92.065  0.41  1.07           O 0
+ATOM    278   CEALYS A 844      -4.100  75.154  86.999  0.00  0.00           C 0
+ATOM    701  NH1 ARG A 897       1.772  75.365  91.490  0.00  0.00           N 0
+ATOM    688   CB MET A 896      -2.238  69.547  90.618  0.00  0.00           C 0
+ATOM    422  ND2 ASN A 864      -5.197  82.984  89.922  0.00  0.00           N 0
+ATOM    268   CAALYS A 844      -8.067  76.761  89.291  0.00  0.00           C 0
+ATOM    282    N ALA A 845      -9.739  78.200  88.314  0.65  5.47           N 0
+ATOM    280   NZALYS A 844      -4.257  76.458  86.284  0.00  0.00           N 0
+ATOM    262    O ASN A 843      -6.260  77.831  91.143  0.54  1.07           O 0
+ATOM    432  NE2 HIS A 865       0.544  78.388  91.042  0.60  4.37           N 0
+ATOM    441   NZ LYS A 866       1.268  80.516  87.984  0.00  0.00           N 0
+ATOM    266  ND2 ASN A 843      -3.963  75.042  91.638  0.63  1.09           N 0
+ATOM    430  CD2 HIS A 865      -0.550  78.214  91.853  0.00  0.00           C 0
+ATOM    440   CE LYS A 866      -0.090  81.057  87.650  0.00  0.00           C 0
+ATOM     56   CB SER A 815      -6.010  71.068  90.526  0.00  0.00           C 0
+ATOM    276   CDALYS A 844      -5.426  74.630  87.465  0.00  0.00           C 0
+ATOM    421  OD1 ASN A 864      -3.581  81.865  91.011  0.47  5.36           O 0
+ATOM    689   CG MET A 896      -3.152  68.522  90.001  0.00  0.00           C 0
+ATOM     55    O SER A 815      -7.663  72.022  88.341  0.70  3.21           O 0
+TER
+END

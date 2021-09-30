@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1502
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9105
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4579
+HEADER 5  - Mean B-factor of pocket residues  : 0.4378
+HEADER 6  - Hydrophobicity Score              : 9.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 256.8645
+HEADER 10  -Pocket volume (convex hull)       : 6.7100
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   1067    O ASP A 142     -25.981  10.245  -2.676  0.22  2.14           O 0
+ATOM     69   CB ARG A  11     -31.319  13.454  -2.749  0.00  0.00           C 0
+ATOM   1071  OD2 ASP A 142     -27.858   8.421  -4.647  0.00  0.00           O 0
+ATOM     82    N GLY A  13     -30.467  11.754   2.032  0.45  4.37           N 0
+ATOM     74  NH1 ARG A  11     -33.656  11.516  -0.888  0.00  0.00           N 0
+ATOM     83   CA GLY A  13     -31.054  10.656   2.776  0.00  0.00           C 0
+ATOM   1077  CG1 VAL A 143     -23.913  10.296   1.174  0.00  0.00           C 0
+ATOM    898  CD2 HIS A 120     -28.330  12.338   6.186  0.00  0.00           C 0
+ATOM     68    O ARG A  11     -28.924  13.931  -0.991  0.47  5.36           O 0
+ATOM    894    O HIS A 120     -24.755  13.341   2.508  0.51  1.07           O 0
+ATOM   1085   CD PRO A 144     -25.317  14.170  -0.733  0.00  0.00           C 0
+ATOM    889    O ALA A 119     -24.171  10.790   6.153  0.30  4.29           O 0
+ATOM   1073   CA VAL A 143     -24.064  11.496  -1.052  0.00  0.00           C 0
+ATOM    892   CA HIS A 120     -25.200  12.999   4.830  0.00  0.00           C 0
+ATOM   1055    O TYR A 141     -24.998   7.323  -0.813  0.00  0.00           O 0
+TER
+END

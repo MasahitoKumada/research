@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.1021
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.2458
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6639
+HEADER 5  - Mean B-factor of pocket residues  : 0.4203
+HEADER 6  - Hydrophobicity Score              : -5.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 330.8942
+HEADER 10  -Pocket volume (convex hull)       : 9.3058
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   1955  NH1 ARG A 259      13.392 -38.044  39.103  0.68  3.28           N 1
+ATOM   1940    O GLU A 258      18.659 -37.332  36.034  0.70  8.57           O 0
+ATOM   1945  OE2 GLU A 258      17.764 -37.995  41.513  0.00  0.00           O 1
+ATOM   1973   CG LYS A 262      18.797 -41.288  33.878  0.00  0.00           C 0
+ATOM   1976   NZ LYS A 262      16.822 -43.804  31.759  0.00  0.00           N 1
+ATOM    942    O ALA A 126      14.949 -41.378  31.335  0.45  2.14           O 0
+ATOM    945   CA GLY A 127      12.260 -40.779  31.717  0.00  0.00           C 0
+ATOM   1975   CE LYS A 262      17.568 -43.261  32.924  0.00  0.00           C 0
+ATOM   1951   CG ARG A 259      13.899 -37.754  35.793  0.00  0.00           C 0
+ATOM   1939    C GLU A 258      17.956 -36.502  36.602  0.00  0.00           C 0
+ATOM   1954   CZ ARG A 259      12.471 -38.784  38.490  0.00  0.00           C 0
+ATOM   1972   CB LYS A 262      18.914 -39.765  33.909  0.00  0.00           C 0
+ATOM   1947   CA ARG A 259      16.112 -36.791  35.025  0.00  0.00           C 0
+ATOM   1953   NE ARG A 259      12.068 -38.484  37.253  0.55  6.56           N 0
+ATOM   1974   CD LYS A 262      17.891 -41.783  32.754  0.00  0.00           C 0
+ATOM   1956  NH2 ARG A 259      11.944 -39.829  39.123  0.00  0.00           N 0
+ATOM    947    O GLY A 127      11.586 -38.956  33.119  0.46  7.50           O 0
+ATOM   1941   CB GLU A 258      18.092 -36.574  39.102  0.00  0.00           C 0
+TER
+END

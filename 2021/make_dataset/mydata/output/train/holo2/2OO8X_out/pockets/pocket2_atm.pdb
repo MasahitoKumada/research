@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.2797
+HEADER 1  - Drug Score                        : 0.0055
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0275
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3984
+HEADER 5  - Mean B-factor of pocket residues  : 0.6607
+HEADER 6  - Hydrophobicity Score              : 50.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.3780
+HEADER 10  -Pocket volume (convex hull)       : 6.5289
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM    534  CD1 ILE X 902      57.048  -1.282  74.867  0.00  0.00           C 0
+ATOM    459  CD1 ILE X 886      57.104   0.699  71.036  0.00  0.00           C 0
+ATOM   1152    O ASP X 982      51.161   3.606  72.386  0.26  1.07           O 0
+ATOM   1166  CE2 PHE X 983      53.232   2.450  77.164  0.00  0.00           C 0
+ATOM   1164  CD2 PHE X 983      51.921   2.616  76.681  0.00  0.00           C 0
+ATOM    176  CG2 VAL X 838      49.278  -3.964  77.346  0.00  0.00           C 0
+ATOM   1148   CB ALA X 981      55.865   4.441  74.600  0.00  0.00           C 0
+ATOM    349  OE2 GLU X 872      51.046  -0.515  70.084  0.00  0.00           O 1
+ATOM    253   NZ LYS X 855      48.561  -1.254  72.757  0.41  3.28           N 1
+ATOM    533  CG2 ILE X 902      56.965  -3.012  72.101  0.00  0.00           C 0
+ATOM   1149    N ASP X 982      53.655   5.184  72.862  0.00  0.00           N 0
+ATOM    380  CD1 LEU X 876      55.112  -1.376  68.464  0.00  0.00           C 0
+ATOM    519   CG LEU X 900      52.787  -5.289  69.515  0.00  0.00           C 0
+ATOM    252   CE LYS X 855      48.973  -2.673  72.593  0.00  0.00           C 0
+ATOM    517    O LEU X 900      53.180  -7.089  72.650  0.00  0.00           O 0
+ATOM    532  CG1 ILE X 902      56.995  -2.789  74.627  0.00  0.00           C 0
+TER
+END

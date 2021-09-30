@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1612
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7279
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4290
+HEADER 5  - Mean B-factor of pocket residues  : 0.2840
+HEADER 6  - Hydrophobicity Score              : 4.8182
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 148.4241
+HEADER 10  -Pocket volume (convex hull)       : 2.4743
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1155   CA ALA A 148      52.312   2.710   9.532  0.00  0.00           C 0
+ATOM   1986  NH2 ARG A 251      51.009  -3.769   8.735  0.40  3.28           N 0
+ATOM   1154    N ALA A 148      53.656   2.387   9.118  0.00  0.00           N 0
+ATOM   1153    O GLY A 147      54.189   1.582  11.117  0.65  3.21           O 0
+ATOM   1152    C GLY A 147      54.518   1.895   9.983  0.00  0.00           C 0
+ATOM   1410  OE1 GLU A 179      55.520  -2.907  10.321  0.50  7.50           O 0
+ATOM   2008  NH2 ARG A 253      50.728  -2.366   5.053  0.42  1.09           N 0
+ATOM   1985  NH1 ARG A 251      51.643  -5.100   6.990  0.21  8.75           N 0
+ATOM   2219  CD2 LEU A 282      52.076  -4.008  12.562  0.00  0.00           C 0
+ATOM   2371  OD2 ASP A 301      48.907  -1.825   9.477  0.55  4.29           O 0
+ATOM   2212    N LEU A 282      52.417  -0.743  14.214  0.54  1.09           N 0
+ATOM   2007  NH1 ARG A 253      50.067  -1.110   6.838  0.45  3.28           N 0
+ATOM   1370   CA HIS A 175      56.702   0.010   4.907  0.00  0.00           C 0
+ATOM   1379    N ASP A 176      58.229  -0.674   6.679  0.65  1.09           N 0
+ATOM   1382    O ASP A 176      59.315  -3.237   7.448  0.62  1.07           O 0
+ATOM   1373   CB HIS A 175      56.830  -0.677   3.525  0.00  0.00           C 0
+ATOM   1407   CB GLU A 179      57.331  -4.957   9.631  0.00  0.00           C 0
+ATOM   1375  ND1 HIS A 175      54.402  -1.282   3.176  0.44  5.47           N 0
+ATOM   1419   CE LYS A 180      57.220  -6.679   3.698  0.00  0.00           C 0
+ATOM   1364    O ILE A 174      54.994   1.517   6.522  0.58  2.14           O 0
+TER
+END

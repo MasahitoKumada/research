@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0223
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1057
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6056
+HEADER 5  - Mean B-factor of pocket residues  : 0.5815
+HEADER 6  - Hydrophobicity Score              : 46.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.2148
+HEADER 10  -Pocket volume (convex hull)       : 2.3889
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   2535    O ASN B 281      43.520  -7.538  57.420  0.61  4.29           O 0
+ATOM   2534    C ASN B 281      42.820  -6.522  57.479  0.00  0.00           C 0
+ATOM   2568   SD MET B 285      42.796 -12.248  59.872  0.00  0.00           S 0
+ATOM   2536   CB ASN B 281      43.187  -4.923  59.371  0.00  0.00           C 0
+ATOM   2488   CZ PHE B 275      40.117 -12.274  56.730  0.00  0.00           C 0
+ATOM   2486  CE1 PHE B 275      39.765 -13.497  57.280  0.00  0.00           C 0
+ATOM   2515   OH TYR B 278      37.342  -6.826  60.707  0.00  0.00           O 0
+ATOM   2541   CA SER B 282      40.842  -7.759  56.799  0.00  0.00           C 0
+ATOM   2544   CB SER B 282      39.322  -7.556  56.774  0.00  0.00           C 0
+ATOM   2540    N SER B 282      41.516  -6.527  57.203  0.85  1.09           N 0
+ATOM   2492    O VAL B 276      36.721  -9.851  55.658  0.62  2.14           O 0
+ATOM   2513  CE2 TYR B 278      36.125  -7.511  58.756  0.00  0.00           C 0
+ATOM   2489    N VAL B 276      35.461 -12.555  55.090  0.70  3.28           N 0
+ATOM   2493   CB VAL B 276      33.864 -10.732  55.602  0.00  0.00           C 0
+TER
+END

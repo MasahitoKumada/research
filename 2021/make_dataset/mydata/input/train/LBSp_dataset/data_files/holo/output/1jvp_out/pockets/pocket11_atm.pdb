@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0004
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9091
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5939
+HEADER 5  - Mean B-factor of pocket residues  : 0.1600
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.4047
+HEADER 10  -Pocket volume (convex hull)       : 2.9745
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   1160   CE LYS P 142       5.350  39.772  10.608  0.00  0.00           C 0
+ATOM   1159   CD LYS P 142       4.454  39.172  11.670  0.00  0.00           C 0
+ATOM   1161   NZ LYS P 142       4.647  40.864   9.880  0.52  9.84           N 0
+ATOM    461  CG1 VAL P  64      -0.266  36.166  10.071  0.00  0.00           C 0
+ATOM    462  CG2 VAL P  64       1.223  35.637  11.968  0.00  0.00           C 0
+ATOM   1100   CB LEU P 134       4.847  32.842  11.492  0.00  0.00           C 0
+ATOM   1102  CD1 LEU P 134       2.492  32.423  10.864  0.00  0.00           C 0
+ATOM   1099    O LEU P 134       6.993  34.691  12.737  0.73  1.07           O 0
+ATOM    457   CA VAL P  64       0.257  37.947  11.764  0.00  0.00           C 0
+ATOM    463    N LYS P  65      -0.811  39.489  10.230  0.59  2.19           N 0
+ATOM   1107    O ILE P 135       9.021  33.614   8.971  0.33  9.64           O 0
+ATOM   1158   CG LYS P 142       5.258  38.365  12.675  0.00  0.00           C 0
+ATOM   1112    N ASN P 136      10.276  35.377   9.597  0.00  0.00           N 0
+ATOM   1106    C ILE P 135       9.522  34.311   9.852  0.00  0.00           C 0
+ATOM   1116   CB ASN P 136       9.903  37.021   7.809  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0874
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8206
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6265
+HEADER 5  - Mean B-factor of pocket residues  : 0.5761
+HEADER 6  - Hydrophobicity Score              : 34.2000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.7360
+HEADER 10  -Pocket volume (convex hull)       : 4.5044
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   1541   CE LYS B 252      25.489   9.405  -3.811  0.00  0.00           C 0
+ATOM   1542   NZ LYS B 252      25.568   7.921  -3.784  0.00  0.00           N 0
+ATOM   1530    O VAL B 251      27.751  11.567  -6.394  0.67  9.64           O 0
+ATOM   1520   CB PHE B 250      29.803  13.051  -2.683  0.00  0.00           C 0
+ATOM   1521   CG PHE B 250      28.515  12.910  -1.924  0.00  0.00           C 0
+ATOM    625   CA LYS A 287      27.516   5.955   3.712  0.00  0.00           C 0
+ATOM    627    O LYS A 287      29.080   4.329   2.879  0.46  5.36           O 0
+ATOM    622    O ALA A 286      26.058   6.977   1.611  0.57  4.29           O 0
+ATOM    632   NZ LYS A 287      31.082   9.412   4.554  0.39  9.84           N 0
+ATOM    630   CD LYS A 287      28.733   8.566   4.955  0.00  0.00           C 0
+ATOM   1522  CD1 PHE B 250      27.306  12.741  -2.594  0.00  0.00           C 0
+ATOM   1523  CD2 PHE B 250      28.507  12.943  -0.532  0.00  0.00           C 0
+ATOM   1525  CE2 PHE B 250      27.312  12.808   0.180  0.00  0.00           C 0
+ATOM   1526   CZ PHE B 250      26.112  12.639  -0.504  0.00  0.00           C 0
+ATOM   1524  CE1 PHE B 250      26.109  12.607  -1.894  0.00  0.00           C 0
+TER
+END

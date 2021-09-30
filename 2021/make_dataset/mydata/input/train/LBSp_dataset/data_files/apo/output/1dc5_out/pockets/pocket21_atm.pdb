@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0406
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8718
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6004
+HEADER 5  - Mean B-factor of pocket residues  : 0.7538
+HEADER 6  - Hydrophobicity Score              : -11.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.3967
+HEADER 10  -Pocket volume (convex hull)       : 5.3450
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1085   CG GLN A 141     -13.911  93.050 -21.089  0.00  0.00           C 0
+ATOM   1095  OD1 ASP A 142      -9.953  88.739 -21.308  0.00  0.00           O 0
+ATOM   1100    O ILE A 143     -14.215  88.635 -18.810  0.71  3.21           O 0
+ATOM   1084   CB GLN A 141     -14.055  91.630 -21.621  0.00  0.00           C 0
+ATOM   1101   CB ILE A 143     -12.069  86.422 -18.615  0.00  0.00           C 0
+ATOM    794  OD1 ASP A 102      -8.640  87.934 -16.334  0.00  0.00           O 0
+ATOM    966   CA THR A 125     -14.492  90.406 -13.908  0.00  0.00           C 0
+ATOM    965    N THR A 125     -14.116  90.885 -12.578  0.00  0.00           N 0
+ATOM    964  ND2 ASN A 124     -11.142  92.330 -11.025  0.55  3.28           N 0
+ATOM    963  OD1 ASN A 124     -11.109  94.262 -12.174  0.00  0.00           O 0
+ATOM    978   CD PRO A 126     -15.100  91.585 -16.526  0.00  0.00           C 0
+ATOM    960    O ASN A 124     -14.951  92.936 -12.960  0.00  0.00           O 0
+ATOM    970  OG1 THR A 125     -13.131  88.413 -13.590  0.70  1.07           O 0
+ATOM    792   CB ASP A 102      -8.708  87.690 -13.966  0.00  0.00           C 0
+ATOM    971  CG2 THR A 125     -14.736  88.377 -15.383  0.00  0.00           C 0
+TER
+END

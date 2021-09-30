@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0502
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5885
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3835
+HEADER 5  - Mean B-factor of pocket residues  : 0.5042
+HEADER 6  - Hydrophobicity Score              : 22.9000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.0469
+HEADER 10  -Pocket volume (convex hull)       : 7.8026
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   1879  NH1 ARG A 286       3.934   8.885 -17.471  0.00  0.00           N 1
+ATOM   1885   CB ALA A 287       2.122   6.345 -14.611  0.00  0.00           C 0
+ATOM   2158  CG2 VAL A 323       8.858   7.296 -13.497  0.00  0.00           C 0
+ATOM   1880  NH2 ARG A 286       3.708   9.894 -15.421  0.48  4.37           N 0
+ATOM   2227  CD1 LEU A 331       7.173  12.156 -11.969  0.00  0.00           C 0
+ATOM   1856  OD1 ASN A 283       3.204  11.812 -13.168  0.38  1.07           O 0
+ATOM   1855  ND2 ASN A 283       2.608  11.092 -11.093  0.26  4.37           N 0
+ATOM   2151    O GLY A 322       8.167   4.102 -13.900  0.46  7.50           O 0
+ATOM   2143    O GLY A 320       3.746   3.008 -14.822  0.38  3.21           O 0
+ATOM   2657  OG1 THR A 383       5.500   5.995  -9.687  0.64  4.29           O 0
+ATOM   2199  CG1 ILE A 328      10.161   9.946  -9.275  0.00  0.00           C 0
+ATOM   2656  CG2 THR A 383       5.016   7.704  -8.002  0.00  0.00           C 0
+ATOM   2128  OD2 ASP A 318       1.116   6.598  -9.896  0.27  5.36           O 1
+ATOM   2150    C GLY A 322       8.265   4.135 -12.643  0.00  0.00           C 0
+ATOM   2149   CA GLY A 322       7.198   3.517 -11.763  0.00  0.00           C 0
+ATOM   2148    N GLY A 322       6.160   2.830 -12.525  0.52  2.19           N 0
+TER
+END

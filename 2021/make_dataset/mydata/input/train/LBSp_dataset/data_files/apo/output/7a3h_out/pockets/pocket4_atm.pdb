@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1429
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9784
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6006
+HEADER 5  - Mean B-factor of pocket residues  : 0.4710
+HEADER 6  - Hydrophobicity Score              : 0.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.2026
+HEADER 10  -Pocket volume (convex hull)       : 2.9120
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM    395   CG LYS A  50      70.270  53.676  12.281  0.00  0.00           C 0
+ATOM    399    N TRP A  51      70.644  53.953  16.130  0.64  1.09           N 0
+ATOM    439  OD2 ASP A  54      73.703  53.791  12.280  0.70  7.50           O 0
+ATOM    409  CE3 TRP A  51      74.079  57.252  17.198  0.00  0.00           C 0
+ATOM    368  OE1AGLU A  47      67.923  58.465  13.216  0.00  0.00           O 0
+ATOM    362    O GLU A  47      68.232  55.695  16.149  0.34  1.07           O 0
+ATOM   2266    O THR A 281      67.838  58.692  18.010  0.59  4.29           O 0
+ATOM   2274    N GLY A 283      71.775  59.090  19.735  0.90  1.09           N 0
+ATOM    400   CA TRP A  51      71.778  54.376  16.937  0.00  0.00           C 0
+ATOM    403   CB TRP A  51      71.339  55.536  17.846  0.00  0.00           C 0
+ATOM   2275   CA GLY A 283      72.885  60.045  19.643  0.00  0.00           C 0
+ATOM    396   CD LYS A  50      69.897  54.648  11.154  0.00  0.00           C 0
+ATOM   2272    C GLY A 282      70.553  59.469  20.131  0.00  0.00           C 0
+ATOM   2273    O GLY A 282      70.278  60.608  20.499  0.69  1.07           O 0
+TER
+END

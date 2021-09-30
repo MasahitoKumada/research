@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0540
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8785
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6505
+HEADER 5  - Mean B-factor of pocket residues  : 0.4339
+HEADER 6  - Hydrophobicity Score              : -10.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.3317
+HEADER 10  -Pocket volume (convex hull)       : 6.0083
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    907   CA GLN A 119      32.070 -26.237  -2.020  0.00  0.00           C 0
+ATOM    906    N GLN A 119      30.835 -26.024  -1.230  0.47  1.09           N 0
+ATOM    911   CG GLN A 119      32.666 -23.820  -2.569  0.00  0.00           C 0
+ATOM    905    O GLY A 118      29.672 -27.625  -2.310  0.00  0.00           O 0
+ATOM    904    C GLY A 118      29.749 -26.769  -1.434  0.00  0.00           C 0
+ATOM    255  NH2 ARG A  32      27.023 -21.546   1.481  0.00  0.00           N 0
+ATOM    914  NE2 GLN A 119      32.791 -22.055  -0.935  0.00  0.00           N 0
+ATOM    253   CZ ARG A  32      26.499 -20.585   0.695  0.00  0.00           C 0
+ATOM    883    O SER A 115      29.579 -22.441   2.205  0.60  2.14           O 0
+ATOM    254  NH1 ARG A  32      27.032 -19.366   0.676  0.81  2.19           N 0
+ATOM    264  OE2 GLU A  33      26.093 -23.923   0.203  0.54  3.21           O 0
+ATOM    903   CA GLY A 118      28.628 -26.574  -0.467  0.00  0.00           C 0
+ATOM    252   NE ARG A  32      25.437 -20.872  -0.066  0.00  0.00           N 0
+ATOM    263  OE1 GLU A  33      25.363 -25.833  -0.572  0.35  6.43           O 0
+ATOM    286   CBASER A  36      22.814 -24.795  -4.319  0.00  0.00           C 0
+ATOM    288   OGASER A  36      23.131 -23.410  -4.283  0.00  0.00           O 0
+TER
+END

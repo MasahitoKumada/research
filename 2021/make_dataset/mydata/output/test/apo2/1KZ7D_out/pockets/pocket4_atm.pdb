@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1939
+HEADER 1  - Drug Score                        : 0.0284
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9206
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6545
+HEADER 5  - Mean B-factor of pocket residues  : 0.2092
+HEADER 6  - Hydrophobicity Score              : 23.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.8154
+HEADER 10  -Pocket volume (convex hull)       : 2.8196
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6500
+ATOM     23  CG2 THR D1003       2.285  46.154 128.683  0.00  0.00           C 0
+ATOM    312   CB ALA D1041       7.043  49.509 128.396  0.00  0.00           C 0
+ATOM    423   CZ PHE D1056       5.605  43.394 123.311  0.00  0.00           C 0
+ATOM    402   CA GLY D1054       3.924  47.938 124.982  0.00  0.00           C 0
+ATOM    308    N ALA D1041       8.128  50.064 126.287  0.74  4.37           N 0
+ATOM    292   CB ASN D1039       9.863  45.042 122.925  0.00  0.00           C 0
+ATOM    291    O ASN D1039      11.280  47.562 123.957  0.00  0.00           O 0
+ATOM    421  CE1 PHE D1056       4.798  44.477 122.966  0.00  0.00           C 0
+ATOM    296    N TYR D1040       9.265  48.371 123.356  0.00  0.00           N 0
+ATOM     37   CB LYS D1005       0.581  43.543 123.827  0.00  0.00           C 0
+ATOM    299    O TYR D1040       6.934  49.572 124.455  0.00  0.00           O 0
+ATOM    298    C TYR D1040       8.018  49.714 125.014  0.00  0.00           C 0
+ATOM    290    C ASN D1039      10.264  47.498 123.265  0.00  0.00           C 0
+TER
+END

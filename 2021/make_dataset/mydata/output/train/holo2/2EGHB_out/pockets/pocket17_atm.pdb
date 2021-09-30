@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0760
+HEADER 1  - Drug Score                        : 0.0069
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9499
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6920
+HEADER 5  - Mean B-factor of pocket residues  : 0.1378
+HEADER 6  - Hydrophobicity Score              : 25.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.5130
+HEADER 10  -Pocket volume (convex hull)       : 4.5389
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8125
+ATOM   1980   CG TYR B 261      19.377   1.171  43.391  0.00  0.00           C 0
+ATOM   2012   CB SER B 265      17.909   3.805  47.169  0.00  0.00           C 0
+ATOM   2003  OD2 ASP B 263      19.008  -0.231  48.900  0.00  0.00           O 1
+ATOM   2013   OG SER B 265      18.131   3.355  48.491  0.73  5.36           O 0
+ATOM   2027  CD1 LEU B 267      22.820   5.505  43.995  0.00  0.00           C 0
+ATOM   1981  CD1 TYR B 261      20.421   0.304  43.096  0.00  0.00           C 0
+ATOM   1982  CD2 TYR B 261      19.486   2.503  42.972  0.00  0.00           C 0
+ATOM   2028  CD2 LEU B 267      21.123   6.701  45.354  0.00  0.00           C 0
+ATOM   2026   CG LEU B 267      21.381   6.007  44.028  0.00  0.00           C 0
+ATOM   1986   OH TYR B 261      22.767   2.461  41.314  0.76  1.07           O 0
+ATOM   1983  CE1 TYR B 261      21.548   0.737  42.406  0.00  0.00           C 0
+ATOM   1193   CB PRO B 160      26.207  -0.492  41.270  0.00  0.00           C 0
+ATOM   1985   CZ TYR B 261      21.642   2.052  41.998  0.00  0.00           C 0
+ATOM   1984  CE2 TYR B 261      20.619   2.946  42.274  0.00  0.00           C 0
+ATOM   1190   CA PRO B 160      26.845   0.772  40.711  0.00  0.00           C 0
+ATOM   1184    O LEU B 159      26.811   3.341  39.806  0.00  0.00           O 0
+TER
+END

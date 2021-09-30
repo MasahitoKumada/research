@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0303
+HEADER 1  - Drug Score                        : 0.0046
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7681
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5778
+HEADER 5  - Mean B-factor of pocket residues  : 0.2689
+HEADER 6  - Hydrophobicity Score              : -20.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.9639
+HEADER 10  -Pocket volume (convex hull)       : 1.9634
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM   1500   CB GLU A 204      11.241  28.163  -2.798  0.00  0.00           C 0
+ATOM    684   CD LYS A 101      13.440  30.403  -6.270  0.00  0.00           C 0
+ATOM    685   CE LYS A 101      12.205  31.089  -5.633  0.00  0.00           C 0
+ATOM    683   CG LYS A 101      13.974  29.332  -5.352  0.00  0.00           C 0
+ATOM    687    N ASN A 102      16.815  25.764  -5.941  0.42  1.09           N 0
+ATOM    682   CB LYS A 101      15.269  28.753  -5.955  0.00  0.00           C 0
+ATOM   1503  OE1 GLU A 204      13.416  26.051  -2.570  0.76  1.07           O 0
+ATOM   1502   CD GLU A 204      12.209  25.957  -2.157  0.00  0.00           C 0
+ATOM   1504  OE2 GLU A 204      11.665  24.909  -2.134  0.60  2.14           O 0
+ATOM   1542   CA ALA A 209       5.856  32.688  -6.282  0.00  0.00           C 0
+ATOM    686   NZ LYS A 101      11.665  32.154  -6.656  0.55  3.28           N 0
+ATOM   1545   CB ALA A 209       5.264  31.455  -6.936  0.00  0.00           C 0
+ATOM   1499    O GLU A 204       8.356  27.884  -2.592  0.72  6.43           O 0
+ATOM   1498    C GLU A 204       8.833  28.916  -2.172  0.00  0.00           C 0
+ATOM   1508    O ASP A 205       5.912  30.845  -2.709  0.53  1.07           O 0
+ATOM   1497   CA GLU A 204      10.294  29.349  -2.480  0.00  0.00           C 0
+ATOM   1491    O ASN A 203      11.060  31.917  -2.637  0.66  3.21           O 0
+TER
+END

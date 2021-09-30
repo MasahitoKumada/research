@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0608
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7638
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6040
+HEADER 5  - Mean B-factor of pocket residues  : 0.4433
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 153.7141
+HEADER 10  -Pocket volume (convex hull)       : 2.3278
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM    284   NZ LYS A  36      16.234  35.598   4.848  0.53  6.56           N 0
+ATOM    608   CA VAL A  75      21.494  32.439   4.679  0.00  0.00           C 0
+ATOM    614    N SER A  76      20.798  34.740   4.828  0.73  2.19           N 0
+ATOM    283   CE LYS A  36      15.451  34.505   5.530  0.00  0.00           C 0
+ATOM    281   CG LYS A  36      17.007  33.632   7.340  0.00  0.00           C 0
+ATOM    495  NH2AARG A  60      19.805  37.382   0.085  0.14  9.84           N 0
+ATOM    618   CB SER A  76      20.711  36.811   3.490  0.00  0.00           C 0
+ATOM    619   OG SER A  76      21.677  36.415   2.537  0.00  0.00           O 0
+ATOM    603    O THR A  74      21.047  30.352   2.946  0.00  0.00           O 0
+ATOM    606  CG2 THR A  74      23.456  32.451   0.951  0.00  0.00           C 0
+ATOM    613  CG2 VAL A  75      20.235  32.187   6.870  0.00  0.00           C 0
+ATOM    288    O THR A  37      17.182  29.447   6.819  0.65  8.57           O 0
+TER
+END

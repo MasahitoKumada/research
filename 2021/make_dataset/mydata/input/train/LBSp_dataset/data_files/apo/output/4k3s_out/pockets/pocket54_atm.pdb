@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    54:
+HEADER 0  - Pocket Score                      : -0.0526
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8813
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5573
+HEADER 5  - Mean B-factor of pocket residues  : 0.4167
+HEADER 6  - Hydrophobicity Score              : 29.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.2258
+HEADER 10  -Pocket volume (convex hull)       : 4.1458
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   2507  CG1 VAL A 321      -6.115   8.834 -18.603  0.00  0.00           C 0
+ATOM   2510   CA SER A 322      -9.063   5.963 -17.133  0.00  0.00           C 0
+ATOM   2540  CD1 LEU A 325      -4.156   6.295 -17.929  0.00  0.00           C 0
+ATOM   2513   CB SER A 322      -9.736   6.126 -15.752  0.00  0.00           C 0
+ATOM   2154   CA PHE A 278     -12.963  14.422 -14.690  0.00  0.00           C 0
+ATOM   2159  CD1 PHE A 278     -15.907  13.932 -13.723  0.00  0.00           C 0
+ATOM   2501  ND2 ASN A 320     -13.592   9.319 -17.419  0.55  8.75           N 0
+ATOM   2147    O LYS A 277     -13.219  13.864 -11.939  0.00  0.00           O 0
+ATOM   2167    O ARG A 279     -10.377  11.771 -18.126  0.38  2.14           O 0
+ATOM   2500  OD1 ASN A 320     -12.032   7.764 -17.899  0.00  0.00           O 0
+ATOM   2514   OG SER A 322     -11.150   6.086 -15.821  0.00  0.00           O 0
+ATOM   2168   CB ARG A 279      -8.584  12.728 -16.030  0.00  0.00           C 0
+ATOM   2506   CB VAL A 321      -7.418   9.563 -18.928  0.00  0.00           C 0
+ATOM   2509    N SER A 322      -9.078   7.201 -17.912  0.55  1.09           N 0
+ATOM   2170   CD ARG A 279      -6.698  13.015 -14.344  0.00  0.00           C 0
+ATOM   2169   CG ARG A 279      -8.196  13.096 -14.609  0.00  0.00           C 0
+ATOM   2164    N ARG A 279     -10.931  13.488 -15.719  0.00  0.00           N 0
+TER
+END

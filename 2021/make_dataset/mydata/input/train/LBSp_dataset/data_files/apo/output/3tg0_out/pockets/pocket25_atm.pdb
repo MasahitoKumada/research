@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0941
+HEADER 1  - Drug Score                        : 0.0721
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7099
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5440
+HEADER 5  - Mean B-factor of pocket residues  : 0.5803
+HEADER 6  - Hydrophobicity Score              : 35.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.0870
+HEADER 10  -Pocket volume (convex hull)       : 0.8044
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5714
+ATOM   2081    C CYS A 286      22.431  21.883  70.229  0.00  0.00           C 0
+ATOM   1943  NE1 TRP A 268      19.770  20.688  64.346  0.54  7.66           N 0
+ATOM   2086   CAATHR A 287      23.278  23.611  68.731  0.00  0.00           C 0
+ATOM   2085    N THR A 287      23.327  22.273  69.334  0.00  0.00           N 0
+ATOM   2082    O CYS A 286      21.559  22.618  70.672  0.00  0.00           O 0
+ATOM   1941  CD1 TRP A 268      21.139  20.603  64.364  0.00  0.00           C 0
+ATOM   1946  CZ2 TRP A 268      17.933  19.446  65.516  0.00  0.00           C 0
+ATOM   2083   CB CYS A 286      21.885  19.424  69.729  0.00  0.00           C 0
+ATOM   1948  CH2 TRP A 268      17.714  18.426  66.393  0.00  0.00           C 0
+ATOM   2088    C THR A 287      23.635  23.517  67.242  0.00  0.00           C 0
+ATOM   2102   CD PRO A 288      22.056  25.462  66.674  0.00  0.00           C 0
+ATOM   2101   CG PRO A 288      21.436  25.647  65.315  0.00  0.00           C 0
+ATOM   1944  CE2 TRP A 268      19.258  19.741  65.188  0.00  0.00           C 0
+ATOM   1947  CZ3 TRP A 268      18.754  17.716  66.963  0.00  0.00           C 0
+ATOM    416  CE1 TYR A  64      17.958  17.804  70.525  0.00  0.00           C 0
+ATOM    419   OH TYR A  64      19.268  19.217  71.968  0.00  0.00           O 0
+TER
+END

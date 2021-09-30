@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0768
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8728
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6549
+HEADER 5  - Mean B-factor of pocket residues  : 0.8376
+HEADER 6  - Hydrophobicity Score              : 23.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.6883
+HEADER 10  -Pocket volume (convex hull)       : 8.2685
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.1111
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   4424   CA HIS C 569     -46.770  63.347  27.257  0.00  0.00           C 0
+ATOM   4453  ND2 ASN C 571     -49.711  69.392  24.280  0.00  0.00           N 0
+ATOM   4433    N TRP C 570     -47.044  63.747  24.898  0.56  1.09           N 0
+ATOM   4421    O ALA C 568     -48.877  61.718  28.072  0.29  6.43           O 0
+ATOM   4425    C HIS C 569     -46.222  63.828  25.937  0.00  0.00           C 0
+ATOM   4427   CB HIS C 569     -45.956  63.901  28.419  0.00  0.00           C 0
+ATOM   4455    N PHE C 572     -44.746  67.479  25.438  0.72  1.09           N 0
+ATOM   4437   CB TRP C 570     -47.692  63.809  22.512  0.00  0.00           C 0
+ATOM   4447    N ASN C 571     -46.808  66.495  23.850  0.69  1.09           N 0
+ATOM   4454  OD1 ASN C 571     -48.716  68.742  22.368  0.86  2.14           O 0
+ATOM   4452   CG ASN C 571     -48.654  68.994  23.575  0.00  0.00           C 0
+ATOM   4451   CB ASN C 571     -47.346  68.878  24.335  0.00  0.00           C 0
+ATOM   4819  OE1 GLN C 614     -49.733  61.600  20.117  0.74  5.36           O 0
+ATOM   4826   CD PRO C 615     -52.963  62.800  19.321  0.00  0.00           C 0
+ATOM   4825   CG PRO C 615     -54.283  63.099  19.978  0.00  0.00           C 0
+ATOM   4439  CD1 TRP C 570     -47.858  65.452  20.499  0.00  0.00           C 0
+ATOM   4823    O PRO C 615     -52.402  66.495  18.639  0.59  8.57           O 0
+ATOM   4429  CD2 HIS C 569     -47.418  64.240  30.596  0.00  0.00           C 0
+ATOM   4459   CB PHE C 572     -43.499  66.818  27.442  0.00  0.00           C 0
+TER
+END

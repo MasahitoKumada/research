@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0336
+HEADER 1  - Drug Score                        : 0.0417
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.8928
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4325
+HEADER 5  - Mean B-factor of pocket residues  : 0.5081
+HEADER 6  - Hydrophobicity Score              : 5.5556
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 306.8019
+HEADER 10  -Pocket volume (convex hull)       : 27.2597
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   5339  CG1 ILE E 111      -5.117  24.079   5.102  0.00  0.00           C 0
+ATOM   5313   CA ALA E 108      -3.913  27.467   3.727  0.00  0.00           C 0
+ATOM   5315    O ALA E 108      -2.104  26.151   4.509  0.46  5.36           O 0
+ATOM   5316   CB ALA E 108      -3.678  27.953   2.284  0.00  0.00           C 0
+ATOM   5489    O VAL E 131      -7.702  20.762   3.625  0.91  2.14           O 0
+ATOM   5369   CD ARG E 115      -3.811  17.807   5.491  0.00  0.00           C 0
+ATOM   3820   CA GLY D  57      -6.097  19.217  -0.620  0.00  0.00           C 0
+ATOM   5340  CG2 ILE E 111      -4.511  21.606   5.014  0.00  0.00           C 0
+ATOM   5348  OD1 ASP E 112       0.663  19.516   4.965  0.62  5.36           O 0
+ATOM   5349  OD2 ASP E 112       1.802  21.416   4.868  0.00  0.00           O 0
+ATOM   5347   CG ASP E 112       1.049  20.613   5.458  0.00  0.00           C 0
+ATOM   3830  OD2 ASP D  58      -8.229  23.900   0.411  0.47  6.43           O 0
+ATOM   3829  OD1 ASP D  58      -7.341  24.036  -1.599  0.74  2.14           O 0
+ATOM   3847   CB ARG D  61      -4.077  23.405  -2.961  0.00  0.00           C 0
+ATOM   3850   NE ARG D  61      -2.414  20.757  -1.865  0.00  0.00           N 0
+ATOM   3853  NH2 ARG D  61      -2.328  18.975  -0.489  0.00  0.00           N 0
+ATOM   3848   CG ARG D  61      -2.643  23.001  -2.764  0.00  0.00           C 0
+ATOM   5484  OD1 ASN E 130      -7.035  16.715   1.589  0.50  1.07           O 0
+ATOM   5372  NH1 ARG E 115      -1.786  16.663   3.866  0.00  0.00           N 0
+ATOM   5338   CB ILE E 111      -4.066  23.011   5.387  0.00  0.00           C 0
+ATOM   5342    N ASP E 112      -1.471  21.901   6.926  0.00  0.00           N 0
+ATOM   3828   CG ASP D  58      -8.138  23.524  -0.787  0.00  0.00           C 0
+TER
+END

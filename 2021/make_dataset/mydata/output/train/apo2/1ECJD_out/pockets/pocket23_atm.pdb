@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0295
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9898
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6347
+HEADER 5  - Mean B-factor of pocket residues  : 0.3154
+HEADER 6  - Hydrophobicity Score              : -6.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.5200
+HEADER 10  -Pocket volume (convex hull)       : 11.5763
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   2154   CB ASN D 277      -5.076  22.802  -2.556  0.00  0.00           C 0
+ATOM   2156  ND2 ASN D 277      -3.558  21.518  -3.940  0.00  0.00           N 0
+ATOM   3508   CB ALA D 448      -4.789  17.587  -4.954  0.00  0.00           C 0
+ATOM   2155   CG ASN D 277      -4.235  22.652  -3.815  0.00  0.00           C 0
+ATOM   2157  OD1 ASN D 277      -4.184  23.550  -4.658  0.70  7.50           O 0
+ATOM   2175  CG2 THR D 280     -10.243  25.684  -4.620  0.00  0.00           C 0
+ATOM   3517  OE2 GLU D 449      -1.277  20.614  -5.784  0.00  0.00           O 1
+ATOM   2184   CE LYS D 281     -10.230  20.138  -2.206  0.00  0.00           C 0
+ATOM   2185   NZ LYS D 281     -11.106  19.130  -2.861  0.00  0.00           N 1
+ATOM   3476    O ASP D 444      -6.073  16.693  -2.028  0.65  4.29           O 0
+ATOM   3482   CA ALA D 445      -6.060  19.274  -0.865  0.00  0.00           C 0
+ATOM   2174   CB THR D 280      -9.208  25.765  -3.525  0.00  0.00           C 0
+ATOM   2153    O ASN D 277      -7.632  24.094  -1.175  0.00  0.00           O 0
+ATOM   2176  OG1 THR D 280      -7.963  26.254  -4.048  0.83  3.21           O 0
+ATOM   3477   CB ASP D 444      -9.265  16.311  -1.063  0.00  0.00           C 0
+TER
+END

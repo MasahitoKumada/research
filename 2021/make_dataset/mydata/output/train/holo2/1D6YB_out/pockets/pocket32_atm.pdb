@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0244
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.6553
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4676
+HEADER 5  - Mean B-factor of pocket residues  : 0.4190
+HEADER 6  - Hydrophobicity Score              : 14.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 153.9439
+HEADER 10  -Pocket volume (convex hull)       : 5.6801
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3704
+ATOM   4804   CG GLN B 620      60.507  37.630   9.124  0.00  0.00           C 0
+ATOM   4061  CG2 THR B 523      56.801  38.619  14.625  0.00  0.00           C 0
+ATOM   4803   CB GLN B 620      60.254  36.134   9.036  0.00  0.00           C 0
+ATOM   4806  NE2 GLN B 620      62.420  38.435  10.372  0.28  8.75           N 0
+ATOM   4078   CG GLN B 525      56.627  38.449   8.188  0.00  0.00           C 0
+ATOM   5371  CG2 THR B 688      58.822  41.089  11.568  0.00  0.00           C 0
+ATOM   4080  NE2 GLN B 525      57.799  36.848   6.817  0.00  0.00           N 0
+ATOM   2847    O PRO B 368      53.469  35.310   9.417  0.62  1.07           O 0
+ATOM   4802    O GLN B 620      60.174  33.432   8.966  0.48  6.43           O 0
+ATOM   2854    O TYR B 369      54.879  31.974  10.965  0.42  3.21           O 0
+ATOM   4064   CA HIS B 524      53.848  37.561  11.804  0.00  0.00           C 0
+ATOM   2864   CA GLY B 370      56.208  32.539  13.293  0.00  0.00           C 0
+ATOM   2863    N GLY B 370      54.934  33.119  12.907  0.00  0.00           N 0
+ATOM   4059    O THR B 523      53.962  36.035  14.129  0.00  0.00           O 0
+ATOM   4818   CZ PHE B 621      56.307  31.876   7.679  0.00  0.00           C 0
+ATOM   4817  CE2 PHE B 621      56.839  32.700   6.688  0.00  0.00           C 0
+ATOM   2853    C TYR B 369      54.376  32.785  11.744  0.00  0.00           C 0
+ATOM   4065    C HIS B 524      54.189  38.648  10.792  0.00  0.00           C 0
+TER
+END

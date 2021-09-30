@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1491
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8857
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5012
+HEADER 5  - Mean B-factor of pocket residues  : 0.3444
+HEADER 6  - Hydrophobicity Score              : 1.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 341.4866
+HEADER 10  -Pocket volume (convex hull)       : 15.1461
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   6495   NE ARG D 101      23.773 -35.245  37.055  0.66  1.09           N 0
+ATOM   6494   CD ARG D 101      22.485 -35.423  36.426  0.00  0.00           C 0
+ATOM   6492   CB ARG D 101      22.382 -33.408  34.993  0.00  0.00           C 0
+ATOM   6497  NH1 ARG D 101      24.225 -37.499  37.168  0.00  0.00           N 0
+ATOM   7411  OG1 THR D 220      25.523 -32.926  37.147  0.00  0.00           O 0
+ATOM   7439  OD2 ASP D 223      29.609 -32.914  34.649  0.00  0.00           O 0
+ATOM   6498  NH2 ARG D 101      25.705 -35.968  37.999  0.48  1.09           N 0
+ATOM   6496   CZ ARG D 101      24.555 -36.241  37.420  0.00  0.00           C 0
+ATOM   6491    O ARG D 101      23.473 -31.451  33.157  0.00  0.00           O 0
+ATOM   6843  CD1 ILE D 146      29.762 -31.202  30.482  0.00  0.00           C 0
+ATOM   6513  CG2 VAL D 103      26.251 -28.188  31.585  0.00  0.00           C 0
+ATOM   6842  CG2 ILE D 146      27.710 -30.025  28.331  0.00  0.00           C 0
+ATOM   6841  CG1 ILE D 146      29.307 -31.822  29.173  0.00  0.00           C 0
+ATOM   6505  OD1 ASP D 102      20.842 -32.348  29.642  0.65  5.36           O 0
+ATOM   7436   CB ASP D 223      30.241 -30.653  34.697  0.00  0.00           C 0
+ATOM   6507    N VAL D 103      23.419 -28.568  30.757  0.51  1.09           N 0
+ATOM   6847    O ASP D 147      24.483 -29.335  25.522  0.05  6.43           O 0
+ATOM   6844    N ASP D 147      27.130 -30.835  25.219  0.70  4.37           N 0
+ATOM   7412  CG2 THR D 220      25.075 -30.557  36.893  0.00  0.00           C 0
+ATOM   6500   CA ASP D 102      21.865 -30.350  31.266  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0738
+HEADER 1  - Drug Score                        : 0.0060
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7847
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5746
+HEADER 5  - Mean B-factor of pocket residues  : 0.5418
+HEADER 6  - Hydrophobicity Score              : -10.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.6663
+HEADER 10  -Pocket volume (convex hull)       : 10.0800
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   3061  OE2 GLU B  53       9.309  19.343  68.529  0.00  0.00           O 0
+ATOM   3140  CG2 THR B  61      11.812  16.594  67.137  0.00  0.00           C 0
+ATOM   3325   CG PRO B  79      16.408  19.068  66.538  0.00  0.00           C 0
+ATOM   3138   CB THR B  61      13.034  16.093  67.907  0.00  0.00           C 0
+ATOM   3059   CD GLU B  53       8.955  19.547  67.350  0.00  0.00           C 0
+ATOM   3157  OG1 THR B  63      10.498  18.727  63.318  0.65  5.36           O 0
+ATOM   3326   CD PRO B  79      16.268  17.937  65.535  0.00  0.00           C 0
+ATOM   3308   OG SER B  77      13.361  19.485  60.546  0.86  7.50           O 0
+ATOM   3139  OG1 THR B  61      12.726  16.028  69.306  0.75  8.57           O 0
+ATOM   3060  OE1 GLU B  53       8.705  20.682  66.897  0.37  6.43           O 0
+ATOM   3321   CA PRO B  79      18.340  19.129  65.234  0.00  0.00           C 0
+ATOM   3372    O LYS B  84      20.260  22.015  63.941  0.79  2.14           O 0
+ATOM   3324   CB PRO B  79      17.878  19.172  66.682  0.00  0.00           C 0
+ATOM   3386   CB CYS B  85      17.898  23.463  61.141  0.00  0.00           C 0
+ATOM   3383   CA CYS B  85      18.938  22.391  61.476  0.00  0.00           C 0
+ATOM   3387   SG CYS B  85      16.262  22.875  60.582  0.00  0.00           S 0
+ATOM   3320    N PRO B  79      17.405  18.174  64.629  0.00  0.00           N 0
+ATOM   3313    C ASP B  78      17.553  17.936  63.307  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1802
+HEADER 1  - Drug Score                        : 0.0501
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9474
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7253
+HEADER 5  - Mean B-factor of pocket residues  : 0.6767
+HEADER 6  - Hydrophobicity Score              : 6.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 336.9532
+HEADER 10  -Pocket volume (convex hull)       : 9.7087
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.1667
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   1023    N SER A 141     -10.930  39.079  -0.805  0.00  0.00           N 0
+ATOM   1019   CG GLU A 140     -13.092  37.683  -3.754  0.00  0.00           C 0
+ATOM   1024   CA SER A 141     -10.874  40.450  -0.277  0.00  0.00           C 0
+ATOM   1017    O GLU A 140     -10.802  39.766  -2.951  0.56  5.36           O 0
+ATOM   1027   CB SER A 141     -11.217  40.501   1.219  0.00  0.00           C 0
+ATOM    993    O SER A 137     -12.249  37.027   1.172  0.00  0.00           O 0
+ATOM   1018   CB GLU A 140     -12.228  36.843  -2.806  0.00  0.00           C 0
+ATOM    990   CAASER A 137     -13.456  34.971   1.282  0.00  0.00           C 0
+ATOM   3277  CG2 VAL A 414     -14.208  34.462  -5.062  0.00  0.00           C 0
+ATOM    994   CBASER A 137     -14.538  34.959   2.362  0.00  0.00           C 0
+ATOM   3276  CG1 VAL A 414     -16.532  34.137  -5.939  0.00  0.00           C 0
+ATOM    987   SGACYS A 136     -13.452  31.825  -2.433  0.00  0.00           S 0
+ATOM    989    N SER A 137     -12.985  33.625   0.990  0.00  0.00           N 0
+ATOM    961    O GLU A 133     -14.483  31.329   2.288  0.67  1.07           O 0
+ATOM    959   CA GLU A 133     -15.065  28.994   2.210  0.00  0.00           C 0
+ATOM    962   CB GLU A 133     -16.521  28.686   2.587  0.00  0.00           C 0
+ATOM    963   CG GLU A 133     -17.145  27.706   1.599  0.00  0.00           C 0
+ATOM    985   CBACYS A 136     -12.799  31.132  -0.899  0.00  0.00           C 0
+ATOM    957  NE2 GLN A 132     -14.260  26.702  -0.578  0.41  2.19           N 0
+TER
+END

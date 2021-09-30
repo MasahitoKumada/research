@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0300
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7632
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4768
+HEADER 5  - Mean B-factor of pocket residues  : 0.3017
+HEADER 6  - Hydrophobicity Score              : 14.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.3827
+HEADER 10  -Pocket volume (convex hull)       : 2.4131
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2917
+ATOM   7218    O PHE D  21       9.821 -52.126  54.901  0.66  7.50           O 0
+ATOM   7207   OG SER D  19       8.884 -51.042  51.433  0.00  0.00           O 0
+ATOM   7206   CB SER D  19       9.411 -49.751  51.192  0.00  0.00           C 0
+ATOM   9521  OE1 GLU D 306      13.607 -52.310  49.293  0.57  2.14           O 0
+ATOM   9500   CB SER D 303      11.798 -55.834  54.027  0.00  0.00           C 0
+ATOM   9497   CA SER D 303      12.712 -56.260  52.874  0.00  0.00           C 0
+ATOM   9522  OE2 GLU D 306      14.764 -50.644  50.099  0.55  5.36           O 0
+ATOM   7219   CB PHE D  21       8.380 -53.988  53.101  0.00  0.00           C 0
+ATOM   7241   CD PRO D  23      12.750 -53.641  56.931  0.00  0.00           C 0
+ATOM   9523    N LEU D 307      17.586 -54.546  52.656  0.78  1.09           N 0
+ATOM   9558  OE1 GLN D 310      18.475 -50.478  52.868  0.71  8.57           O 0
+ATOM   9499    O SER D 303      15.066 -55.942  53.277  0.56  1.07           O 0
+ATOM   9520   CD GLU D 306      14.673 -51.826  49.730  0.00  0.00           C 0
+ATOM   9518   CB GLU D 306      15.677 -54.097  50.310  0.00  0.00           C 0
+ATOM   7240   CG PRO D  23      14.095 -54.312  57.093  0.00  0.00           C 0
+ATOM   9527   CB LEU D 307      17.789 -54.405  55.094  0.00  0.00           C 0
+ATOM   9530  CD2 LEU D 307      19.074 -52.524  56.072  0.00  0.00           C 0
+TER
+END

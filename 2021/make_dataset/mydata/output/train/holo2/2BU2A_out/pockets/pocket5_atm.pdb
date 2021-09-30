@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.2193
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    37
+HEADER 3  - Mean alpha-sphere radius          : 3.6638
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4687
+HEADER 5  - Mean B-factor of pocket residues  : 0.3659
+HEADER 6  - Hydrophobicity Score              : 2.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 135.2021
+HEADER 10  -Pocket volume (convex hull)       : 4.0798
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.3784
+ATOM    362   CD ARG A  52      51.942  52.729  82.947  0.00  0.00           C 0
+ATOM    118   CB PRO A  20      49.125  54.847  85.440  0.00  0.00           C 0
+ATOM   2710  CD2 LEU A 363      47.463  53.281  80.333  0.00  0.00           C 0
+ATOM   1219   OG SER A 156      49.936  50.627  80.376  0.82  1.07           O 0
+ATOM    360   CB ARG A  52      52.327  51.241  84.942  0.00  0.00           C 0
+ATOM    361   CG ARG A  52      52.025  52.650  84.452  0.00  0.00           C 0
+ATOM    119   CG PRO A  20      47.763  54.471  85.986  0.00  0.00           C 0
+ATOM   2707   CB LEU A 363      45.755  53.813  82.051  0.00  0.00           C 0
+ATOM   2717   CD PRO A 364      44.483  50.348  82.510  0.00  0.00           C 0
+ATOM    357   CA ARG A  52      52.042  51.079  86.434  0.00  0.00           C 0
+ATOM   2714    O PRO A 364      44.843  51.267  85.614  0.73  6.43           O 0
+ATOM    420  OE1 GLU A  59      43.599  46.393  88.377  0.76  5.36           O 0
+ATOM    388    N ILE A  56      48.966  47.317  88.657  0.70  1.09           N 0
+ATOM    382    C ASN A  55      48.374  47.916  89.682  0.00  0.00           C 0
+ATOM    359    O ARG A  52      51.173  48.922  87.003  0.68  1.07           O 0
+ATOM   1194   OG SER A 153      49.021  47.073  83.643  0.80  4.29           O 0
+ATOM   1193   CB SER A 153      47.754  46.994  82.998  0.00  0.00           C 0
+ATOM   1190   CA SER A 153      47.812  47.563  81.575  0.00  0.00           C 0
+ATOM    392   CB ILE A  56      48.840  45.714  86.762  0.00  0.00           C 0
+ATOM    395  CD1 ILE A  56      46.430  44.982  86.383  0.00  0.00           C 0
+ATOM    384   CB ASN A  55      48.479  50.397  89.294  0.00  0.00           C 0
+ATOM    389   CA ILE A  56      48.401  46.063  88.198  0.00  0.00           C 0
+TER
+END

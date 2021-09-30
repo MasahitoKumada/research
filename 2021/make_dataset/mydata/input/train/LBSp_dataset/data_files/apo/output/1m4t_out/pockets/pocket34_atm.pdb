@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : 0.0457
+HEADER 1  - Drug Score                        : 0.0222
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6305
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3749
+HEADER 5  - Mean B-factor of pocket residues  : 0.8129
+HEADER 6  - Hydrophobicity Score              : 47.9286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6429
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.5928
+HEADER 10  -Pocket volume (convex hull)       : 13.8666
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.3846
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM  10788   CZ PHE D 319       2.119  -6.796  53.998  0.00  0.00           C 0
+ATOM  10260    O SER D 247       1.320  -1.196  52.889  0.00  0.00           O 0
+ATOM  10786  CE1 PHE D 319       2.693  -6.886  55.264  0.00  0.00           C 0
+ATOM   9499  CD2 LEU D 148       8.509  -3.462  52.441  0.00  0.00           C 0
+ATOM  10776    O ALA D 318       1.065  -3.973  57.016  0.46  2.14           O 0
+ATOM  10263   OGASER D 247       1.914  -1.026  56.260  0.39  1.07           O 0
+ATOM   9498  CD1 LEU D 148       8.076  -3.272  49.993  0.00  0.00           C 0
+ATOM  10276  CD2 LEU D 249       6.474  -0.037  49.609  0.00  0.00           C 0
+ATOM  11209    O CYS D 378       7.834  -5.105  62.447  0.89  2.14           O 0
+ATOM  10557   CE MET D 288       5.879  -8.720  58.278  0.00  0.00           C 0
+ATOM  11211   SG CYS D 378       4.766  -6.679  61.904  0.00  0.00           S 0
+HETATM 9085   SG CY4 D  89       8.696  -2.898  58.681  0.00  0.00           S 0
+ATOM  10777   CB ALA D 318       3.223  -4.726  59.484  0.00  0.00           C 0
+ATOM  10986  CD2 HIS D 348       5.399  -1.029  57.315  0.00  0.00           C 0
+ATOM   9573   CB MET D 157       6.281  -8.123  54.422  0.00  0.00           C 0
+ATOM  10988  NE2 HIS D 348       6.015  -1.381  58.492  0.00  0.00           N 0
+ATOM  11220    N GLY D 380      10.642  -7.761  59.772  0.87  2.19           N 0
+ATOM   9575   SD MET D 157       8.545  -9.000  55.922  0.00  0.00           S 0
+ATOM   9574   CG MET D 157       7.765  -7.868  54.724  0.00  0.00           C 0
+ATOM   9491    O GLY D 147      11.717  -4.466  53.844  0.64  5.36           O 0
+ATOM   6080  NE2 GLN C  64      11.788  -7.529  54.836  0.39  2.19           N 0
+ATOM   9076   CB LEU D  88      13.709  -4.633  58.990  0.00  0.00           C 0
+TER
+END

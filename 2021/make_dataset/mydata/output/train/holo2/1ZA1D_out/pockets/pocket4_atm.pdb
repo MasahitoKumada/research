@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0823
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0434
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6191
+HEADER 5  - Mean B-factor of pocket residues  : 0.1014
+HEADER 6  - Hydrophobicity Score              : 29.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 276.3988
+HEADER 10  -Pocket volume (convex hull)       : 11.5198
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4348
+ATOM    908  CD2 HIS D 117      48.325  60.917  41.943  0.00  0.00           C 0
+ATOM    846  CG2 VAL D 108      44.626  65.764  40.543  0.00  0.00           C 0
+ATOM    845  CG1 VAL D 108      46.727  64.466  40.274  0.00  0.00           C 0
+ATOM    905    O HIS D 117      45.264  57.188  42.960  0.08  7.50           O 0
+ATOM    946    N SER D 123      44.276  64.720  48.381  0.67  2.19           N 0
+ATOM    899    O SER D 116      46.201  59.005  45.708  0.18  5.36           O 0
+ATOM    900   CB SER D 116      48.329  61.064  46.800  0.00  0.00           C 0
+ATOM    936    O VAL D 121      42.844  61.043  48.372  0.00  0.00           O 0
+ATOM    820    O ASN D 105      41.093  67.235  45.336  0.00  0.00           O 0
+ATOM    941   CA SER D 122      42.601  63.520  49.622  0.00  0.00           C 0
+ATOM    945   OG SER D 122      40.335  64.124  50.079  0.42  8.57           O 0
+ATOM    841   CA VAL D 108      46.653  66.369  41.891  0.00  0.00           C 0
+ATOM    847    N CYS D 109      48.795  65.594  42.802  0.59  2.19           N 0
+ATOM    903   CA HIS D 117      47.282  58.390  43.325  0.00  0.00           C 0
+ATOM    950   CB SER D 123      45.567  65.901  46.710  0.00  0.00           C 0
+ATOM    901   OG SER D 116      49.120  61.554  45.737  0.69  1.07           O 0
+ATOM    835    O LEU D 107      45.035  67.184  43.935  0.44  3.21           O 0
+ATOM    951   OG SER D 123      44.564  66.885  46.555  0.63  1.07           O 0
+TER
+END

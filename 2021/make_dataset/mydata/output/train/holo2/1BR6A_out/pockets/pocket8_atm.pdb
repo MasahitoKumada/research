@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1248
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7599
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5561
+HEADER 5  - Mean B-factor of pocket residues  : 0.5871
+HEADER 6  - Hydrophobicity Score              : 13.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 146.0351
+HEADER 10  -Pocket volume (convex hull)       : 1.4804
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   1951   CB VAL A 245     -19.346  10.263   3.106  0.00  0.00           C 0
+ATOM    320   CB HIS A  40     -20.368  10.982   7.298  0.00  0.00           C 0
+ATOM   1983  CD1 ILE A 249     -22.455   6.410   4.858  0.00  0.00           C 0
+ATOM   1952  CG1 VAL A 245     -19.060   9.284   4.235  0.00  0.00           C 0
+ATOM   1959   OG SER A 246     -23.884   8.488   1.139  0.00  0.00           O 0
+ATOM    333  OE1 GLU A  41     -25.456   7.515   7.266  0.00  0.00           O 0
+ATOM    323  ND1 HIS A  40     -21.066  13.412   6.635  0.00  0.00           N 0
+ATOM   1954    N SER A 246     -21.015   8.460   0.960  0.45  1.09           N 0
+ATOM   1783   CA GLY A 224     -21.089  14.715   2.508  0.00  0.00           C 0
+ATOM   1946  OD2 ASP A 244     -21.605  10.152  -1.837  0.64  2.14           O 1
+ATOM    319    O HIS A  40     -21.118   8.317   7.615  0.66  1.07           O 0
+ATOM    317   CA HIS A  40     -21.196  10.568   8.551  0.00  0.00           C 0
+ATOM   1947    N VAL A 245     -19.057  10.690   0.693  0.00  0.00           N 0
+ATOM   1943   CB ASP A 244     -20.232  12.088  -1.648  0.00  0.00           C 0
+ATOM   1785    O GLY A 224     -19.461  13.650   1.101  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.2159
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.2889
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4758
+HEADER 5  - Mean B-factor of pocket residues  : 0.7308
+HEADER 6  - Hydrophobicity Score              : 45.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 405.3521
+HEADER 10  -Pocket volume (convex hull)       : 5.5317
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8333
+ATOM   1039    O LEU D 167      98.395  86.319 134.232  0.00  0.00           O 0
+ATOM   1047    O GLY D 168      97.436  88.976 136.870  0.00  0.00           O 0
+ATOM    549    O GLN D 104      98.091  91.281 126.671  0.00  0.00           O 0
+ATOM    566    O ARG D 106      95.806  95.022 128.861  0.00  0.00           O 0
+ATOM    541    O MET D 103      94.421  90.865 127.196  0.69  4.29           O 0
+ATOM    542   CB MET D 103      92.695  88.432 128.177  0.00  0.00           C 0
+ATOM    518  CG2 ILE D 100      96.394  84.510 127.951  0.00  0.00           C 0
+ATOM    547   CA GLN D 104      96.674  89.375 126.346  0.00  0.00           C 0
+ATOM    545   CE MET D 103      91.720  85.825 130.379  0.00  0.00           C 0
+ATOM    655  CE2 PHE D 116      89.394  90.600 129.427  0.00  0.00           C 0
+ATOM   1054  OG1 THR D 169      93.303  88.724 135.921  0.04  8.57           O 0
+ATOM    614   SG CYS D 111      90.498  94.585 130.875  0.00  0.00           S 0
+ATOM   1042  CD1 LEU D 167      95.569  82.820 132.264  0.00  0.00           C 0
+ATOM    519  CD1 ILE D 100      93.760  83.295 129.478  0.00  0.00           C 0
+ATOM   1040   CB LEU D 167      97.194  83.890 133.683  0.00  0.00           C 0
+ATOM   1052   CB THR D 169      94.388  87.824 135.734  0.00  0.00           C 0
+ATOM    544   SD MET D 103      90.940  87.318 129.897  0.00  0.00           S 0
+ATOM   1053  CG2 THR D 169      93.892  86.490 135.123  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    44:
+HEADER 0  - Pocket Score                      : -0.0053
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0672
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6335
+HEADER 5  - Mean B-factor of pocket residues  : 0.5962
+HEADER 6  - Hydrophobicity Score              : 30.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.1823
+HEADER 10  -Pocket volume (convex hull)       : 6.7482
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM   3441   CB GLU B  37      22.218   4.015  -6.824  0.00  0.00           C 0
+ATOM   3497   CD LYS B  44      26.473   3.312  -2.116  0.00  0.00           C 0
+ATOM   3498   CE LYS B  44      26.609   4.515  -3.038  0.00  0.00           C 0
+ATOM   3499   NZ LYS B  44      26.232   5.782  -2.341  0.00  0.00           N 0
+ATOM   3445  OE2 GLU B  37      19.762   5.814  -5.317  0.38  6.43           O 0
+ATOM   3399    O VAL B  32      17.661   0.040  -2.634  0.24  2.14           O 0
+ATOM   4455  ND2 ASN B 164      15.356   2.295  -2.529  0.57  6.56           N 0
+ATOM   3444  OE1 GLU B  37      19.272   3.815  -6.076  0.77  2.14           O 0
+ATOM   5489  CE1 TYR B 295      16.249   1.622   0.962  0.00  0.00           C 0
+ATOM   5492   OH TYR B 295      18.303   0.660   1.702  0.00  0.00           O 0
+ATOM   3407   CB MET B  33      19.815   0.649  -4.797  0.00  0.00           C 0
+ATOM   3443   CD GLU B  37      19.956   4.860  -6.098  0.00  0.00           C 0
+ATOM   3410   CE MET B  33      22.401  -0.823  -3.105  0.00  0.00           C 0
+ATOM   3440    O GLU B  37      25.104   3.740  -6.154  0.54  5.36           O 0
+ATOM   3503    O THR B  45      23.634   0.758   1.782  0.00  0.00           O 0
+ATOM   3511   CB LEU B  46      21.367  -1.397   1.675  0.00  0.00           C 0
+ATOM   3495   CB LYS B  44      26.401   0.812  -1.959  0.00  0.00           C 0
+ATOM   3409   SD MET B  33      22.501  -0.073  -4.727  0.00  0.00           S 0
+TER
+END

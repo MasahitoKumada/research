@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0172
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2368
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7536
+HEADER 5  - Mean B-factor of pocket residues  : 0.2557
+HEADER 6  - Hydrophobicity Score              : 18.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.5866
+HEADER 10  -Pocket volume (convex hull)       : 5.3519
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   1467   CB LYS H 145       4.012   7.348  30.218  0.00  0.00           C 0
+ATOM   1521  ND2 ASN H 149B      6.211   3.974  27.192  0.72  2.19           N 0
+ATOM   1472    N GLU H 146       4.837   8.031  27.415  0.63  1.09           N 0
+ATOM   1520  OD1 ASN H 149B      7.128   2.750  28.825  0.00  0.00           O 0
+ATOM   1519   CG ASN H 149B      6.109   3.167  28.241  0.00  0.00           C 0
+ATOM   2147   CG ARG H 221      13.055   9.698  25.445  0.00  0.00           C 0
+ATOM   1478   CD GLU H 146       8.422   8.119  24.862  0.00  0.00           C 0
+ATOM   2131    O CYS H 220       9.750  11.052  27.558  0.00  0.00           O 0
+ATOM   1480  OE2 GLU H 146       9.260   8.985  24.682  0.00  0.00           O 0
+ATOM   2151  NH1 ARG H 221      11.313   6.891  23.698  0.71  6.56           N 0
+ATOM   1479  OE1 GLU H 146       8.602   6.971  24.447  0.53  3.21           O 0
+ATOM    302  CG1 VAL H  17       7.324  11.835  31.851  0.00  0.00           C 0
+ATOM   1464   CA LYS H 145       4.195   8.786  29.619  0.00  0.00           C 0
+ATOM   1458    O LEU H 144       4.142  10.159  32.125  0.00  0.00           O 0
+ATOM   1477   CG GLU H 146       7.124   8.479  25.575  0.00  0.00           C 0
+ATOM   2138   CB ASP H 221A     10.495  12.693  30.270  0.00  0.00           C 0
+ATOM   2141  OD2 ASP H 221A     11.111  12.346  32.536  0.00  0.00           O 0
+ATOM   2137    O ASP H 221A     12.866  11.415  29.322  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0622
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1051
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4864
+HEADER 5  - Mean B-factor of pocket residues  : 0.6713
+HEADER 6  - Hydrophobicity Score              : 10.4000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.0449
+HEADER 10  -Pocket volume (convex hull)       : 14.7312
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5909
+ATOM   2205  NE2 GLN A 283     -16.225 -13.999  -7.566  0.81  8.75           N 0
+ATOM   1801  OG1 THR A 235     -19.635 -13.423  -4.768  0.56  1.07           O 0
+ATOM   2202   CG GLN A 283     -16.967 -12.460  -9.299  0.00  0.00           C 0
+ATOM   1780  CD1 ILE A 232     -23.064 -16.683  -6.926  0.00  0.00           C 0
+ATOM   2210   CB SER A 284     -20.135  -6.967  -9.723  0.00  0.00           C 0
+ATOM   1755  ND2 ASN A 229     -24.718  -8.944  -8.493  0.00  0.00           N 0
+ATOM   1802  CG2 THR A 235     -19.456 -11.051  -5.232  0.00  0.00           C 0
+ATOM   1815  CD1 ILE A 237     -19.738  -6.969  -6.120  0.00  0.00           C 0
+ATOM   2201   CB GLN A 283     -17.682 -11.087  -9.411  0.00  0.00           C 0
+ATOM   2416   CG HIS A 310     -21.378 -12.194 -13.686  0.00  0.00           C 0
+ATOM   2415   CB HIS A 310     -19.947 -11.806 -13.467  0.00  0.00           C 0
+ATOM   1759    O GLN A 230     -24.706 -13.589  -4.885  0.47  1.07           O 0
+ATOM   1756    N GLN A 230     -26.916 -12.719  -6.329  0.64  4.37           N 0
+ATOM   1752   CB ASN A 229     -25.304  -9.805  -6.314  0.00  0.00           C 0
+ATOM   2418  CD2 HIS A 310     -22.523 -11.718 -13.143  0.00  0.00           C 0
+ATOM   2200    O GLN A 283     -18.477  -9.151 -11.855  0.00  0.00           O 0
+ATOM   2429  OE2 GLU A 311     -23.421  -7.192 -10.539  0.74  1.07           O 0
+ATOM   2741  OE1 GLU A 354     -26.946 -11.252 -12.447  0.63  3.21           O 0
+TER
+END

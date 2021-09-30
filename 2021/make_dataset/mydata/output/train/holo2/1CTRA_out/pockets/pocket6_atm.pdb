@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2436
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5239
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4226
+HEADER 5  - Mean B-factor of pocket residues  : 0.8510
+HEADER 6  - Hydrophobicity Score              : 37.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 98.5499
+HEADER 10  -Pocket volume (convex hull)       : 2.2276
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM    576    O SER A  81      -7.329  15.568 107.345  0.51  3.21           O 0
+ATOM    613  CD1 ILE A  85      -2.495  16.204 109.053  0.00  0.00           C 0
+ATOM    575    C SER A  81      -6.599  14.594 107.543  0.00  0.00           C 0
+ATOM   1092    O MET A 145      -3.659  19.740 104.172  0.56  5.36           O 0
+ATOM    611  CG1 ILE A  85      -3.764  16.917 109.599  0.00  0.00           C 0
+ATOM   1097    N THR A 146      -5.131  21.336 104.743  0.57  1.09           N 0
+ATOM   1070  CG1 VAL A 142      -7.953  22.096 108.752  0.00  0.00           C 0
+ATOM   1066   CA VAL A 142      -5.632  22.897 109.152  0.00  0.00           C 0
+ATOM   1098   CA THR A 146      -6.263  20.628 104.142  0.00  0.00           C 0
+ATOM    587  OE2 GLU A  82      -9.846  18.206 108.968  0.72  5.36           O 1
+ATOM   1102  CG2 THR A 146      -8.354  21.737 105.189  0.00  0.00           C 0
+ATOM   1071  CG2 VAL A 142      -6.870  21.598 110.897  0.00  0.00           C 0
+ATOM   1093   CB MET A 145      -2.351  20.873 106.405  0.00  0.00           C 0
+ATOM   1068    O VAL A 142      -5.103  23.066 106.839  0.00  0.00           O 0
+ATOM    585   CD GLU A  82      -9.242  17.115 108.871  0.00  0.00           C 0
+ATOM    584   CG GLU A  82      -8.480  16.603 110.098  0.00  0.00           C 0
+TER
+END

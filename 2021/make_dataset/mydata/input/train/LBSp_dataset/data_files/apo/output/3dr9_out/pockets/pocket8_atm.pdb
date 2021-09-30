@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1067
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0597
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6272
+HEADER 5  - Mean B-factor of pocket residues  : 0.2875
+HEADER 6  - Hydrophobicity Score              : 16.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 380.1422
+HEADER 10  -Pocket volume (convex hull)       : 21.4980
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   1435   CD LYS B   3      -4.310  25.174  -0.567  0.00  0.00           C 0
+ATOM   1433   CB LYS B   3      -4.156  27.123   1.041  0.00  0.00           C 0
+ATOM   1434   CG LYS B   3      -5.080  26.121   0.368  0.00  0.00           C 0
+ATOM   1436   CE LYS B   3      -5.008  23.847  -0.674  0.00  0.00           C 0
+ATOM   1425  CD2 PHE B   2       0.883  26.899  -1.001  0.00  0.00           C 0
+ATOM   1429    N LYS B   3      -2.231  28.623   0.654  0.00  0.00           N 0
+ATOM   1422   CB PHE B   2       0.878  28.729   0.725  0.00  0.00           C 0
+ATOM   1437   NZ LYS B   3      -4.341  22.978  -1.670  0.00  0.00           N 0
+ATOM   2125    O ALA B  70      -0.488  20.540  -1.590  0.43  7.50           O 0
+ATOM   2147   SG CYS B  73       4.237  26.125   0.820  0.00  0.00           S 0
+ATOM   2135   CA ASP B  72       3.220  21.938   2.577  0.00  0.00           C 0
+ATOM   2587   OG SER B 119       4.297  29.528   3.002  0.43  3.21           O 0
+ATOM   2639  NH2AARG B 122       5.904  26.784   3.786  0.00  0.00           N 0
+ATOM   2134    N ASP B  72       2.184  21.173   1.886  0.00  0.00           N 0
+ATOM   2142    N CYS B  73       3.698  23.052   0.476  0.00  0.00           N 0
+ATOM   1427  CE2 PHE B   2       1.335  26.326  -2.186  0.00  0.00           C 0
+ATOM   2133  CG2 THR B  71       1.100  17.950   2.329  0.00  0.00           C 0
+ATOM   2128   CA THR B  71       1.293  19.525   0.336  0.00  0.00           C 0
+ATOM   2140  OD1 ASP B  72       1.847  20.905   4.726  0.50  5.36           O 0
+ATOM   2132  OG1 THR B  71       0.153  17.425   0.214  0.44  3.21           O 0
+ATOM   2096    O ALA B  67      -0.320  23.859  -4.148  0.00  0.00           O 0
+TER
+END

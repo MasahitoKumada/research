@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0016
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7558
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4546
+HEADER 5  - Mean B-factor of pocket residues  : 0.0862
+HEADER 6  - Hydrophobicity Score              : 2.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 86.5940
+HEADER 10  -Pocket volume (convex hull)       : 0.2400
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM    808   CG GLN A 109      -1.408   7.122   7.102  0.00  0.00           C 0
+ATOM    812    N SER A 110      -3.262   3.617   7.687  0.00  0.00           N 0
+ATOM    839  OD2 ASP A 113      -4.454   7.677   5.295  0.00  0.00           O 1
+ATOM    852  OE2 GLU A 115      -5.393   4.279   2.810  0.38  1.07           O 1
+ATOM    976   NZ LYS A 130      -2.960   2.553   1.872  0.62  3.28           N 1
+ATOM    807   CB GLN A 109      -1.044   5.886   7.950  0.00  0.00           C 0
+ATOM    780    O VAL A 106      -0.844   2.070   7.404  0.00  0.00           O 0
+ATOM    975   CE LYS A 130      -1.861   1.578   2.101  0.00  0.00           C 0
+ATOM    782  CG1 VAL A 106       1.108   1.041   5.044  0.00  0.00           C 0
+ATOM   1012   CEAMET A 134       2.205   2.844   1.996  0.00  0.00           C 0
+ATOM    775  NE2 GLN A 105       2.965   5.914   6.824  0.68  7.66           N 0
+ATOM    778   CA VAL A 106       1.506   2.269   7.226  0.00  0.00           C 0
+TER
+END

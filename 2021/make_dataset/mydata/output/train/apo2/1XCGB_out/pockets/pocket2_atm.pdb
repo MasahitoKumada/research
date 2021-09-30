@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.3932
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7913
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3875
+HEADER 5  - Mean B-factor of pocket residues  : 0.7092
+HEADER 6  - Hydrophobicity Score              : 5.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 174.5491
+HEADER 10  -Pocket volume (convex hull)       : 4.5748
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1154
+ATOM    158   CA ASN B  25     -28.053  22.486  48.185  0.00  0.00           C 0
+ATOM    160    O ASN B  25     -29.194  23.720  49.883  0.00  0.00           O 0
+ATOM   1307   CA ARG B 168     -22.654  22.880  51.173  0.00  0.00           C 0
+ATOM    164  OD1 ASN B  25     -26.128  24.901  48.505  0.53  3.21           O 0
+ATOM   1311   CG ARG B 168     -23.178  23.844  53.494  0.00  0.00           C 0
+ATOM    186  OD1 ASP B  28     -28.018  21.200  54.674  0.52  7.50           O 0
+ATOM   1286   NZ LYS B 164     -28.484  16.889  55.102  0.00  0.00           N 1
+ATOM   1285   CE LYS B 164     -27.743  16.038  54.125  0.00  0.00           C 0
+ATOM   1316  NH2 ARG B 168     -21.231  20.633  56.015  0.00  5.47           N 0
+ATOM   1306    N ARG B 168     -22.752  21.606  50.468  0.00  0.00           N 0
+ATOM   1310   CB ARG B 168     -22.728  22.645  52.676  0.00  0.00           C 0
+ATOM   1313   NE ARG B 168     -22.467  22.519  55.516  0.00  0.00           N 0
+ATOM   1282   CB LYS B 164     -25.485  15.679  51.942  0.00  0.00           C 0
+ATOM   1284   CD LYS B 164     -27.655  16.701  52.744  0.00  0.00           C 0
+ATOM   1304  CG1 VAL B 167     -24.999  20.340  48.185  0.00  0.00           C 0
+ATOM   1281    O LYS B 164     -23.006  17.176  51.020  0.63  4.29           O 0
+ATOM    153    O VAL B  24     -29.463  20.608  49.571  0.00  0.00           O 0
+ATOM   1303   CB VAL B 167     -23.914  19.390  48.672  0.00  0.00           C 0
+TER
+END

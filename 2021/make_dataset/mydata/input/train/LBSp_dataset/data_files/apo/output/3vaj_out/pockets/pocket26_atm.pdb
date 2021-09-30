@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : 0.0697
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.3652
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5259
+HEADER 5  - Mean B-factor of pocket residues  : 0.4663
+HEADER 6  - Hydrophobicity Score              : -2.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 1.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 372.0438
+HEADER 10  -Pocket volume (convex hull)       : 3.9575
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+HETATM 2925   BR BRU E   5      31.741 -16.851  28.887  0.47  2.65          BR 0
+ATOM   2899  OP1 DU  E   4      34.609 -17.259  30.629  0.00  0.00           O 0
+ATOM   2880  OP1 DU  E   3      36.503 -14.072  33.023  0.75  5.36           O 0
+ATOM   1987   NZ LYS B 225      33.473 -17.185  33.107  0.33  1.09           N 0
+ATOM   2902  C5' DU  E   4      35.665 -16.336  27.960  0.00  0.00           C 0
+ATOM   2863  O5' DU  E   2      36.500 -10.511  32.274  0.41  2.14           O 0
+HETATM 2936  OP2 BRU E   5      33.885 -14.520  25.316  0.70  9.64           O 0
+ATOM   2903  C4' DU  E   4      36.200 -16.255  26.552  0.00  0.00           C 0
+ATOM   2864  C5' DU  E   2      37.847 -10.472  31.836  0.00  0.00           C 0
+HETATM 2924   O4 BRU E   5      28.870 -17.035  29.790  0.68  3.21           O 0
+ATOM   2034  NE2 HIS B 230      28.544 -13.758  28.203  0.00  0.00           N 0
+ATOM   2861  OP1 DU  E   2      34.338  -9.481  32.997  0.00  0.00           O 0
+ATOM   2849  O3' DU  E   1      35.813  -8.486  31.209  0.00  0.00           O 0
+ATOM   2854   O2 DU  E   1      33.695  -7.649  26.590  0.00  0.00           O 0
+ATOM   2033  CE1 HIS B 230      29.088 -13.675  27.002  0.00  0.00           C 0
+ATOM   2883  C5' DU  E   3      38.399 -15.027  31.137  0.00  0.00           C 0
+TER
+END

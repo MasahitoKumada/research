@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0412
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7718
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6190
+HEADER 5  - Mean B-factor of pocket residues  : 0.4613
+HEADER 6  - Hydrophobicity Score              : 5.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.2093
+HEADER 10  -Pocket volume (convex hull)       : 4.7328
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6316
+ATOM    476   CE LYS A  28     -17.120  -1.959  -5.998  0.00  0.00           C 0
+ATOM    475   CD LYS A  28     -16.674  -0.526  -6.260  0.00  0.00           C 0
+ATOM   1588  CD2 LEU A  90     -13.037  -0.240  -4.925  0.00  0.00           C 0
+ATOM    477   NZ LYS A  28     -17.526  -2.651  -7.243  0.00  0.00           N 0
+ATOM    433  CD1 PHE A  25     -12.809  -0.018 -11.451  0.00  0.00           C 0
+ATOM    463  OD1 ASP A  27     -17.532  -0.145 -10.758  0.46  1.07           O 0
+ATOM    464  OD2 ASP A  27     -18.450  -2.120 -10.877  0.59  6.43           O 0
+ATOM    432   CG PHE A  25     -12.955   1.046 -10.574  0.00  0.00           C 0
+ATOM   1587  CD1 LEU A  90     -12.881   1.530  -6.646  0.00  0.00           C 0
+ATOM    400  OE2 GLU A  23     -13.671  -2.621 -14.207  0.00  0.00           O 0
+ATOM    435  CE1 PHE A  25     -11.668  -0.774 -11.468  0.00  0.00           C 0
+ATOM     15  ND2 ASN A   3     -16.041  -1.032 -13.534  0.44  4.37           N 0
+ATOM    434  CD2 PHE A  25     -11.923   1.322  -9.708  0.00  0.00           C 0
+ATOM    436  CE2 PHE A  25     -10.755   0.566  -9.727  0.00  0.00           C 0
+ATOM    437   CZ PHE A  25     -10.646  -0.491 -10.588  0.00  0.00           C 0
+ATOM    399  OE1 GLU A  23     -11.636  -3.282 -14.667  0.75  5.36           O 0
+ATOM   2206   NZ LYS A 131      -8.541  -5.252 -12.177  0.00  0.00           N 0
+TER
+END

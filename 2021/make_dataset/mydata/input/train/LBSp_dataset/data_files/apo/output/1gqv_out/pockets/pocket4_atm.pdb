@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.3387
+HEADER 1  - Drug Score                        : 0.0059
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7066
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4307
+HEADER 5  - Mean B-factor of pocket residues  : 0.2072
+HEADER 6  - Hydrophobicity Score              : 47.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.5587
+HEADER 10  -Pocket volume (convex hull)       : 9.7519
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 4.2857
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM   2041    O VAL A 128      17.246  16.104  14.291  0.72  3.21           O 0
+ATOM    278  NE2 HIS A  15      16.144  11.266   9.645  0.64  3.28           N 0
+ATOM    276  CD2 HIS A  15      17.142  10.691  10.407  0.00  0.00           C 0
+ATOM    260  NE2 GLN A  14      13.099  11.651  11.838  0.58  8.75           N 0
+ATOM    204   CA PHE A  11      17.312  10.870  14.802  0.00  0.00           C 0
+ATOM    209  CD1 PHE A  11      19.585  12.377  12.724  0.00  0.00           C 0
+ATOM    187  NE1 TRP A  10      11.051  12.200  14.424  0.55  1.09           N 0
+ATOM    140  CZ3 TRP A   7      12.331  17.278  16.097  0.00  0.00           C 0
+ATOM      1    N MET A   0       7.279  14.427  12.492  0.21  9.84           N 0
+ATOM      3    C MET A   0       7.511  14.026  14.845  0.00  0.00           C 0
+ATOM      2   CA MET A   0       6.798  14.896  13.807  0.00  0.00           C 0
+ATOM     19    N LYS A   1       7.901  14.572  15.988  0.00  0.00           N 0
+ATOM   2064  CD2AHIS A 129      15.716  17.303   9.902  0.00  0.00           C 0
+ATOM    141  CH2 TRP A   7      11.619  18.379  16.565  0.00  0.00           C 0
+ATOM    185  CD1 TRP A  10      12.104  12.570  15.231  0.00  0.00           C 0
+ATOM    203    N PHE A  11      16.365  11.048  15.915  0.00  0.00           N 0
+ATOM   2055   CA HIS A 129      18.328  16.157  11.716  0.00  0.00           C 0
+ATOM    138  CE3 TRP A   7      13.533  16.880  16.689  0.00  0.00           C 0
+TER
+END
