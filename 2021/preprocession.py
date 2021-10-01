@@ -13,7 +13,7 @@ IN_PATH, IN_TRAIN_FILE = "./data", "cryptic_pocket_apo_increase_train.csv"
 IN_PATH, IN_TEST_FILE = "./data", "cryptic_pocket_apo_increase_test.csv"
 
 # 出力ディレクトリ
-OUT_PATH = "./input_apo"
+OUT_PATH = "./input/apo"
 
 
 
