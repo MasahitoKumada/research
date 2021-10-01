@@ -52,6 +52,6 @@ def fit_svm(X, y, cv, params: dict=None):
         print(f"Fold {i+1} F1: {f1_score(y_valid, pred_i) * 100}")
 
     score = f1_score(y, oof_pred) * 100
-    print('FINISHED | Whole SVM F1: {:.4f}'.format(score))
+    print('FINISHED | SVM Whole F1: {:.4f}'.format(score))
     print()
     return oof_pred, models

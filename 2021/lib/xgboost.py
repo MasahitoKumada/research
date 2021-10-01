@@ -42,18 +42,17 @@ def fit_xgb(X, y, cv, params: dict=None, verbose: int=10):
         clf = xgb.XGBClassifier(**params)
 
         with timer(prefix='fit fold={} '.format(i + 1)):
-             clf.fit(x_train, y_train,
-             eval_set=[(x_valid, y_valid)],
-             early_stopping_rounds=verbose, verbose=verbose)
+            clf.fit(x_train, y_train,
+            eval_set=[(x_valid, y_valid)],
+            early_stopping_rounds=verbose, verbose=verbose)
 
         pred_i = clf.predict(x_valid)
-
         pred_i = np.where(pred_i < 0, 0, pred_i)
         oof_pred[idx_valid] = pred_i
         models.append(clf)
 
         print(f"Fold {i+1} F1: {f1_score(y_valid, pred_i) * 100}")
 
-    print('FINISHED | Whole XGBOOS F1: {:.4f}'.format(f1_score(y, oof_pred) * 100))
+    print('FINISHED | Whole XGBOOST F1: {:.4f}'.format(f1_score(y, oof_pred) * 100))
     print()
     return oof_pred, models

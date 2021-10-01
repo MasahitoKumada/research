@@ -167,3 +167,4 @@ class Shap:
         pylab.tight_layout()
         plt.savefig(out_path)
         plt.close()
+    

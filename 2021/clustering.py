@@ -44,9 +44,9 @@ def main():
 
 
     features_df = dimensional_compression(whole_df, 'pca', is_annotate=False)
-    # features_df = dimensional_compression(whole_df, 'tsne', is_annotate=False)
-    # features_df = dimensional_compression(whole_df, 'svd', is_annotate=False)
-    # features_df = dimensional_compression(whole_df, 'umap', is_annotate=True)
+    features_df = dimensional_compression(whole_df, 'tsne', is_annotate=False)
+    features_df = dimensional_compression(whole_df, 'svd', is_annotate=False)
+    features_df = dimensional_compression(whole_df, 'umap', is_annotate=True)
 
 
 def dimensional_compression(input_df, select_method, is_annotate=False):
