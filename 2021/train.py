@@ -29,14 +29,19 @@ warnings.resetwarnings()
 warnings.filterwarnings('ignore')
 
 # 入出力
-INPUT_DIR = "./input"
-TRAIN_FILE, TEST_FILE = "train.csv", "test.csv"
+INPUT_DIR = "./input/apo"
+TRAIN_FILE, TEST_FILE = "train_add_features.csv", "test_add_features.csv"
 OUTPUT_DIR = "./output/apo"
 OUTPUT_FILENAME = "predict.csv"
 
-# k-cross validation
-FOLD_TYPE = "k-stratified" # 'k-ford' or 'k-stratified'
-N_SPLITS = 4
+
+# Hold out or K-fold out
+IS_Kfold_Out = False
+if IS_Kfold_Out:
+    # k-cross validation
+    FOLD_TYPE = "k-fold" # 'k-fold' or 'k-stratified'
+    N_SPLITS = 5
+
 
 # モデルの特徴重要度の可視化
 XGB_FEATURE_FIG, XGB_FEATURE_FILENAME = "feature_importance_xgb.png", "feature_xgb.csv"
@@ -64,16 +69,22 @@ def read_csv(dir, filename):
     return pd.read_csv(file_path)
 
 
-def split_train_data_first(df):
-    y = df[df.columns[0]].values
-    X = df[df.columns[1:]]
-    return y, X
+def split_dataset(df):
+
+    select_clms = [ 
+        'Score', 'Druggability Score', 'Number of Alpha Spheres',
+        'Total SASA', 'Polar SASA', 'Apolar SASA', 'Volume',
+        'Mean local hydrophobic density', 'Mean alpha sphere radius',
+        'Mean alp. sph. solvent access', 'Apolar alpha sphere proportion',
+        'Hydrophobicity score', 'Volume score', 'Polarity score',
+        'Charge score', 'Proportion of polar atoms', 'Alpha sphere density',
+        'Cent. of mass - Alpha Sphere max dist', 'Flexibility',
+        'ALA', 'ARG', 'ASN','ASP','CYS','GLN','GLU','GLY',
+        'ILE', 'LEU', 'LYS','MET','PHE','PRO','SER','THR',
+        'TRP', 'TYR', 'VAL', 'HIS', 'ASX', 'GLX', 'UNK' ]
 
 
-def split_train_data_last(df):
-    X = df[df.columns[:-1]]
-    y = df[df.columns[-1]].values
-    return X, y
+    return df[select_clms], df['cryptic pocket flag'], df['PDB Name']
 
 
 def select_fold_type(fold_type):
@@ -88,22 +99,44 @@ def select_fold_type(fold_type):
     return fold
 
 
+
+def make_confusion_matrix(y_test, y_pred, filename):
+    #混合行列作成
+    
+    ax = plt.subplot()
+    plt.tight_layout()
+    cm = confusion_matrix(y_test, y_pred)
+    sns.set(font_scale=2.5) # Adjust to fit
+    sns.heatmap(cm, annot=True, ax=ax, cmap='Blues')
+    # 軸名
+    label_font = {'size':'18'}  # Adjust to fit
+    ax.set_xlabel('pred', fontdict=label_font)
+    ax.set_ylabel('True', fontdict=label_font)
+    # title
+    title_font = {'size':'21'}  # Adjust to fit
+    ax.set_title('Confusion Matrix', fontdict=title_font)
+    # ticks
+    ax.tick_params(axis='both', which='major', labelsize=16)  # Adjust to fit
+    # save figure
+    plt.savefig(os.path.join(OUTPUT_DIR, filename))
+    # plt.close()
+
+
 def main():
 
     # read input file
     # for train
     train_df = read_csv(INPUT_DIR, TRAIN_FILE)
-    X, y = split_train_data_last(train_df)
-    X_train_pdb_name, X = split_train_data_first(X)
+    X, y, X_train_pdb_name= split_dataset(train_df)
 
     # for test
     test_df = read_csv(INPUT_DIR, TEST_FILE)
-    X_test, y_test = split_train_data_last(test_df)
-    X_test_pdb_name, X_test = split_train_data_first(X_test)
+    X_test, y_test, X_test_pdb_name= split_dataset(test_df)
 
     # select k-fold type
-    fold = select_fold_type(FOLD_TYPE)
-    cv = list(fold.split(X, y)) # もともとが generator なため明示的に list に変換する
+    if IS_Kfold_Out:
+        fold = select_fold_type(FOLD_TYPE)
+        cv = list(fold.split(X, y)) # もともとが generator なため明示的に list に変換する
 
     # train param setting
     hyper_params = json.load(open('./lib/hyper_param.json', 'r'))
@@ -116,77 +149,147 @@ def main():
     xgb_X = X.copy()
     # 特徴重要度の観察から特徴量削除
     xgb_X_droped = xgb_X.drop(columns=XGB_COLUMNS_NAME)
+    xgb_models = []
+    if IS_Kfold_Out:
+        # Grid Search
+        xgb_gs_cv = GridSearchCV(
+                            xgb.XGBClassifier(), # 識別器
+                            xgb_params, # 最適化したいパラメータセット 
+                            cv=cv, # 交差検定の回数
+                            scoring='neg_mean_squared_error',
+                            verbose=1,
+                            return_train_score = True
+                        )
+        xgb_gs_cv.fit(xgb_X_droped, y)
+        xgb_best_param = xgb_gs_cv.best_params_
+        
+        print('XgBoost Best parameter: {}'.format(xgb_best_param))
 
-    # Grid Search
-    xgb_gs_cv = GridSearchCV(
-                        xgb.XGBClassifier(), # 識別器
-                        xgb_params, # 最適化したいパラメータセット 
-                        cv=cv, # 交差検定の回数
-                        scoring='neg_mean_squared_error',
-                        verbose=1,
-                        return_train_score = True
-                    )
-    xgb_gs_cv.fit(xgb_X_droped, y)
-    xgb_best_param = xgb_gs_cv.best_params_
-    
-    print('XgBoost Best parameter: {}'.format(xgb_best_param))
+        xgb_oof, xgb_models = fit_xgb(xgb_X_droped.values, y, cv, params=xgb_best_param)
+    else:
+        # Grid Search
+        xgb_gs_cv = GridSearchCV(
+                            xgb.XGBClassifier(), # 識別器
+                            xgb_params, # 最適化したいパラメータセット 
+                            cv=2, # 交差検定の回数
+                            scoring='neg_mean_squared_error',
+                            verbose=1,
+                            return_train_score = True
+                        )
+        xgb_gs_cv.fit(xgb_X_droped, y)
+        xgb_best_param = xgb_gs_cv.best_params_
 
-    xgb_oof, xgb_models = fit_xgb(xgb_X_droped.values, y, cv, params=xgb_best_param)
+        print('XgBoost Best parameter: {}'.format(xgb_best_param))
+
+        xgb_model = xgb.XGBClassifier(**xgb_best_param)
+        xgb_model.fit(xgb_X_droped, y)
+        xgb_models.append(xgb_model)
+
     
     # lightgbm
     lgbm_X = X.copy()
     # 特徴重要度の観察から特徴量削除
     lgbm_X_droped = lgbm_X.drop(columns=LGBM_COLUMNS_NAME)
+    lgbm_models = []
 
-    # Grid Search
-    lgbm_gs_cv = GridSearchCV(
-                        lgbm.LGBMClassifier(), # 識別器
-                        lgbm_params, # 最適化したいパラメータセット 
-                        cv=cv, # 交差検定の回数
-                        scoring='neg_mean_squared_error',
-                        verbose=1,
-                        return_train_score = True
-                    )
-    lgbm_gs_cv.fit(lgbm_X_droped, y)
-    lgbm_best_param = lgbm_gs_cv.best_params_
-    
-    print('LightGBM Best parameter: {}'.format(lgbm_best_param))
+    if IS_Kfold_Out:
+        # Grid Search
+        lgbm_gs_cv = GridSearchCV(
+                            lgbm.LGBMClassifier(), # 識別器
+                            lgbm_params, # 最適化したいパラメータセット 
+                            cv=cv, # 交差検定の回数
+                            scoring='neg_mean_squared_error',
+                            verbose=1,
+                            return_train_score = True
+                        )
+        lgbm_gs_cv.fit(lgbm_X_droped, y)
+        lgbm_best_param = lgbm_gs_cv.best_params_
+        
+        print('LightGBM Best parameter: {}'.format(lgbm_best_param))
 
-    lgbm_oof, lgbm_models = fit_lgbm(lgbm_X_droped.values, y, cv, params=lgbm_best_param)
+        lgbm_oof, lgbm_models = fit_lgbm(lgbm_X_droped.values, y, cv, params=lgbm_best_param)
+
+    else:
+
+        # Grid Search
+        lgbm_gs_cv = GridSearchCV(
+                            lgbm.LGBMClassifier(), # 識別器
+                            lgbm_params, # 最適化したいパラメータセット
+                            cv=2, # 交差検定の回数
+                            scoring='neg_mean_squared_error',
+                            verbose=1,
+                            return_train_score = True
+                        )
+        lgbm_gs_cv.fit(lgbm_X_droped, y)
+        lgbm_best_param = lgbm_gs_cv.best_params_
+
+        print('LightGBM Best parameter: {}'.format(lgbm_best_param))
+
+
+        lgbm_model = lgbm.LGBMClassifier(**lgbm_best_param)
+        lgbm_model.fit(lgbm_X_droped, y)
+        lgbm_models.append(lgbm_model)
+
 
     # svm
     # 標準化 & 特徴重要度の観察から特徴量削除
     stdsc = StandardScaler().fit(X.copy())
     svm_X_droped = pd.DataFrame(stdsc.transform(X.copy()), columns=X.copy().columns).drop(columns=SVM_COLUMNS_NAME)
+    svm_models = []
 
-    # Grid Search
-    svm_gs_cv = GridSearchCV(
-                        SVC(), # 識別器
-                        svm_params, # 最適化したいパラメータセット 
-                        cv=cv, # 交差検定の回数
-                        scoring='neg_mean_squared_error',
-                        verbose=1,
-                        return_train_score = True
-                    )
-    svm_gs_cv.fit(svm_X_droped, y)
-    svm_best_param = svm_gs_cv.best_params_
+    if IS_Kfold_Out:
+        # Grid Search
+        svm_gs_cv = GridSearchCV(
+                            SVC(), # 識別器
+                            svm_params, # 最適化したいパラメータセット 
+                            cv=cv, # 交差検定の回数
+                            scoring='neg_mean_squared_error',
+                            verbose=1,
+                            return_train_score = True
+                        )
+        svm_gs_cv.fit(svm_X_droped, y)
+        svm_best_param = svm_gs_cv.best_params_
 
-    print('Support Vector Machine Best parameter: {}'.format(svm_best_param))
+        print('Support Vector Machine Best parameter: {}'.format(svm_best_param))
 
-    svm_oof, svm_models = fit_svm(svm_X_droped.values, y, cv, params=svm_best_param)
+        svm_oof, svm_models = fit_svm(svm_X_droped.values, y, cv, params=svm_best_param)
+        
+    else:
+
+        # Grid Search
+        svm_gs_cv = GridSearchCV(
+                            SVC(), # 識別器
+                            svm_params, # 最適化したいパラメータセット
+                            cv=2, # 交差検定の回数 
+                            scoring='neg_mean_squared_error',
+                            verbose=1,
+                            return_train_score = True
+                        )
+        svm_gs_cv.fit(svm_X_droped, y)
+        svm_best_param = svm_gs_cv.best_params_
+
+
+        svm_model = SVC(**svm_best_param, probability=True)
+        svm_model.fit(svm_X_droped, y)
+        svm_models.append(svm_model)
+
+
 
     ## for test
     ## for xgb
     df_test_droped_xgb = X_test.copy().drop(columns=XGB_COLUMNS_NAME)
-    pred = np.array([model.predict(df_test_droped_xgb.values) for model in xgb_models])
-    xgb_pred = np.mean(pred, axis=0)
-    # print(xgb_pred)
+
+    if IS_Kfold_Out:
+        pred = np.array([model.predict(df_test_droped_xgb.values) for model in xgb_models])
+        xgb_pred = np.mean(pred, axis=0)
+        xgb_pred_proba = np.mean(np.array([model.predict_proba(df_test_droped_xgb.values) for model in xgb_models]), axis=0)
+    else:
+        xgb_pred = xgb_model.predict(df_test_droped_xgb.values)
+        xgb_pred_proba = xgb_model.predict_proba(df_test_droped_xgb.values)
+
 
     # 特徴重要度の確認
     fig, ax = visualize_importance(xgb_models, df_test_droped_xgb, os.path.join(OUTPUT_DIR, XGB_FEATURE_FIG) , os.path.join(OUTPUT_DIR, XGB_FEATURE_FILENAME))
-
-    # probaability
-    xgb_pred_proba = np.mean(np.array([model.predict_proba(df_test_droped_xgb.values) for model in xgb_models]), axis=0)
 
     # shap for xgb
     if IS_XGB_SHAP:
@@ -199,10 +302,16 @@ def main():
         shap.dependence_plot(ind='Mean alp. sph. solvent access', interaction_index='Polarity score', out_path=os.path.join(OUTPUT_DIR, './shap/xgb/shap_dependence_xgb.png'))
         shap.force_plot(xgb_pred, y_test, os.path.join(OUTPUT_DIR, './shap/xgb/shap_force_miss_xgb.png'))
 
+
     ## for lgbm
     df_test_droped_lgbm = X_test.copy().drop(columns=LGBM_COLUMNS_NAME)
-    pred = np.array([model.predict(df_test_droped_lgbm.values) for model in lgbm_models])
-    lgbm_pred = np.mean(pred, axis=0)
+    if IS_Kfold_Out:
+        pred = np.array([model.predict(df_test_droped_lgbm.values) for model in lgbm_models])
+        lgbm_pred = np.mean(pred, axis=0)
+        lgbm_pred_proba = np.mean(np.array([model.predict_proba(df_test_droped_lgbm.values) for model in lgbm_models]), axis=0)
+    else:
+        lgbm_pred = lgbm_model.predict(df_test_droped_lgbm.values)
+        lgbm_pred_proba = lgbm_model.predict_proba(df_test_droped_lgbm.values)
 
     # probaability
     lgbm_pred_proba = np.mean(np.array([model.predict_proba(df_test_droped_lgbm.values) for model in lgbm_models]), axis=0)
@@ -224,11 +333,13 @@ def main():
     # for svm
     # 標準化 & 特徴重要度の観察から特徴量削除
     df_test_droped_svm = pd.DataFrame(stdsc.transform(X_test.copy()), columns=X_test.copy().columns).drop(columns=SVM_COLUMNS_NAME)
-    pred = np.array([model.predict(df_test_droped_svm.values) for model in svm_models])
-    svm_pred = np.mean(pred, axis=0)
-
-    # probaability
-    svm_pred_proba = np.mean(np.array([model.predict_proba(df_test_droped_svm.values) for model in svm_models]), axis=0)
+    if IS_Kfold_Out:
+        pred = np.array([model.predict(df_test_droped_svm.values) for model in svm_models])
+        svm_pred = np.mean(pred, axis=0)
+        svm_pred_proba = np.mean(np.array([model.predict_proba(df_test_droped_svm.values) for model in svm_models]), axis=0)
+    else:
+        svm_pred = svm_model.predict(df_test_droped_svm.values)
+        svm_pred_proba = svm_model.predict_proba(df_test_droped_svm.values)
 
     # shap for svm
     if IS_SVM_SHAP:
@@ -249,7 +360,7 @@ def main():
     y_pred = np.where(y_pred < 0, 0, np.round(y_pred).astype(int))
     score = f1_score(y_test, y_pred) * 100
 
-    print('Y true: ', y_test)
+    print('Y true: ', y_test.tolist())
     print('XgBoost predict: ', xgb_pred)
     print('LightGBM predict: ', lgbm_pred)
     print('SVM predict: ', svm_pred)
@@ -286,10 +397,21 @@ def main():
     plt.savefig(os.path.join(OUTPUT_DIR, CONFUSION_MATRIX_FILENAME))
     plt.close()
 
+
+    #混合行列作成
+    make_confusion_matrix(y_test, xgb_pred, CONFUSION_MATRIX_FILENAME + 'xgb')
+    make_confusion_matrix(y_test, lgbm_pred, CONFUSION_MATRIX_FILENAME + 'lgbm')
+    make_confusion_matrix(y_test, svm_pred, CONFUSION_MATRIX_FILENAME + 'svm')
+    make_confusion_matrix(y_test, y_pred, CONFUSION_MATRIX_FILENAME + 'ensamble')
+
+
+
     # 予測がまともに動いているかどうかチェック
-    check_predict(xgb_pred, xgb_oof, os.path.join(OUTPUT_DIR, "check_predict_xgb_.png"))
-    check_predict(lgbm_pred, lgbm_oof, os.path.join(OUTPUT_DIR, "check_predict_lgbm.png"))
-    check_predict(svm_pred, svm_oof, os.path.join(OUTPUT_DIR, "check_predict_svm.png"))
+    if IS_Kfold_Out:
+        # 予測がまともに動いているかどうかチェック
+        check_predict(xgb_pred, xgb_oof, os.path.join(OUTPUT_DIR, "check_predict_xgb_.png"))
+        check_predict(lgbm_pred, lgbm_oof, os.path.join(OUTPUT_DIR, "check_predict_lgbm.png"))
+        check_predict(svm_pred, svm_oof, os.path.join(OUTPUT_DIR, "check_predict_svm.png"))
 
 
 
