@@ -186,7 +186,7 @@ def main():
 
         study = param_tuning('LightGBM', lgbm_X_droped, y, X_test, y_test, n_trials=100)
         lgbm_best_param_v1 = study.best_params
-        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA+'/lgbm'), 'xgb')
+        vizualize_tuning_result(study, os.path.join(OUTPUT_DIR, OUTPUT_OPTUNA+'/lgbm'), 'lgbm')
         print('--------------best parameter------------------')
         print('lgbm_best_param_v1: {}'.format(lgbm_best_param_v1))
         print('--------------Predict test data using best parameter------------------')
